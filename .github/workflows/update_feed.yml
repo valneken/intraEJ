@@ -1,0 +1,31 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Run every 3 hours
+
+jobs:
+  update_feed:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests
+
+    - name: Run update script
+      run: |
+        python update_feed.py
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add rss_data.json
+        git commit -m "Update RSS feed"
+        git push
