@@ -1,6 +1,66 @@
 {
-  "timestamp": "2023-12-04 18:11:26",
+  "timestamp": "2023-12-05 00:40:21",
   "entries": [
+    {
+      "title": "New National Member for Portugal at Eurojust takes up duties",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New National Member for Portugal at Eurojust takes up duties"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-national-member-portugal-eurojust-takes-duties"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-national-member-portugal-eurojust-takes-duties",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/jose-luis-ferreira-trindade.jpg",
+      "field_list_image_1": "Mr Jos\u00e9 Luis Ferreira Trindade",
+      "summary": "Mr Jos\u00e9 Luis Ferreira TrindadeMr Jos\u00e9 Luis Ferreira Trindade has been appointed Eurojust National Member for Portugal as of 8 November 2023. He replaces Mr Ant\u00f3nio Cluny who has been the National Member since 2014. Mr Ferreira Trindade has been serving as Deputy National Member for Portugal since September 2020. Prior to that, he started working at Eurojust in July 2016 as Assistant to the National Member.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Jos\u00e9 Luis Ferreira TrindadeMr Jos\u00e9 Luis Ferreira Trindade has been appointed Eurojust National Member for Portugal as of 8 November 2023. He replaces Mr Ant\u00f3nio Cluny who has been the National Member since 2014. Mr Ferreira Trindade has been serving as Deputy National Member for Portugal since September 2020. Prior to that, he started working at Eurojust in July 2016 as Assistant to the National Member."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his new role as National Member, Mr Ferreira Trindade said: I am honoured to be appointed as National Member for Portugal at Eurojust. During the seven years that I have been part of the Eurojust family, I have seen the Agency play an increasingly important role in combating cross-border crime. In my new role as National Member, I look forward to continue working closely with all the other Member States to make Europe a safer place for everyone.Mr Ferreira Trindade has worked as a Public Prosecutor since 1990 at different levels of the Public Prosecution Service in Portugal. In\u2026"
+        }
+      ],
+      "published": "Mon, 04 Dec 2023 13:00:00 +0100",
+      "published_parsed": [
+        2023,
+        12,
+        4,
+        12,
+        0,
+        0,
+        0,
+        338,
+        0
+      ],
+      "id": "8e7ae11e-402a-4a0f-a7a0-633de7f75142",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "SIRIUS Annual Conference 2023",
       "title_detail": {
@@ -3323,66 +3383,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and US Assistant Attorney General Kenneth A. Polite, Jr.During the launch event, European Commissioner for Justice Didier Reynders said: With the set-up of the ICPA, the European Union reiterates its commitment to ensuring full accountability for the international crimes committed during Russia\u2019s war against Ukraine, including the crime of aggression. The set-up of\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteLe linn an tseolta, d\u00fairt an Coimisin\u00e9ir Eorpach um Cheartas, Didier Reynders: Le bun\u00fa an ICPA, athdhearbha\u00edonn an tAontas Eorpach go bhfuil s\u00e9 tiomanta do chuntasacht ioml\u00e1n a \u00e1irithi\u00fa as na coireanna idirn\u00e1isi\u00fanta a rinneadh le linn chogadh na R\u00faise i gcoinne na h\u00dacr\u00e1ine, lena n-\u00e1ir\u00edtear coir an fhogha. Is comhartha\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
