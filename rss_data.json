@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-01-12 06:11:53",
+  "timestamp": "2024-01-12 12:15:21",
   "entries": [
+    {
+      "title": "Eurojust and Panama sign Working Arrangement to step up cooperation against organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Panama sign Working Arrangement to step up cooperation against organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-panama-sign-working-arrangement-step-cooperation-against-organised-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-panama-sign-working-arrangement-step-cooperation-against-organised-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/ni-panama-agreement.jpg",
+      "field_list_image_1": "Signing of the working arrangement with Panama agreement",
+      "summary": "Eurojust and the Attorney General of the Republic of Panama, Mr Javier E. Caraballo Salazar, have signed a Working Arrangement today to enable structured and closer cooperation in the fight against organised crime. The agreement formalises Eurojust\u2019s existing Contact Points in Panama and ensures closer communication to speed up the execution of judicial cooperation requests on both sides. Panama is the first Latin American country to sign a Working Arrangement with the Agency.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Attorney General of the Republic of Panama, Mr Javier E. Caraballo Salazar, have signed a Working Arrangement today to enable structured and closer cooperation in the fight against organised crime. The agreement formalises Eurojust\u2019s existing Contact Points in Panama and ensures closer communication to speed up the execution of judicial cooperation requests on both sides. Panama is the first Latin American country to sign a Working Arrangement with the Agency."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Ladislav Hamran said: With Panama\u2019s rich tradition as a bridge maker between continents in mind, I am delighted to sign into effect the Working Arrangement that will bring closer the European and Panamanian communities of prosecutors and judges. We share a similar criminal threat picture on both sides of the Atlantic as well as the resolve to intensify our joint judicial response. Eurojust therefore looks forward to engaging with colleagues in Panama; for instance, in the fight against organised crime and drug trafficking.Mr Javier E. Caraballo Salazar, Attorney General\u2026"
+        }
+      ],
+      "published": "Fri, 12 Jan 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        1,
+        12,
+        12,
+        0,
+        0,
+        4,
+        12,
+        0
+      ],
+      "id": "7a85c607-2b5d-4456-8e57-68cc8c7dbfff",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Tackling major organised drug crime top priority for Belgian EU Presidency",
       "title_detail": {
@@ -860,76 +920,6 @@
       ]
     },
     {
-      "title": "Eurojust welcomes U.S. financial support to the International Centre for the Crime of Aggression",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust welcomes U.S. financial support to the International Centre for the Crime of Aggression"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-welcomes-us-financial-support-international-centre-crime-aggression"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-welcomes-us-financial-support-international-centre-crime-aggression",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-ring-name.png",
-      "field_list_image_1": "ICPA logo",
-      "summary": "The U.S. Department of State has announced that it will provide USD 1 million to the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA), established at Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The U.S. Department of State has announced that it will provide USD 1 million to the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA), established at Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust welcomes this financial contribution, which will support the ICPA\u2019s ongoing work to build the strongest possible cases for future prosecution of the crime of aggression committed in Ukraine.The contribution will be administered through the European Commission\u2019s Service for Foreign Policy Instruments, which provides Eurojust with an initial budget of EUR 8.3 million for the ICPA until December 2024.European Commissioner for Justice, Didier Reynders stated: The financial contribution from the U.S. to the ICPA underlines the strength of the transatlantic cooperation and strong U.S.\u2026"
-        }
-      ],
-      "published": "Wed, 15 Nov 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        11,
-        15,
-        12,
-        0,
-        0,
-        2,
-        319,
-        0
-      ],
-      "id": "02a42e03-e3c2-4bc4-8edd-2046a4378a1f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Takedown of Belgian-Greek network smuggling migrants with fake documents by air, eleven arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1035,61 +1025,71 @@
       ]
     },
     {
-      "title": "Eurojust and Nigerian judicial authorities sign Working Arrangement to boost cooperation against organised crime",
+      "title": "Eurojust welcomes U.S. financial support to the International Centre for the Crime of Aggression",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Nigerian judicial authorities sign Working Arrangement to boost cooperation against organised crime"
+        "value": "Eurojust welcomes U.S. financial support to the International Centre for the Crime of Aggression"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-nigerian-judicial-authorities-sign-working-arrangement-boost-cooperation-against"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-welcomes-us-financial-support-international-centre-crime-aggression"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-nigerian-judicial-authorities-sign-working-arrangement-boost-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/lateef-olasunkanmi-fagbemi-and-ladislav-hamran.jpg",
-      "field_list_image_1": "Mr Lateef Olasunkanmi Fagbemi and Mr Ladislav Hamran",
-      "summary": "Eurojust and the Attorney General of Nigeria, Mr Lateef Olasunkanmi Fagbemi, SAN, signed on 9 November a Working Arrangement to enable structured and closer cooperation in the fight against organised crime groups (OCGs). This paves the way for the establishment of a Contact Point for Eurojust in Nigeria and closer communication for the swifter execution of requests for judicial cooperation on both sides. Nigeria is the first sub-Saharan African country to sign a Working Arrangement with the Agency.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-welcomes-us-financial-support-international-centre-crime-aggression",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-ring-name.png",
+      "field_list_image_1": "ICPA logo",
+      "summary": "The U.S. Department of State has announced that it will provide USD 1 million to the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA), established at Eurojust.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Attorney General of Nigeria, Mr Lateef Olasunkanmi Fagbemi, SAN, signed on 9 November a Working Arrangement to enable structured and closer cooperation in the fight against organised crime groups (OCGs). This paves the way for the establishment of a Contact Point for Eurojust in Nigeria and closer communication for the swifter execution of requests for judicial cooperation on both sides. Nigeria is the first sub-Saharan African country to sign a Working Arrangement with the Agency."
+        "value": "The U.S. Department of State has announced that it will provide USD 1 million to the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA), established at Eurojust."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Mr Lateef Olasunkanmi Fagbemi, SAN, and\u00a0Mr Ladislav HamranThe signing took place during the two-day Conference on Transnational Organised Crime affecting West Africa and Europe at the premises of Eurojust in The Hague. The conference, which brings together judicial and law enforcement authorities from eight West African countries and most of the national authorities represented at Eurojust, is being organised by the Agency in cooperation with the United Nations Office on Drugs and Crime (UNODC) and the Siracusa International Institute for Criminal Justice and Human Rights.The President of\u2026"
+          "value": "Eurojust welcomes this financial contribution, which will support the ICPA\u2019s ongoing work to build the strongest possible cases for future prosecution of the crime of aggression committed in Ukraine.The contribution will be administered through the European Commission\u2019s Service for Foreign Policy Instruments, which provides Eurojust with an initial budget of EUR 8.3 million for the ICPA until December 2024.European Commissioner for Justice, Didier Reynders stated: The financial contribution from the U.S. to the ICPA underlines the strength of the transatlantic cooperation and strong U.S.\u2026"
         }
       ],
-      "published": "Fri, 10 Nov 2023 13:00:00 +0100",
+      "published": "Wed, 15 Nov 2023 13:00:00 +0100",
       "published_parsed": [
         2023,
         11,
-        10,
+        15,
         12,
         0,
         0,
-        4,
-        314,
+        2,
+        319,
         0
       ],
-      "id": "86399385-c6c1-48a4-a3ad-7a6b982c6be3",
+      "id": "02a42e03-e3c2-4bc4-8edd-2046a4378a1f",
       "guidislink": false,
       "tags": [
         {
-          "term": "Third countries",
-          "scheme": "Partner",
+          "term": "Core international crimes",
+          "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "UNODC",
-          "scheme": "Partner",
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -1184,6 +1184,66 @@
         },
         {
           "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and Nigerian judicial authorities sign Working Arrangement to boost cooperation against organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Nigerian judicial authorities sign Working Arrangement to boost cooperation against organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-nigerian-judicial-authorities-sign-working-arrangement-boost-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-nigerian-judicial-authorities-sign-working-arrangement-boost-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/lateef-olasunkanmi-fagbemi-and-ladislav-hamran.jpg",
+      "field_list_image_1": "Mr Lateef Olasunkanmi Fagbemi and Mr Ladislav Hamran",
+      "summary": "Eurojust and the Attorney General of Nigeria, Mr Lateef Olasunkanmi Fagbemi, SAN, signed on 9 November a Working Arrangement to enable structured and closer cooperation in the fight against organised crime groups (OCGs). This paves the way for the establishment of a Contact Point for Eurojust in Nigeria and closer communication for the swifter execution of requests for judicial cooperation on both sides. Nigeria is the first sub-Saharan African country to sign a Working Arrangement with the Agency.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Attorney General of Nigeria, Mr Lateef Olasunkanmi Fagbemi, SAN, signed on 9 November a Working Arrangement to enable structured and closer cooperation in the fight against organised crime groups (OCGs). This paves the way for the establishment of a Contact Point for Eurojust in Nigeria and closer communication for the swifter execution of requests for judicial cooperation on both sides. Nigeria is the first sub-Saharan African country to sign a Working Arrangement with the Agency."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Mr Lateef Olasunkanmi Fagbemi, SAN, and\u00a0Mr Ladislav HamranThe signing took place during the two-day Conference on Transnational Organised Crime affecting West Africa and Europe at the premises of Eurojust in The Hague. The conference, which brings together judicial and law enforcement authorities from eight West African countries and most of the national authorities represented at Eurojust, is being organised by the Agency in cooperation with the United Nations Office on Drugs and Crime (UNODC) and the Siracusa International Institute for Criminal Justice and Human Rights.The President of\u2026"
+        }
+      ],
+      "published": "Fri, 10 Nov 2023 13:00:00 +0100",
+      "published_parsed": [
+        2023,
+        11,
+        10,
+        12,
+        0,
+        0,
+        4,
+        314,
+        0
+      ],
+      "id": "86399385-c6c1-48a4-a3ad-7a6b982c6be3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "UNODC",
           "scheme": "Partner",
           "label": null
         }
@@ -1513,6 +1573,66 @@
       "guidislink": false
     },
     {
+      "title": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/mutual-legal-assistance-meeting-eurojust-uk-20231027.jpg",
+      "field_list_image_1": "Group photo",
+      "summary": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The legal system in the UK is significantly different from that of most legal systems in the EU and other countries, and it is therefore crucial to know and understand the differences to enable smooth cooperation. Furthermore, since 1 January 2021, a new legal regime between the EU and UK, the Trade and Cooperation Agreement, became applicable. This implied some relevant changes in different fields of judicial cooperation in criminal matters, such as mutual legal assistance (MLA). In addition, the MLA form, which was created in accordance with Article 635 of the TCA, became mandatory as of 1\u2026"
+        }
+      ],
+      "published": "Fri, 27 Oct 2023 14:00:00 +0200",
+      "published_parsed": [
+        2023,
+        10,
+        27,
+        12,
+        0,
+        0,
+        4,
+        300,
+        0
+      ],
+      "id": "a2d178c3-edfd-46d6-84c4-65381a5fce53",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Mutual legal assistance",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Coordinated arrest of Swedish high-value target suspected of major drug trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -1587,66 +1707,6 @@
         },
         {
           "term": "Serbia",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/mutual-legal-assistance-meeting-eurojust-uk-20231027.jpg",
-      "field_list_image_1": "Group photo",
-      "summary": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The legal system in the UK is significantly different from that of most legal systems in the EU and other countries, and it is therefore crucial to know and understand the differences to enable smooth cooperation. Furthermore, since 1 January 2021, a new legal regime between the EU and UK, the Trade and Cooperation Agreement, became applicable. This implied some relevant changes in different fields of judicial cooperation in criminal matters, such as mutual legal assistance (MLA). In addition, the MLA form, which was created in accordance with Article 635 of the TCA, became mandatory as of 1\u2026"
-        }
-      ],
-      "published": "Fri, 27 Oct 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        10,
-        27,
-        12,
-        0,
-        0,
-        4,
-        300,
-        0
-      ],
-      "id": "a2d178c3-edfd-46d6-84c4-65381a5fce53",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Mutual legal assistance",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -2663,6 +2723,66 @@
       ]
     },
     {
+      "title": "New National Member for Finland joins Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New National Member for Finland joins Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-national-member-finland-joins-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-national-member-finland-joins-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/heli-vesaaja.jpg",
+      "field_list_image_1": "Heli Vesaaja",
+      "summary": "Ms Heli Vesaaja has taken up her duties as the new National Member for Finland at Eurojust, replacing Ms Lilja Limingoja. Before this appointment, Ms Vesaaja worked for the Prosecution District of Southern Finland, as a prosecutor since 1997 and as a senior specialised prosecutor since 2019. Since 2007, she has specialised in organised crime, drug trafficking and money laundering. She has actively participated in multiple joint investigation teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ms Heli Vesaaja has taken up her duties as the new National Member for Finland at Eurojust, replacing Ms Lilja Limingoja. Before this appointment, Ms Vesaaja worked for the Prosecution District of Southern Finland, as a prosecutor since 1997 and as a senior specialised prosecutor since 2019. Since 2007, she has specialised in organised crime, drug trafficking and money laundering. She has actively participated in multiple joint investigation teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her new role as National Member, Ms Vesaaja said: I am honoured to join Eurojust as the new Finnish National Member. Having prosecuted many cases in my home country with assistance from Eurojust, I know how crucial the role of the Agency is in fighting cross-border organised crime. I look forward to building on the work undertaken by Ms Lilja Limingoja and to meeting my new colleagues at Eurojust.\n\nMs Vesaaja has been working in the field of international cooperation since 2002. In addition to her career as a prosecutor, Ms Vesaaja has worked at the European Court of Human\u2026"
+        }
+      ],
+      "published": "Thu, 03 Aug 2023 14:00:00 +0200",
+      "published_parsed": [
+        2023,
+        8,
+        3,
+        12,
+        0,
+        0,
+        3,
+        215,
+        0
+      ],
+      "id": "2712c227-46b6-4b6c-8f58-826600f1cab9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Finland",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Most wanted Hungarian criminals arrested in Spain with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -2728,66 +2848,6 @@
       ]
     },
     {
-      "title": "New National Member for Finland joins Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "New National Member for Finland joins Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/new-national-member-finland-joins-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/new-national-member-finland-joins-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/heli-vesaaja.jpg",
-      "field_list_image_1": "Heli Vesaaja",
-      "summary": "Ms Heli Vesaaja has taken up her duties as the new National Member for Finland at Eurojust, replacing Ms Lilja Limingoja. Before this appointment, Ms Vesaaja worked for the Prosecution District of Southern Finland, as a prosecutor since 1997 and as a senior specialised prosecutor since 2019. Since 2007, she has specialised in organised crime, drug trafficking and money laundering. She has actively participated in multiple joint investigation teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ms Heli Vesaaja has taken up her duties as the new National Member for Finland at Eurojust, replacing Ms Lilja Limingoja. Before this appointment, Ms Vesaaja worked for the Prosecution District of Southern Finland, as a prosecutor since 1997 and as a senior specialised prosecutor since 2019. Since 2007, she has specialised in organised crime, drug trafficking and money laundering. She has actively participated in multiple joint investigation teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her new role as National Member, Ms Vesaaja said: I am honoured to join Eurojust as the new Finnish National Member. Having prosecuted many cases in my home country with assistance from Eurojust, I know how crucial the role of the Agency is in fighting cross-border organised crime. I look forward to building on the work undertaken by Ms Lilja Limingoja and to meeting my new colleagues at Eurojust.\n\nMs Vesaaja has been working in the field of international cooperation since 2002. In addition to her career as a prosecutor, Ms Vesaaja has worked at the European Court of Human\u2026"
-        }
-      ],
-      "published": "Thu, 03 Aug 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        8,
-        3,
-        12,
-        0,
-        0,
-        3,
-        215,
-        0
-      ],
-      "id": "2712c227-46b6-4b6c-8f58-826600f1cab9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Finland",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Spanish Presidency of the Council of the European Union kicks off at Eurojust with a live art performance",
       "title_detail": {
         "type": "text/plain",
@@ -2836,36 +2896,36 @@
       "guidislink": false
     },
     {
-      "title": "Ein historischer Schritt \u2013 Das Internationale Zentrum f\u00fcr die Strafverfolgung des Verbrechens der Aggression gegen die Ukraine nimmt bei Eurojust seine T\u00e4tigkeit auf",
+      "title": "Der skrives historie - Det Internationale Center for Retsforf\u00f8lgning af Aggressionsforbrydelsen mod Ukraine indleder sine aktiviteter hos Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ein historischer Schritt \u2013 Das Internationale Zentrum f\u00fcr die Strafverfolgung des Verbrechens der Aggression gegen die Ukraine nimmt bei Eurojust seine T\u00e4tigkeit auf"
+        "value": "Der skrives historie - Det Internationale Center for Retsforf\u00f8lgning af Aggressionsforbrydelsen mod Ukraine indleder sine aktiviteter hos Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/de/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/da/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/de/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/da/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "Das Internationale Zentrum f\u00fcr die Strafverfolgung des Verbrechens der Aggression gegen die Ukraine (ICPA) nahm heute offiziell seine T\u00e4tigkeit bei Eurojust auf \u2013 ein Ereignis von historischer Tragweite. Das ICPA wird zur Vorbereitung von Strafverfahren wegen Verbrechen der Aggression beitragen, indem es wichtiges Beweismaterial sichert und die Fallbearbeitung in einem fr\u00fchen Stadium unterst\u00fctzt.\n\nAm 3. Juli wurde das ICPA in den R\u00e4umlichkeiten von Eurojust in Den Haag feierlich er\u00f6ffnet. Ansprachen hielten der Eurojust-Pr\u00e4sident Ladislav Hamran, der EU-Kommissar f\u00fcr Justiz Didier Reynders, der Generalstaatsanwalt der Ukraine Andriy Kostin, der Ankl\u00e4ger des Internationalen Strafgerichtshofs Karim A. A. Khan, der stellvertretende US-Generalstaatsanwalt Kenneth A. Polite und die Justizministerin der Niederlande, Dilan Ye\u015filg\u00f6z-Zegerius. Am selben Tag wurde eine Beitragsvereinbarung mit dem Dienst f\u00fcr au\u00dfenpolitische Instrumente der Europ\u00e4ischen Kommission unterzeichnet und die erste operative Auftaktsitzung des Zentrums abgehalten.",
+      "summary": "Det er markeringen af et historisk \u00f8jeblik, n\u00e5r Det Internationale Center for Retsforf\u00f8lgelse af Aggressionsforbrydelser mod Ukraine (ICPA) i dag officielt indleder sine aktiviteter hos Eurojust. ICPA vil st\u00f8tte forberedelsen af sager om aggressionsforbrydelser ved at sikre afg\u00f8rende beviser og lette processen med at n\u00e5 et resultat p\u00e5 et tidligt tidspunkt.\n\nVed et s\u00e6rligt lanceringsarrangement den 3. juli i Eurojusts lokaler i Haag blev ICPA indviet af Eurojusts pr\u00e6sident Ladislav Hamran, EU's kommiss\u00e6r med ansvar for retlige anliggender Didier Reynders, Ukraines statsadvokat Andriy Kostin og ICC's anklager Karim A.A. Khan, Assistant Attorney General Kenneth A. Polite og Nederlandenes justitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samtidigt blev der underskrevet en bidragsaftale med Europa-Kommissionens Tjeneste for Udenrigspolitiske Instrumenter, og centrets f\u00f8rste operationelle opstartsm\u00f8de blev afholdt.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Das Internationale Zentrum f\u00fcr die Strafverfolgung des Verbrechens der Aggression gegen die Ukraine (ICPA) nahm heute offiziell seine T\u00e4tigkeit bei Eurojust auf \u2013 ein Ereignis von historischer Tragweite. Das ICPA wird zur Vorbereitung von Strafverfahren wegen Verbrechen der Aggression beitragen, indem es wichtiges Beweismaterial sichert und die Fallbearbeitung in einem fr\u00fchen Stadium unterst\u00fctzt.\n\nAm 3. Juli wurde das ICPA in den R\u00e4umlichkeiten von Eurojust in Den Haag feierlich er\u00f6ffnet. Ansprachen hielten der Eurojust-Pr\u00e4sident Ladislav Hamran, der EU-Kommissar f\u00fcr Justiz Didier Reynders, der Generalstaatsanwalt der Ukraine Andriy Kostin, der Ankl\u00e4ger des Internationalen Strafgerichtshofs Karim A. A. Khan, der stellvertretende US-Generalstaatsanwalt Kenneth A. Polite und die Justizministerin der Niederlande, Dilan Ye\u015filg\u00f6z-Zegerius. Am selben Tag wurde eine Beitragsvereinbarung mit dem Dienst f\u00fcr au\u00dfenpolitische Instrumente der Europ\u00e4ischen Kommission unterzeichnet und die erste operative Auftaktsitzung des Zentrums abgehalten."
+        "value": "Det er markeringen af et historisk \u00f8jeblik, n\u00e5r Det Internationale Center for Retsforf\u00f8lgelse af Aggressionsforbrydelser mod Ukraine (ICPA) i dag officielt indleder sine aktiviteter hos Eurojust. ICPA vil st\u00f8tte forberedelsen af sager om aggressionsforbrydelser ved at sikre afg\u00f8rende beviser og lette processen med at n\u00e5 et resultat p\u00e5 et tidligt tidspunkt.\n\nVed et s\u00e6rligt lanceringsarrangement den 3. juli i Eurojusts lokaler i Haag blev ICPA indviet af Eurojusts pr\u00e6sident Ladislav Hamran, EU's kommiss\u00e6r med ansvar for retlige anliggender Didier Reynders, Ukraines statsadvokat Andriy Kostin og ICC's anklager Karim A.A. Khan, Assistant Attorney General Kenneth A. Polite og Nederlandenes justitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samtidigt blev der underskrevet en bidragsaftale med Europa-Kommissionens Tjeneste for Udenrigspolitiske Instrumenter, og centrets f\u00f8rste operationelle opstartsm\u00f8de blev afholdt."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteBei der Er\u00f6ffnungsfeier betonte Didier Reynders, der EU-Kommissar f\u00fcr Justiz: Mit der Gr\u00fcndung des ICPA bekr\u00e4ftigt die Europ\u00e4ische Union ihre Entschlossenheit, daf\u00fcr zu sorgen, dass die im Krieg Russlands gegen die Ukraine begangenen Straftaten gegen das V\u00f6lkerrecht, einschlie\u00dflich des Verbrechens der Aggression, in\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteUnder lanceringsarrangementet udtalte EU's kommiss\u00e6r med ansvar for retlige anliggender Didier Reynders: Med oprettelsen af ICPA gentager Den Europ\u00e6iske Union sit tilsagn om at sikre, at de ansvarlige fuldt ud drages til ansvar for de internationale forbrydelser, der beg\u00e5s under Ruslands krig mod Ukraine, herunder\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -2896,36 +2956,36 @@
       ]
     },
     {
-      "title": "Historiaa tekem\u00e4ss\u00e4 \u2013 Ukrainaan kohdistuneen hy\u00f6kk\u00e4ysrikoksen syytteeseenpanoon liittyv\u00e4 kansainv\u00e4linen keskus aloittaa toimintansa Eurojustissa",
+      "title": "fgAjalooline s\u00fcndmus \u2013 Eurojustis alustab tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Historiaa tekem\u00e4ss\u00e4 \u2013 Ukrainaan kohdistuneen hy\u00f6kk\u00e4ysrikoksen syytteeseenpanoon liittyv\u00e4 kansainv\u00e4linen keskus aloittaa toimintansa Eurojustissa"
+        "value": "fgAjalooline s\u00fcndmus \u2013 Eurojustis alustab tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/fi/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/et/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/fi/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/et/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "T\u00e4n\u00e4\u00e4n tehtiin historiaa, kun Ukrainaan kohdistuneen hy\u00f6kk\u00e4ysrikoksen syytteeseenpanoon liittyv\u00e4 kansainv\u00e4linen keskus aloitti virallisesti toimintansa Eurojustissa. Keskus tukee oikeustapausten valmistelua hy\u00f6kk\u00e4ysrikoksesta turvaamalla ratkaisevan t\u00e4rke\u00e4n todistusaineiston ja helpottamalla tapauksen rakentamista varhaisessa vaiheessa.\n\nEurojustin tiloissa Haagissa 3. hein\u00e4kuuta j\u00e4rjestetyss\u00e4 avajaistilaisuudessa Eurojustin puheenjohtaja Ladislav Hamran, oikeusasioista vastaava Euroopan komission j\u00e4sen Didier Reynders, Ukrainan valtakunnansyytt\u00e4j\u00e4 Andriy Kostin, Kansainv\u00e4lisen rikostuomioistuimen syytt\u00e4j\u00e4 Karim A. A. Khan, Yhdysvaltain apulaisoikeusministeri Kenneth A. Polite ja Alankomaiden oikeusministeri Dilan Ye\u015filg\u00f6z-Zegerius vihkiv\u00e4t keskuksen k\u00e4ytt\u00f6\u00f6n. Samalla allekirjoitettiin rahoitussopimus Euroopan komission ulkopolitiikan v\u00e4lineiden hallinnon kanssa ja pidettiin keskuksen ensimm\u00e4inen operatiivinen aloituskokous.",
+      "summary": "Ajaloolise hetkena alustas t\u00e4na Eurojustis ametlikult tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks (ICPA). ICPA toetab agressioonikuritegude kohtuasjade ettevalmistamist, s\u00e4ilitades olulisi t\u00f5endeid ja soodustades kohtuasjade ettevalmistamist juba varajases etapis.\n\n3. juulil Haagis Eurojusti ruumides toimunud spetsiaalsel ava\u00fcritusel avasid ICPA pidulikult Eurojusti president Ladislav Hamran, Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders, Ukraina peaprokur\u00f6r Andri Kostin, Rahvusvahelise Kriminaalkohtu prokur\u00f6r Karim A. A. Khan, abiprokur\u00f6r Kenneth A. Polite ja Madalmaade justiitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samal ajal allkirjastati toetusleping Euroopa Komisjoni v\u00e4lispoliitika vahendite talitusega ja toimus keskuse esimene t\u00f6\u00f6koosolek.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "T\u00e4n\u00e4\u00e4n tehtiin historiaa, kun Ukrainaan kohdistuneen hy\u00f6kk\u00e4ysrikoksen syytteeseenpanoon liittyv\u00e4 kansainv\u00e4linen keskus aloitti virallisesti toimintansa Eurojustissa. Keskus tukee oikeustapausten valmistelua hy\u00f6kk\u00e4ysrikoksesta turvaamalla ratkaisevan t\u00e4rke\u00e4n todistusaineiston ja helpottamalla tapauksen rakentamista varhaisessa vaiheessa.\n\nEurojustin tiloissa Haagissa 3. hein\u00e4kuuta j\u00e4rjestetyss\u00e4 avajaistilaisuudessa Eurojustin puheenjohtaja Ladislav Hamran, oikeusasioista vastaava Euroopan komission j\u00e4sen Didier Reynders, Ukrainan valtakunnansyytt\u00e4j\u00e4 Andriy Kostin, Kansainv\u00e4lisen rikostuomioistuimen syytt\u00e4j\u00e4 Karim A. A. Khan, Yhdysvaltain apulaisoikeusministeri Kenneth A. Polite ja Alankomaiden oikeusministeri Dilan Ye\u015filg\u00f6z-Zegerius vihkiv\u00e4t keskuksen k\u00e4ytt\u00f6\u00f6n. Samalla allekirjoitettiin rahoitussopimus Euroopan komission ulkopolitiikan v\u00e4lineiden hallinnon kanssa ja pidettiin keskuksen ensimm\u00e4inen operatiivinen aloituskokous."
+        "value": "Ajaloolise hetkena alustas t\u00e4na Eurojustis ametlikult tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks (ICPA). ICPA toetab agressioonikuritegude kohtuasjade ettevalmistamist, s\u00e4ilitades olulisi t\u00f5endeid ja soodustades kohtuasjade ettevalmistamist juba varajases etapis.\n\n3. juulil Haagis Eurojusti ruumides toimunud spetsiaalsel ava\u00fcritusel avasid ICPA pidulikult Eurojusti president Ladislav Hamran, Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders, Ukraina peaprokur\u00f6r Andri Kostin, Rahvusvahelise Kriminaalkohtu prokur\u00f6r Karim A. A. Khan, abiprokur\u00f6r Kenneth A. Polite ja Madalmaade justiitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samal ajal allkirjastati toetusleping Euroopa Komisjoni v\u00e4lispoliitika vahendite talitusega ja toimus keskuse esimene t\u00f6\u00f6koosolek."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteOikeusasioista vastaava komission j\u00e4sen Didier Reynders totesi avajaistilaisuudessa seuraavaa: Euroopan unioni perustaa Ukrainaan kohdistuneen hy\u00f6kk\u00e4ysrikoksen syytteeseenpanoon liittyv\u00e4n kansainv\u00e4lisen keskuksen. T\u00e4ll\u00e4 se vahvistaa olevansa sitoutunut varmistamaan, ett\u00e4 Ven\u00e4j\u00e4n Ukrainaa vastaan k\u00e4ym\u00e4n sodan aikana\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteAvamis\u00fcritusel m\u00e4rkis Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders: ICPA loomisega r\u00f5hutab Euroopa Liit taas kord, et p\u00fchendub tagama Venemaa Ukraina-vastases s\u00f5jas sooritatud rahvusvaheliste kuritegude, sealhulgas agressioonikuritegude eest t\u00e4ieliku vastutusele v\u00f5tmise. ICPA loomine annab maailmale selge\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -2956,36 +3016,36 @@
       ]
     },
     {
-      "title": "Un evento storico: il centro internazionale per il perseguimento del crimine di aggressione nei confronti dell\u2019Ucraina diventa operativo presso Eurojust",
+      "title": "T\u00f6rt\u00e9nelmi pillanat \u2013 Az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont megkezdi m\u0171k\u00f6d\u00e9s\u00e9t az Eurojust sz\u00e9khely\u00e9n",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Un evento storico: il centro internazionale per il perseguimento del crimine di aggressione nei confronti dell\u2019Ucraina diventa operativo presso Eurojust"
+        "value": "T\u00f6rt\u00e9nelmi pillanat \u2013 Az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont megkezdi m\u0171k\u00f6d\u00e9s\u00e9t az Eurojust sz\u00e9khely\u00e9n"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/it/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/hu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/it/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/hu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "Oggi il centro internazionale per il perseguimento del crimine di aggressione nei confronti dell\u2019Ucraina (ICPA) segna un momento storico, diventando ufficialmente operativo presso Eurojust. L\u2019ICPA contribuir\u00e0 all\u2019istruzione dei procedimenti per il crimine di aggressione, raccogliendo prove determinanti e agevolando il processo di preparazione delle cause in una fase iniziale.\n\nIl 3 luglio, nel corso di un evento di presentazione dedicato presso la sede di Eurojust a L\u2019Aia, l\u2019ICPA \u00e8 stato inaugurato dal presidente di Eurojust Ladislav Hamran, dal commissario europeo per la Giustizia Didier Reynders, dal procuratore generale dell\u2019Ucraina Andriy Kostin, dal procuratore della Corte penale internazionale Karim A.A. Khan, dal procuratore generale aggiunto Kenneth A. Polite e dal ministro della Giustizia dei Paesi Bassi Dilan Ye\u015filg\u00f6z-Zegerius. Contestualmente \u00e8 stato sottoscritto un accordo di contributo con il servizio degli strumenti di politica estera della Commissione europea e si \u00e8 svolta la prima riunione operativa di avvio del centro.",
+      "summary": "Fontos pillanathoz \u00e9rkezt\u00fcnk \u2013 a mai napon hivatalosan megkezdte m\u0171k\u00f6d\u00e9s\u00e9t az Eurojustn\u00e1l az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont (ICPA). Az ICPA az\u00e1ltal fog t\u00e1mogat\u00e1st ny\u00fajtani az agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos \u00fcgyek el\u0151k\u00e9sz\u00edt\u00e9s\u00e9hez, hogy biztons\u00e1gosan t\u00e1rolja a kulcsfontoss\u00e1g\u00fa bizony\u00edt\u00e9kokat, \u00e9s m\u00e1r a korai szakaszban megk\u00f6nny\u00edti a v\u00e1demel\u00e9s el\u0151k\u00e9sz\u00edt\u00e9s\u00e9t.\n\nAz Eurojust h\u00e1gai sz\u00e9kh\u00e1z\u00e1ban j\u00falius 3-\u00e1n megrendezett nyit\u00f3esem\u00e9nyen Ladislav Hamran, az Eurojust eln\u00f6ke, Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos, Andrij Kosztyin ukr\u00e1n legf\u0151bb \u00fcgy\u00e9sz, Karim A.A. Khan, a Nemzetk\u00f6zi B\u00fcntet\u0151b\u00edr\u00f3s\u00e1g f\u0151\u00fcgy\u00e9sze, Kenneth A. Polite, az USA legf\u0151bb \u00fcgy\u00e9sz\u00e9nek helyettese \u00e9s Dilan Ye\u015filg\u00f6z-Zegerius holland igazs\u00e1g\u00fcgyi miniszter nyitott\u00e1k meg az ICPA-t. Ezzel egy id\u0151ben al\u00e1\u00edrt\u00e1k az Eur\u00f3pai Bizotts\u00e1g K\u00fclpolitikai Eszk\u00f6z\u00f6k\u00e9rt Felel\u0151s Szolg\u00e1lat\u00e1val k\u00f6t\u00f6tt hozz\u00e1j\u00e1rul\u00e1si meg\u00e1llapod\u00e1st, \u00e9s megtartott\u00e1k a K\u00f6zpont els\u0151 operat\u00edv \u00fcl\u00e9s\u00e9t.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Oggi il centro internazionale per il perseguimento del crimine di aggressione nei confronti dell\u2019Ucraina (ICPA) segna un momento storico, diventando ufficialmente operativo presso Eurojust. L\u2019ICPA contribuir\u00e0 all\u2019istruzione dei procedimenti per il crimine di aggressione, raccogliendo prove determinanti e agevolando il processo di preparazione delle cause in una fase iniziale.\n\nIl 3 luglio, nel corso di un evento di presentazione dedicato presso la sede di Eurojust a L\u2019Aia, l\u2019ICPA \u00e8 stato inaugurato dal presidente di Eurojust Ladislav Hamran, dal commissario europeo per la Giustizia Didier Reynders, dal procuratore generale dell\u2019Ucraina Andriy Kostin, dal procuratore della Corte penale internazionale Karim A.A. Khan, dal procuratore generale aggiunto Kenneth A. Polite e dal ministro della Giustizia dei Paesi Bassi Dilan Ye\u015filg\u00f6z-Zegerius. Contestualmente \u00e8 stato sottoscritto un accordo di contributo con il servizio degli strumenti di politica estera della Commissione europea e si \u00e8 svolta la prima riunione operativa di avvio del centro."
+        "value": "Fontos pillanathoz \u00e9rkezt\u00fcnk \u2013 a mai napon hivatalosan megkezdte m\u0171k\u00f6d\u00e9s\u00e9t az Eurojustn\u00e1l az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont (ICPA). Az ICPA az\u00e1ltal fog t\u00e1mogat\u00e1st ny\u00fajtani az agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos \u00fcgyek el\u0151k\u00e9sz\u00edt\u00e9s\u00e9hez, hogy biztons\u00e1gosan t\u00e1rolja a kulcsfontoss\u00e1g\u00fa bizony\u00edt\u00e9kokat, \u00e9s m\u00e1r a korai szakaszban megk\u00f6nny\u00edti a v\u00e1demel\u00e9s el\u0151k\u00e9sz\u00edt\u00e9s\u00e9t.\n\nAz Eurojust h\u00e1gai sz\u00e9kh\u00e1z\u00e1ban j\u00falius 3-\u00e1n megrendezett nyit\u00f3esem\u00e9nyen Ladislav Hamran, az Eurojust eln\u00f6ke, Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos, Andrij Kosztyin ukr\u00e1n legf\u0151bb \u00fcgy\u00e9sz, Karim A.A. Khan, a Nemzetk\u00f6zi B\u00fcntet\u0151b\u00edr\u00f3s\u00e1g f\u0151\u00fcgy\u00e9sze, Kenneth A. Polite, az USA legf\u0151bb \u00fcgy\u00e9sz\u00e9nek helyettese \u00e9s Dilan Ye\u015filg\u00f6z-Zegerius holland igazs\u00e1g\u00fcgyi miniszter nyitott\u00e1k meg az ICPA-t. Ezzel egy id\u0151ben al\u00e1\u00edrt\u00e1k az Eur\u00f3pai Bizotts\u00e1g K\u00fclpolitikai Eszk\u00f6z\u00f6k\u00e9rt Felel\u0151s Szolg\u00e1lat\u00e1val k\u00f6t\u00f6tt hozz\u00e1j\u00e1rul\u00e1si meg\u00e1llapod\u00e1st, \u00e9s megtartott\u00e1k a K\u00f6zpont els\u0151 operat\u00edv \u00fcl\u00e9s\u00e9t."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteDurante l\u2019evento di presentazione, il commissario europeo per la Giustizia Didier Reynders ha dichiarato: Con l\u2019istituzione dell\u2019ICPA, l\u2019Unione europea ribadisce il proprio impegno a garantire il pieno accertamento delle responsabilit\u00e0 per i crimini internazionali commessi durante la guerra della Russia contro l\u2019Ucraina\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteA nyit\u00f3esem\u00e9nyen Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos a k\u00f6vetkez\u0151ket mondta: Az Eur\u00f3pai Uni\u00f3 az ICPA l\u00e9trehoz\u00e1s\u00e1val \u00faj\u00f3lag meger\u0151s\u00edti elk\u00f6telezetts\u00e9g\u00e9t az Oroszorsz\u00e1g Ukrajna elleni h\u00e1bor\u00faja sor\u00e1n elk\u00f6vetett nemzetk\u00f6zi b\u0171ncselekm\u00e9nyekkel \u2013 t\u00f6bbek k\u00f6z\u00f6tt az agresszi\u00f3 b\u0171ntett\u00e9vel \u2013 kapcsolatos\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3016,36 +3076,36 @@
       ]
     },
     {
-      "title": "Jeste\u015bmy \u015bwiadkami historii \u2013 Mi\u0119dzynarodowe Centrum \u015acigania Zbrodni Agresji przeciwko Ukrainie rozpoczyna dzia\u0142alno\u015b\u0107 w Euroju\u015bcie",
+      "title": "Geschiedenis in de maak \u2013 het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne start zijn werkzaamheden bij Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Jeste\u015bmy \u015bwiadkami historii \u2013 Mi\u0119dzynarodowe Centrum \u015acigania Zbrodni Agresji przeciwko Ukrainie rozpoczyna dzia\u0142alno\u015b\u0107 w Euroju\u015bcie"
+        "value": "Geschiedenis in de maak \u2013 het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne start zijn werkzaamheden bij Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/pl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/nl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/pl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/nl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "To historyczny moment \u2013 Mi\u0119dzynarodowe Centrum \u015acigania Zbrodni Agresji przeciwko Ukrainie (ICPA) oficjalnie rozpocz\u0119\u0142o dzi\u015b dzia\u0142alno\u015b\u0107 w\u00a0Euroju\u015bcie. ICPA b\u0119dzie wspiera\u0107 przygotowanie spraw dotycz\u0105cych zbrodni agresji, zabezpieczaj\u0105c kluczowe dowody i\u00a0u\u0142atwiaj\u0105c proces budowania sprawy na wczesnym etapie.\n\n3\u00a0lipca w\u00a0siedzibie Eurojustu w\u00a0Hadze podczas uroczystego otwarcia dzia\u0142alno\u015b\u0107 ICPA zainaugurowali: przewodnicz\u0105cy Eurojustu Ladislav Hamran, europejski komisarz do spraw wymiaru sprawiedliwo\u015bci Didier Reynders, prokurator generalny Ukrainy Andrij Kostin, prokurator Mi\u0119dzynarodowego Trybuna\u0142u Karnego Karim A.A. Khan, zast\u0119pca prokuratora generalnego Kenneth A. Polite i\u00a0minister sprawiedliwo\u015bci Holandii Dilan Ye\u015filg\u00f6z-Zegerius. Przy tej okazji podpisano tak\u017ce umow\u0119 o\u00a0wsp\u00f3\u0142pracy ze S\u0142u\u017cb\u0105 ds.\u00a0Instrument\u00f3w Polityki Zagranicznej Komisji Europejskiej i\u00a0odby\u0142o si\u0119 pierwsze spotkanie inauguruj\u0105ce dzia\u0142alno\u015b\u0107 Centrum.",
+      "summary": "Op een historisch moment is het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne (ICPA) vandaag officieel van start gegaan bij Eurojust. Het ICPA ondersteunt de voorbereiding van de vervolging van agressiemisdrijven door cruciaal bewijsmateriaal te verzamelen en veilig te stellen en de procedure voor het onderbouwen van zaken in een vroeg stadium te vergemakkelijken.\n\nOp 3 juli werd het ICPA formeel geopend in het gebouw van Eurojust in Den Haag. Tijdens het openingsevenement werden toespraken gehouden door de voorzitter van Eurojust Ladislav Hamran, de EU-commissaris voor Justitie Didier Reynders, de procureur-generaal van Oekra\u00efne Andriy Kostin, de aanklager van het Internationaal Strafhof Karim A. A. Khan, plaatsvervangend procureur-generaal Kenneth A. Polite en minister van Justitie van Nederland mevrouw Dilan Ye\u015filg\u00f6z-Zegerius. Tegelijkertijd werd een bijdrageovereenkomst met de Dienst Instrumenten buitenlands beleid van de Europese Commissie ondertekend en vond de eerste operationele startvergadering van het Centrum plaats.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To historyczny moment \u2013 Mi\u0119dzynarodowe Centrum \u015acigania Zbrodni Agresji przeciwko Ukrainie (ICPA) oficjalnie rozpocz\u0119\u0142o dzi\u015b dzia\u0142alno\u015b\u0107 w\u00a0Euroju\u015bcie. ICPA b\u0119dzie wspiera\u0107 przygotowanie spraw dotycz\u0105cych zbrodni agresji, zabezpieczaj\u0105c kluczowe dowody i\u00a0u\u0142atwiaj\u0105c proces budowania sprawy na wczesnym etapie.\n\n3\u00a0lipca w\u00a0siedzibie Eurojustu w\u00a0Hadze podczas uroczystego otwarcia dzia\u0142alno\u015b\u0107 ICPA zainaugurowali: przewodnicz\u0105cy Eurojustu Ladislav Hamran, europejski komisarz do spraw wymiaru sprawiedliwo\u015bci Didier Reynders, prokurator generalny Ukrainy Andrij Kostin, prokurator Mi\u0119dzynarodowego Trybuna\u0142u Karnego Karim A.A. Khan, zast\u0119pca prokuratora generalnego Kenneth A. Polite i\u00a0minister sprawiedliwo\u015bci Holandii Dilan Ye\u015filg\u00f6z-Zegerius. Przy tej okazji podpisano tak\u017ce umow\u0119 o\u00a0wsp\u00f3\u0142pracy ze S\u0142u\u017cb\u0105 ds.\u00a0Instrument\u00f3w Polityki Zagranicznej Komisji Europejskiej i\u00a0odby\u0142o si\u0119 pierwsze spotkanie inauguruj\u0105ce dzia\u0142alno\u015b\u0107 Centrum."
+        "value": "Op een historisch moment is het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne (ICPA) vandaag officieel van start gegaan bij Eurojust. Het ICPA ondersteunt de voorbereiding van de vervolging van agressiemisdrijven door cruciaal bewijsmateriaal te verzamelen en veilig te stellen en de procedure voor het onderbouwen van zaken in een vroeg stadium te vergemakkelijken.\n\nOp 3 juli werd het ICPA formeel geopend in het gebouw van Eurojust in Den Haag. Tijdens het openingsevenement werden toespraken gehouden door de voorzitter van Eurojust Ladislav Hamran, de EU-commissaris voor Justitie Didier Reynders, de procureur-generaal van Oekra\u00efne Andriy Kostin, de aanklager van het Internationaal Strafhof Karim A. A. Khan, plaatsvervangend procureur-generaal Kenneth A. Polite en minister van Justitie van Nederland mevrouw Dilan Ye\u015filg\u00f6z-Zegerius. Tegelijkertijd werd een bijdrageovereenkomst met de Dienst Instrumenten buitenlands beleid van de Europese Commissie ondertekend en vond de eerste operationele startvergadering van het Centrum plaats."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PolitePodczas uroczysto\u015bci inauguracyjnej europejski komisarz do spraw wymiaru sprawiedliwo\u015bci Didier Reynders powiedzia\u0142: Powo\u0142uj\u0105c ICPA, Unia Europejska potwierdza swoje zobowi\u0105zanie do zapewnienia pe\u0142nej odpowiedzialno\u015bci za zbrodnie mi\u0119dzynarodowe pope\u0142nione podczas rosyjskiej wojny przeciwko Ukrainie, w\u00a0tym zbrodnie\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteTijdens het openingsevenement zei EU-commissaris voor Justitie Didier Reynders: \u201dMet de oprichting van het ICPA benadrukt de Europese Unie dat zij vastbesloten is te zorgen voor een volledige verantwoordingsplicht voor de internationale misdrijven die tijdens de oorlog van Rusland tegen Oekra\u00efne zijn gepleegd, met\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3076,36 +3136,36 @@
       ]
     },
     {
-      "title": "Ett historiskt \u00f6gonblick \u2013 det internationella centrumet f\u00f6r lagf\u00f6ring av aggressionsbrottet mot Ukraina inleder sin verksamhet vid Eurojust",
+      "title": "Pi\u0161e se zgodovina \u2013 Pri Eurojustu je za\u010del delovati Mednarodni center za pregon kaznivega dejanja agresije proti Ukrajini",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ett historiskt \u00f6gonblick \u2013 det internationella centrumet f\u00f6r lagf\u00f6ring av aggressionsbrottet mot Ukraina inleder sin verksamhet vid Eurojust"
+        "value": "Pi\u0161e se zgodovina \u2013 Pri Eurojustu je za\u010del delovati Mednarodni center za pregon kaznivega dejanja agresije proti Ukrajini"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/sl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/sv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/sl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "I dag inledde det internationella centrumet f\u00f6r lagf\u00f6ring av aggressionsbrottet mot Ukraina (ICPA) officiellt sin verksamhet vid Eurojust, vilket \u00e4r ett historiskt \u00f6gonblick. ICPA kommer att st\u00f6dja f\u00f6rberedelserna av aggressionsbrottsm\u00e5l genom att s\u00e4kra avg\u00f6rande bevis och st\u00e4rka f\u00f6ruts\u00e4ttningarna att n\u00e5 resultat i ett tidigt skede.\n\nICPA invigdes vid ett s\u00e4rskilt evenemang i Eurojusts lokaler i Haag den 3 juli av Eurojusts ordf\u00f6rande Ladislav Hamran, EU:s kommission\u00e4r f\u00f6r r\u00e4ttsliga fr\u00e5gor Didier Reynders, Ukrainas riks\u00e5klagare Andrij Kostin, Internationella brottsm\u00e5lsdomstolens \u00e5klagare Karim A.A. Khan, F\u00f6renta staternas bitr\u00e4dande justitieminister Kenneth A. Polite och Nederl\u00e4ndernas justitieminister Dilan Ye\u015filg\u00f6z-Zegerius. Samtidigt undertecknades ett bidragsavtal med Europeiska kommissionens tj\u00e4nst f\u00f6r utrikespolitiska instrument, och centrumets f\u00f6rsta operativa m\u00f6te \u00e4gde rum.",
+      "summary": "Dana\u0161nji uradni za\u010detek delovanja Mednarodnega centra za pregon kaznivega dejanja agresije proti Ukrajini (ICPA) pri Eurojustu je pravi zgodovinski trenutek. Center ICPA bo zagotavljal podporo pri pripravi primerov kaznivega dejanja agresije, pri \u010demer bo zagotavljal klju\u010dne dokaze in olaj\u0161al postopek priprave primerov \u017ee v zgodnji fazi.\n\nNa posebni slovesnosti ob za\u010detku delovanja so 3.\u00a0julija v Eurojustovih prostorih v Haagu mednarodni center ICPA odprli Eurojustov predsednik Ladislav Hamran, evropski komisar za pravosodje Didier Reynders, ukrajinski generalni dr\u017eavni to\u017eilec Andriy Kostin, to\u017eilec Mednarodnega kazenskega sodi\u0161\u010da Karim A. A. Khan, pomo\u010dnik generalnega dr\u017eavnega to\u017eilca Kenneth A. Polite in nizozemska ministrica za pravosodje Dilan Ye\u015filg\u00f6z-Zegerius. Hkrati je bil s slu\u017ebo Evropske komisije za instrumente zunanje politike podpisan sporazum o prispevku in izveden je bil prvi operativni uvodni sestanek tega mednarodnega centra.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "I dag inledde det internationella centrumet f\u00f6r lagf\u00f6ring av aggressionsbrottet mot Ukraina (ICPA) officiellt sin verksamhet vid Eurojust, vilket \u00e4r ett historiskt \u00f6gonblick. ICPA kommer att st\u00f6dja f\u00f6rberedelserna av aggressionsbrottsm\u00e5l genom att s\u00e4kra avg\u00f6rande bevis och st\u00e4rka f\u00f6ruts\u00e4ttningarna att n\u00e5 resultat i ett tidigt skede.\n\nICPA invigdes vid ett s\u00e4rskilt evenemang i Eurojusts lokaler i Haag den 3 juli av Eurojusts ordf\u00f6rande Ladislav Hamran, EU:s kommission\u00e4r f\u00f6r r\u00e4ttsliga fr\u00e5gor Didier Reynders, Ukrainas riks\u00e5klagare Andrij Kostin, Internationella brottsm\u00e5lsdomstolens \u00e5klagare Karim A.A. Khan, F\u00f6renta staternas bitr\u00e4dande justitieminister Kenneth A. Polite och Nederl\u00e4ndernas justitieminister Dilan Ye\u015filg\u00f6z-Zegerius. Samtidigt undertecknades ett bidragsavtal med Europeiska kommissionens tj\u00e4nst f\u00f6r utrikespolitiska instrument, och centrumets f\u00f6rsta operativa m\u00f6te \u00e4gde rum."
+        "value": "Dana\u0161nji uradni za\u010detek delovanja Mednarodnega centra za pregon kaznivega dejanja agresije proti Ukrajini (ICPA) pri Eurojustu je pravi zgodovinski trenutek. Center ICPA bo zagotavljal podporo pri pripravi primerov kaznivega dejanja agresije, pri \u010demer bo zagotavljal klju\u010dne dokaze in olaj\u0161al postopek priprave primerov \u017ee v zgodnji fazi.\n\nNa posebni slovesnosti ob za\u010detku delovanja so 3.\u00a0julija v Eurojustovih prostorih v Haagu mednarodni center ICPA odprli Eurojustov predsednik Ladislav Hamran, evropski komisar za pravosodje Didier Reynders, ukrajinski generalni dr\u017eavni to\u017eilec Andriy Kostin, to\u017eilec Mednarodnega kazenskega sodi\u0161\u010da Karim A. A. Khan, pomo\u010dnik generalnega dr\u017eavnega to\u017eilca Kenneth A. Polite in nizozemska ministrica za pravosodje Dilan Ye\u015filg\u00f6z-Zegerius. Hkrati je bil s slu\u017ebo Evropske komisije za instrumente zunanje politike podpisan sporazum o prispevku in izveden je bil prvi operativni uvodni sestanek tega mednarodnega centra."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteUnder evenemanget sade EU-kommission\u00e4ren med ansvar f\u00f6r r\u00e4ttsliga fr\u00e5gor, Didier Reynders: \u201dGenom inr\u00e4ttandet av ICPA upprepar EU sitt \u00e5tagande att utkr\u00e4va fullt ansvar f\u00f6r de internationella brott som beg\u00e5s under Rysslands krig mot Ukraina, d\u00e4ribland aggressionsbrottet. Inr\u00e4ttandet av ICPA \u00e4r en tydlig signal till\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteEurojustov predsednik Ladislav Hamran je povedal: \u201eEurojust je dosegel dobre rezultate pri zagotavljanju operativne, tehni\u010dne, logisti\u010dne in finan\u010dne podpore nacionalnim to\u017eilcem, ki obravnavajo \u010dezmejne primere. \u017de od za\u010detka te vojne je bila ta podpora zagotovljena za usklajevanje in krepitev nacionalnih preiskav\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3136,36 +3196,36 @@
       ]
     },
     {
-      "title": "Historick\u00fd okam\u017eik \u2013 Mezin\u00e1rodn\u00ed st\u0159edisko pro st\u00edh\u00e1n\u00ed zlo\u010dinu agrese v\u016f\u010di Ukrajin\u011b spadaj\u00edc\u00ed pod Eurojust zahajuje \u010dinnost",
+      "title": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f\u0442\u0430 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441 \u043d\u0430 \u0441\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435 \u2014 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u044f\u0442 \u0446\u0435\u043d\u0442\u044a\u0440 \u0437\u0430 \u043d\u0430\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u043d\u043e \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f \u0441\u0440\u0435\u0449\u0443 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 \u0437\u0430\u043f\u043e\u0447\u0432\u0430 \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u0415\u0432\u0440\u043e\u044e\u0441\u0442",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Historick\u00fd okam\u017eik \u2013 Mezin\u00e1rodn\u00ed st\u0159edisko pro st\u00edh\u00e1n\u00ed zlo\u010dinu agrese v\u016f\u010di Ukrajin\u011b spadaj\u00edc\u00ed pod Eurojust zahajuje \u010dinnost"
+        "value": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f\u0442\u0430 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441 \u043d\u0430 \u0441\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435 \u2014 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u044f\u0442 \u0446\u0435\u043d\u0442\u044a\u0440 \u0437\u0430 \u043d\u0430\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u043d\u043e \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f \u0441\u0440\u0435\u0449\u0443 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 \u0437\u0430\u043f\u043e\u0447\u0432\u0430 \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u0415\u0432\u0440\u043e\u044e\u0441\u0442"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/cs/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/bg/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/cs/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/bg/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Generic picture",
-      "summary": "Dne\u0161n\u00ed den se zap\u00ed\u0161e do historie jako den, kdy ofici\u00e1ln\u011b zah\u00e1jilo svou \u010dinnost Mezin\u00e1rodn\u00ed st\u0159edisko pro st\u00edh\u00e1n\u00ed zlo\u010dinu agrese v\u016f\u010di Ukrajin\u011b (ICPA) z\u0159\u00edzen\u00e9 v r\u00e1mci Agentury Evropsk\u00e9 unie pro justi\u010dn\u00ed spolupr\u00e1ci v trestn\u00edch v\u011bcech (Eurojust). \u00dakolem st\u0159ediska ICPA je v\u010das zaji\u0161\u0165ovat kl\u00ed\u010dov\u00e9 d\u016fkazy a shroma\u017e\u010fovat podklady k p\u0159\u00edprav\u011b ob\u017ealoby pro n\u00e1sledn\u00e9 st\u00edh\u00e1n\u00ed pachatel\u016f zlo\u010dinu agrese.\n\nSlavnostn\u00edho zah\u00e1jen\u00ed se 3. \u010dervence v s\u00eddle agentury Eurojust v Haagu z\u00fa\u010dastnil jej\u00ed p\u0159edseda Ladislav Hamran, evropsk\u00fd komisa\u0159 pro spravedlnost Didier Reynders, gener\u00e1ln\u00ed prokur\u00e1tor Ukrajiny Andrij Kostin, \u017ealobce Mezin\u00e1rodn\u00edho trestn\u00edho soudu Karim A. A. Khan, n\u00e1m\u011bstek americk\u00e9ho ministra spravedlnosti pro oblast trestn\u00edho pr\u00e1va Kenneth A. Polite a nizozemsk\u00e1 ministryn\u011b spravedlnosti Dilan Ye\u015filg\u00f6z-Zegeriusov\u00e1. Sou\u010dasn\u011b byla podeps\u00e1na dohoda o p\u0159izn\u00e1n\u00ed p\u0159\u00edsp\u011bvku se Slu\u017ebou n\u00e1stroj\u016f zahrani\u010dn\u00ed politiky Evropsk\u00e9 komise a uskute\u010dnilo se zahajovac\u00ed koordina\u010dn\u00ed jedn\u00e1n\u00ed st\u0159ediska.",
+      "field_list_image_1": "Press conference mics",
+      "summary": "\u041e\u0442\u0431\u0435\u043b\u044f\u0437\u0432\u0430\u0439\u043a\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438 \u043c\u043e\u043c\u0435\u043d\u0442, \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u044f\u0442 \u0446\u0435\u043d\u0442\u044a\u0440 \u0437\u0430 \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f \u0441\u0440\u0435\u0449\u0443 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 (ICPA) \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e \u0437\u0430\u043f\u043e\u0447\u043d\u0430 \u0434\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u0430 \u0434\u043d\u0435\u0441 \u0432 \u0415\u0432\u0440\u043e\u044e\u0441\u0442. ICPA \u0449\u0435 \u043f\u043e\u0434\u043f\u043e\u043c\u0430\u0433\u0430 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430\u0442\u0430 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0438, \u0441\u0432\u044a\u0440\u0437\u0430\u043d\u0438 \u0441 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f, \u043a\u0430\u0442\u043e \u043e\u0441\u0438\u0433\u0443\u0440\u044f\u0432\u0430 \u0432\u0430\u0436\u043d\u0438 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0441\u0442\u0432\u0430 \u0438 \u0443\u043b\u0435\u0441\u043d\u044f\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0430 \u043d\u0430 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u044f \u043d\u0430 \u0440\u0430\u043d\u0435\u043d \u0435\u0442\u0430\u043f.\n\nICPA \u0431\u0435\u0448\u0435 \u043e\u0442\u043a\u0440\u0438\u0442 \u043d\u0430 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u044f\u0432\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043d\u0435 \u043d\u0430 3 \u044e\u043b\u0438 \u0432 \u0441\u0433\u0440\u0430\u0434\u0430\u0442\u0430 \u043d\u0430 \u0415\u0432\u0440\u043e\u044e\u0441\u0442 \u0432 \u0425\u0430\u0433\u0430 \u043e\u0442 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u043d\u0430 \u0415\u0432\u0440\u043e\u044e\u0441\u0442 \u041b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0425\u0430\u043c\u0440\u0430\u043d, \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u044f \u043a\u043e\u043c\u0438\u0441\u0430\u0440 \u043f\u043e \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u0438\u0435\u0442\u043e \u0414\u0438\u0434\u0438\u0435 \u0420\u0435\u0439\u043d\u0434\u0435\u0440\u0441, \u0433\u043b\u0430\u0432\u043d\u0438\u044f \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440 \u043d\u0430 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 \u0410\u043d\u0434\u0440\u0438\u0439 \u041a\u043e\u0441\u0442\u0438\u043d, \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043d\u0430 \u041c\u041d\u0421 \u041a\u0430\u0440\u0438\u043c \u0410. \u0410. \u0425\u0430\u043d, \u0437\u0430\u043c\u0435\u0441\u0442\u043d\u0438\u043a \u0433\u043b\u0430\u0432\u043d\u0438\u044f \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440 \u041a\u0435\u043d\u0435\u0442 \u041f\u043e\u043b\u0430\u0439\u0442 \u0438 \u043c\u0438\u043d\u0438\u0441\u0442\u044a\u0440\u0430 \u043d\u0430 \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u0438\u0435\u0442\u043e \u043d\u0430 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u0433-\u0436\u0430 \u0414\u0438\u043b\u0430\u043d \u0419\u0435\u0448\u0438\u043b\u0433\u044c\u043e\u0437-\u0417\u0435\u0433\u0435\u0440\u0438\u0443\u0441. \u0412 \u0441\u044a\u0449\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435 \u0431\u0435\u0448\u0435 \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043d\u043e \u0441\u043f\u043e\u0440\u0430\u0437\u0443\u043c\u0435\u043d\u0438\u0435 \u0437\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 \u043f\u0440\u0438\u043d\u043e\u0441 \u0441\u044a\u0441 \u0421\u043b\u0443\u0436\u0431\u0430\u0442\u0430 \u043d\u0430 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043c\u0438\u0441\u0438\u044f \u0437\u0430 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0438\u0442\u0435 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0442\u0430 \u043d\u0430 \u0432\u044a\u043d\u0448\u043d\u0430\u0442\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0438 \u0441\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435 \u043f\u044a\u0440\u0432\u0430\u0442\u0430 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0441\u0440\u0435\u0449\u0430 \u043d\u0430 \u0426\u0435\u043d\u0442\u044a\u0440\u0430.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dne\u0161n\u00ed den se zap\u00ed\u0161e do historie jako den, kdy ofici\u00e1ln\u011b zah\u00e1jilo svou \u010dinnost Mezin\u00e1rodn\u00ed st\u0159edisko pro st\u00edh\u00e1n\u00ed zlo\u010dinu agrese v\u016f\u010di Ukrajin\u011b (ICPA) z\u0159\u00edzen\u00e9 v r\u00e1mci Agentury Evropsk\u00e9 unie pro justi\u010dn\u00ed spolupr\u00e1ci v trestn\u00edch v\u011bcech (Eurojust). \u00dakolem st\u0159ediska ICPA je v\u010das zaji\u0161\u0165ovat kl\u00ed\u010dov\u00e9 d\u016fkazy a shroma\u017e\u010fovat podklady k p\u0159\u00edprav\u011b ob\u017ealoby pro n\u00e1sledn\u00e9 st\u00edh\u00e1n\u00ed pachatel\u016f zlo\u010dinu agrese.\n\nSlavnostn\u00edho zah\u00e1jen\u00ed se 3. \u010dervence v s\u00eddle agentury Eurojust v Haagu z\u00fa\u010dastnil jej\u00ed p\u0159edseda Ladislav Hamran, evropsk\u00fd komisa\u0159 pro spravedlnost Didier Reynders, gener\u00e1ln\u00ed prokur\u00e1tor Ukrajiny Andrij Kostin, \u017ealobce Mezin\u00e1rodn\u00edho trestn\u00edho soudu Karim A. A. Khan, n\u00e1m\u011bstek americk\u00e9ho ministra spravedlnosti pro oblast trestn\u00edho pr\u00e1va Kenneth A. Polite a nizozemsk\u00e1 ministryn\u011b spravedlnosti Dilan Ye\u015filg\u00f6z-Zegeriusov\u00e1. Sou\u010dasn\u011b byla podeps\u00e1na dohoda o p\u0159izn\u00e1n\u00ed p\u0159\u00edsp\u011bvku se Slu\u017ebou n\u00e1stroj\u016f zahrani\u010dn\u00ed politiky Evropsk\u00e9 komise a uskute\u010dnilo se zahajovac\u00ed koordina\u010dn\u00ed jedn\u00e1n\u00ed st\u0159ediska."
+        "value": "\u041e\u0442\u0431\u0435\u043b\u044f\u0437\u0432\u0430\u0439\u043a\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438 \u043c\u043e\u043c\u0435\u043d\u0442, \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u044f\u0442 \u0446\u0435\u043d\u0442\u044a\u0440 \u0437\u0430 \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f \u0441\u0440\u0435\u0449\u0443 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 (ICPA) \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e \u0437\u0430\u043f\u043e\u0447\u043d\u0430 \u0434\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u0430 \u0434\u043d\u0435\u0441 \u0432 \u0415\u0432\u0440\u043e\u044e\u0441\u0442. ICPA \u0449\u0435 \u043f\u043e\u0434\u043f\u043e\u043c\u0430\u0433\u0430 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430\u0442\u0430 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0438, \u0441\u0432\u044a\u0440\u0437\u0430\u043d\u0438 \u0441 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u0430\u0433\u0440\u0435\u0441\u0438\u044f, \u043a\u0430\u0442\u043e \u043e\u0441\u0438\u0433\u0443\u0440\u044f\u0432\u0430 \u0432\u0430\u0436\u043d\u0438 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0441\u0442\u0432\u0430 \u0438 \u0443\u043b\u0435\u0441\u043d\u044f\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0430 \u043d\u0430 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u044f \u043d\u0430 \u0440\u0430\u043d\u0435\u043d \u0435\u0442\u0430\u043f.\n\nICPA \u0431\u0435\u0448\u0435 \u043e\u0442\u043a\u0440\u0438\u0442 \u043d\u0430 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u044f\u0432\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043d\u0435 \u043d\u0430 3 \u044e\u043b\u0438 \u0432 \u0441\u0433\u0440\u0430\u0434\u0430\u0442\u0430 \u043d\u0430 \u0415\u0432\u0440\u043e\u044e\u0441\u0442 \u0432 \u0425\u0430\u0433\u0430 \u043e\u0442 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u043d\u0430 \u0415\u0432\u0440\u043e\u044e\u0441\u0442 \u041b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0425\u0430\u043c\u0440\u0430\u043d, \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u044f \u043a\u043e\u043c\u0438\u0441\u0430\u0440 \u043f\u043e \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u0438\u0435\u0442\u043e \u0414\u0438\u0434\u0438\u0435 \u0420\u0435\u0439\u043d\u0434\u0435\u0440\u0441, \u0433\u043b\u0430\u0432\u043d\u0438\u044f \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440 \u043d\u0430 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 \u0410\u043d\u0434\u0440\u0438\u0439 \u041a\u043e\u0441\u0442\u0438\u043d, \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043d\u0430 \u041c\u041d\u0421 \u041a\u0430\u0440\u0438\u043c \u0410. \u0410. \u0425\u0430\u043d, \u0437\u0430\u043c\u0435\u0441\u0442\u043d\u0438\u043a \u0433\u043b\u0430\u0432\u043d\u0438\u044f \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440 \u041a\u0435\u043d\u0435\u0442 \u041f\u043e\u043b\u0430\u0439\u0442 \u0438 \u043c\u0438\u043d\u0438\u0441\u0442\u044a\u0440\u0430 \u043d\u0430 \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u0438\u0435\u0442\u043e \u043d\u0430 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u0433-\u0436\u0430 \u0414\u0438\u043b\u0430\u043d \u0419\u0435\u0448\u0438\u043b\u0433\u044c\u043e\u0437-\u0417\u0435\u0433\u0435\u0440\u0438\u0443\u0441. \u0412 \u0441\u044a\u0449\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435 \u0431\u0435\u0448\u0435 \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043d\u043e \u0441\u043f\u043e\u0440\u0430\u0437\u0443\u043c\u0435\u043d\u0438\u0435 \u0437\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 \u043f\u0440\u0438\u043d\u043e\u0441 \u0441\u044a\u0441 \u0421\u043b\u0443\u0436\u0431\u0430\u0442\u0430 \u043d\u0430 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043c\u0438\u0441\u0438\u044f \u0437\u0430 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0438\u0442\u0435 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0442\u0430 \u043d\u0430 \u0432\u044a\u043d\u0448\u043d\u0430\u0442\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0438 \u0441\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435 \u043f\u044a\u0440\u0432\u0430\u0442\u0430 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0441\u0440\u0435\u0449\u0430 \u043d\u0430 \u0426\u0435\u043d\u0442\u044a\u0440\u0430."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteEvropsk\u00fd komisa\u0159 pro spravedlnost Didier Reynders p\u0159i p\u0159\u00edle\u017eitosti zah\u00e1jen\u00ed akce poznamenal: Z\u0159\u00edzen\u00edm st\u0159ediska ICPA stvrzuje Evropsk\u00e1 unie sv\u016fj z\u00e1vazek zajistit, aby \u017e\u00e1dn\u00fd mezin\u00e1rodn\u00ed zlo\u010din sp\u00e1chan\u00fd b\u011bhem rusk\u00e9 v\u00e1lky proti Ukrajin\u011b, v\u010detn\u011b zlo\u010dinu agrese, nez\u016fstal bez trestu. Otev\u0159en\u00ed st\u0159ediska m\u00e1 sv\u011btu vyslat jasn\u00fd\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\u041f\u043e \u0432\u0440\u0435\u043c\u0435 \u043d\u0430 \u043f\u0440\u043e\u044f\u0432\u0430\u0442\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043d\u0435 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u044f\u0442 \u043a\u043e\u043c\u0438\u0441\u0430\u0440 \u043f\u043e \u0432\u044a\u043f\u0440\u043e\u0441\u0438\u0442\u0435 \u043d\u0430 \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u0438\u0435\u0442\u043e \u0414\u0438\u0434\u0438\u0435 \u0420\u0435\u0439\u043d\u0434\u0435\u0440\u0441 \u043a\u0430\u0437\u0430: \u0421\u044a\u0441 \u0441\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435\u0442\u043e \u043d\u0430 ICPA \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u044f\u0442 \u0441\u044a\u044e\u0437 \u043f\u043e\u0442\u0432\u044a\u0440\u0436\u0434\u0430\u0432\u0430 \u0430\u043d\u0433\u0430\u0436\u0438\u043c\u0435\u043d\u0442\u0430 \u0441\u0438 \u0437\u0430 \u043e\u0441\u0438\u0433\u0443\u0440\u044f\u0432\u0430\u043d\u0435 \u0442\u044a\u0440\u0441\u0435\u043d\u0435\u0442\u043e \u043d\u0430 \u043f\u044a\u043b\u043d\u0430 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0437\u0430 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0442\u0435 \u043f\u0440\u0435\u0441\u0442\u044a\u043f\u043b\u0435\u043d\u0438\u044f, \u0438\u0437\u0432\u044a\u0440\u0448\u0435\u043d\u0438 \u043f\u043e \u0432\u0440\u0435\u043c\u0435 \u043d\u0430 \u0432\u043e\u0439\u043d\u0430\u0442\u0430 \u043d\u0430 \u0420\u0443\u0441\u0438\u044f \u0441\u0440\u0435\u0449\u0443 \u0423\u043a\u0440\u0430\u0439\u043d\u0430, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u043d\u043e\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3196,36 +3256,36 @@
       ]
     },
     {
-      "title": "Forjando Historia: el Centro Internacional para el Enjuiciamiento del Crimen de Agresi\u00f3n contra Ucrania inicia sus actividades en Eurojust",
+      "title": "History in the making \u2013 the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Forjando Historia: el Centro Internacional para el Enjuiciamiento del Crimen de Agresi\u00f3n contra Ucrania inicia sus actividades en Eurojust"
+        "value": "History in the making \u2013 the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/es/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/es/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "A fecha de hoy, en lo que puede calificarse como un momento hist\u00f3rico, el Centro Internacional para el Enjuiciamiento del Crimen de Agresi\u00f3n contra Ucrania (ICPA) ha iniciado oficialmente sus actividades en Eurojust. El ICPA prestar\u00e1 apoyo en la preparaci\u00f3n de expedientes relacionados con los cr\u00edmenes de agresi\u00f3n, asegurando pruebas cruciales y facilitando el proceso de instrucci\u00f3n del asunto en una fase inicial.\n\nEn el acto de presentaci\u00f3n espec\u00edfico, celebrado el 3 de julio en las instalaciones de Eurojust en La Haya, el ICPA ha sido inaugurado por el presidente de Eurojust, Ladislav Hamran, el comisario europeo de Justicia, Didier Reynders, el fiscal general de Ucrania, Andriy Kostin, el fiscal de la CPI, Karim A.A. Khan, el Fiscal General Adjunto, Kenneth A. Polite, y la Ministra de Justicia de los Pa\u00edses Bajos, Sra. Dilan Ye\u015filg\u00f6z-Zegerius. A su vez, se ha firmado un convenio de contribuci\u00f3n con el Servicio de Instrumentos de Pol\u00edtica Exterior de la Comisi\u00f3n Europea y se ha celebrado la primera reuni\u00f3n operativa del Centro.",
+      "summary": "Marking a historic moment, the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA) officially started operations today at Eurojust. The ICPA will support the preparation of crime of aggression cases, by securing crucial evidence and facilitating the process of case building at an early stage.\n\nAt a dedicated launch event on 3 July at Eurojust\u2019s premises in The Hague, the ICPA was inaugurated by Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders, Prosecutor General of Ukraine Andriy Kostin, ICC Prosecutor Karim A.A. Khan, Assistant Attorney General Kenneth A. Polite, and Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius. At the same time, a contribution agreement with the European Commission\u2019s Service for Foreign Policy Instruments was signed and the Centre\u2019s first operational kick-off meeting took place.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A fecha de hoy, en lo que puede calificarse como un momento hist\u00f3rico, el Centro Internacional para el Enjuiciamiento del Crimen de Agresi\u00f3n contra Ucrania (ICPA) ha iniciado oficialmente sus actividades en Eurojust. El ICPA prestar\u00e1 apoyo en la preparaci\u00f3n de expedientes relacionados con los cr\u00edmenes de agresi\u00f3n, asegurando pruebas cruciales y facilitando el proceso de instrucci\u00f3n del asunto en una fase inicial.\n\nEn el acto de presentaci\u00f3n espec\u00edfico, celebrado el 3 de julio en las instalaciones de Eurojust en La Haya, el ICPA ha sido inaugurado por el presidente de Eurojust, Ladislav Hamran, el comisario europeo de Justicia, Didier Reynders, el fiscal general de Ucrania, Andriy Kostin, el fiscal de la CPI, Karim A.A. Khan, el Fiscal General Adjunto, Kenneth A. Polite, y la Ministra de Justicia de los Pa\u00edses Bajos, Sra. Dilan Ye\u015filg\u00f6z-Zegerius. A su vez, se ha firmado un convenio de contribuci\u00f3n con el Servicio de Instrumentos de Pol\u00edtica Exterior de la Comisi\u00f3n Europea y se ha celebrado la primera reuni\u00f3n operativa del Centro."
+        "value": "Marking a historic moment, the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA) officially started operations today at Eurojust. The ICPA will support the preparation of crime of aggression cases, by securing crucial evidence and facilitating the process of case building at an early stage.\n\nAt a dedicated launch event on 3 July at Eurojust\u2019s premises in The Hague, the ICPA was inaugurated by Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders, Prosecutor General of Ukraine Andriy Kostin, ICC Prosecutor Karim A.A. Khan, Assistant Attorney General Kenneth A. Polite, and Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius. At the same time, a contribution agreement with the European Commission\u2019s Service for Foreign Policy Instruments was signed and the Centre\u2019s first operational kick-off meeting took place."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteDurante el acto de presentaci\u00f3n, el comisario europeo de Justicia, Didier Reynders, declar\u00f3: Con la puesta en marcha del ICPA, la Uni\u00f3n Europea reitera su compromiso de garantizar la plena rendici\u00f3n de cuentas por los cr\u00edmenes internacionales cometidos durante la guerra de Rusia contra Ucrania, incluido el crimen de\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and US Assistant Attorney General Kenneth A. Polite, Jr.During the launch event, European Commissioner for Justice Didier Reynders said: With the set-up of the ICPA, the European Union reiterates its commitment to ensuring full accountability for the international crimes committed during Russia\u2019s war against Ukraine, including the crime of aggression. The set-up of\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3256,36 +3316,36 @@
       ]
     },
     {
-      "title": "Povijesni trenutak \u2013 Me\u0111unarodni centar za kazneni progon zlo\u010dina agresije protiv Ukrajine zapo\u010dinje s radom u Eurojustu",
+      "title": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Povijesni trenutak \u2013 Me\u0111unarodni centar za kazneni progon zlo\u010dina agresije protiv Ukrajine zapo\u010dinje s radom u Eurojustu"
+        "value": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/hr/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/hr/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "Obilje\u017eavaju\u0107i povijesni trenutak, Me\u0111unarodni centar za kazneni progon zlo\u010dina agresije protiv Ukrajine (ICPA) danas je slu\u017ebeno zapo\u010deo s radom u Eurojustu. ICPA \u0107e podr\u017eavati pripremu optu\u017enica za zlo\u010din agresije osiguravanjem klju\u010dnih dokaza i olak\u0161avanjem pripreme predmeta u ranoj fazi.\n\nNa posebnom otvorenju 3. srpnja u prostorijama Eurojusta u Haagu, ICPA-u su otvorili predsjednik Eurojusta Ladislav Hamran, europski povjerenik za pravosu\u0111e Didier Reynders, ukrajinski glavni tu\u017eitelj Andrij Kostin, tu\u017eitelj Me\u0111unarodnog kaznenog suda Karim A. A. Khan, pomo\u0107nik glavnog dr\u017eavnog odvjetnika SAD-a Kenneth A. Polite i nizozemska ministrica pravosu\u0111a Dilan Ye\u0219ilg\u00f6z-Zegerius. Istodobno je potpisan sporazum o doprinosu sa Slu\u017ebom Europske komisije za instrumente vanjske politike i odr\u017ean je prvi operativni uvodni sastanak ICPA-e.",
+      "summary": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Obilje\u017eavaju\u0107i povijesni trenutak, Me\u0111unarodni centar za kazneni progon zlo\u010dina agresije protiv Ukrajine (ICPA) danas je slu\u017ebeno zapo\u010deo s radom u Eurojustu. ICPA \u0107e podr\u017eavati pripremu optu\u017enica za zlo\u010din agresije osiguravanjem klju\u010dnih dokaza i olak\u0161avanjem pripreme predmeta u ranoj fazi.\n\nNa posebnom otvorenju 3. srpnja u prostorijama Eurojusta u Haagu, ICPA-u su otvorili predsjednik Eurojusta Ladislav Hamran, europski povjerenik za pravosu\u0111e Didier Reynders, ukrajinski glavni tu\u017eitelj Andrij Kostin, tu\u017eitelj Me\u0111unarodnog kaznenog suda Karim A. A. Khan, pomo\u0107nik glavnog dr\u017eavnog odvjetnika SAD-a Kenneth A. Polite i nizozemska ministrica pravosu\u0111a Dilan Ye\u0219ilg\u00f6z-Zegerius. Istodobno je potpisan sporazum o doprinosu sa Slu\u017ebom Europske komisije za instrumente vanjske politike i odr\u017ean je prvi operativni uvodni sastanak ICPA-e."
+        "value": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteTijekom uvodnog skupa europski povjerenik za pravosu\u0111e Didier Reynders izjavio je: Osnivanjem ICPA-e Europska unija ponovo isti\u010de svoju predanost osiguravanju privo\u0111enju pravdi odgovornih za me\u0111unarodne zlo\u010dine po\u010dinjene tijekom ruskog rata protiv Ukrajine, uklju\u010duju\u0107i zlo\u010din agresije. Uspostava ICPA-e jasan je znak\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteLe linn an tseolta, d\u00fairt an Coimisin\u00e9ir Eorpach um Cheartas, Didier Reynders: Le bun\u00fa an ICPA, athdhearbha\u00edonn an tAontas Eorpach go bhfuil s\u00e9 tiomanta do chuntasacht ioml\u00e1n a \u00e1irithi\u00fa as na coireanna idirn\u00e1isi\u00fanta a rinneadh le linn chogadh na R\u00faise i gcoinne na h\u00dacr\u00e1ine, lena n-\u00e1ir\u00edtear coir an fhogha. Is comhartha\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
@@ -3316,96 +3376,36 @@
       ]
     },
     {
-      "title": "Stadju importanti li se jbiddel l-istorja \u2013 i\u010b-\u010aentru Internazzjonali g\u0127all-Prosekuzzjoni tad-Delitt ta\u2019 Aggressjoni kontra l-Ukrajna jibda l-operazzjonijiet fl-Eurojust",
+      "title": "Tiek veidota v\u0113sture \u2014 Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu s\u0101k darb\u012bbu a\u0123ent\u016br\u0101 Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Stadju importanti li se jbiddel l-istorja \u2013 i\u010b-\u010aentru Internazzjonali g\u0127all-Prosekuzzjoni tad-Delitt ta\u2019 Aggressjoni kontra l-Ukrajna jibda l-operazzjonijiet fl-Eurojust"
+        "value": "Tiek veidota v\u0113sture \u2014 Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu s\u0101k darb\u012bbu a\u0123ent\u016br\u0101 Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/mt/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
+          "href": "https://www.eurojust.europa.eu/lv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/mt/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
+      "link": "https://www.eurojust.europa.eu/lv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
       "field_list_image_1": "Press conference mics",
-      "summary": "Filwaqt li mmarka mument storiku, i\u010b-\u010aentru Internazzjonali g\u0127all-Prosekuzzjoni tad-Delitt ta\u2019 Aggressjoni Kontra l-Ukrajna (ICPA) beda uffi\u010bjalment l-operazzjonijiet tieg\u0127u fl-Eurojust illum. L-ICPA se jappo\u0121\u0121a t-t\u0127ejjija ta\u2019 ka\u017cijiet tad-delitti ta\u2019 aggressjoni, billi ji\u017cgura evidenza kru\u010bjali u jiffa\u010bilita l-pro\u010bess tal-bini ta\u2019 ka\u017cijiet fi stadju bikri.\n\nF\u2019avveniment ta\u2019 tnedija ddedikat fit-3 ta\u2019 Lulju fil-bini tal-Eurojust f\u2019The Hague, l-ICPA \u0121ie inawgurat mill-President tal-Eurojust Ladislav Hamran, il-Kummissarju Ewropew g\u0127all-\u0120ustizzja Didier Reynders, il-Prosekutur \u0120enerali tal-Ukrajna Andriy Kostin, il-Prosekutur tal-QKI Karim A.A. Khan, l-Assistent Avukat \u0120enerali Kenneth A. Polite, u l-Ministru g\u0127all-\u0120ustizzja tan-Netherlands, is-Sinjura Dilan Yeto ilg\u00f6z-Zegerius. Fl-istess \u0127in, \u0121ie ffirmat ftehim ta\u2019 kontribut mas-Servizz tal-Istrumenti tal-Politika Barranija tal-Kummissjoni Ewropea u saret l-ewwel laqg\u0127a operazzjonali tal-bidu ta\u010b-\u010aentru.",
+      "summary": "Atz\u012bm\u0113jot v\u0113sturisku br\u012bdi, Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu (ICPA) \u0161odien ofici\u0101li uzs\u0101ka darb\u012bbu a\u0123ent\u016br\u0101 Eurojust. ICPA atbalst\u012bs agresijas nozieguma lietu sagatavo\u0161anu, nodro\u0161inot svar\u012bgus pier\u0101d\u012bjumus un atvieglojot lietu izveides procesu agr\u012bn\u0101 posm\u0101.\n\n\u012apa\u0161\u0101 atkl\u0101\u0161anas pas\u0101kum\u0101 3.\u00a0j\u016blij\u0101 Eurojust telp\u0101s H\u0101g\u0101 ICPA centru atkl\u0101ja Eurojust priek\u0161s\u0113d\u0113t\u0101js Ladislav Hamran, Eiropas tieslietu komis\u0101rs Didier Reynders, Ukrainas \u0123ener\u0101lprokurors Andriy Kostin, Starptautisk\u0101s Krimin\u0101ltiesas prokurors Karim A.A. Khan, \u0123ener\u0101lprokurora pal\u012bgs Kenneth A. Polite un N\u012bderlandes tieslietu ministre Dilan Ye\u015filg\u00f6z-Zegerius. Vienlaikus tika parakst\u012bts ieguld\u012bjuma l\u012bgums ar Eiropas Komisijas \u0100rpolitikas instrumentu dienestu un notika centra pirm\u0101 darb\u012bbas uzs\u0101k\u0161anas san\u0101ksme.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Filwaqt li mmarka mument storiku, i\u010b-\u010aentru Internazzjonali g\u0127all-Prosekuzzjoni tad-Delitt ta\u2019 Aggressjoni Kontra l-Ukrajna (ICPA) beda uffi\u010bjalment l-operazzjonijiet tieg\u0127u fl-Eurojust illum. L-ICPA se jappo\u0121\u0121a t-t\u0127ejjija ta\u2019 ka\u017cijiet tad-delitti ta\u2019 aggressjoni, billi ji\u017cgura evidenza kru\u010bjali u jiffa\u010bilita l-pro\u010bess tal-bini ta\u2019 ka\u017cijiet fi stadju bikri.\n\nF\u2019avveniment ta\u2019 tnedija ddedikat fit-3 ta\u2019 Lulju fil-bini tal-Eurojust f\u2019The Hague, l-ICPA \u0121ie inawgurat mill-President tal-Eurojust Ladislav Hamran, il-Kummissarju Ewropew g\u0127all-\u0120ustizzja Didier Reynders, il-Prosekutur \u0120enerali tal-Ukrajna Andriy Kostin, il-Prosekutur tal-QKI Karim A.A. Khan, l-Assistent Avukat \u0120enerali Kenneth A. Polite, u l-Ministru g\u0127all-\u0120ustizzja tan-Netherlands, is-Sinjura Dilan Yeto ilg\u00f6z-Zegerius. Fl-istess \u0127in, \u0121ie ffirmat ftehim ta\u2019 kontribut mas-Servizz tal-Istrumenti tal-Politika Barranija tal-Kummissjoni Ewropea u saret l-ewwel laqg\u0127a operazzjonali tal-bidu ta\u010b-\u010aentru."
+        "value": "Atz\u012bm\u0113jot v\u0113sturisku br\u012bdi, Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu (ICPA) \u0161odien ofici\u0101li uzs\u0101ka darb\u012bbu a\u0123ent\u016br\u0101 Eurojust. ICPA atbalst\u012bs agresijas nozieguma lietu sagatavo\u0161anu, nodro\u0161inot svar\u012bgus pier\u0101d\u012bjumus un atvieglojot lietu izveides procesu agr\u012bn\u0101 posm\u0101.\n\n\u012apa\u0161\u0101 atkl\u0101\u0161anas pas\u0101kum\u0101 3.\u00a0j\u016blij\u0101 Eurojust telp\u0101s H\u0101g\u0101 ICPA centru atkl\u0101ja Eurojust priek\u0161s\u0113d\u0113t\u0101js Ladislav Hamran, Eiropas tieslietu komis\u0101rs Didier Reynders, Ukrainas \u0123ener\u0101lprokurors Andriy Kostin, Starptautisk\u0101s Krimin\u0101ltiesas prokurors Karim A.A. Khan, \u0123ener\u0101lprokurora pal\u012bgs Kenneth A. Polite un N\u012bderlandes tieslietu ministre Dilan Ye\u015filg\u00f6z-Zegerius. Vienlaikus tika parakst\u012bts ieguld\u012bjuma l\u012bgums ar Eiropas Komisijas \u0100rpolitikas instrumentu dienestu un notika centra pirm\u0101 darb\u012bbas uzs\u0101k\u0161anas san\u0101ksme."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteMatul l-avveniment ta\u2019 tnedija, il-Kummissarju Ewropew g\u0127all-\u0120ustizzja Didier Reynders qal: \u201cBl-istabbiliment tal-ICPA, l-Unjoni Ewropea ttenni l-impenn tag\u0127ha li ti\u017cgura responsabbilt\u00e0 s\u0127i\u0127a mid-delitti internazzjonali mwettqa matul il-gwerra tar-Russja kontra l-Ukrajna, inklu\u017c id-delitt ta\u2019 aggressjoni. L-istabbiliment\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Historick\u00fd moment: Medzin\u00e1rodn\u00e9 centrum pre st\u00edhanie zlo\u010dinu agresie vo\u010di Ukrajine za\u010d\u00edna svoju \u010dinnos\u0165 v s\u00eddle Eurojustu",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Historick\u00fd moment: Medzin\u00e1rodn\u00e9 centrum pre st\u00edhanie zlo\u010dinu agresie vo\u010di Ukrajine za\u010d\u00edna svoju \u010dinnos\u0165 v s\u00eddle Eurojustu"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/sk/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Dne\u0161n\u00fd de\u0148 sa zap\u00ed\u0161e do dej\u00edn ako de\u0148, ke\u010f Medzin\u00e1rodn\u00e9 centrum pre st\u00edhanie zlo\u010dinu agresie proti Ukrajine (ICPA) ofici\u00e1lne za\u010dalo p\u00f4sobi\u0165 v r\u00e1mci agent\u00fary Eurojust. Centrum ICPA bude podporova\u0165 pr\u00edpravu vec\u00ed t\u00fdkaj\u00facich sa zlo\u010dinu agresie t\u00fdm, \u017ee v\u00a0\u010do najskor\u0161om \u0161t\u00e1diu zabezpe\u010d\u00ed k\u013e\u00fa\u010dov\u00e9 d\u00f4kazy a u\u013eah\u010d\u00ed vyprac\u00favanie spisu. Predseda Eurojustu Ladislav Hamran, eur\u00f3psky komis\u00e1r pre spravodlivos\u0165 Didier Reynders, gener\u00e1lny prokur\u00e1tor Ukrajiny Andrij Kostin, prokur\u00e1tor Medzin\u00e1rodn\u00e9ho trestn\u00e9ho s\u00fadu (MTS) Karim A.A. Khan, n\u00e1mestn\u00edk gener\u00e1lneho prokur\u00e1tora USA Kenneth A. Polite a ministerka spravodlivosti Holandska Dilan Ye\u015filg\u00f6z-Zegerius sl\u00e1vnostne otvorili centrum ICPA v\u00a0r\u00e1mci podujatia organizovan\u00e9ho 3. j\u00fala v\u00a0priestoroch Eurojustu v Haagu. Z\u00e1rove\u0148 bola s \u00datvarom Eur\u00f3pskej komisie pre n\u00e1stroje zahrani\u010dnej politiky podp\u00edsan\u00e1 dohoda o pr\u00edspevku a uskuto\u010dnilo sa aj prv\u00e9 \u00favodn\u00e9 opera\u010dn\u00e9 zasadnutie centra.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dne\u0161n\u00fd de\u0148 sa zap\u00ed\u0161e do dej\u00edn ako de\u0148, ke\u010f Medzin\u00e1rodn\u00e9 centrum pre st\u00edhanie zlo\u010dinu agresie proti Ukrajine (ICPA) ofici\u00e1lne za\u010dalo p\u00f4sobi\u0165 v r\u00e1mci agent\u00fary Eurojust. Centrum ICPA bude podporova\u0165 pr\u00edpravu vec\u00ed t\u00fdkaj\u00facich sa zlo\u010dinu agresie t\u00fdm, \u017ee v\u00a0\u010do najskor\u0161om \u0161t\u00e1diu zabezpe\u010d\u00ed k\u013e\u00fa\u010dov\u00e9 d\u00f4kazy a u\u013eah\u010d\u00ed vyprac\u00favanie spisu. Predseda Eurojustu Ladislav Hamran, eur\u00f3psky komis\u00e1r pre spravodlivos\u0165 Didier Reynders, gener\u00e1lny prokur\u00e1tor Ukrajiny Andrij Kostin, prokur\u00e1tor Medzin\u00e1rodn\u00e9ho trestn\u00e9ho s\u00fadu (MTS) Karim A.A. Khan, n\u00e1mestn\u00edk gener\u00e1lneho prokur\u00e1tora USA Kenneth A. Polite a ministerka spravodlivosti Holandska Dilan Ye\u015filg\u00f6z-Zegerius sl\u00e1vnostne otvorili centrum ICPA v\u00a0r\u00e1mci podujatia organizovan\u00e9ho 3. j\u00fala v\u00a0priestoroch Eurojustu v Haagu. Z\u00e1rove\u0148 bola s \u00datvarom Eur\u00f3pskej komisie pre n\u00e1stroje zahrani\u010dnej politiky podp\u00edsan\u00e1 dohoda o pr\u00edspevku a uskuto\u010dnilo sa aj prv\u00e9 \u00favodn\u00e9 opera\u010dn\u00e9 zasadnutie centra."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteEur\u00f3psky komis\u00e1r pre spravodlivos\u0165 Didier Reynders pri pr\u00edle\u017eitosti otv\u00e1racieho podujatia vyhl\u00e1sil: \u201eZriaden\u00edm centra ICPA Eur\u00f3pska \u00fania op\u00e4tovne potvrdzuje svoje odhodlanie zabezpe\u010di\u0165, aby sa v plnej miere vyvodila zodpovednos\u0165 za medzin\u00e1rodn\u00e9 zlo\u010diny sp\u00e1chan\u00e9 po\u010das vojny Ruska proti Ukrajine vr\u00e1tane zlo\u010dinu agresie.\u2026"
+          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteAtkl\u0101\u0161anas pas\u0101kum\u0101 Eiropas tieslietu komis\u0101rs Didier Reynders teica: \"L\u012bdz ar ICPA izveidi Eiropas Savien\u012bba atk\u0101rtoti apliecina savu ap\u0146em\u0161anos nodro\u0161in\u0101t piln\u012bgu atbild\u012bbu par starptautiskajiem noziegumiem, kas izdar\u012bti Krievijas kara laik\u0101 pret Ukrainu, tostarp par agresijas noziegumu. ICPA izveide ir skaidrs sign\u0101ls\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
