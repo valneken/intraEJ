@@ -1,6 +1,101 @@
 {
-  "timestamp": "2024-01-22 12:16:50",
+  "timestamp": "2024-01-22 18:11:07",
   "entries": [
+    {
+      "title": "Crackdown on criminal network dealing with online investment fraud",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Crackdown on criminal network dealing with online investment fraud"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/online-investment-fraud-visual-0.jpg",
+      "field_list_image_1": "Distressed person, phone, credit card",
+      "summary": "Judicial and law enforcement authorities in Germany, Cyprus, Bulgaria and Sweden have carried out a coordinated action against an organised crime group suspected of online trading fraud. The network defrauded numerous victims for several millions of euros in Germany and other European countries.During a joint action day supported by Eurojust and Europol, four suspects were arrested and thirteen places were searched.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial and law enforcement authorities in Germany, Cyprus, Bulgaria and Sweden have carried out a coordinated action against an organised crime group suspected of online trading fraud. The network defrauded numerous victims for several millions of euros in Germany and other European countries.During a joint action day supported by Eurojust and Europol, four suspects were arrested and thirteen places were searched."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The suspects allegedly belong to a hierarchical criminal network with numerous members. The suspects ran several fraudulent online trading platforms from call centres and other locations in Cyprus. The perpetrators presented themselves as investment advisors and convinced victims to invest large amounts of money based on fake promises of profits.The damage caused to German victims by the two main platforms is estimated at EUR 3.3 million and EUR 164 000, respectively. The total damage caused by the platforms is likely to be many times higher. Eurojust assisted the investigations by organising\u2026"
+        }
+      ],
+      "published": "Mon, 22 Jan 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        1,
+        22,
+        12,
+        0,
+        0,
+        0,
+        22,
+        0
+      ],
+      "id": "9d1e045e-341d-4a51-89ab-c4310eecc528",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Cyprus",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust and Panama sign Working Arrangement to step up cooperation against organised crime",
       "title_detail": {
@@ -3346,66 +3441,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteLe linn an tseolta, d\u00fairt an Coimisin\u00e9ir Eorpach um Cheartas, Didier Reynders: Le bun\u00fa an ICPA, athdhearbha\u00edonn an tAontas Eorpach go bhfuil s\u00e9 tiomanta do chuntasacht ioml\u00e1n a \u00e1irithi\u00fa as na coireanna idirn\u00e1isi\u00fanta a rinneadh le linn chogadh na R\u00faise i gcoinne na h\u00dacr\u00e1ine, lena n-\u00e1ir\u00edtear coir an fhogha. Is comhartha\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Tiek veidota v\u0113sture \u2014 Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu s\u0101k darb\u012bbu a\u0123ent\u016br\u0101 Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Tiek veidota v\u0113sture \u2014 Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu s\u0101k darb\u012bbu a\u0123ent\u016br\u0101 Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lv/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Atz\u012bm\u0113jot v\u0113sturisku br\u012bdi, Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu (ICPA) \u0161odien ofici\u0101li uzs\u0101ka darb\u012bbu a\u0123ent\u016br\u0101 Eurojust. ICPA atbalst\u012bs agresijas nozieguma lietu sagatavo\u0161anu, nodro\u0161inot svar\u012bgus pier\u0101d\u012bjumus un atvieglojot lietu izveides procesu agr\u012bn\u0101 posm\u0101.\n\n\u012apa\u0161\u0101 atkl\u0101\u0161anas pas\u0101kum\u0101 3.\u00a0j\u016blij\u0101 Eurojust telp\u0101s H\u0101g\u0101 ICPA centru atkl\u0101ja Eurojust priek\u0161s\u0113d\u0113t\u0101js Ladislav Hamran, Eiropas tieslietu komis\u0101rs Didier Reynders, Ukrainas \u0123ener\u0101lprokurors Andriy Kostin, Starptautisk\u0101s Krimin\u0101ltiesas prokurors Karim A.A. Khan, \u0123ener\u0101lprokurora pal\u012bgs Kenneth A. Polite un N\u012bderlandes tieslietu ministre Dilan Ye\u015filg\u00f6z-Zegerius. Vienlaikus tika parakst\u012bts ieguld\u012bjuma l\u012bgums ar Eiropas Komisijas \u0100rpolitikas instrumentu dienestu un notika centra pirm\u0101 darb\u012bbas uzs\u0101k\u0161anas san\u0101ksme.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Atz\u012bm\u0113jot v\u0113sturisku br\u012bdi, Starptautiskais centrs sauk\u0161anai pie atbild\u012bbas par agresijas noziegumu pret Ukrainu (ICPA) \u0161odien ofici\u0101li uzs\u0101ka darb\u012bbu a\u0123ent\u016br\u0101 Eurojust. ICPA atbalst\u012bs agresijas nozieguma lietu sagatavo\u0161anu, nodro\u0161inot svar\u012bgus pier\u0101d\u012bjumus un atvieglojot lietu izveides procesu agr\u012bn\u0101 posm\u0101.\n\n\u012apa\u0161\u0101 atkl\u0101\u0161anas pas\u0101kum\u0101 3.\u00a0j\u016blij\u0101 Eurojust telp\u0101s H\u0101g\u0101 ICPA centru atkl\u0101ja Eurojust priek\u0161s\u0113d\u0113t\u0101js Ladislav Hamran, Eiropas tieslietu komis\u0101rs Didier Reynders, Ukrainas \u0123ener\u0101lprokurors Andriy Kostin, Starptautisk\u0101s Krimin\u0101ltiesas prokurors Karim A.A. Khan, \u0123ener\u0101lprokurora pal\u012bgs Kenneth A. Polite un N\u012bderlandes tieslietu ministre Dilan Ye\u015filg\u00f6z-Zegerius. Vienlaikus tika parakst\u012bts ieguld\u012bjuma l\u012bgums ar Eiropas Komisijas \u0100rpolitikas instrumentu dienestu un notika centra pirm\u0101 darb\u012bbas uzs\u0101k\u0161anas san\u0101ksme."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteAtkl\u0101\u0161anas pas\u0101kum\u0101 Eiropas tieslietu komis\u0101rs Didier Reynders teica: \"L\u012bdz ar ICPA izveidi Eiropas Savien\u012bba atk\u0101rtoti apliecina savu ap\u0146em\u0161anos nodro\u0161in\u0101t piln\u012bgu atbild\u012bbu par starptautiskajiem noziegumiem, kas izdar\u012bti Krievijas kara laik\u0101 pret Ukrainu, tostarp par agresijas noziegumu. ICPA izveide ir skaidrs sign\u0101ls\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
