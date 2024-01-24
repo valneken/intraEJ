@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-01-23 18:11:06",
+  "timestamp": "2024-01-24 00:41:14",
   "entries": [
+    {
+      "title": "Support to Dutch action against violation of export sanctions to Russia: three arrests",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Support to Dutch action against violation of export sanctions to Russia: three arrests"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/support-dutch-action-against-violation-export-sanctions-russia-three-arrests"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/support-dutch-action-against-violation-export-sanctions-russia-three-arrests",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-id-82603-tuxford.png",
+      "field_list_image_1": "The word sactions - artistic image",
+      "summary": "Eurojust and Europol have supported a coordinated action of the Dutch, German, Latvian, Lithuanian and Canadian authorities against the alleged violation of export sanctions to Russia. During a joint action day, three suspects were arrested and 14 places searched in view of investigations into the illegal export of technological and laboratory equipment, which could be used for military purposes. Such exports are illegal due to the EU-wide sanctions, which were imposed after the outbreak of the war in Ukraine.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Europol have supported a coordinated action of the Dutch, German, Latvian, Lithuanian and Canadian authorities against the alleged violation of export sanctions to Russia. During a joint action day, three suspects were arrested and 14 places searched in view of investigations into the illegal export of technological and laboratory equipment, which could be used for military purposes. Such exports are illegal due to the EU-wide sanctions, which were imposed after the outbreak of the war in Ukraine."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The arrested persons are suspected of being part of an international smuggling network. The physical and digital administration of a Dutch-registered enterprise has been seized, in addition to the enterprise\u2019s bank account and communication tools.Investigations into the case were initiated at the end of 2023 by the Dutch authorities and led to the uncovering of a web of enterprises, which were used to circumvent the ban on exports to Russia. These enterprises were centred around a Dutch-registered trading company, which was set up in 2017 for the import, export and sales of electro-technical\u2026"
+        }
+      ],
+      "published": "Tue, 23 Jan 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        1,
+        23,
+        12,
+        0,
+        0,
+        1,
+        23,
+        0
+      ],
+      "id": "19dae1c8-a417-4aa6-a9b1-261d7b7c6d70",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Latvia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Crackdown on criminal network dealing with online investment fraud",
       "title_detail": {
@@ -3381,66 +3466,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and US Assistant Attorney General Kenneth A. Polite, Jr.During the launch event, European Commissioner for Justice Didier Reynders said: With the set-up of the ICPA, the European Union reiterates its commitment to ensuring full accountability for the international crimes committed during Russia\u2019s war against Ukraine, including the crime of aggression. The set-up of\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "L\u00e1 d\u00e1r saol \u00e9 \u2014 cuireadh t\u00fas le hoibr\u00edochta\u00ed an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in ag Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ga/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ba eachtra mh\u00f3r stairi\u00fail \u00e9 nuair a chuir an L\u00e1rionad Idirn\u00e1isi\u00fanta um Ionch\u00faiseamh Choir an Fhogha faoin \u00dacr\u00e1in (ICPA) t\u00fas oifigi\u00fail inniu le hoibr\u00edochta\u00ed ag Eurojust. Tac\u00f3idh ICPA le c\u00e1sanna um choir an fhogha a ullmh\u00fa, tr\u00ed fhianaise r\u00edth\u00e1bhachtach a dhaingni\u00fa agus tr\u00edd an bpr\u00f3iseas de th\u00f3g\u00e1il c\u00e1sanna a \u00e9asc\u00fa ag c\u00e9im luath.\n\nAg \u00f3c\u00e1id seolta tiomnaithe an 3 I\u00fail ag \u00e1itreabh Eurojust sa H\u00e1ig, oscla\u00edodh an ICPA go hoifigi\u00fail leis an Uachtar\u00e1n Eurojust, Ladislav Hamran, an Coimisin\u00e9ir Eorpach um Cheartas Didier Reynders, Ionch\u00faisitheoir Ginear\u00e1lta na h\u00dacr\u00e1ine Andriy Kostin, Ionch\u00faisitheoir na C\u00fairte Coiri\u00fala Idirn\u00e1isi\u00fanta Karim A.A. Khan, Ard-Aighne C\u00fanta Kenneth A. Polite, agus Aire Dl\u00ed agus Cirt na h\u00cdsilt\u00edre Dilan Ye\u015filg\u00f6z-Zegerius. Ag an am c\u00e9anna, s\u00edn\u00edodh comhaont\u00fa rann\u00edoca\u00edochta le Seirbh\u00eds an Choimisi\u00fain Eorpaigh um Ionstraim\u00ed Beartais Eachtraigh agus re\u00e1cht\u00e1ladh an ch\u00e9ad chruinni\u00fa tosaigh oibr\u00edocht\u00fail ag an L\u00e1rionad."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. PoliteLe linn an tseolta, d\u00fairt an Coimisin\u00e9ir Eorpach um Cheartas, Didier Reynders: Le bun\u00fa an ICPA, athdhearbha\u00edonn an tAontas Eorpach go bhfuil s\u00e9 tiomanta do chuntasacht ioml\u00e1n a \u00e1irithi\u00fa as na coireanna idirn\u00e1isi\u00fanta a rinneadh le linn chogadh na R\u00faise i gcoinne na h\u00dacr\u00e1ine, lena n-\u00e1ir\u00edtear coir an fhogha. Is comhartha\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
