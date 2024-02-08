@@ -1,6 +1,71 @@
 {
-  "timestamp": "2024-02-07 18:10:24",
+  "timestamp": "2024-02-08 00:37:16",
   "entries": [
+    {
+      "title": "One of the key leaders of EncroChat extradited to France with the support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "One of the key leaders of EncroChat extradited to France with the support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/one-key-leaders-encrochat-extradited-france-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/one-key-leaders-encrochat-extradited-france-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-pr-extradition-encrochat.jpg",
+      "field_list_image_1": "Phone, and EncroChat word",
+      "summary": "One of the main key leaders of the company behind the encrypted communication tool EncroChat has been extradited to France from the Dominican Republic with the active support of Eurojust. The person involved was arrested in the Dominican Republic in May 2022 and has been under house arrest since then.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "One of the main key leaders of the company behind the encrypted communication tool EncroChat has been extradited to France from the Dominican Republic with the active support of Eurojust. The person involved was arrested in the Dominican Republic in May 2022 and has been under house arrest since then."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "An international arrest warrant was issued against the suspect in July 2021. He was extradited to France last week at the request of the Public Prosecutor of Lille.This dismantling was coordinated and supported by Eurojust and Europol and sent shockwaves through organised crime. Between 2020 and 2023, over 6 500 suspects were arrested and at least EUR 900 million in assets were seized, with investigations still ongoing. Eurojust supported a joint investigation team into the case from 2020.In an update on the EncroChat investigations, in June 2023, the Public Prosecutor of Lille already\u2026"
+        }
+      ],
+      "published": "Wed, 07 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        7,
+        12,
+        0,
+        0,
+        2,
+        38,
+        0
+      ],
+      "id": "82c14dcc-b367-4f42-94b4-d1336fbf5c26",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Extradition",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Major blow to Albanian drug trafficking network: 59 arrests across Europe",
       "title_detail": {
@@ -3446,66 +3511,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nTijdens het openingsevenement zei EU-commissaris voor Justitie Didier Reynders: \u201dMet de oprichting van het ICPA benadrukt de Europese Unie dat zij vastbesloten is te zorgen voor een volledige verantwoordingsplicht voor de internationale misdrijven die tijdens de oorlog van Rusland tegen Oekra\u00efne zijn gepleegd, met\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Pi\u0161e se zgodovina \u2013 Pri Eurojustu je za\u010del delovati Mednarodni center za pregon kaznivega dejanja agresije proti Ukrajini",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Pi\u0161e se zgodovina \u2013 Pri Eurojustu je za\u010del delovati Mednarodni center za pregon kaznivega dejanja agresije proti Ukrajini"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/sl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Dana\u0161nji uradni za\u010detek delovanja Mednarodnega centra za pregon kaznivega dejanja agresije proti Ukrajini (ICPA) pri Eurojustu je pravi zgodovinski trenutek. Center ICPA bo zagotavljal podporo pri pripravi primerov kaznivega dejanja agresije, pri \u010demer bo zagotavljal klju\u010dne dokaze in olaj\u0161al postopek priprave primerov \u017ee v zgodnji fazi.\n\nNa posebni slovesnosti ob za\u010detku delovanja so 3.julija v Eurojustovih prostorih v Haagu mednarodni center ICPA odprli Eurojustov predsednik Ladislav Hamran, evropski komisar za pravosodje Didier Reynders, ukrajinski generalni dr\u017eavni to\u017eilec Andriy Kostin, to\u017eilec Mednarodnega kazenskega sodi\u0161\u010da Karim A. A. Khan, pomo\u010dnik generalnega dr\u017eavnega to\u017eilca Kenneth A. Polite in nizozemska ministrica za pravosodje Dilan Ye\u015filg\u00f6z-Zegerius. Hkrati je bil s slu\u017ebo Evropske komisije za instrumente zunanje politike podpisan sporazum o prispevku in izveden je bil prvi operativni uvodni sestanek tega mednarodnega centra.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dana\u0161nji uradni za\u010detek delovanja Mednarodnega centra za pregon kaznivega dejanja agresije proti Ukrajini (ICPA) pri Eurojustu je pravi zgodovinski trenutek. Center ICPA bo zagotavljal podporo pri pripravi primerov kaznivega dejanja agresije, pri \u010demer bo zagotavljal klju\u010dne dokaze in olaj\u0161al postopek priprave primerov \u017ee v zgodnji fazi.\n\nNa posebni slovesnosti ob za\u010detku delovanja so 3.julija v Eurojustovih prostorih v Haagu mednarodni center ICPA odprli Eurojustov predsednik Ladislav Hamran, evropski komisar za pravosodje Didier Reynders, ukrajinski generalni dr\u017eavni to\u017eilec Andriy Kostin, to\u017eilec Mednarodnega kazenskega sodi\u0161\u010da Karim A. A. Khan, pomo\u010dnik generalnega dr\u017eavnega to\u017eilca Kenneth A. Polite in nizozemska ministrica za pravosodje Dilan Ye\u015filg\u00f6z-Zegerius. Hkrati je bil s slu\u017ebo Evropske komisije za instrumente zunanje politike podpisan sporazum o prispevku in izveden je bil prvi operativni uvodni sestanek tega mednarodnega centra."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nEurojustov predsednik Ladislav Hamran je povedal: \u201eEurojust je dosegel dobre rezultate pri zagotavljanju operativne, tehni\u010dne, logisti\u010dne in finan\u010dne podpore nacionalnim to\u017eilcem, ki obravnavajo \u010dezmejne primere. \u017de od za\u010detka te vojne je bila ta podpora zagotovljena za usklajevanje in krepitev nacionalnih preiskav\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
