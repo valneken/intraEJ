@@ -1,6 +1,116 @@
 {
-  "timestamp": "2024-02-20 12:14:22",
+  "timestamp": "2024-02-20 18:12:14",
   "entries": [
+    {
+      "title": "Eurojust supports international operation against world\u2019s largest ransomware group",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports international operation against world\u2019s largest ransomware group"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-international-operation-against-worlds-largest-ransomware-group"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-international-operation-against-worlds-largest-ransomware-group",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-lockbit-case.jpg",
+      "field_list_image_1": "Generic lock icon",
+      "summary": "In a coordinated action supported by Eurojust and Europol, judicial and law enforcement authorities from 10 different countries have severely disrupted LockBit, the world\u2019s most active ransomware operation. Two members of the ransomware team have been arrested in Poland and Ukraine. In addition, law enforcement has compromised LockBit\u2019s primary platform and other enabling infrastructure. This includes the takedown of 34 servers in the Netherlands, Germany, Finland, France, Switzerland, Australia, the United States and the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In a coordinated action supported by Eurojust and Europol, judicial and law enforcement authorities from 10 different countries have severely disrupted LockBit, the world\u2019s most active ransomware operation. Two members of the ransomware team have been arrested in Poland and Ukraine. In addition, law enforcement has compromised LockBit\u2019s primary platform and other enabling infrastructure. This includes the takedown of 34 servers in the Netherlands, Germany, Finland, France, Switzerland, Australia, the United States and the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "LockBit first emerged at the end of 2019, initially calling itself \u2018ABCD\u2019 ransomware. Since then, it has grown rapidly and by 2022 had become the most deployed ransomware variant worldwide. LockBit attacks are believed to have affected over 2,500 victims all over the world.The group is a \u2018ransomware-as-a-service\u2019 operation, meaning that a core team creates its malware and runs its website, while licensing out its code to affiliates who launch attacks.The joint action enabled the various police forces to take control of much of the infrastructure that enables the LockBit ransomware to operate\u2026"
+        }
+      ],
+      "published": "Tue, 20 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        20,
+        12,
+        0,
+        0,
+        1,
+        51,
+        0
+      ],
+      "id": "e9fcedf6-7049-4820-955c-3508eb271deb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "One of the key leaders of EncroChat extradited to France with the support of Eurojust",
       "title_detail": {
@@ -3451,66 +3561,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nA nyit\u00f3esem\u00e9nyen Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos a k\u00f6vetkez\u0151ket mondta: Az Eur\u00f3pai Uni\u00f3 az ICPA l\u00e9trehoz\u00e1s\u00e1val \u00faj\u00f3lag meger\u0151s\u00edti elk\u00f6telezetts\u00e9g\u00e9t az Oroszorsz\u00e1g Ukrajna elleni h\u00e1bor\u00faja sor\u00e1n elk\u00f6vetett nemzetk\u00f6zi b\u0171ncselekm\u00e9nyekkel \u2013 t\u00f6bbek k\u00f6z\u00f6tt az agresszi\u00f3 b\u0171ntett\u00e9vel \u2013 kapcsolatos\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Geschiedenis in de maak \u2013 het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne start zijn werkzaamheden bij Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Geschiedenis in de maak \u2013 het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne start zijn werkzaamheden bij Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/nl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/nl/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Op een historisch moment is het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne (ICPA) vandaag officieel van start gegaan bij Eurojust. Het ICPA ondersteunt de voorbereiding van de vervolging van agressiemisdrijven door cruciaal bewijsmateriaal te verzamelen en veilig te stellen en de procedure voor het onderbouwen van zaken in een vroeg stadium te vergemakkelijken.\n\nOp 3 juli werd het ICPA formeel geopend in het gebouw van Eurojust in Den Haag. Tijdens het openingsevenement werden toespraken gehouden door de voorzitter van Eurojust Ladislav Hamran, de EU-commissaris voor Justitie Didier Reynders, de procureur-generaal van Oekra\u00efne Andriy Kostin, de aanklager van het Internationaal Strafhof Karim A. A. Khan, plaatsvervangend procureur-generaal Kenneth A. Polite en minister van Justitie van Nederland mevrouw Dilan Ye\u015filg\u00f6z-Zegerius. Tegelijkertijd werd een bijdrageovereenkomst met de Dienst Instrumenten buitenlands beleid van de Europese Commissie ondertekend en vond de eerste operationele startvergadering van het Centrum plaats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Op een historisch moment is het Internationaal Centrum voor de vervolging van het misdrijf agressie tegen Oekra\u00efne (ICPA) vandaag officieel van start gegaan bij Eurojust. Het ICPA ondersteunt de voorbereiding van de vervolging van agressiemisdrijven door cruciaal bewijsmateriaal te verzamelen en veilig te stellen en de procedure voor het onderbouwen van zaken in een vroeg stadium te vergemakkelijken.\n\nOp 3 juli werd het ICPA formeel geopend in het gebouw van Eurojust in Den Haag. Tijdens het openingsevenement werden toespraken gehouden door de voorzitter van Eurojust Ladislav Hamran, de EU-commissaris voor Justitie Didier Reynders, de procureur-generaal van Oekra\u00efne Andriy Kostin, de aanklager van het Internationaal Strafhof Karim A. A. Khan, plaatsvervangend procureur-generaal Kenneth A. Polite en minister van Justitie van Nederland mevrouw Dilan Ye\u015filg\u00f6z-Zegerius. Tegelijkertijd werd een bijdrageovereenkomst met de Dienst Instrumenten buitenlands beleid van de Europese Commissie ondertekend en vond de eerste operationele startvergadering van het Centrum plaats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nTijdens het openingsevenement zei EU-commissaris voor Justitie Didier Reynders: \u201dMet de oprichting van het ICPA benadrukt de Europese Unie dat zij vastbesloten is te zorgen voor een volledige verantwoordingsplicht voor de internationale misdrijven die tijdens de oorlog van Rusland tegen Oekra\u00efne zijn gepleegd, met\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
