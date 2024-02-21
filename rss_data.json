@@ -1,6 +1,196 @@
 {
-  "timestamp": "2024-02-21 12:15:09",
+  "timestamp": "2024-02-21 18:10:06",
   "entries": [
+    {
+      "title": "Over 100 searches and four arrests in Latvia, Germany, France, Italy and Malta against financial institution involved in money laundering",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Over 100 searches and four arrests in Latvia, Germany, France, Italy and Malta against financial institution involved in money laundering"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/over-100-searches-and-four-arrests-latvia-germany-france-italy-and-malta-against-financial-institution"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/over-100-searches-and-four-arrests-latvia-germany-france-italy-and-malta-against-financial-institution",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-malta-money-laundering-case.jpg",
+      "field_list_image_1": "Generic money image",
+      "summary": "National authorities in Latvia, Germany, France, Italy and Malta have carried out over 100 searches in a large-scale operation against a Russian-Eurasian criminal network and a Maltese-based financial institution allegedly involved in money-laundering services. Four suspects were detained during an action day supported by Eurojust and Europol. Potential suspects and witnesses were also interviewed in Latvia, Germany, Estonia and Malta.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National authorities in Latvia, Germany, France, Italy and Malta have carried out over 100 searches in a large-scale operation against a Russian-Eurasian criminal network and a Maltese-based financial institution allegedly involved in money-laundering services. Four suspects were detained during an action day supported by Eurojust and Europol. Potential suspects and witnesses were also interviewed in Latvia, Germany, Estonia and Malta."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During the actions, over 460 police officers were deployed to carry out the searches. Germany also deployed four officers to support the investigations and searches in Latvia and Malta. In addition to the arrests, various bank accounts and properties were seized.The Maltese financial institution laundered at least EUR 4.5 million in proceedings from criminal activities since end of 2015. The total sum of laundered money could amount to tens of millions of euros. The financial institution and organised crime group (OCG) behind it offered money-laundering services via a network of fake\u2026"
+        }
+      ],
+      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        21,
+        12,
+        0,
+        0,
+        2,
+        52,
+        0
+      ],
+      "id": "8e190ea2-b0c0-4b3d-9b2c-b361cb474af9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "JIT funding",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Estonia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Latvia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Malta",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Ongoing action targets large migrant smuggling network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ongoing action targets large migrant smuggling network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-migrants-smuggling-network-english-channels-case.jpg",
+      "field_list_image_1": "Police line do not cross sign",
+      "summary": "",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": ""
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Large-scale operation involving law enforcement and judicial authorities from Belgium, France and Germany and coordinated by Eurojust and Europol led to the dismantling of one of the most active networks involved in the smuggling of migrants across the English Channel in small boats. The investigation focused on an Iraqi-Kurdish network suspected of smuggling middle-Eastern and East African irregular migrants from France to the UK with the use of low quality inflatable boats. German authorities raided houses and storage spaces. This resulted in the arrest of more than 15 individuals under\u2026"
+        }
+      ],
+      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        21,
+        12,
+        0,
+        0,
+        2,
+        52,
+        0
+      ],
+      "id": "33acdbed-9d3c-4721-a975-96f07de64240",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports international operation against world\u2019s largest ransomware group",
       "title_detail": {
@@ -3441,126 +3631,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nUnder lanceringsarrangementet udtalte EU's kommiss\u00e6r med ansvar for retlige anliggender Didier Reynders: Med oprettelsen af ICPA gentager Den Europ\u00e6iske Union sit tilsagn om at sikre, at de ansvarlige fuldt ud drages til ansvar for de internationale forbrydelser, der beg\u00e5s under Ruslands krig mod Ukraine, herunder\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "fgAjalooline s\u00fcndmus \u2013 Eurojustis alustab tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "fgAjalooline s\u00fcndmus \u2013 Eurojustis alustab tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/et/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Ajaloolise hetkena alustas t\u00e4na Eurojustis ametlikult tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks (ICPA). ICPA toetab agressioonikuritegude kohtuasjade ettevalmistamist, s\u00e4ilitades olulisi t\u00f5endeid ja soodustades kohtuasjade ettevalmistamist juba varajases etapis.\n\n3. juulil Haagis Eurojusti ruumides toimunud spetsiaalsel ava\u00fcritusel avasid ICPA pidulikult Eurojusti president Ladislav Hamran, Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders, Ukraina peaprokur\u00f6r Andri Kostin, Rahvusvahelise Kriminaalkohtu prokur\u00f6r Karim A. A. Khan, abiprokur\u00f6r Kenneth A. Polite ja Madalmaade justiitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samal ajal allkirjastati toetusleping Euroopa Komisjoni v\u00e4lispoliitika vahendite talitusega ja toimus keskuse esimene t\u00f6\u00f6koosolek.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ajaloolise hetkena alustas t\u00e4na Eurojustis ametlikult tegevust rahvusvaheline keskus Ukraina-vastaste agressioonikuritegude eest vastutusele v\u00f5tmiseks (ICPA). ICPA toetab agressioonikuritegude kohtuasjade ettevalmistamist, s\u00e4ilitades olulisi t\u00f5endeid ja soodustades kohtuasjade ettevalmistamist juba varajases etapis.\n\n3. juulil Haagis Eurojusti ruumides toimunud spetsiaalsel ava\u00fcritusel avasid ICPA pidulikult Eurojusti president Ladislav Hamran, Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders, Ukraina peaprokur\u00f6r Andri Kostin, Rahvusvahelise Kriminaalkohtu prokur\u00f6r Karim A. A. Khan, abiprokur\u00f6r Kenneth A. Polite ja Madalmaade justiitsminister Dilan Ye\u015filg\u00f6z-Zegerius. Samal ajal allkirjastati toetusleping Euroopa Komisjoni v\u00e4lispoliitika vahendite talitusega ja toimus keskuse esimene t\u00f6\u00f6koosolek."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\n\nAvamis\u00fcritusel m\u00e4rkis Euroopa Komisjoni \u00f5igusk\u00fcsimuste volinik Didier Reynders: ICPA loomisega r\u00f5hutab Euroopa Liit taas kord, et p\u00fchendub tagama Venemaa Ukraina-vastases s\u00f5jas sooritatud rahvusvaheliste kuritegude, sealhulgas agressioonikuritegude eest t\u00e4ieliku vastutusele v\u00f5tmise. ICPA loomine annab maailmale\u2026"
-        }
-      ],
-      "published": "Mon, 03 Jul 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        7,
-        3,
-        12,
-        0,
-        0,
-        0,
-        184,
-        0
-      ],
-      "id": "672873ab-7070-4beb-9df3-e8b3decb7ede",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "T\u00f6rt\u00e9nelmi pillanat \u2013 Az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont megkezdi m\u0171k\u00f6d\u00e9s\u00e9t az Eurojust sz\u00e9khely\u00e9n",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "T\u00f6rt\u00e9nelmi pillanat \u2013 Az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont megkezdi m\u0171k\u00f6d\u00e9s\u00e9t az Eurojust sz\u00e9khely\u00e9n"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/hu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/hu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-press-if.jpg",
-      "field_list_image_1": "Press conference mics",
-      "summary": "Fontos pillanathoz \u00e9rkezt\u00fcnk \u2013 a mai napon hivatalosan megkezdte m\u0171k\u00f6d\u00e9s\u00e9t az Eurojustn\u00e1l az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont (ICPA). Az ICPA az\u00e1ltal fog t\u00e1mogat\u00e1st ny\u00fajtani az agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos \u00fcgyek el\u0151k\u00e9sz\u00edt\u00e9s\u00e9hez, hogy biztons\u00e1gosan t\u00e1rolja a kulcsfontoss\u00e1g\u00fa bizony\u00edt\u00e9kokat, \u00e9s m\u00e1r a korai szakaszban megk\u00f6nny\u00edti a v\u00e1demel\u00e9s el\u0151k\u00e9sz\u00edt\u00e9s\u00e9t.\n\nAz Eurojust h\u00e1gai sz\u00e9kh\u00e1z\u00e1ban j\u00falius 3-\u00e1n megrendezett nyit\u00f3esem\u00e9nyen Ladislav Hamran, az Eurojust eln\u00f6ke, Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos, Andrij Kosztyin ukr\u00e1n legf\u0151bb \u00fcgy\u00e9sz, Karim A.A. Khan, a Nemzetk\u00f6zi B\u00fcntet\u0151b\u00edr\u00f3s\u00e1g f\u0151\u00fcgy\u00e9sze, Kenneth A. Polite, az USA legf\u0151bb \u00fcgy\u00e9sz\u00e9nek helyettese \u00e9s Dilan Ye\u015filg\u00f6z-Zegerius holland igazs\u00e1g\u00fcgyi miniszter nyitott\u00e1k meg az ICPA-t. Ezzel egy id\u0151ben al\u00e1\u00edrt\u00e1k az Eur\u00f3pai Bizotts\u00e1g K\u00fclpolitikai Eszk\u00f6z\u00f6k\u00e9rt Felel\u0151s Szolg\u00e1lat\u00e1val k\u00f6t\u00f6tt hozz\u00e1j\u00e1rul\u00e1si meg\u00e1llapod\u00e1st, \u00e9s megtartott\u00e1k a K\u00f6zpont els\u0151 operat\u00edv \u00fcl\u00e9s\u00e9t.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Fontos pillanathoz \u00e9rkezt\u00fcnk \u2013 a mai napon hivatalosan megkezdte m\u0171k\u00f6d\u00e9s\u00e9t az Eurojustn\u00e1l az Ukrajna elleni agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos b\u00fcntet\u0151elj\u00e1r\u00e1s lefolytat\u00e1s\u00e1val foglalkoz\u00f3 nemzetk\u00f6zi k\u00f6zpont (ICPA). Az ICPA az\u00e1ltal fog t\u00e1mogat\u00e1st ny\u00fajtani az agresszi\u00f3 b\u0171ntett\u00e9vel kapcsolatos \u00fcgyek el\u0151k\u00e9sz\u00edt\u00e9s\u00e9hez, hogy biztons\u00e1gosan t\u00e1rolja a kulcsfontoss\u00e1g\u00fa bizony\u00edt\u00e9kokat, \u00e9s m\u00e1r a korai szakaszban megk\u00f6nny\u00edti a v\u00e1demel\u00e9s el\u0151k\u00e9sz\u00edt\u00e9s\u00e9t.\n\nAz Eurojust h\u00e1gai sz\u00e9kh\u00e1z\u00e1ban j\u00falius 3-\u00e1n megrendezett nyit\u00f3esem\u00e9nyen Ladislav Hamran, az Eurojust eln\u00f6ke, Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos, Andrij Kosztyin ukr\u00e1n legf\u0151bb \u00fcgy\u00e9sz, Karim A.A. Khan, a Nemzetk\u00f6zi B\u00fcntet\u0151b\u00edr\u00f3s\u00e1g f\u0151\u00fcgy\u00e9sze, Kenneth A. Polite, az USA legf\u0151bb \u00fcgy\u00e9sz\u00e9nek helyettese \u00e9s Dilan Ye\u015filg\u00f6z-Zegerius holland igazs\u00e1g\u00fcgyi miniszter nyitott\u00e1k meg az ICPA-t. Ezzel egy id\u0151ben al\u00e1\u00edrt\u00e1k az Eur\u00f3pai Bizotts\u00e1g K\u00fclpolitikai Eszk\u00f6z\u00f6k\u00e9rt Felel\u0151s Szolg\u00e1lat\u00e1val k\u00f6t\u00f6tt hozz\u00e1j\u00e1rul\u00e1si meg\u00e1llapod\u00e1st, \u00e9s megtartott\u00e1k a K\u00f6zpont els\u0151 operat\u00edv \u00fcl\u00e9s\u00e9t."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "ICC Prosecutor Karim A.A. Khan, Justice Minister of the Netherlands Ms Dilan Ye\u015filg\u00f6z-Zegerius, Prosecutor General of Ukraine Andriy Kostin, Eurojust\u2019s President Ladislav Hamran, European Commissioner for Justice Didier Reynders and Assistant Attorney General Kenneth A. Polite\n\n\nA nyit\u00f3esem\u00e9nyen Didier Reynders, a jog\u00e9rv\u00e9nyes\u00fcl\u00e9s\u00e9rt felel\u0151s eur\u00f3pai biztos a k\u00f6vetkez\u0151ket mondta: Az Eur\u00f3pai Uni\u00f3 az ICPA l\u00e9trehoz\u00e1s\u00e1val \u00faj\u00f3lag meger\u0151s\u00edti elk\u00f6telezetts\u00e9g\u00e9t az Oroszorsz\u00e1g Ukrajna elleni h\u00e1bor\u00faja sor\u00e1n elk\u00f6vetett nemzetk\u00f6zi b\u0171ncselekm\u00e9nyekkel \u2013 t\u00f6bbek k\u00f6z\u00f6tt az agresszi\u00f3 b\u0171ntett\u00e9vel \u2013 kapcsolatos\u2026"
         }
       ],
       "published": "Mon, 03 Jul 2023 14:00:00 +0200",
