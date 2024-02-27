@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-02-27 12:14:01",
+  "timestamp": "2024-02-27 18:10:40",
   "entries": [
+    {
+      "title": "Full-scale action against EUR 2 billion money laundering network via Lithuanian financial institution",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Full-scale action against EUR 2 billion money laundering network via Lithuanian financial institution"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/full-scale-action-against-eur-2-billion-money-laundering-network-lithuanian-financial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/full-scale-action-against-eur-2-billion-money-laundering-network-lithuanian-financial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-ids-69038-68672-69210.jpg",
+      "field_list_image_1": "bank notes",
+      "summary": "Judicial and law enforcement authorities in Italy, Latvia and Lithuania have taken concerted action against a large-scale money laundering business, centring around a Lithuanian financial institution. Since 2017, an estimated EUR 2 billion has been laundered by two main suspects via a worldwide web of shell companies. The suspects, who now have been detained, offered money laundering online as a service to criminals.A third main suspect, leading another organised crime group (OCG), was arrested in the same operation for defrauding the Italian authorities of EUR 15 million in public funds. These funds were laundered via the same myriad web of enterprises, centred around the financial institution in Lithuania.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial and law enforcement authorities in Italy, Latvia and Lithuania have taken concerted action against a large-scale money laundering business, centring around a Lithuanian financial institution. Since 2017, an estimated EUR 2 billion has been laundered by two main suspects via a worldwide web of shell companies. The suspects, who now have been detained, offered money laundering online as a service to criminals.A third main suspect, leading another organised crime group (OCG), was arrested in the same operation for defrauding the Italian authorities of EUR 15 million in public funds. These funds were laundered via the same myriad web of enterprises, centred around the financial institution in Lithuania."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During an action day on 27 February, around 250 judicial representatives and law enforcement officers were active on the ground. In total 18 persons have been arrested, including the three main suspects. In total 55 places were searched and over EUR 11.5 million in assets and bank accounts have been frozen. Eurojust and Europol played pivotal roles in facilitating and coordinating the international activities.The financial institution offered money laundering as a service to thousands of criminals across the EU, by making fictitious financial transactions via the web of enterprises, which\u2026"
+        }
+      ],
+      "published": "Tue, 27 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        27,
+        12,
+        0,
+        0,
+        1,
+        58,
+        0
+      ],
+      "id": "b3725f59-56b6-4fb8-b6aa-ce20d832fc12",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Latvia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Five High Value Targets arrested as one of the largest networks smuggling migrants across the English Channels halted",
       "title_detail": {
@@ -3657,71 +3742,6 @@
         },
         {
           "term": "Finland",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Most wanted Hungarian criminals arrested in Spain with Eurojust support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Most wanted Hungarian criminals arrested in Spain with Eurojust support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/most-wanted-hungarian-criminals-arrested-spain-eurojust-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/most-wanted-hungarian-criminals-arrested-spain-eurojust-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/cannabis-field.jpg",
-      "field_list_image_1": "Cannabis field",
-      "summary": "Three Hungarian criminals on Europol\u2019s European Most Wanted list have been arrested by the Hungarian and Spanish authorities in a simultaneous joint action carried out in Spain. The suspects allegedly run a cannabis plantation and processing facility in Hungary. Eurojust supported the investigation and played a key role in facilitating cross-border judicial cooperation during the operation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Three Hungarian criminals on Europol\u2019s European Most Wanted list have been arrested by the Hungarian and Spanish authorities in a simultaneous joint action carried out in Spain. The suspects allegedly run a cannabis plantation and processing facility in Hungary. Eurojust supported the investigation and played a key role in facilitating cross-border judicial cooperation during the operation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Between 2020 and 2021, the suspects allegedly operated a professionally equipped and automated infrastructure for the cultivation and processing of thousands of cannabis plants in Hungary. The Hungarian authorities dismantled the facility in May 2021. During the operation, the authorities seized 165 kg of marijuana and cocaine and assets worth over HUF 380 million (EUR 983,700).\n\n\n\nThe authorities were able to identify all seven members of the criminal network and arrested two of them soon after the operation. The other five members were placed on Europol\u2019s European Most Wanted list.\n\nThree\u2026"
-        }
-      ],
-      "published": "Thu, 03 Aug 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        8,
-        3,
-        12,
-        0,
-        0,
-        3,
-        215,
-        0
-      ],
-      "id": "79e8eb65-5eac-4900-9a68-a52722f1d85c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Hungary",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
           "scheme": "Member State",
           "label": null
         }
