@@ -1,6 +1,101 @@
 {
-  "timestamp": "2024-03-01 12:14:22",
+  "timestamp": "2024-03-01 18:10:55",
   "entries": [
+    {
+      "title": "Eight arrested in international operation against human trafficking supported by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eight arrested in international operation against human trafficking supported by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eight-arrested-international-operation-against-human-trafficking-supported-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eight-arrested-international-operation-against-human-trafficking-supported-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/human-trafficking-be-hu-case.jpg",
+      "field_list_image_1": "distressed woman",
+      "summary": "With the support of Eurojust and Europol, authorities in Belgium and Hungary have taken action against an organised crime group involved in the trafficking of women for sexual exploitation. During a joint action, eight suspects were arrested in both countries. Several victims have been identified and brought to safety. Eurojust assisted the authorities in setting up and funding a joint investigation team (JIT) into the case.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the support of Eurojust and Europol, authorities in Belgium and Hungary have taken action against an organised crime group involved in the trafficking of women for sexual exploitation. During a joint action, eight suspects were arrested in both countries. Several victims have been identified and brought to safety. Eurojust assisted the authorities in setting up and funding a joint investigation team (JIT) into the case."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During an international operation carried out on 20 February, eight suspects were arrested: six in Belgium and two in Hungary. The police seized 15 luxury vehicles, around EUR 34,000 in cash and EUR 9,500 in gold and silver during the searches in Belgium. In Hungary, a luxury vehicle, EUR 6,000 in cash and four wristwatches were seized.The case was opened by Eurojust in February 2023 at the request of the Belgian authorities. A JIT was set up between the Belgian and Hungarian authorities with the support of Eurojust in May 2023. One coordination meeting was hosted by the Agency to facilitate\u2026"
+        }
+      ],
+      "published": "Fri, 01 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        1,
+        12,
+        0,
+        0,
+        4,
+        61,
+        0
+      ],
+      "id": "214800b2-ff99-4ecf-871f-a91c74c900ce",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "JIT funding",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports an EPPO-led operation against carousel VAT fraud for the first time",
       "title_detail": {
@@ -3668,106 +3763,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Malware network that infected more than 700.000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Malware network that infected more than 700.000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/malware-network-infected-more-700000-victims-and-caused-hundreds-millions-dollars-damage"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/malware-network-infected-more-700000-victims-and-caused-hundreds-millions-dollars-damage",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/malware-stock-image.jpg",
-      "field_list_image_1": "Generic image",
-      "summary": "The infrastructure of the malware and botnet known as \u2019Qakbot\u2019 has been taken down in an international operation led by the United States involving actions in the United States, France, Germany, the Netherlands, the United Kingdom, Romania and Latvia. The Qakbot malware infected more than 700.000 victim computers, facilitated the delivery of ransomware and caused hundreds of millions of dollars in damage worldwide. This is one of the largest financial and technical disruptions of a botnet infrastructure leveraged by cybercriminals to commit ransomware, financial fraud and other cyber-enabled criminal activity.\n\nThe US authorities seized approximately USD 8.6 million (nearly EUR 8 million) in cryptocurrency during the operation. Eurojust and Europol supported the investigation and played a key role in facilitating cross-border cooperation during the action day.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The infrastructure of the malware and botnet known as \u2019Qakbot\u2019 has been taken down in an international operation led by the United States involving actions in the United States, France, Germany, the Netherlands, the United Kingdom, Romania and Latvia. The Qakbot malware infected more than 700.000 victim computers, facilitated the delivery of ransomware and caused hundreds of millions of dollars in damage worldwide. This is one of the largest financial and technical disruptions of a botnet infrastructure leveraged by cybercriminals to commit ransomware, financial fraud and other cyber-enabled criminal activity.\n\nThe US authorities seized approximately USD 8.6 million (nearly EUR 8 million) in cryptocurrency during the operation. Eurojust and Europol supported the investigation and played a key role in facilitating cross-border cooperation during the action day."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "According to the investigation, Qakbot (also known as \u2018Qbot\u2019 and \u2018Pinkslipbot\u2019, among other names) was controlled by a criminal network and was used by other criminals to target critical industries worldwide. The Qakbot malware infects victim computers primarily through spam email messages containing malicious attachments or hyperlinks.\n\n\n\nOnce it has infected a victim computer, Qakbot can deliver additional malware, including ransomware. The victim computers infected with Qakbot malware are part of a botnet \u2013 a network of compromised computers \u2013 that allows infected computers to be\u2026"
-        }
-      ],
-      "published": "Wed, 30 Aug 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        8,
-        30,
-        12,
-        0,
-        0,
-        2,
-        242,
-        0
-      ],
-      "id": "90219789-608d-47c3-993d-a7c01e725cf6",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
