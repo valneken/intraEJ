@@ -1,6 +1,101 @@
 {
-  "timestamp": "2024-03-05 12:14:38",
+  "timestamp": "2024-03-05 18:10:00",
   "entries": [
+    {
+      "title": "Support to halt money laundering in Italy via tax fraud and fake invoices",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Support to halt money laundering in Italy via tax fraud and fake invoices"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/support-halt-money-laundering-italy-tax-fraud-and-fake-invoices"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/support-halt-money-laundering-italy-tax-fraud-and-fake-invoices",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-id-82629.jpg",
+      "field_list_image_1": "police money seized",
+      "summary": "Eurojust has supported judicial authorities in Italy, Portugal and Spain in halting an elaborate money-laundering scheme via tax fraud. In a coordinated operation, five suspects have been arrested in Italy and Spain for laundering illicit criminal proceeds by committing VAT fraud on the alleged import of frozen fish from Portugal and Spain. The main suspect is associated with the Cosa Nostra mafia-type criminal organisation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported judicial authorities in Italy, Portugal and Spain in halting an elaborate money-laundering scheme via tax fraud. In a coordinated operation, five suspects have been arrested in Italy and Spain for laundering illicit criminal proceeds by committing VAT fraud on the alleged import of frozen fish from Portugal and Spain. The main suspect is associated with the Cosa Nostra mafia-type criminal organisation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u00a9 - Guardia di FinanzaIn a recent operation, approximately EUR 3.3 million in cash, luxury vehicles and jewellery were seized. This includes the seizing of cash and blocking of bank accounts worth around EUR 600 000 by the Spanish authorities. In total, twelve individuals are currently under investigation by the Italian authorities, including the five suspects who were detained.The suspects were allegedly involved in a criminal network that laundered money via a complex tax fraud scheme, using fake invoices and avoiding the payment of VAT to the Italian authorities. For this purpose, an\u2026"
+        }
+      ],
+      "published": "Tue, 05 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        5,
+        12,
+        0,
+        0,
+        1,
+        65,
+        0
+      ],
+      "id": "82ea8a80-81d6-48d1-976a-a69191da9678",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eight arrested in international operation against human trafficking supported by Eurojust",
       "title_detail": {
@@ -3703,66 +3798,6 @@
         {
           "term": "Administrative Director",
           "scheme": "Eurojust Structure and Admin",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Moldovan President visits Eurojust to discuss enhanced judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Moldovan President visits Eurojust to discuss enhanced judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/moldovan-president-visits-eurojust-discuss-enhanced-judicial-cooperation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/moldovan-president-visits-eurojust-discuss-enhanced-judicial-cooperation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/maia-sandu-eurojust-visit.jpg",
-      "field_list_image_1": "President of Moldova Ms Maia Sandu with Eurojust President Mr Ladislav Hamran",
-      "summary": "President Ms Maia Sandu of the Republic of Moldova visited Eurojust today to discuss the country\u2019s cooperation with the Agency and its further integration into the EU\u2019s judicial cooperation architecture. She met with Eurojust President Mr Ladislav Hamran, who underlined the importance of strengthened relationships to effectively fight serious cross-border crime. Ms Sandu was also briefed on Eurojust\u2019s core activities and its support for the accountability efforts for Ukraine.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "President Ms Maia Sandu of the Republic of Moldova visited Eurojust today to discuss the country\u2019s cooperation with the Agency and its further integration into the EU\u2019s judicial cooperation architecture. She met with Eurojust President Mr Ladislav Hamran, who underlined the importance of strengthened relationships to effectively fight serious cross-border crime. Ms Sandu was also briefed on Eurojust\u2019s core activities and its support for the accountability efforts for Ukraine."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On the occasion of her first visit to Eurojust, Moldovan President Ms Maia Sandu said: \u2018Moldova is working to become a stronger, more reliable security partner in Europe. Our cooperation with Eurojust enables us to join forces in combating complex cross-border crimes, contributing to a safer Europe united against organised crime groups. Through our joint efforts, we aim to ensure that both our country and Europe as a whole remain one step ahead of criminals, underscoring our commitment to justice and security.\u2019\n\nEurojust President Mr Ladislav Hamran stated: \u2018Organised crime threatens and\u2026"
-        }
-      ],
-      "published": "Mon, 04 Sep 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        9,
-        4,
-        12,
-        0,
-        0,
-        0,
-        247,
-        0
-      ],
-      "id": "21c90fac-7235-4172-ae2f-d9e5a5ce10b8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
