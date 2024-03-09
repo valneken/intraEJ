@@ -1,6 +1,54 @@
 {
-  "timestamp": "2024-03-08 18:10:43",
+  "timestamp": "2024-03-09 00:36:10",
   "entries": [
+    {
+      "title": "Eurojust welcomes COEST delegation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust welcomes COEST delegation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-welcomes-coest-delegation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-welcomes-coest-delegation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web1-visit-working-party-on-eastern-europe-and-central-asia-18.jpg",
+      "field_list_image_1": "Eurojust welcomes COEST delegation",
+      "summary": "",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": ""
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Today, 8 March, Eurojust welcomed a delegation from the European Council Working Party on Eastern Europe and Central Asia (COEST).The delegation met with Eurojust experts, who presented the Agency\u2019s work in response to the war in Ukraine. This included presentations on the Joint Investigation Team on war crimes, the Core International Crimes Evidence Database, and the International Centre for the Prosecution of the Crime of Aggression.The meeting, which also included the participation of representatives from the European External Action Service, DG NEAR, and the Belgian Ministry\u2026"
+        }
+      ],
+      "published": "Fri, 08 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        8,
+        12,
+        0,
+        0,
+        4,
+        68,
+        0
+      ],
+      "id": "f663fc2b-c5a8-4e4b-a58c-98bd221f5e43",
+      "guidislink": false
+    },
     {
       "title": "Eurojust and eu-LISA discuss closer cooperation to support digitalisation of justice across Europe",
       "title_detail": {
@@ -257,6 +305,86 @@
       ]
     },
     {
+      "title": "Agreement to extend the joint investigation team into alleged core international crimes in Ukraine  for two years",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Agreement to extend the joint investigation team into alleged core international crimes in Ukraine  for two years"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/agreement-extend-joint-investigation-team-alleged-core-international-crimes-ukraine-two-years"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/agreement-extend-joint-investigation-team-alleged-core-international-crimes-ukraine-two-years",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
+      "field_list_image_1": "group picture from Kyiv meeting",
+      "summary": "The seven national authorities participating in the joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to prolong the JIT for two years. The Prosecutors General of the countries involved agreed to the extension in a coordination meeting that took place today in Kyiv, Ukraine. The meeting coincided with the United for Justice Conference, which also took place in Kyiv today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The seven national authorities participating in the joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to prolong the JIT for two years. The Prosecutors General of the countries involved agreed to the extension in a coordination meeting that took place today in Kyiv, Ukraine. The meeting coincided with the United for Justice Conference, which also took place in Kyiv today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Just three weeks after the start of the full-scale invasion of Ukraine, Eurojust supported the establishment of a JIT set up on 25 March 2022 by Lithuania, Poland and Ukraine. On 30 May 2022, Estonia, Latvia and Slovakia became members, followed by Romania on 13 October 2022. On 3 March 2023, the JIT\u2019s seven national authorities signed a Memorandum of Understanding with the United States Department of Justice.The Office of the Prosecutor of the International Criminal Court (ICC) and Europol have been participants in the JIT since April 2022 and October 2023, respectively.Two years onA\u2026"
+        }
+      ],
+      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        29,
+        12,
+        0,
+        0,
+        3,
+        60,
+        0
+      ],
+      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "ICC",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports an EPPO-led operation against carousel VAT fraud for the first time",
       "title_detail": {
         "type": "text/plain",
@@ -336,86 +464,6 @@
         },
         {
           "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Agreement to extend the joint investigation team into alleged core international crimes in Ukraine  for two years",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Agreement to extend the joint investigation team into alleged core international crimes in Ukraine  for two years"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/agreement-extend-joint-investigation-team-alleged-core-international-crimes-ukraine-two-years"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/agreement-extend-joint-investigation-team-alleged-core-international-crimes-ukraine-two-years",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "The seven national authorities participating in the joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to prolong the JIT for two years. The Prosecutors General of the countries involved agreed to the extension in a coordination meeting that took place today in Kyiv, Ukraine. The meeting coincided with the United for Justice Conference, which also took place in Kyiv today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The seven national authorities participating in the joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to prolong the JIT for two years. The Prosecutors General of the countries involved agreed to the extension in a coordination meeting that took place today in Kyiv, Ukraine. The meeting coincided with the United for Justice Conference, which also took place in Kyiv today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Just three weeks after the start of the full-scale invasion of Ukraine, Eurojust supported the establishment of a JIT set up on 25 March 2022 by Lithuania, Poland and Ukraine. On 30 May 2022, Estonia, Latvia and Slovakia became members, followed by Romania on 13 October 2022. On 3 March 2023, the JIT\u2019s seven national authorities signed a Memorandum of Understanding with the United States Department of Justice.The Office of the Prosecutor of the International Criminal Court (ICC) and Europol have been participants in the JIT since April 2022 and October 2023, respectively.Two years onA\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
           "scheme": "Partner",
           "label": null
         }
@@ -502,6 +550,81 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visit-mr-didier-reynders-european-commissioner-for-justice.jpg",
+      "field_list_image_1": "Visit Mr Didier Reynders European Commissioner for Justice",
+      "summary": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "While at Eurojust, Commissioner Reynders had the opportunity to visit the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA). The European Commission played an essential role in setting up the ICPA, which started its work in July 2023.European Commissioner for Justice Mr Didier Reynders said: \u2018Eurojust has played a key role in supporting judicial cooperation for many years. During my time as Justice Commissioner, I have relentlessly advocated and worked towards further reinforcing Eurojust\u2019s mandate and tools to accomplish its mission. In 2021, the\u2026"
+        }
+      ],
+      "published": "Thu, 22 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        22,
+        12,
+        0,
+        0,
+        3,
+        53,
+        0
+      ],
+      "id": "517ff01d-005d-46ce-90c9-bfe7f9608fac",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -607,76 +730,71 @@
       ]
     },
     {
-      "title": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate",
+      "title": "Ongoing action targets large migrant smuggling network",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate"
+        "value": "Ongoing action targets large migrant smuggling network"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate"
+          "href": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visit-mr-didier-reynders-european-commissioner-for-justice.jpg",
-      "field_list_image_1": "Visit Mr Didier Reynders European Commissioner for Justice",
-      "summary": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust.",
+      "link": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-migrants-smuggling-network-english-channels-case.jpg",
+      "field_list_image_1": "Police line do not cross sign",
+      "summary": "",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust."
+        "value": ""
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "While at Eurojust, Commissioner Reynders had the opportunity to visit the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA). The European Commission played an essential role in setting up the ICPA, which started its work in July 2023.European Commissioner for Justice Mr Didier Reynders said: \u2018Eurojust has played a key role in supporting judicial cooperation for many years. During my time as Justice Commissioner, I have relentlessly advocated and worked towards further reinforcing Eurojust\u2019s mandate and tools to accomplish its mission. In 2021, the\u2026"
+          "value": "Large-scale operation involving law enforcement and judicial authorities from Belgium, France and Germany and coordinated by Eurojust and Europol led to the dismantling of one of the most active networks involved in the smuggling of migrants across the English Channel in small boats. The investigation focused on an Iraqi-Kurdish network suspected of smuggling middle-Eastern and East African irregular migrants from France to the UK with the use of low quality inflatable boats. German authorities raided houses and storage spaces. This resulted in the arrest of more than 15 individuals under\u2026"
         }
       ],
-      "published": "Thu, 22 Feb 2024 13:00:00 +0100",
+      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
       "published_parsed": [
         2024,
         2,
-        22,
+        21,
         12,
         0,
         0,
-        3,
-        53,
+        2,
+        52,
         0
       ],
-      "id": "517ff01d-005d-46ce-90c9-bfe7f9608fac",
+      "id": "33acdbed-9d3c-4721-a975-96f07de64240",
       "guidislink": false,
       "tags": [
         {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
+          "term": "Belgium",
+          "scheme": "Member State",
           "label": null
         },
         {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
+          "term": "France",
+          "scheme": "Member State",
           "label": null
         },
         {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
+          "term": "Germany",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -797,76 +915,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ongoing action targets large migrant smuggling network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ongoing action targets large migrant smuggling network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-migrants-smuggling-network-english-channels-case.jpg",
-      "field_list_image_1": "Police line do not cross sign",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Large-scale operation involving law enforcement and judicial authorities from Belgium, France and Germany and coordinated by Eurojust and Europol led to the dismantling of one of the most active networks involved in the smuggling of migrants across the English Channel in small boats. The investigation focused on an Iraqi-Kurdish network suspected of smuggling middle-Eastern and East African irregular migrants from France to the UK with the use of low quality inflatable boats. German authorities raided houses and storage spaces. This resulted in the arrest of more than 15 individuals under\u2026"
-        }
-      ],
-      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        21,
-        12,
-        0,
-        0,
-        2,
-        52,
-        0
-      ],
-      "id": "33acdbed-9d3c-4721-a975-96f07de64240",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2958,66 +3006,6 @@
       "guidislink": false
     },
     {
-      "title": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/mutual-legal-assistance-meeting-eurojust-uk-20231027.jpg",
-      "field_list_image_1": "Group photo",
-      "summary": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The legal system in the UK is significantly different from that of most legal systems in the EU and other countries, and it is therefore crucial to know and understand the differences to enable smooth cooperation. Furthermore, since 1 January 2021, a new legal regime between the EU and UK, the Trade and Cooperation Agreement, became applicable. This implied some relevant changes in different fields of judicial cooperation in criminal matters, such as mutual legal assistance (MLA). In addition, the MLA form, which was created in accordance with Article 635 of the TCA, became mandatory as of 1\u2026"
-        }
-      ],
-      "published": "Fri, 27 Oct 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        10,
-        27,
-        12,
-        0,
-        0,
-        4,
-        300,
-        0
-      ],
-      "id": "a2d178c3-edfd-46d6-84c4-65381a5fce53",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Mutual legal assistance",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated arrest of Swedish high-value target suspected of major drug trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -3092,6 +3080,66 @@
         },
         {
           "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/meeting-mutual-legal-assistance-cooperation-between-european-union-and-united-kingdom",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/mutual-legal-assistance-meeting-eurojust-uk-20231027.jpg",
+      "field_list_image_1": "Group photo",
+      "summary": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 26 and 27 October 2023, a meeting on Mutual Legal Assistance Cooperation between the European Union and the United Kingdom was held at Eurojust\u2019s premises and online."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The legal system in the UK is significantly different from that of most legal systems in the EU and other countries, and it is therefore crucial to know and understand the differences to enable smooth cooperation. Furthermore, since 1 January 2021, a new legal regime between the EU and UK, the Trade and Cooperation Agreement, became applicable. This implied some relevant changes in different fields of judicial cooperation in criminal matters, such as mutual legal assistance (MLA). In addition, the MLA form, which was created in accordance with Article 635 of the TCA, became mandatory as of 1\u2026"
+        }
+      ],
+      "published": "Fri, 27 Oct 2023 14:00:00 +0200",
+      "published_parsed": [
+        2023,
+        10,
+        27,
+        12,
+        0,
+        0,
+        4,
+        300,
+        0
+      ],
+      "id": "a2d178c3-edfd-46d6-84c4-65381a5fce53",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Mutual legal assistance",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -3743,71 +3791,6 @@
         {
           "term": "Council of Europe",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Two new Liaison Prosecutors take up duties at Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Two new Liaison Prosecutors take up duties at Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/two-new-liaison-prosecutors-take-duties-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/two-new-liaison-prosecutors-take-duties-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/christoffersen-ivanov-combined.jpg",
-      "field_list_image_1": "Rudolf Christoffersen and Mihail Ivanov",
-      "summary": "Eurojust welcomes two new Liaison Prosecutors who recently took up duties at the Agency. For the first time, the Republic of Moldova has stationed a prosecutor at Eurojust\u2019s headquarters in The Hague, with the aim of strengthening cooperation with the Moldovan authorities on cases of serious cross-border crime. The new Liaison Prosecutor for Norway is set to continue the strong cooperation on judicial matters that dates back to 2005, when Norway became the first country to sign a cooperation agreement with Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust welcomes two new Liaison Prosecutors who recently took up duties at the Agency. For the first time, the Republic of Moldova has stationed a prosecutor at Eurojust\u2019s headquarters in The Hague, with the aim of strengthening cooperation with the Moldovan authorities on cases of serious cross-border crime. The new Liaison Prosecutor for Norway is set to continue the strong cooperation on judicial matters that dates back to 2005, when Norway became the first country to sign a cooperation agreement with Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The posting of the first Moldovan Liaison Prosecutor is based on the cooperation agreement between the Republic of Moldova and Eurojust, which was signed in July 2014 and entered into force in October 2016. Judicial cooperation between Moldovan authorities and Eurojust has increased significantly in the past five years: between 2018 and 2022, 91 cases involving Moldova were registered at Eurojust. As of 31 July this year, 16 cases have already been registered, more than in the whole of 2022. Recent successful examples of this cooperation have included an operation targeting border bribery, a\u2026"
-        }
-      ],
-      "published": "Fri, 08 Sep 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        9,
-        8,
-        12,
-        0,
-        0,
-        4,
-        251,
-        0
-      ],
-      "id": "e1917b71-9731-4145-b78c-8c871aade58c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Liaison Prosecutor",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Moldova",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Norway",
-          "scheme": "Third states",
           "label": null
         }
       ]
