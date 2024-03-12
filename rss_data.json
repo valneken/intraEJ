@@ -1,6 +1,71 @@
 {
-  "timestamp": "2024-03-12 06:11:00",
+  "timestamp": "2024-03-12 12:14:07",
   "entries": [
+    {
+      "title": "First Liaison Prosecutor for Iceland starts at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "First Liaison Prosecutor for Iceland starts at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/first-liaison-prosecutor-iceland-starts-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/first-liaison-prosecutor-iceland-starts-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-lp-iceland-ms-kolbrun-benediktsdottir-1.jpg",
+      "field_list_image_1": "Ms Kolbr\u00fan Benediktsd\u00f3ttir Liaison Prosecutor for Iceland",
+      "summary": "Ms Kolbr\u00fan Benediktsd\u00f3ttir has today started as the first Liaison Prosecutor for Iceland at Eurojust. The seconding of a Liaison Prosecutor is the direct result of a Cooperation Agreement signed by the Icelandic authorities and Eurojust in 2005. With the arrival of Ms Benediktsd\u00f3ttir, twelve countries* now have Liaison Prosecutors at Eurojust. Liaison Prosecutors of third countries can open requests for cross-border judicial cooperation with authorities of EU Member States and vice versa.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ms Kolbr\u00fan Benediktsd\u00f3ttir has today started as the first Liaison Prosecutor for Iceland at Eurojust. The seconding of a Liaison Prosecutor is the direct result of a Cooperation Agreement signed by the Icelandic authorities and Eurojust in 2005. With the arrival of Ms Benediktsd\u00f3ttir, twelve countries* now have Liaison Prosecutors at Eurojust. Liaison Prosecutors of third countries can open requests for cross-border judicial cooperation with authorities of EU Member States and vice versa."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Marking the start of her mandate of three and a half years at Eurojust, Ms Kolbr\u00fan Benediktsd\u00f3ttir stated: \u2018I\u00b4m honoured and excited to join Eurojust as the first Liaison Prosecutor from Iceland. It is a very important step for Iceland and I\u00b4m sure that it will prove to be essential when it comes to prosecuting cross-border and organised crimes.\u2019From 2016 until her seconding to Eurojust, Ms Benediktsd\u00f3ttir worked as Deputy District Prosecutor. In this capacity, she was in charge of the department dealing with police corruption, and a member of Nordic and European cooperation in the same field\u2026"
+        }
+      ],
+      "published": "Tue, 12 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        12,
+        12,
+        0,
+        0,
+        1,
+        72,
+        0
+      ],
+      "id": "12da239e-771e-4349-a309-80a9d2362cce",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Liaison Prosecutor",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Iceland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust welcomes COEST delegation",
       "title_detail": {
@@ -3726,71 +3791,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Workshop on international cooperation provisions of the Second Additional Protocol to the Budapest Convention (Art. 9-10)",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Workshop on international cooperation provisions of the Second Additional Protocol to the Budapest Convention (Art. 9-10)"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/workshop-international-cooperation-provisions-second-additional-protocol-budapest-convention"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/workshop-international-cooperation-provisions-second-additional-protocol-budapest-convention",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/workshop-on-international-cooperation-provisions.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "On 21 and 22 September 2023, a Workshop on international cooperation provisions of the Second Additional Protocol to the Budapest Convention (Art. 9-10), organised jointly by Eurojust and the Council of Europe, was held at Eurojust\u2019s premises and online.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 21 and 22 September 2023, a Workshop on international cooperation provisions of the Second Additional Protocol to the Budapest Convention (Art. 9-10), organised jointly by Eurojust and the Council of Europe, was held at Eurojust\u2019s premises and online."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "This event aimed to address the new procedures enhancing international cooperation between authorities for the disclosure of stored computer data included in the Second Additional Protocol. Discussions focused mainly on expedited disclosure of stored computer data in an emergency (Art. 9), as well as emergency mutual assistance (Art. 10), including the enhanced role of 24/7 Points of Contact established under the Budapest Convention."
-        }
-      ],
-      "published": "Fri, 22 Sep 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        9,
-        22,
-        12,
-        0,
-        0,
-        4,
-        265,
-        0
-      ],
-      "id": "8bd8550a-385f-4737-901b-d43e644e3c02",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Council of Europe",
-          "scheme": "Partner",
           "label": null
         }
       ]
