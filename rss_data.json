@@ -1,6 +1,96 @@
 {
-  "timestamp": "2024-03-15 06:11:11",
+  "timestamp": "2024-03-15 12:14:06",
   "entries": [
+    {
+      "title": "Support to arrest 22 suspects forcing female victims into prostitution",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Support to arrest 22 suspects forcing female victims into prostitution"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/support-arrest-22-suspects-forcing-female-victims-prostitution"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/support-arrest-22-suspects-forcing-female-victims-prostitution",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/if-it-bg-prostitution-case.jpg",
+      "field_list_image_1": "police aresting suspect",
+      "summary": "With Eurojust support, authorities in Italy and Bulgaria have arrested 22 alleged members of an organised crime group (OCG), which forced tens of female victims into prostitution. During a coordinated action day earlier this week, most of the often relatively young victims were brought to safety. The mainly Bulgarian OCG was known for its heavy use of violence.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With Eurojust support, authorities in Italy and Bulgaria have arrested 22 alleged members of an organised crime group (OCG), which forced tens of female victims into prostitution. During a coordinated action day earlier this week, most of the often relatively young victims were brought to safety. The mainly Bulgarian OCG was known for its heavy use of violence."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Specific members of the OCG used the so-called \u2018lover boy\u2019 method, pretending to engage personally with women from a poor background in Bulgaria and other countries in Eastern Europe and promising them good job opportunities in Italy. In reality, their passports were taken away and the victims were forced into prostitution in Italy in dire conditions.The OCG had a clear division of roles, with certain members being responsible for luring the victims to Italy and others taking care of transport and controlling them, occasionally under extreme duress.The Italian authorities started\u2026"
+        }
+      ],
+      "published": "Fri, 15 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        15,
+        12,
+        0,
+        0,
+        4,
+        75,
+        0
+      ],
+      "id": "f7a86f27-c37e-42d2-b07f-88ebb809ef11",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Victims\u2019 rights",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "First Liaison Prosecutor for Iceland starts at Eurojust",
       "title_detail": {
@@ -3731,66 +3821,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Larnaca Conference, 18th CrimEx and 2nd EMJNet meeting of the EuroMed Justice programme",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Larnaca Conference, 18th CrimEx and 2nd EMJNet meeting of the EuroMed Justice programme"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/larnaca-conference-18th-crimex-and-2nd-emjnet-meeting-euromed-justice-programme"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/larnaca-conference-18th-crimex-and-2nd-emjnet-meeting-euromed-justice-programme",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/group-picture-18th-crimex-and-2nd-emjnet.jpeg",
-      "field_list_image_1": "Group picture - 18th CrimEx and 2nd EMJNet",
-      "summary": "Tackling migrant smuggling is at the heart of the EuroMed Justice (EMJ) multiannual 2022-25 strategy. With the active support of the Cypriot Ministry of Justice, several key actors had the opportunity to continue the exchanges started in Athens in 2022. Eurojust, the Secretariat of the European Judicial Network (EJN), judges, prosecutors, representatives of Member States\u2019 ministries and law enforcement presented their work on the topic, and the challenges they face regarding international cooperation on this matter.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Tackling migrant smuggling is at the heart of the EuroMed Justice (EMJ) multiannual 2022-25 strategy. With the active support of the Cypriot Ministry of Justice, several key actors had the opportunity to continue the exchanges started in Athens in 2022. Eurojust, the Secretariat of the European Judicial Network (EJN), judges, prosecutors, representatives of Member States\u2019 ministries and law enforcement presented their work on the topic, and the challenges they face regarding international cooperation on this matter."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Conference was opened by the Minister of Justice of Cyprus and a representative of the Attorney General. A member of Eurojust\u2019s Anti-Trafficking Team presented the tools and mechanisms offered by the European Agency for Criminal Justice Cooperation to support national judicial authorities on this topic.The Larnaca Conference was followed by the 18th CrimEx and the 2nd EMJNet meeting. The CrimEx session assessed the implementation of the EMJ V Programme (2020-23) and its impact in South Partner Countries (SPCs). It also debated the strategic documents and priorities of the incoming 6th EMJ\u2026"
-        }
-      ],
-      "published": "Mon, 25 Sep 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        9,
-        25,
-        12,
-        0,
-        0,
-        0,
-        268,
-        0
-      ],
-      "id": "f546cd50-e38d-4a92-bbb4-a7c51802fa04",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
