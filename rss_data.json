@@ -1,6 +1,76 @@
 {
-  "timestamp": "2024-03-19 06:11:02",
+  "timestamp": "2024-03-19 12:14:54",
   "entries": [
+    {
+      "title": "Eurojust coordinates arrests in Swedish cannabis trafficking case",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust coordinates arrests in Swedish cannabis trafficking case"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-arrests-swedish-cannabis-trafficking-case"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-arrests-swedish-cannabis-trafficking-case",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240319-se-es-case-web.jpg",
+      "field_list_image_1": "Bank notes and a small bag with illicit drugs",
+      "summary": "Eurojust has supported the Swedish and Spanish authorities in the coordinated arrest of four suspects involved in the wholesale and transport of cannabis and other illicit drugs. The main suspect was allegedly organising the reception of the drugs in Sweden and their distribution in and around Stockholm. He was arrested in Spain based on a European Arrest Warrant (EAW) with a view to surrender him to Sweden.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported the Swedish and Spanish authorities in the coordinated arrest of four suspects involved in the wholesale and transport of cannabis and other illicit drugs. The main suspect was allegedly organising the reception of the drugs in Sweden and their distribution in and around Stockholm. He was arrested in Spain based on a European Arrest Warrant (EAW) with a view to surrender him to Sweden."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust set up a coordination centre last week to assist the Swedish and Spanish authorities with the exchange of information and the execution of the EAW, as well as European Investigation Orders. A number of premises were also searched and various goods and telecommunications equipment seized during concerted actions in both countries.Based on the interception and decoding by the Swedish authorities of large-scale encrypted communications, it was established that the suspects has transported, received and stored large quantities of cannabis in the second half of 2020. During this period,\u2026"
+        }
+      ],
+      "published": "Tue, 19 Mar 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        3,
+        19,
+        12,
+        0,
+        0,
+        1,
+        79,
+        0
+      ],
+      "id": "6ab9d7b5-0232-46fe-9667-9554759f5093",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Visit of Lebanese Minister of Justice Mr Henri Khoury",
       "title_detail": {
@@ -3756,71 +3826,6 @@
         {
           "term": "Malta",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Prosecutors General discuss stepping up judicial role in major operations against organised crime using EMPACT platform",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Prosecutors General discuss stepping up judicial role in major operations against organised crime using EMPACT platform"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/prosecutors-general-discuss-stepping-judicial-role-major-operations-against-organised-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/prosecutors-general-discuss-stepping-judicial-role-major-operations-against-organised-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/17thcfpg-at-eurojust-20231005.jpg",
-      "field_list_image_1": "Prosecutors General and Directors of Public Prosecutions of EU Member States",
-      "summary": "The Prosecutors General and Directors of Public Prosecutions of EU Member States have extensively discussed how to enhance the role of judicial authorities in joint operations against major organised crime via the EMPACT platform. This would mean involving public prosecutors at an earlier stage in the planning and coordination of operational actions. During their 17th Consultative Forum, held yesterday and today at Eurojust, they were also given an update on the state of play of the judicial response to the war in Ukraine and debated the challenges of protecting the environment through criminal law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Prosecutors General and Directors of Public Prosecutions of EU Member States have extensively discussed how to enhance the role of judicial authorities in joint operations against major organised crime via the EMPACT platform. This would mean involving public prosecutors at an earlier stage in the planning and coordination of operational actions. During their 17th Consultative Forum, held yesterday and today at Eurojust, they were also given an update on the state of play of the judicial response to the war in Ukraine and debated the challenges of protecting the environment through criminal law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Forum highlighted the necessity to improve awareness of EMPACT among judicial authorities. The 17th Consultative Forum of Prosecutors General and Directors of Public Prosecutions of EU Member States was organised together with the Swedish and Spanish authorities, in view of the Presidency of the Council of the European Union of both countries in 2023.Mr Thomas H\u00e4ggstr\u00f6m, Director of Public Prosecution of Sweden, stated: EMPACT has been operational for more than a decade and has proven to be a highly effective collaborative platform for law enforcement agencies. It is now time for the\u2026"
-        }
-      ],
-      "published": "Fri, 06 Oct 2023 14:00:00 +0200",
-      "published_parsed": [
-        2023,
-        10,
-        6,
-        12,
-        0,
-        0,
-        4,
-        279,
-        0
-      ],
-      "id": "cfd0e947-2f2a-4292-a689-d96f5b233285",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EMPACT",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
           "label": null
         }
       ]
