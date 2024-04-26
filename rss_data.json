@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-04-26 12:15:32",
+  "timestamp": "2024-04-26 18:10:40",
   "entries": [
+    {
+      "title": "Eurojust focuses on more attention for victims\u2019 rights in cross-border judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust focuses on more attention for victims\u2019 rights in cross-border judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-focuses-more-attention-victims-rights-cross-border-judicial-cooperation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-focuses-more-attention-victims-rights-cross-border-judicial-cooperation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/symposium-victim-rights-eurojust-group-picture.png",
+      "field_list_image_1": "Group picture symposium on victims' rights at Eurojust",
+      "summary": "Eurojust aims to step up its efforts to assist victims of crime. The Agency will work on ways to more effectively integrate victims\u2019 rights into every step of judicial cooperation processes by national authorities: from the identification of victims to their right to remediation. This is the main outcome of the \u2018Symposium on Victims\u2019 Rights in Europe\u2019 organised by Eurojust this week in cooperation with the Belgian Presidency of the Council of the European Union.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust aims to step up its efforts to assist victims of crime. The Agency will work on ways to more effectively integrate victims\u2019 rights into every step of judicial cooperation processes by national authorities: from the identification of victims to their right to remediation. This is the main outcome of the \u2018Symposium on Victims\u2019 Rights in Europe\u2019 organised by Eurojust this week in cooperation with the Belgian Presidency of the Council of the European Union."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Belgian Minister of Justice, Mr Paul Van Tigchelt, said: Without a strong and effective justice system, neither our security nor our freedom, our democracy and our rule of law can be guaranteed. Collaboration is key to achieving better results in the realm of justice. But first and foremost, justice must be done for the victims. This symposium will contribute to enhancing, fostering and further developing the rights and procedural guarantees of those who have fallen victim to crime.Ms Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Working Group on Victims\u2019 Rights\u2026"
+        }
+      ],
+      "published": "Fri, 26 Apr 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        4,
+        26,
+        12,
+        0,
+        0,
+        4,
+        117,
+        0
+      ],
+      "id": "0d139650-1d5c-420c-8a98-7c23c2980d20",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Victims\u2019 rights",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Support for victims",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Crackdown on criminal network that stole 170 historical books worth EUR 2.5 million across Europe",
       "title_detail": {
@@ -3836,61 +3896,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/crossmarks-terrorism.jpg",
-      "field_list_image_1": "generic image - word Terrorism",
-      "summary": "On 22 and 23 November 2023, the Eurojust Annual Meeting on Counter-Terrorism gathered national correspondents for Eurojust for terrorism matters, specialised prosecutors from both EU Member States and third countries, as well as representatives from EU institutions and international organisations.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 22 and 23 November 2023, the Eurojust Annual Meeting on Counter-Terrorism gathered national correspondents for Eurojust for terrorism matters, specialised prosecutors from both EU Member States and third countries, as well as representatives from EU institutions and international organisations."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The event was opened by the President of Eurojust, Mr Ladislav Hamran, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Representatives of the Office of the EU Counter-Terrorism Coordinator and the European Commission also presented relevant developments in fighting terrorism at EU level. The recent amendments to the Eurojust Regulation concerning digital information exchange in terrorism cases and the strengthening of the European Judicial Counter-Terrorism Register were a key topic discussed during the meeting.This year, a specific focus\u2026"
-        }
-      ],
-      "published": "Thu, 23 Nov 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        11,
-        23,
-        12,
-        0,
-        0,
-        3,
-        327,
-        0
-      ],
-      "id": "67e45cc2-7e0c-487c-9a26-b22522f007f5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
           "label": null
         }
       ]
