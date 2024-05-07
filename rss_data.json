@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-05-07 12:15:17",
+  "timestamp": "2024-05-07 18:11:31",
   "entries": [
+    {
+      "title": "Mr Erik F\u00e5gelsbo new National Member for Sweden at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Erik F\u00e5gelsbo new National Member for Sweden at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-erik-fagelsbo-new-national-member-sweden-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-erik-fagelsbo-new-national-member-sweden-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/nm-erikfagelsbo-eurojust-1.jpg",
+      "field_list_image_1": "Mr Erik F\u00e5gelsbo, National Member for Sweden at Eurojust",
+      "summary": "Mr Erik F\u00e5gelsbo has been formally appointed as the new National Member for Sweden at Eurojust. He will succeed Ms Marie Lind Thomsen, with whom he has been working at the Agency as Deputy National Member since March 2020. He already served as acting National Member since July last year. Mr F\u00e5gelsbo has long-standing experience in international judicial cooperation, working as Justice and Home Affairs Counsellor at the Permanent Representation of Sweden to the European Union, among other roles.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Erik F\u00e5gelsbo has been formally appointed as the new National Member for Sweden at Eurojust. He will succeed Ms Marie Lind Thomsen, with whom he has been working at the Agency as Deputy National Member since March 2020. He already served as acting National Member since July last year. Mr F\u00e5gelsbo has long-standing experience in international judicial cooperation, working as Justice and Home Affairs Counsellor at the Permanent Representation of Sweden to the European Union, among other roles."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Upon his appointment as National Member for Sweden, Mr F\u00e5gelsbo stated: \u2018It is a true privilege to continue working for Eurojust in this new position, in which I will ensure Sweden\u2019s continued support to Eurojust. I particularly look forward to the work we will do on the evaluation of the Eurojust Regulation. This will be an excellent opportunity to further fine-tune our activities and to enhance the cooperation with all our partners who are fostering judicial cooperation across the European Union and beyond\u2019.The new National Member for Sweden has been appointed for a period of\u2026"
+        }
+      ],
+      "published": "Tue, 07 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        7,
+        12,
+        0,
+        0,
+        1,
+        128,
+        0
+      ],
+      "id": "e142930c-be00-4bbf-ac1e-65d4fc0b59a9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust focuses on more attention for victims\u2019 rights in cross-border judicial cooperation",
       "title_detail": {
@@ -3796,106 +3856,6 @@
         {
           "term": "EJCN",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ransomware group dismantled in Ukraine in a major international operation supported by Eurojust and Europol",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ransomware group dismantled in Ukraine in a major international operation supported by Eurojust and Europol"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visual-ramsonware-0.jpg",
-      "field_list_image_1": "generic attack word",
-      "summary": "Judicial and law enforcement authorities from seven different countries have joined forces in an action against a criminal network responsible for significant ransomware attacks across the world. These attacks are believed to have affected over 1,800 victims in 71 countries. The perpetrators targeted large corporations, effectively bringing their business to a standstill and causing losses of at least several hundred millions of euros.A recent operation supported by Eurojust and Europol led to the arrest of the ringleader and the detention of four suspects in Ukraine. A total of 30 places were searched and over a hundred digital equipment tools were seized.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial and law enforcement authorities from seven different countries have joined forces in an action against a criminal network responsible for significant ransomware attacks across the world. These attacks are believed to have affected over 1,800 victims in 71 countries. The perpetrators targeted large corporations, effectively bringing their business to a standstill and causing losses of at least several hundred millions of euros.A recent operation supported by Eurojust and Europol led to the arrest of the ringleader and the detention of four suspects in Ukraine. A total of 30 places were searched and over a hundred digital equipment tools were seized."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "More than 20 investigators from Norway, France, Germany and the United States were deployed to Kyiv to assist the Ukrainian authorities. This latest action follows a first round of arrests in 2021 in the framework of the same investigation.The perpetrators are believed to have played different roles in the criminal network. Some were involved in the infiltration attempts, using multiple mechanisms to compromise IT networks, including brute force attacks, so-called SQL injection techniques to attack data applications, stolen credentials and phishing emails with malicious attachments.\u2026"
-        }
-      ],
-      "published": "Tue, 28 Nov 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        11,
-        28,
-        12,
-        0,
-        0,
-        1,
-        332,
-        0
-      ],
-      "id": "a3e7c8da-d280-4862-bcb5-4bcd27340c43",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Norway",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
