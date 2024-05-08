@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-05-08 06:10:56",
+  "timestamp": "2024-05-08 12:16:20",
   "entries": [
+    {
+      "title": "Take down of Austrian-based fraud scheme offering new type of crypto coin",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Take down of Austrian-based fraud scheme offering new type of crypto coin"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-at-case-cryptocurrency-0.jpg",
+      "field_list_image_1": "Crypto Scam",
+      "summary": "National authorities in Austria, Cyprus and the Czech Republic have taken decisive action against an online scam pretending to sell rights or tokens to an alleged new crypto currency. In a coordinated operation, supported by Eurojust and Europol, the six main suspects were arrested and six places were searched. In total, EUR 750.000 in assets, a property worth EUR 1.4 million and two cars were frozen/seized.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National authorities in Austria, Cyprus and the Czech Republic have taken decisive action against an online scam pretending to sell rights or tokens to an alleged new crypto currency. In a coordinated operation, supported by Eurojust and Europol, the six main suspects were arrested and six places were searched. In total, EUR 750.000 in assets, a property worth EUR 1.4 million and two cars were frozen/seized."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Between December 2017 and February 2018, the scammers pretended to have set up a genuine online trading company that had launched a new cryptocurrency. They offered 10 million tokens or respective rights to the new currency for sale. Investors paid them in regular crypto values such as bitcoin or ethereum. The Austrian-based fraudsters also claimed to have developed their own software and algorithm for the sale of the tokens, in order to gain credibility with investors.In February 2018, the perpetrators closed all their social media accounts and took the fake company\u2019s homepage offline\u2026"
+        }
+      ],
+      "published": "Wed, 08 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        8,
+        12,
+        0,
+        0,
+        2,
+        129,
+        0
+      ],
+      "id": "f2cde5d7-9eec-4990-a95c-1c67bedd596b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Cyprus",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Mr Erik F\u00e5gelsbo new National Member for Sweden at Eurojust",
       "title_detail": {
@@ -3796,66 +3881,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "15th Plenary Meeting of the European Judicial Cybercrime Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "15th Plenary Meeting of the European Judicial Cybercrime Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/15th-plenary-meeting-european-judicial-cybercrime-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/15th-plenary-meeting-european-judicial-cybercrime-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/sm-ejcn-plenary-red.jpg",
-      "field_list_image_1": "Generic Cybercrime network image - artistic",
-      "summary": "On 27-28 November 2023, the 15th Plenary Meeting of the European Judicial Cybercrime Network (EJCN) took place at Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27-28 November 2023, the 15th Plenary Meeting of the European Judicial Cybercrime Network (EJCN) took place at Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EJCN Plenary was attended by the EJCN Contact Points from EU and Observer States and representatives from stakeholders - Eurojust, Council of the EU, European Commission, Council of Europe, Europol, the European Judicial Network (EJN), European Union Cybercrime Task Force (EUCTF) and the European Cybercrime Training and Education Group (ECTEG).During the first day of the meeting, the discussions focused on:Misuse of artificial intelligence by criminals;Obfuscation methods of cybercrime proceedings, such as mixing services;How to handle the seizure of crypto assets, seizure of smart\u2026"
-        }
-      ],
-      "published": "Wed, 29 Nov 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        11,
-        29,
-        12,
-        0,
-        0,
-        2,
-        333,
-        0
-      ],
-      "id": "a20973d2-aed2-4577-b3e7-3d64da97b027",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
