@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-05-21 06:13:15",
+  "timestamp": "2024-05-21 12:16:17",
   "entries": [
+    {
+      "title": "Eurojust coordinates searches of offices of international car tyre manufacturer",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust coordinates searches of offices of international car tyre manufacturer"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-searches-offices-international-car-tyre-manufacturer"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-searches-offices-international-car-tyre-manufacturer",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-tyre-case.jpg",
+      "field_list_image_1": "truck tyres",
+      "summary": "Eurojust has assisted the authorities in France, Belgium and Luxembourg with a series of coordinated searches of premises and offices of an international tyre manufacturer. These searches took place this week at the request of the judicial authorities in Besan\u00e7on in France, in the context of investigations into involuntary manslaughter linked to technical failures that led to tyre explosions.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has assisted the authorities in France, Belgium and Luxembourg with a series of coordinated searches of premises and offices of an international tyre manufacturer. These searches took place this week at the request of the judicial authorities in Besan\u00e7on in France, in the context of investigations into involuntary manslaughter linked to technical failures that led to tyre explosions."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The investigations in France concern a series of accidents between 2011 and 2016, which allegedly led to the death of three lorry drivers. The investigations are looking into whether the tyre producer was aware of potential failures and whether the company had addressed the technical issues or not.Eurojust was asked by the French authorities in 2023 to provide legal advice on the cross-border aspects of the investigations and to coordinate judicial actions in various EU Member States. For this purpose, the Agency has set up a coordination centre at its premises in The Hague to assist the\u2026"
+        }
+      ],
+      "published": "Tue, 21 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        21,
+        12,
+        0,
+        0,
+        1,
+        142,
+        0
+      ],
+      "id": "461d7d06-8079-4888-b09e-732cc4de9fb7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Luxembourg",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Take down of Austrian-based fraud scheme offering new type of crypto coin",
       "title_detail": {
@@ -3821,66 +3896,6 @@
         {
           "term": "Portugal",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "SIRIUS Annual Conference 2023",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "SIRIUS Annual Conference 2023"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/sirius-annual-conference-2023"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/sirius-annual-conference-2023",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20231121-sirius-conference-18-vincent-jamin.jpg",
-      "field_list_image_1": "Vincent Jamin speaking at SIRIUS Conference, 2023",
-      "summary": "On 21-23 November 2023, the SIRIUS Project held its fifth Annual Conference. The hybrid event, focused on cross-border access to electronic evidence, was attended by over 900 participants, including representatives from law enforcement and judicial authorities from 38 countries, as well as 20 representatives of service providers. The event highlighted the crucial need for a collaborative effort to effectively implement forthcoming electronic evidence policies.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 21-23 November 2023, the SIRIUS Project held its fifth Annual Conference. The hybrid event, focused on cross-border access to electronic evidence, was attended by over 900 participants, including representatives from law enforcement and judicial authorities from 38 countries, as well as 20 representatives of service providers. The event highlighted the crucial need for a collaborative effort to effectively implement forthcoming electronic evidence policies."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During the three-day event, the participants had the opportunity to participate in a variety of discussions ranging from the project\u2019s latest achievements, emerging technologies, and the related challenges in obtaining electronic evidence. The legislative developments in this field taking place in the EU and worldwide formed an important part of the conversation from the perspective of policy makers, practitioners, and service providers alike.The SIRIUS Annual Conference 2023 programme included:Interactive panel discussions on novel legal instruments for obtaining electronic evidence across\u2026"
-        }
-      ],
-      "published": "Thu, 30 Nov 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        11,
-        30,
-        12,
-        0,
-        0,
-        3,
-        334,
-        0
-      ],
-      "id": "a2d299c6-4ce7-42d4-b602-7d42ab3fc202",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
           "label": null
         }
       ]
