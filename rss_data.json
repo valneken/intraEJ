@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-05-24 06:13:12",
+  "timestamp": "2024-05-24 12:16:07",
   "entries": [
+    {
+      "title": "New National Member for Hungary at Eurojust takes up duties",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New National Member for Hungary at Eurojust takes up duties"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-national-member-hungary-eurojust-takes-duties"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-national-member-hungary-eurojust-takes-duties",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eszter-maria-kopf.jpg",
+      "field_list_image_1": "Ms Eszter M\u00e1ria K\u00f6pf",
+      "summary": "Ms Eszter M\u00e1ria K\u00f6pf has been appointed as the new National Member for Hungary at Eurojust. Ms K\u00f6pf succeeds Mr L\u00e1szl\u00f3 Venczl, who had served in the role since 2012 and has now retired. The new National Member for Hungary has long-standing experience in international cross-border judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ms Eszter M\u00e1ria K\u00f6pf has been appointed as the new National Member for Hungary at Eurojust. Ms K\u00f6pf succeeds Mr L\u00e1szl\u00f3 Venczl, who had served in the role since 2012 and has now retired. The new National Member for Hungary has long-standing experience in international cross-border judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ms Eszter M\u00e1ria K\u00f6pfCommenting on her new role as National Member, Ms K\u00f6pf stated: As prosecutor specialising in international and European cases, it is a great honour to continue my career as National Member at Eurojust, especially during the forthcoming EU Presidency. It is a priority for me to assist Hungarian prosecutors in their everyday cross-border work and to be a useful member of the College in strengthening European judicial cooperation. After decades, it's a fantastic experience to return to the picturesque Netherlands.Having started as a prosecutor in 1996, Ms K\u00f6pf has\u2026"
+        }
+      ],
+      "published": "Fri, 24 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        24,
+        12,
+        0,
+        0,
+        4,
+        145,
+        0
+      ],
+      "id": "9eb91c63-b37c-4d4f-9d23-98a87257d1e9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Thousands of judicial cases opened against perpetrators of genocide in Rwanda since 1994",
       "title_detail": {
@@ -47,7 +107,19 @@
         0
       ],
       "id": "167640b9-5d4b-4db2-9f90-f5e8cdca710b",
-      "guidislink": false
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
     },
     {
       "title": "Eurojust coordinates searches of offices of international car tyre manufacturer",
@@ -3829,61 +3901,6 @@
         {
           "term": "Italy",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust update to EU\u2019s Justice and Home Affairs Council",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust update to EU\u2019s Justice and Home Affairs Council"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-update-eus-justice-and-home-affairs-council"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-update-eus-justice-and-home-affairs-council",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eurojust-ukraine-justice-support-updated-oct23.png",
-      "field_list_image_1": "Eurojust support to justice for Ukraine",
-      "summary": "Eurojust support to justice for UkraineOn 4 December, Mr Ladislav Hamran (President of Eurojust) informed the EU\u2019s Justice and Home Affairs Council on the latest developments at Eurojust on working towards accountability for Russian war crimes in Ukraine. Ministers were updated on the state of play of the Joint Investigation Team\u2019s work (JIT), the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA) as well as on the Core International Crimes Evidence Database (CICED).",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust support to justice for UkraineOn 4 December, Mr Ladislav Hamran (President of Eurojust) informed the EU\u2019s Justice and Home Affairs Council on the latest developments at Eurojust on working towards accountability for Russian war crimes in Ukraine. Ministers were updated on the state of play of the Joint Investigation Team\u2019s work (JIT), the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA) as well as on the Core International Crimes Evidence Database (CICED)."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust continued to support Member States who have joined the JIT (EE, LT, LV, PL, RO, SK ) with legal advice, logistic arrangements financial assistance amounting to nearly 300.000 EUR in grants at present. With investigations currently ongoing, the JIT can further rely on the support of Eurojust, Europol, the International Criminal Court and the United States. On the ICPA, President Hamran informed ministers about a USD 1 million contribution to its operations by the United States. The financial support comes in addition to the US Special Prosecutor at the ICPA who joined the ICPA in\u2026"
-        }
-      ],
-      "published": "Tue, 05 Dec 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        12,
-        5,
-        12,
-        0,
-        0,
-        1,
-        339,
-        0
-      ],
-      "id": "29fdd2fc-9ab3-4aee-a839-d10fcad52b79",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
