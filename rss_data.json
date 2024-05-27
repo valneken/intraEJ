@@ -1,6 +1,96 @@
 {
-  "timestamp": "2024-05-27 06:13:45",
+  "timestamp": "2024-05-27 12:16:36",
   "entries": [
+    {
+      "title": "Eurojust supports arrest of nine human traffickers in France and Spain",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports arrest of nine human traffickers in France and Spain"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-nine-human-traffickers-france-and-spain"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-nine-human-traffickers-france-and-spain",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-caseid-79328.jpg",
+      "field_list_image_1": "generic image",
+      "summary": "An organised crime group (OCG) active in human trafficking and sexual exploitation has been exposed, and suspected members were arrested with the support of Eurojust and Europol. The arrest of nine suspects in France and Spain has stopped the structured human trafficking network in its tracks. Six victims of the human traffickers were taken to safety.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An organised crime group (OCG) active in human trafficking and sexual exploitation has been exposed, and suspected members were arrested with the support of Eurojust and Europol. The arrest of nine suspects in France and Spain has stopped the structured human trafficking network in its tracks. Six victims of the human traffickers were taken to safety."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "After French authorities discovered an apartment that was used for prostitution in 2022, an investigation was launched that exposed the network\u2019s activities in human trafficking and sexual exploitation in France and Spain. The victims, mostly from Latin America, the Caribbean and Romania, were taken to France and then moved around the country to engage in prostitution in apartments rented for short periods by the OCG. Members of the network used the internet to advertise paid sexual services.Following the operation and arrests of the suspects, six victims in France were offered assistance and\u2026"
+        }
+      ],
+      "published": "Mon, 27 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        27,
+        12,
+        0,
+        0,
+        0,
+        148,
+        0
+      ],
+      "id": "c8b84132-5e9d-4055-bfde-4ab1bf687ec9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New National Member for Hungary at Eurojust takes up duties",
       "title_detail": {
@@ -3821,86 +3911,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Joint action in Germany and Italy against money laundering via rental of luxury cars",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint action in Germany and Italy against money laundering via rental of luxury cars"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-action-germany-and-italy-against-money-laundering-rental-luxury-cars"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-action-germany-and-italy-against-money-laundering-rental-luxury-cars",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/luxury-cars-parked.jpg",
-      "field_list_image_1": "Luxury cars parked",
-      "summary": "Eurojust has assisted the German and Italian authorities in a coordinated action against large-scale money laundering through the fake long-term rental of mainly luxury cars. Seven suspects were arrested across the two countries for using a car hire agency to launder the proceeds of drug trafficking, extortion and illegal betting for other criminals. The enterprise has been seized in addition to a real estate complex and nearly one hundred mainly luxury vehicles.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has assisted the German and Italian authorities in a coordinated action against large-scale money laundering through the fake long-term rental of mainly luxury cars. Seven suspects were arrested across the two countries for using a car hire agency to launder the proceeds of drug trafficking, extortion and illegal betting for other criminals. The enterprise has been seized in addition to a real estate complex and nearly one hundred mainly luxury vehicles."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network primarily used a German-registered car rental agency, which rented out over 150 vehicles for periods of three to four years to customers in Italy. Via fake long-term rental contracts, German-registered luxury cars were delivered to the Italian clients, who paid for their monthly instalments with the proceedings of criminal activities. The arrested suspects are linked to the camorra mafia-type criminal organisation in Italy.Both the judiciary in Germany and Italy started investigations into the case in 2019, with Eurojust enabling close cooperation between the authorities\u2026"
-        }
-      ],
-      "published": "Thu, 14 Dec 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        12,
-        14,
-        12,
-        0,
-        0,
-        3,
-        348,
-        0
-      ],
-      "id": "70d28dd0-79a4-4ca3-ae79-11ef221b32fb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
