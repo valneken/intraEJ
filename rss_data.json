@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-05-29 06:12:36",
+  "timestamp": "2024-05-29 12:16:26",
   "entries": [
+    {
+      "title": "Migrant smuggling operation taken down by Romanian and Moldovan authorities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling operation taken down by Romanian and Moldovan authorities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/migrant-smuggling-operation-taken-down-romanian-and-moldovan-authorities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/migrant-smuggling-operation-taken-down-romanian-and-moldovan-authorities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-ro-mo-migrant-case.jpg",
+      "field_list_image_1": "Police action",
+      "summary": "A migrant smuggling operation has been dismantled by Romanian and Moldovan authorities, with the support of Eurojust. From 2019 until now, an organised crime group (OCG) smuggled over 100 migrants to the Schengen Area, demanding up to EUR 5 000 for the transport. On 27 May, authorities searched 11 houses and carried out multiple interrogations in Romania, and on 16 May another eight searches were conducted in Moldova, followed by the arrest of four drivers and their leader.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A migrant smuggling operation has been dismantled by Romanian and Moldovan authorities, with the support of Eurojust. From 2019 until now, an organised crime group (OCG) smuggled over 100 migrants to the Schengen Area, demanding up to EUR 5 000 for the transport. On 27 May, authorities searched 11 houses and carried out multiple interrogations in Romania, and on 16 May another eight searches were conducted in Moldova, followed by the arrest of four drivers and their leader."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u00a9 - Romanian PoliceThe OCG smuggled migrants from Asia or Africa for sums ranging from EUR 3 000 to EUR 5 000. The migrants were smuggled in special spaces created to disguise the transport. The suspects used multiple routes for the smuggling, passing through Austria, Bulgaria, Croatia, Greece, Hungary, Macedonia, Romania, Serbia and T\u00fcrkiye. As part of their operation, the OCG recruited victims from countries that did not require a visa to travel to the European Union to transport the migrants undetected.With the support of Eurojust, the Romanian and Moldovan authorities set up a joint\u2026"
+        }
+      ],
+      "published": "Wed, 29 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        29,
+        12,
+        0,
+        0,
+        2,
+        150,
+        0
+      ],
+      "id": "4c831ef7-efad-40ab-bbe2-d354b792a707",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Moldova",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports arrest of nine human traffickers in France and Spain",
       "title_detail": {
@@ -3841,76 +3916,6 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "SIRIUS 2023 report: Navigating the new era of obtaining electronic evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "SIRIUS 2023 report: Navigating the new era of obtaining electronic evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/sirius-2023-report-navigating-new-era-obtaining-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/sirius-2023-report-navigating-new-era-obtaining-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/sirius-eu-electronic-evidence-situation-report-cover-page.png",
-      "field_list_image_1": "Publication cover",
-      "summary": "Today, Europol, Eurojust and the European Judicial Network publish the 2023 edition of the SIRIUS European Union (EU) Electronic Evidence Situation Report.This report was first presented at the SIRIUS Annual Conference which saw over 900 participants take part in this hybrid event between 21-23 November 2023.The latest SIRIUS publication outlines the experiences of EU authorities in retrieving electronic data held by foreign-based service providers, and their experiences in delivering data, for the purpose of criminal investigations over the past year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Today, Europol, Eurojust and the European Judicial Network publish the 2023 edition of the SIRIUS European Union (EU) Electronic Evidence Situation Report.This report was first presented at the SIRIUS Annual Conference which saw over 900 participants take part in this hybrid event between 21-23 November 2023.The latest SIRIUS publication outlines the experiences of EU authorities in retrieving electronic data held by foreign-based service providers, and their experiences in delivering data, for the purpose of criminal investigations over the past year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "SIRIUS EU Electronic Evidence Situation Report 2023Download the reportThe report highlights the new frontier of electronic evidenceThe EU Electronic Evidence legislative package, adopted in July 2023, marks a new era in obtaining electronic evidence, as it will enable competent authorities to issue legally binding orders directly to service providers offering services within the EU, regardless of their place of establishment. This move will help address issues regarding lengthy judicial procedures to obtain data across borders, as well as legal uncertainties surrounding practices of voluntary\u2026"
-        }
-      ],
-      "published": "Mon, 18 Dec 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        12,
-        18,
-        12,
-        0,
-        0,
-        0,
-        352,
-        0
-      ],
-      "id": "1d8fecda-5e34-40ce-af6d-733101977bd1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EJN",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
           "label": null
         }
       ]
