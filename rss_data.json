@@ -1,6 +1,116 @@
 {
-  "timestamp": "2024-05-30 06:12:38",
+  "timestamp": "2024-05-30 12:16:41",
   "entries": [
+    {
+      "title": "Major operation to take down dangerous malware systems",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Major operation to take down dangerous malware systems"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/cc-end-game.jpeg",
+      "field_list_image_1": "coordination centre - end game",
+      "summary": "In an unprecedented operation against aggressive and dangerous computer malware, authorities in the European Union and beyond have taken actions against droppers including IcedID, Pikabot, Smokeloader, Bumblebee and Trickbot, which infiltrated computers via emails. The measures focused on disrupting criminal services through arresting suspects, the freezing of illegal proceeds, and taking down botnets, coordinated by Eurojust. The operation, which was carried out this week with support of Europol, is a follow up to the successful takedown of the Emotet malware system in 2021.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In an unprecedented operation against aggressive and dangerous computer malware, authorities in the European Union and beyond have taken actions against droppers including IcedID, Pikabot, Smokeloader, Bumblebee and Trickbot, which infiltrated computers via emails. The measures focused on disrupting criminal services through arresting suspects, the freezing of illegal proceeds, and taking down botnets, coordinated by Eurojust. The operation, which was carried out this week with support of Europol, is a follow up to the successful takedown of the Emotet malware system in 2021."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During actions carried out simultaneously in Germany, the Netherlands, France, Denmark, Ukraine, the United States and United Kingdom, 4 suspects were arrested, who offered the malware as a professional blackmail service to other criminal actors. Some of the suspects were involved in operating Emotet in the past.Via so called \u2018sinkholing\u2019 techniques or the use of tools to access the systems of operators behind the malware, investigators managed to block and take down the botnets. Malware droppers are types of malicious software which downloads viruses, ransomware or spyware on computers. They\u2026"
+        }
+      ],
+      "published": "Thu, 30 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        30,
+        12,
+        0,
+        0,
+        3,
+        151,
+        0
+      ],
+      "id": "ad3acc14-4114-4f74-91f3-8c40629acbcc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Denmark",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Migrant smuggling operation taken down by Romanian and Moldovan authorities",
       "title_detail": {
@@ -3854,71 +3964,6 @@
       ],
       "id": "e4bc2267-96b0-42d1-8b37-5608fab2c498",
       "guidislink": false
-    },
-    {
-      "title": "Historic religious statue returns to Italy with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Historic religious statue returns to Italy with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/historic-religious-statue-returns-italy-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/historic-religious-statue-returns-italy-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-italian-madonna.jpg",
-      "field_list_image_1": "Police handling the religious artefact",
-      "summary": "The historic Italian statue of Our Lady of Mount Carmel, which holds great religious importance, has been returned to Italy from the Netherlands with judicial support from Eurojust. The religious artefact was stolen in 2014 from a church in Pastena on the Amalfi Coast and later bought by a Dutch collector. The Agency assisted the Italian authorities with the rapid execution of a European Investigation Order (EIO) to arrange for its return to the Pastena parish.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The historic Italian statue of Our Lady of Mount Carmel, which holds great religious importance, has been returned to Italy from the Netherlands with judicial support from Eurojust. The religious artefact was stolen in 2014 from a church in Pastena on the Amalfi Coast and later bought by a Dutch collector. The Agency assisted the Italian authorities with the rapid execution of a European Investigation Order (EIO) to arrange for its return to the Pastena parish."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The statue, which is around 700 years old, was stolen from the church in August 2014 and offered for sale via an Italian antique dealer. It was bought in good faith by a Dutch collector who intended to resell it and posted pictures on social media. These were spotted by the parish priest of Pastena, who contacted the Italian authorities.An investigation was launched by the special Cultural Heritage Unit of the Italian Carabinieri and the Public Prosecutor\u2019s Office of Salerno, which later contacted Eurojust to initiate the process of retrieving and returning the artefact to the Amalfi\u2026"
-        }
-      ],
-      "published": "Tue, 19 Dec 2023 13:00:00 +0100",
-      "published_parsed": [
-        2023,
-        12,
-        19,
-        12,
-        0,
-        0,
-        1,
-        353,
-        0
-      ],
-      "id": "a60cdfd5-a6e9-4017-aae9-16ac6a6e169f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
     }
   ]
 }
