@@ -1,6 +1,71 @@
 {
-  "timestamp": "2024-06-04 06:12:52",
+  "timestamp": "2024-06-04 12:16:38",
   "entries": [
+    {
+      "title": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/chairman-presidency-bosnia-and-herzegovina-highlights-importance-cross-border-judicial-cooperation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/chairman-presidency-bosnia-and-herzegovina-highlights-importance-cross-border-judicial-cooperation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/default-list-image.png",
+      "field_list_image_1": "temp",
+      "summary": "Eurojust President Mr Ladislav Hamran today discussed the importance of criminal justice cooperation with the Chairman of the Presidency of Bosnia and Herzegovina, HE Mr Denis Be\u0107irovi\u0107. The ongoing involvement of Bosnia and Herzegovina in theWestern Balkan Criminal Justice Project (WBCJ) was acknowledged, as well as the efforts to step up the fight against organised crime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Ladislav Hamran today discussed the importance of criminal justice cooperation with the Chairman of the Presidency of Bosnia and Herzegovina, HE Mr Denis Be\u0107irovi\u0107. The ongoing involvement of Bosnia and Herzegovina in theWestern Balkan Criminal Justice Project (WBCJ) was acknowledged, as well as the efforts to step up the fight against organised crime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Almir \u0160ahovi\u0107, Ambassador of Bosnia and Herzegovina to the Kingdom of the Netherlands, H.E. Mr Denis Be\u0107irovi\u0107, Chairman of the Presidency of Bosnia and Herzegovina and Mr Ladislav Hamran, President of EurojustDuring his visit to the Agency, Chairman of the Presidency of Bosnia and Herzegovina, H.E. Mr Denis Be\u0107irovi\u0107, said: \u2019Today, I was delighted to visit Eurojust and to meet with President Ladislav Hamran, to whom I extended my gratitude for the warm welcome. It was an opportunity to once again underline Bosnia and Herzegovina's strong commitment to further strengthening our cooperation\u2026"
+        }
+      ],
+      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        4,
+        12,
+        0,
+        0,
+        1,
+        156,
+        0
+      ],
+      "id": "28f15456-2e35-43d6-862c-d6892583093e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "Bosnia and Herzegovina",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
       "title_detail": {
@@ -3956,101 +4021,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Crackdown on criminal network dealing with online investment fraud",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Crackdown on criminal network dealing with online investment fraud"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/online-investment-fraud-visual-0.jpg",
-      "field_list_image_1": "Distressed person, phone, credit card",
-      "summary": "Judicial and law enforcement authorities in Germany, Cyprus, Bulgaria and Sweden have carried out a coordinated action against an organised crime group suspected of online trading fraud. The network defrauded numerous victims for several millions of euros in Germany and other European countries.During a joint action day supported by Eurojust and Europol, four suspects were arrested and thirteen places were searched.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial and law enforcement authorities in Germany, Cyprus, Bulgaria and Sweden have carried out a coordinated action against an organised crime group suspected of online trading fraud. The network defrauded numerous victims for several millions of euros in Germany and other European countries.During a joint action day supported by Eurojust and Europol, four suspects were arrested and thirteen places were searched."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The suspects allegedly belong to a hierarchical criminal network with numerous members. The suspects ran several fraudulent online trading platforms from call centres and other locations in Cyprus. The perpetrators presented themselves as investment advisors and convinced victims to invest large amounts of money based on fake promises of profits.The damage caused to German victims by the two main platforms is estimated at EUR 3.3 million and EUR 164 000, respectively. The total damage caused by the platforms is likely to be many times higher. Eurojust assisted the investigations by organising\u2026"
-        }
-      ],
-      "published": "Mon, 22 Jan 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        1,
-        22,
-        12,
-        0,
-        0,
-        0,
-        22,
-        0
-      ],
-      "id": "9d1e045e-341d-4a51-89ab-c4310eecc528",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination centre",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
           "label": null
         }
       ]
