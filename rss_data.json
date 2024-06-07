@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-06-06 18:11:49",
+  "timestamp": "2024-06-07 00:42:45",
   "entries": [
+    {
+      "title": "Chief Prosecutors of the Western Balkans strengthen cooperation to fight cross-border crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Chief Prosecutors of the Western Balkans strengthen cooperation to fight cross-border crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/chief-prosecutors-western-balkans-strengthen-cooperation-fight-cross-border-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/chief-prosecutors-western-balkans-strengthen-cooperation-fight-cross-border-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/western-balkans-regional-consultative-forum.jpg",
+      "field_list_image_1": "Western Balkans Regional Consultative Forum",
+      "summary": "The first ever Regional Consultative Forum, organised by Eurojust and the Supreme State Prosecutor\u2019s Office in Montenegro, is strengthening cooperation between authorities in the Western Balkans in the fight against organised crime and high-level corruption. The Forum is the first time that prosecutors in the Western Balkans have come together to share experiences and challenges. The importance of the Western Balkans Criminal Justice Project (WBCJ) was highlighted during the Forum happening today in Budva.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The first ever Regional Consultative Forum, organised by Eurojust and the Supreme State Prosecutor\u2019s Office in Montenegro, is strengthening cooperation between authorities in the Western Balkans in the fight against organised crime and high-level corruption. The Forum is the first time that prosecutors in the Western Balkans have come together to share experiences and challenges. The importance of the Western Balkans Criminal Justice Project (WBCJ) was highlighted during the Forum happening today in Budva."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Consultative Forum of General and Special Chief Prosecutors of the Western Balkan region called for enhanced regional cooperation and encouraged exchanges between the Western Balkan Partners, reaffirming their common goals in the fight against organised crime, and outlining the role Eurojust can play in supporting them.During his opening remarks, Eurojust President, Mr Ladislav Hamran, highlighted: \u2018Our partners in the Western Balkans are critically important for Eurojust. The ever increasing caseload, which in 2023 stood at 708 investigations in which prosecutors and judges from across\u2026"
+        }
+      ],
+      "published": "Thu, 06 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        6,
+        12,
+        0,
+        0,
+        3,
+        158,
+        0
+      ],
+      "id": "5164293b-4a9e-4eb6-8f73-10fab2648082",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "Montenegro",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
       "title_detail": {
@@ -3926,71 +3986,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "15 arrested for arranging 133 sham marriages in Cyprus",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "15 arrested for arranging 133 sham marriages in Cyprus"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/15-arrested-arranging-133-sham-marriages-cyprus"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/15-arrested-arranging-133-sham-marriages-cyprus",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-sham-marriage-cyprus.png",
-      "field_list_image_1": "Passports and rings placed over a map of Europe",
-      "summary": "Judicial and law enforcement authorities in Cyprus, Portugal and Latvia have dismantled a criminal network suspected of organising 133 sham marriages in Cyprus to facilitate illegal immigration into the European Union. During a joint action day carried out on 29 January, 15 suspects were arrested: 13 in Cyprus, 1 in Latvia and 1 in Portugal.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial and law enforcement authorities in Cyprus, Portugal and Latvia have dismantled a criminal network suspected of organising 133 sham marriages in Cyprus to facilitate illegal immigration into the European Union. During a joint action day carried out on 29 January, 15 suspects were arrested: 13 in Cyprus, 1 in Latvia and 1 in Portugal."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "According to the investigations, the criminal network was also involved in human trafficking and money laundering activities, as well as forcing victims into bogus marriages for immigration purposes.The suspects allegedly recruited Latvian and Portuguese women and facilitated their journeys to Cyprus, where they entered into arranged marriages with third-country nationals. The suspects arranged all of the logistics, including the purchase of flight tickets and the acquisition of passports and other required documents.The marriages enabled the non-EU nationals to obtain residence permits from\u2026"
-        }
-      ],
-      "published": "Thu, 01 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        1,
-        12,
-        0,
-        0,
-        3,
-        32,
-        0
-      ],
-      "id": "7e7d882e-e065-4c8f-8795-103f7028c3ff",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
           "label": null
         }
       ]
