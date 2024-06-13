@@ -1,6 +1,106 @@
 {
-  "timestamp": "2024-06-12 18:12:41",
+  "timestamp": "2024-06-13 00:42:01",
   "entries": [
+    {
+      "title": "Eurojust supports authorities in dismantling EUR 113 million fraudulent investment scheme",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports authorities in dismantling EUR 113 million fraudulent investment scheme"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-authorities-dismantling-eur-113-million-fraudulent-investment-scheme"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-authorities-dismantling-eur-113-million-fraudulent-investment-scheme",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240611-caseid-id-81618-web.jpg",
+      "field_list_image_1": "generic image",
+      "summary": "A fraudulent pyramid scheme was taken down by authorities from Germany, Switzerland, Austria, Czechia, Lithuania and Liechtenstein, with the support of Eurojust and Europol. The organised crime group (OCG) used an investment model that focused on the leasing and subleasing of cryptocurrency machines, such as exchange machines and hardware for mining. The suspects were able to target thousands of victims, causing losses of up to EUR 113 million. During an action day on 11 June, six arrests were made, 29 searches were conducted and the suspects\u2019 assets were frozen.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A fraudulent pyramid scheme was taken down by authorities from Germany, Switzerland, Austria, Czechia, Lithuania and Liechtenstein, with the support of Eurojust and Europol. The organised crime group (OCG) used an investment model that focused on the leasing and subleasing of cryptocurrency machines, such as exchange machines and hardware for mining. The suspects were able to target thousands of victims, causing losses of up to EUR 113 million. During an action day on 11 June, six arrests were made, 29 searches were conducted and the suspects\u2019 assets were frozen."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The advertised investment concept involved the leasing of cryptocurrency products, such as investments in server storage for internet cloud services and the subleasing of crypto exchange machines. The suspects promised returns of 70% before tax to those joining the scheme. Investigations by German authorities showed that the promised returns were not only unrealistic, but also impossible, as the leased equipment and systems allegedly did not exist.As the promised investment scheme did not exist as advertised, the suspects created a pyramid scheme, where most of the revenue for earlier\u2026"
+        }
+      ],
+      "published": "Wed, 12 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        12,
+        12,
+        0,
+        0,
+        2,
+        164,
+        0
+      ],
+      "id": "c5c3c292-bcca-4da6-91af-2b592a728c46",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New report on encryption in criminal matters stresses  balance between security and privacy",
       "title_detail": {
@@ -3891,116 +3991,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports international operation against world\u2019s largest ransomware group",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports international operation against world\u2019s largest ransomware group"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-international-operation-against-worlds-largest-ransomware-group"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-international-operation-against-worlds-largest-ransomware-group",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-lockbit-case.jpg",
-      "field_list_image_1": "Generic lock icon",
-      "summary": "In a coordinated action supported by Eurojust and Europol, judicial and law enforcement authorities from 10 different countries have severely disrupted LockBit, the world\u2019s most active ransomware operation. Two members of the ransomware team have been arrested in Poland and Ukraine. In addition, law enforcement has compromised LockBit\u2019s primary platform and other enabling infrastructure. This includes the takedown of 34 servers in the Netherlands, Germany, Finland, France, Switzerland, Australia, the United States and the United Kingdom.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In a coordinated action supported by Eurojust and Europol, judicial and law enforcement authorities from 10 different countries have severely disrupted LockBit, the world\u2019s most active ransomware operation. Two members of the ransomware team have been arrested in Poland and Ukraine. In addition, law enforcement has compromised LockBit\u2019s primary platform and other enabling infrastructure. This includes the takedown of 34 servers in the Netherlands, Germany, Finland, France, Switzerland, Australia, the United States and the United Kingdom."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "LockBit first emerged at the end of 2019, initially calling itself \u2018ABCD\u2019 ransomware. Since then, it has grown rapidly and by 2022 had become the most deployed ransomware variant worldwide. LockBit attacks are believed to have affected over 2,500 victims all over the world.The group is a \u2018ransomware-as-a-service\u2019 operation, meaning that a core team creates its malware and runs its website, while licensing out its code to affiliates who launch attacks.The joint action enabled the various police forces to take control of much of the infrastructure that enables the LockBit ransomware to operate\u2026"
-        }
-      ],
-      "published": "Tue, 20 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        20,
-        12,
-        0,
-        0,
-        1,
-        51,
-        0
-      ],
-      "id": "e9fcedf6-7049-4820-955c-3508eb271deb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
