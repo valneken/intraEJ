@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-06-14 18:12:53",
+  "timestamp": "2024-06-15 00:41:42",
   "entries": [
+    {
+      "title": "Major takedown of critical online infrastructure to disrupt terrorist communications and propaganda",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Major takedown of critical online infrastructure to disrupt terrorist communications and propaganda"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/major-takedown-critical-online-infrastructure-disrupt-terrorist-communications-and-propaganda"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/major-takedown-critical-online-infrastructure-disrupt-terrorist-communications-and-propaganda",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240614-web-pr-es-led-case.jpg",
+      "field_list_image_1": "generic image server room",
+      "summary": "Judicial and law enforcement authorities across Europe and in the United States have dismantled critical online infrastructure in a large-scale operation to disrupt platforms and websites for terrorist communications and propaganda. In a concerted major action this week, servers were taken down in Germany, the Netherlands, United States and Iceland, with the Spanish authorities arresting nine radicalised individuals.The servers supported multiple media outlets linked to Islamic State. They were used to disseminate worldwide propaganda and messages capable of inciting terrorism in at least thirty languages. Eurojust and Europol coordinated and supported the joint operations.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial and law enforcement authorities across Europe and in the United States have dismantled critical online infrastructure in a large-scale operation to disrupt platforms and websites for terrorist communications and propaganda. In a concerted major action this week, servers were taken down in Germany, the Netherlands, United States and Iceland, with the Spanish authorities arresting nine radicalised individuals.The servers supported multiple media outlets linked to Islamic State. They were used to disseminate worldwide propaganda and messages capable of inciting terrorism in at least thirty languages. Eurojust and Europol coordinated and supported the joint operations."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "This week\u2019s joint operations are part of ongoing efforts and constant vigilance to tackle online terrorist propaganda and communications, including through social media. They targeted key tools and nodes to disseminate radical messages centred on the I'LAM Foundation, which created, operated or supported websites and other communication channels linked to the Islamic State terrorist organisation.Investigations and the continuous monitoring of online activities of terrorist organisations, led by the Spanish Civil Guard (Guardia Civil) in 2022 gave insight into the communications of media\u2026"
+        }
+      ],
+      "published": "Fri, 14 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        14,
+        12,
+        0,
+        0,
+        4,
+        166,
+        0
+      ],
+      "id": "bc893022-df14-4894-b4a5-e380a03d9c81",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Iceland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports authorities in dismantling EUR 113 million fraudulent investment scheme",
       "title_detail": {
@@ -3871,126 +3951,6 @@
         {
           "term": "Germany",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Over 100 searches and four arrests in Latvia, Germany, France, Italy and Malta against financial institution involved in money laundering",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Over 100 searches and four arrests in Latvia, Germany, France, Italy and Malta against financial institution involved in money laundering"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/over-100-searches-and-four-arrests-latvia-germany-france-italy-and-malta-against-financial-institution"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/over-100-searches-and-four-arrests-latvia-germany-france-italy-and-malta-against-financial-institution",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-malta-money-laundering-case.jpg",
-      "field_list_image_1": "Generic money image",
-      "summary": "National authorities in Latvia, Germany, France, Italy and Malta have carried out over 100 searches in a large-scale operation against a Russian-Eurasian criminal network and a Maltese-based financial institution allegedly involved in money-laundering services. Four suspects were detained during an action day supported by Eurojust and Europol. Potential suspects and witnesses were also interviewed in Latvia, Germany, Estonia and Malta.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National authorities in Latvia, Germany, France, Italy and Malta have carried out over 100 searches in a large-scale operation against a Russian-Eurasian criminal network and a Maltese-based financial institution allegedly involved in money-laundering services. Four suspects were detained during an action day supported by Eurojust and Europol. Potential suspects and witnesses were also interviewed in Latvia, Germany, Estonia and Malta."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During the actions, over 460 police officers were deployed to carry out the searches. Germany also deployed four officers to support the investigations and searches in Latvia and Malta. In addition to the arrests, various bank accounts and properties were seized.The Maltese financial institution laundered at least EUR 4.5 million in proceedings from criminal activities since end of 2015. The total sum of laundered money could amount to tens of millions of euros. The financial institution and organised crime group (OCG) behind it offered money-laundering services via a network of fake\u2026"
-        }
-      ],
-      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        21,
-        12,
-        0,
-        0,
-        2,
-        52,
-        0
-      ],
-      "id": "8e190ea2-b0c0-4b3d-9b2c-b361cb474af9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination centre",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Malta",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
