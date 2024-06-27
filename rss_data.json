@@ -1,6 +1,96 @@
 {
-  "timestamp": "2024-06-26 18:12:02",
+  "timestamp": "2024-06-27 00:42:32",
   "entries": [
+    {
+      "title": "Eurojust leads efforts to step up judicial response to money laundering and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust leads efforts to step up judicial response to money laundering and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-leads-efforts-step-judicial-response-money-laundering-and-asset-recovery"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-leads-efforts-step-judicial-response-money-laundering-and-asset-recovery",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/2024-06-26-money-laundering.jpg",
+      "field_list_image_1": "Money Laundering and Asset Recovery meeting - group picture",
+      "summary": "Eurojust hosted the second meeting of high-level experts on money laundering and asset recovery on 20 and 21 June. The meeting builds on the recommendations of the first ever Eurojust meeting on money laundering and asset recovery organised by Eurojust last year and brought together experts to advance a joint approach to fight money laundering and improve asset recovery.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust hosted the second meeting of high-level experts on money laundering and asset recovery on 20 and 21 June. The meeting builds on the recommendations of the first ever Eurojust meeting on money laundering and asset recovery organised by Eurojust last year and brought together experts to advance a joint approach to fight money laundering and improve asset recovery."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The second Eurojust Meeting on Money Laundering and Asset Recovery brought together dedicated prosecutors specialised in asset recovery and tackling money laundering from the European Union and countries with liaison prosecutors at Eurojust. Other participants included the European Commission (DG FISMA, DG HOME, DG JUST, and DG ECFIN), Europol, EPPO, EJN, CARIN network, INTERPOL, the Council of Europe (MONEYVAL), as well as representatives from Asset Recovery Offices and Asset Management Offices.Eurojust Vice-President Margarita Sniutyte-Daugeliene stated in her opening remarks: In 2023\u2026"
+        }
+      ],
+      "published": "Wed, 26 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        26,
+        12,
+        0,
+        0,
+        2,
+        178,
+        0
+      ],
+      "id": "53c68430-332e-41fd-8b23-0e04743ca9ce",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Asset recovery",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Council of Europe",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EJN",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EPPO",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Interpol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Major takedown of critical online infrastructure to disrupt terrorist communications and propaganda",
       "title_detail": {
@@ -537,6 +627,106 @@
       ]
     },
     {
+      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
+      "field_list_image_1": "Generic bitcoin sacam alert",
+      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
+        }
+      ],
+      "published": "Fri, 31 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        31,
+        12,
+        0,
+        0,
+        4,
+        152,
+        0
+      ],
+      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Network of luxury car thieves dismantled with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -647,106 +837,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
-      "field_list_image_1": "Generic bitcoin sacam alert",
-      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
-        }
-      ],
-      "published": "Fri, 31 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        31,
-        12,
-        0,
-        0,
-        4,
-        152,
-        0
-      ],
-      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1718,6 +1808,71 @@
       ]
     },
     {
+      "title": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/returned-stolen-baroque-painting.jpg",
+      "field_list_image_1": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
+      "summary": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The handover of the painting took place on 26 March 2024 at the National Museum of Art, Bucharest, between Thames Valley Police, Romanian Police, Christ Church College and the Romanian Ministry of Culture. This was assisted by the National Crime Agency\u2019s International Liaison Network.The UK authorities are appealing for information about two other paintings stolen in the same raid: \u2018A Soldier on Horseback\u2019 by Anthony van Dyck, dating from around 1616, and \u2018A Boy Drinking\u2019 by Annibale Carracci, dating from around 1580.\u00a9 Thames Valley PoliceThe Romanian police were contacted by a man in\u2026"
+        }
+      ],
+      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        4,
+        19,
+        12,
+        0,
+        0,
+        4,
+        110,
+        0
+      ],
+      "id": "eccdc4dc-a164-463f-a141-1715fca60936",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Practitioners share expertise on battlefield evidence to tackle terrorism and core international crimes",
       "title_detail": {
         "type": "text/plain",
@@ -1798,53 +1953,93 @@
       ]
     },
     {
-      "title": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
+      "title": "Crackdown on criminal network that used minors and women for street begging in Portugal",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust"
+        "value": "Crackdown on criminal network that used minors and women for street begging in Portugal"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust"
+          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/returned-stolen-baroque-painting.jpg",
-      "field_list_image_1": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
-      "summary": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved.",
+      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-thb-distressed-children.jpg",
+      "field_list_image_1": "distressed children",
+      "summary": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved."
+        "value": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The handover of the painting took place on 26 March 2024 at the National Museum of Art, Bucharest, between Thames Valley Police, Romanian Police, Christ Church College and the Romanian Ministry of Culture. This was assisted by the National Crime Agency\u2019s International Liaison Network.The UK authorities are appealing for information about two other paintings stolen in the same raid: \u2018A Soldier on Horseback\u2019 by Anthony van Dyck, dating from around 1616, and \u2018A Boy Drinking\u2019 by Annibale Carracci, dating from around 1580.\u00a9 Thames Valley PoliceThe Romanian police were contacted by a man in\u2026"
+          "value": "The criminal network is believed to have made a profit of over EUR 230,000 from this criminal activity.During a joint action on 11-14 March, the Portuguese and Romanian authorities carried out six house searches, interrogated three defendants and interviewed five witnesses in Romania. Eight more suspects were interrogated in the weeks following the operation. At least thirty victims were identified and brought to safety.Eurojust assisted the Portuguese and Romanian authorities in setting up and funding a joint investigation team into the case in April 2023. The Agency organised and hosted two\u2026"
         }
       ],
-      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
+      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
         4,
-        19,
+        12,
         12,
         0,
         0,
         4,
-        110,
+        103,
         0
       ],
-      "id": "eccdc4dc-a164-463f-a141-1715fca60936",
+      "id": "dd95b210-5fc8-4bdb-94ec-7939c4c1cdb5",
       "guidislink": false,
       "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "JIT funding",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
         {
           "term": "Romania",
           "scheme": "Member State",
@@ -1853,11 +2048,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
@@ -2022,106 +2212,6 @@
       "tags": [
         {
           "term": "European Commission",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Crackdown on criminal network that used minors and women for street begging in Portugal",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Crackdown on criminal network that used minors and women for street begging in Portugal"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-thb-distressed-children.jpg",
-      "field_list_image_1": "distressed children",
-      "summary": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network is believed to have made a profit of over EUR 230,000 from this criminal activity.During a joint action on 11-14 March, the Portuguese and Romanian authorities carried out six house searches, interrogated three defendants and interviewed five witnesses in Romania. Eight more suspects were interrogated in the weeks following the operation. At least thirty victims were identified and brought to safety.Eurojust assisted the Portuguese and Romanian authorities in setting up and funding a joint investigation team into the case in April 2023. The Agency organised and hosted two\u2026"
-        }
-      ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        12,
-        12,
-        0,
-        0,
-        4,
-        103,
-        0
-      ],
-      "id": "dd95b210-5fc8-4bdb-94ec-7939c4c1cdb5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
           "scheme": "Partner",
           "label": null
         }
@@ -2901,6 +2991,246 @@
       ]
     },
     {
+      "title": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
+      "field_list_image_1": "group picture from Kyiv meeting",
+      "summary": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Vien tr\u012bs ned\u0113\u013cas p\u0113c pilna m\u0113roga iebrukuma Ukrain\u0101 Eurojust atbalst\u012bja KIG izveidi, ko 2022.gada 25.mart\u0101 izveidoja Lietuva, Polija un Ukraina. Par t\u0101s dal\u012bbvalst\u012bm 2022.gada 30.maij\u0101 k\u013cuva Igaunija, Latvija un Slov\u0101kija, un Rum\u0101nija, kas pievienoj\u0101s 2022.gada 13.oktobr\u012b. 2023.gada 3.mart\u0101 septi\u0146u KIG dal\u012bbvalstu iest\u0101des parakst\u012bja sapra\u0161an\u0101s memorandu ar Amerikas Savienoto Valstu Tieslietu departamentu.Starptautisk\u0101s Krimin\u0101ltiesas prokurora birojs(SKT) un Eiropols darbojas KIG sast\u0101v\u0101 attiec\u012bgi no 2022.gada apr\u012b\u013ca un 2023.\u2026"
+        }
+      ],
+      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        29,
+        12,
+        0,
+        0,
+        3,
+        60,
+        0
+      ],
+      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "ICC",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
+      "field_list_image_1": "group picture from Kyiv meeting",
+      "summary": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ainult kolm n\u00e4dalat p\u00e4rast t\u00e4iemahulise sissetungi algust Ukrainasse toetas Eurojust 25. m\u00e4rtsil 2022 Leedu, Poola ja Ukraina moodustatud \u00fchise uurimisr\u00fchma loomist. 30. mail 2022 said liikmeks Eesti, L\u00e4ti ja Slovakkia ning 13. oktoobril 2022 Rumeenia. 3. m\u00e4rtsil 2023 allkirjastasid \u00fchise uurimisr\u00fchma seitse riiklikku ametiasutust vastastikuse m\u00f5istmise memorandumi Ameerika \u00dchendriikide justiitsministeeriumiga.Rahvusvahelise Kriminaalkohtu Prokuratuur on osalenud \u00fchises uurimisr\u00fchmas alates aprillist 2022 ja Europol alates oktoobrist 2023.Two years onA timeline of Eurojust's response to the\u2026"
+        }
+      ],
+      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        29,
+        12,
+        0,
+        0,
+        3,
+        60,
+        0
+      ],
+      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "ICC",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
+      "field_list_image_1": "group picture from Kyiv meeting",
+      "summary": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Len tri t\u00fd\u017edne po za\u010dat\u00ed rozsiahlej inv\u00e1zie na Ukrajinu Eurojust podporil zriadenie SVT, ktor\u00fd 25.marca 2022 zriadila Litva, Po\u013esko aUkrajina. D\u0148a 30.m\u00e1ja 2022 sa \u010dlenmi stali Est\u00f3nsko, Loty\u0161sko aSlovensko, poktor\u00fdch nasledovalo 13. okt\u00f3bra 2022 Rumunsko. D\u0148a 3.marca 2023 sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov zapojen\u00fdch do\u010dinnosti SVT podp\u00edsalo sministerstvom spravodlivosti Spojen\u00fdch \u0161t\u00e1tov memorandum oporozumen\u00ed .\u00darad prokur\u00e1tora Medzin\u00e1rodn\u00e9ho trestn\u00e9ho s\u00fadu (MTS) aEuropol s\u00fa \u00fa\u010dastn\u00edkmi SVT od apr\u00edla 2022, resp.okt\u00f3bra 2023.Two years\u2026"
+        }
+      ],
+      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        2,
+        29,
+        12,
+        0,
+        0,
+        3,
+        60,
+        0
+      ],
+      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "ICC",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports an EPPO-led operation against carousel VAT fraud for the first time",
       "title_detail": {
         "type": "text/plain",
@@ -3386,246 +3716,6 @@
       ]
     },
     {
-      "title": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Vien tr\u012bs ned\u0113\u013cas p\u0113c pilna m\u0113roga iebrukuma Ukrain\u0101 Eurojust atbalst\u012bja KIG izveidi, ko 2022.gada 25.mart\u0101 izveidoja Lietuva, Polija un Ukraina. Par t\u0101s dal\u012bbvalst\u012bm 2022.gada 30.maij\u0101 k\u013cuva Igaunija, Latvija un Slov\u0101kija, un Rum\u0101nija, kas pievienoj\u0101s 2022.gada 13.oktobr\u012b. 2023.gada 3.mart\u0101 septi\u0146u KIG dal\u012bbvalstu iest\u0101des parakst\u012bja sapra\u0161an\u0101s memorandu ar Amerikas Savienoto Valstu Tieslietu departamentu.Starptautisk\u0101s Krimin\u0101ltiesas prokurora birojs(SKT) un Eiropols darbojas KIG sast\u0101v\u0101 attiec\u012bgi no 2022.gada apr\u012b\u013ca un 2023.\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ainult kolm n\u00e4dalat p\u00e4rast t\u00e4iemahulise sissetungi algust Ukrainasse toetas Eurojust 25. m\u00e4rtsil 2022 Leedu, Poola ja Ukraina moodustatud \u00fchise uurimisr\u00fchma loomist. 30. mail 2022 said liikmeks Eesti, L\u00e4ti ja Slovakkia ning 13. oktoobril 2022 Rumeenia. 3. m\u00e4rtsil 2023 allkirjastasid \u00fchise uurimisr\u00fchma seitse riiklikku ametiasutust vastastikuse m\u00f5istmise memorandumi Ameerika \u00dchendriikide justiitsministeeriumiga.Rahvusvahelise Kriminaalkohtu Prokuratuur on osalenud \u00fchises uurimisr\u00fchmas alates aprillist 2022 ja Europol alates oktoobrist 2023.Two years onA timeline of Eurojust's response to the\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Len tri t\u00fd\u017edne po za\u010dat\u00ed rozsiahlej inv\u00e1zie na Ukrajinu Eurojust podporil zriadenie SVT, ktor\u00fd 25.marca 2022 zriadila Litva, Po\u013esko aUkrajina. D\u0148a 30.m\u00e1ja 2022 sa \u010dlenmi stali Est\u00f3nsko, Loty\u0161sko aSlovensko, poktor\u00fdch nasledovalo 13. okt\u00f3bra 2022 Rumunsko. D\u0148a 3.marca 2023 sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov zapojen\u00fdch do\u010dinnosti SVT podp\u00edsalo sministerstvom spravodlivosti Spojen\u00fdch \u0161t\u00e1tov memorandum oporozumen\u00ed .\u00darad prokur\u00e1tora Medzin\u00e1rodn\u00e9ho trestn\u00e9ho s\u00fadu (MTS) aEuropol s\u00fa \u00fa\u010dastn\u00edkmi SVT od apr\u00edla 2022, resp.okt\u00f3bra 2023.Two years\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Full-scale action against EUR 2 billion money laundering network via Lithuanian financial institution",
       "title_detail": {
         "type": "text/plain",
@@ -3706,81 +3796,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visit-mr-didier-reynders-european-commissioner-for-justice.jpg",
-      "field_list_image_1": "Visit Mr Didier Reynders European Commissioner for Justice",
-      "summary": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "While at Eurojust, Commissioner Reynders had the opportunity to visit the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA). The European Commission played an essential role in setting up the ICPA, which started its work in July 2023.European Commissioner for Justice Mr Didier Reynders said: \u2018Eurojust has played a key role in supporting judicial cooperation for many years. During my time as Justice Commissioner, I have relentlessly advocated and worked towards further reinforcing Eurojust\u2019s mandate and tools to accomplish its mission. In 2021, the\u2026"
-        }
-      ],
-      "published": "Thu, 22 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        22,
-        12,
-        0,
-        0,
-        3,
-        53,
-        0
-      ],
-      "id": "517ff01d-005d-46ce-90c9-bfe7f9608fac",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3886,71 +3901,76 @@
       ]
     },
     {
-      "title": "Ongoing action targets large migrant smuggling network",
+      "title": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ongoing action targets large migrant smuggling network"
+        "value": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network"
+          "href": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/ongoing-action-targets-large-migrant-smuggling-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-migrants-smuggling-network-english-channels-case.jpg",
-      "field_list_image_1": "Police line do not cross sign",
-      "summary": "",
+      "link": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visit-mr-didier-reynders-european-commissioner-for-justice.jpg",
+      "field_list_image_1": "Visit Mr Didier Reynders European Commissioner for Justice",
+      "summary": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
+        "value": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Large-scale operation involving law enforcement and judicial authorities from Belgium, France and Germany and coordinated by Eurojust and Europol led to the dismantling of one of the most active networks involved in the smuggling of migrants across the English Channel in small boats. The investigation focused on an Iraqi-Kurdish network suspected of smuggling middle-Eastern and East African irregular migrants from France to the UK with the use of low quality inflatable boats. German authorities raided houses and storage spaces. This resulted in the arrest of more than 15 individuals under\u2026"
+          "value": "While at Eurojust, Commissioner Reynders had the opportunity to visit the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA). The European Commission played an essential role in setting up the ICPA, which started its work in July 2023.European Commissioner for Justice Mr Didier Reynders said: \u2018Eurojust has played a key role in supporting judicial cooperation for many years. During my time as Justice Commissioner, I have relentlessly advocated and worked towards further reinforcing Eurojust\u2019s mandate and tools to accomplish its mission. In 2021, the\u2026"
         }
       ],
-      "published": "Wed, 21 Feb 2024 13:00:00 +0100",
+      "published": "Thu, 22 Feb 2024 13:00:00 +0100",
       "published_parsed": [
         2024,
         2,
-        21,
+        22,
         12,
         0,
         0,
-        2,
-        52,
+        3,
+        53,
         0
       ],
-      "id": "33acdbed-9d3c-4721-a975-96f07de64240",
+      "id": "517ff01d-005d-46ce-90c9-bfe7f9608fac",
       "guidislink": false,
       "tags": [
         {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
           "label": null
         },
         {
-          "term": "Belgium",
-          "scheme": "Member State",
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
           "label": null
         },
         {
-          "term": "France",
-          "scheme": "Member State",
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         },
         {
-          "term": "Germany",
-          "scheme": "Member State",
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
