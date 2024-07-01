@@ -1,6 +1,181 @@
 {
-  "timestamp": "2024-07-01 12:18:16",
+  "timestamp": "2024-07-01 18:12:40",
   "entries": [
+    {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/website-used-child-pornography-prostitution-and-drug-dealing-taken-down-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/website-used-child-pornography-prostitution-and-drug-dealing-taken-down-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/generic-digital-environment-85579-web.jpg",
+      "field_list_image_1": "generic digital environment",
+      "summary": "An online platform known for facilitating various crimes was taken down by the French authorities, in cooperation with Bulgaria, Germany Lithuania, the Netherlands and Hungary. The authorities had been investigating the digital platform since December 2023. During an action day on 24 June the servers located in Germany were seized and disconnected and over EUR 5.6 million of criminal funds were frozen.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An online platform known for facilitating various crimes was taken down by the French authorities, in cooperation with Bulgaria, Germany Lithuania, the Netherlands and Hungary. The authorities had been investigating the digital platform since December 2023. During an action day on 24 June the servers located in Germany were seized and disconnected and over EUR 5.6 million of criminal funds were frozen."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The website was used for many years to facilitate a range of criminal activities, in particular for child pornography, sexual exploitation, drug dealing, ambushes and even homicides. Criminals were able to send messages and connect with other criminals active in their criminal activities.Since 2021, more than 23000 judicial procedures have been initiated involving the online platform. At least 480 victims of the platform have been heard during these judicial procedures. Investigations into the platform were started by French authorities in December 2023. These investigations showed that\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "31f86512-9780-4f6a-b71b-1da836d1a7df",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against children",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "The fight against human trafficking requires close cooperation across borders with the support of Eurojust",
       "title_detail": {
@@ -3766,166 +3941,6 @@
         {
           "term": "ICC",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Full-scale action against EUR 2 billion money laundering network via Lithuanian financial institution",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Full-scale action against EUR 2 billion money laundering network via Lithuanian financial institution"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/full-scale-action-against-eur-2-billion-money-laundering-network-lithuanian-financial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/full-scale-action-against-eur-2-billion-money-laundering-network-lithuanian-financial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-ids-69038-68672-69210.jpg",
-      "field_list_image_1": "bank notes",
-      "summary": "Judicial and law enforcement authorities in Italy, Latvia and Lithuania have taken concerted action against a large-scale money laundering business, centring around a Lithuanian financial institution. Since 2017, an estimated EUR 2 billion has been laundered by two main suspects via a worldwide web of shell companies. The suspects, who now have been detained, offered money laundering online as a service to criminals.A third main suspect, leading another organised crime group (OCG), was arrested in the same operation for defrauding the Italian authorities of EUR 15 million in public funds. These funds were laundered via the same myriad web of enterprises, centred around the financial institution in Lithuania.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial and law enforcement authorities in Italy, Latvia and Lithuania have taken concerted action against a large-scale money laundering business, centring around a Lithuanian financial institution. Since 2017, an estimated EUR 2 billion has been laundered by two main suspects via a worldwide web of shell companies. The suspects, who now have been detained, offered money laundering online as a service to criminals.A third main suspect, leading another organised crime group (OCG), was arrested in the same operation for defrauding the Italian authorities of EUR 15 million in public funds. These funds were laundered via the same myriad web of enterprises, centred around the financial institution in Lithuania."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During an action day on 27 February, around 250 judicial representatives and law enforcement officers were active on the ground. In total 18 persons have been arrested, including the three main suspects. In total 55 places were searched and over EUR 11.5 million in assets and bank accounts have been frozen. Eurojust and Europol played pivotal roles in facilitating and coordinating the international activities.The financial institution offered money laundering as a service to thousands of criminals across the EU, by making fictitious financial transactions via the web of enterprises, which\u2026"
-        }
-      ],
-      "published": "Tue, 27 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        27,
-        12,
-        0,
-        0,
-        1,
-        58,
-        0
-      ],
-      "id": "b3725f59-56b6-4fb8-b6aa-ce20d832fc12",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice takes stock of major achievements at Eurojust during his mandate"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-commissioner-justice-takes-stock-major-achievements-eurojust-during-his-mandate",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-visit-mr-didier-reynders-european-commissioner-for-justice.jpg",
-      "field_list_image_1": "Visit Mr Didier Reynders European Commissioner for Justice",
-      "summary": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Commissioner for Justice Mr Didier Reynders today visited Eurojust to take stock of the Agency\u2019s major achievements since taking up his duties in 2019. Both in the last year of their mandate, Commissioner Reynders and Eurojust President Ladislav Hamran jointly reflected on key developments, including the Digital Criminal Justice project, Commission-funded external cooperation projects such as EuroMed Justice and the WB Crim Just project and the latest milestones in the fight against impunity for core international crimes committed in Ukraine. The visit also provided an excellent opportunity for a forward-looking discussion about the future of Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "While at Eurojust, Commissioner Reynders had the opportunity to visit the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA). The European Commission played an essential role in setting up the ICPA, which started its work in July 2023.European Commissioner for Justice Mr Didier Reynders said: \u2018Eurojust has played a key role in supporting judicial cooperation for many years. During my time as Justice Commissioner, I have relentlessly advocated and worked towards further reinforcing Eurojust\u2019s mandate and tools to accomplish its mission. In 2021, the\u2026"
-        }
-      ],
-      "published": "Thu, 22 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        22,
-        12,
-        0,
-        0,
-        3,
-        53,
-        0
-      ],
-      "id": "517ff01d-005d-46ce-90c9-bfe7f9608fac",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
