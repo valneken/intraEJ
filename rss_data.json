@@ -1,6 +1,111 @@
 {
-  "timestamp": "2024-07-02 12:16:59",
+  "timestamp": "2024-07-02 18:12:22",
   "entries": [
+    {
+      "title": "Drug trafficking network active across Europe dismantled",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Drug trafficking network active across Europe dismantled"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/drug-trafficking-network-active-across-europe-dismantled"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/drug-trafficking-network-active-across-europe-dismantled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/drugs-trafficking-action-case-july-2024.jpg",
+      "field_list_image_1": "action image, still from full video",
+      "summary": "An operation in five countries led to the dismantling of an organised crime group (OCG) active across Europe. Investigations ongoing since 2021 revealed that the group was trafficking cannabis and cocaine across several EU and non-EU countries. The actions in Italy, Belgium, Germany and Ukraine, supported by Eurojust and Europol, led to the arrest of 13 suspects.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An operation in five countries led to the dismantling of an organised crime group (OCG) active across Europe. Investigations ongoing since 2021 revealed that the group was trafficking cannabis and cocaine across several EU and non-EU countries. The actions in Italy, Belgium, Germany and Ukraine, supported by Eurojust and Europol, led to the arrest of 13 suspects."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Drugs used for the group\u2019s illegal activities were supplied by members in Spain. The drugs were then transported across Europe by couriers, who concealed the supplies in trucks that were in the possession of the organisation. Members based in Italy, Belgium, Germany, Spain and Ukraine, then sold the drugs on their local drug markets.Drug trafficking remains one of the most serious security threats in Europe. Europol\u2019s report on criminal networks shows that 50% of the most threatening criminal networks active in the EU are involved in drug trafficking, and 50% of all homicides in Europe are\u2026"
+        }
+      ],
+      "published": "Tue, 02 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        2,
+        12,
+        0,
+        0,
+        1,
+        184,
+        0
+      ],
+      "id": "857c777f-ca28-412c-b124-eab390e6d4d9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Hungarian EU presidency to combat cybercrime",
       "title_detail": {
@@ -3860,86 +3965,6 @@
         },
         {
           "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Dzia\u0142alno\u015b\u0107 wsp\u00f3lnego zespo\u0142u dochodzeniowo-\u015bledczego w sprawie domniemanych najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej pope\u0142nionych w Ukrainie przed\u0142u\u017cona o dwa lata",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dzia\u0142alno\u015b\u0107 wsp\u00f3lnego zespo\u0142u dochodzeniowo-\u015bledczego w sprawie domniemanych najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej pope\u0142nionych w Ukrainie przed\u0142u\u017cona o dwa lata"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/pl/news/dzialalnosc-wspolnego-zespolu-dochodzeniowo-sledczego-w-sprawie-domniemanych-najpowazniejszych"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/pl/news/dzialalnosc-wspolnego-zespolu-dochodzeniowo-sledczego-w-sprawie-domniemanych-najpowazniejszych",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Siedem organ\u00f3w krajowych uczestnicz\u0105cych we wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) w sprawie domniemanych najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej pope\u0142nionych w Ukrainie zgodzi\u0142o si\u0119 na przed\u0142u\u017cenie dzia\u0142alno\u015bci zespo\u0142u JIT o dwa lata. Prokuratorzy generalni zaanga\u017cowanych kraj\u00f3w zgodzili si\u0119 na przed\u0142u\u017cenie podczas spotkania koordynacyjnego, kt\u00f3re odby\u0142o si\u0119 dzisiaj w Kijowie w Ukrainie. Spotkanie zbieg\u0142o si\u0119 w czasie z konferencj\u0105 United for Justice [\u201eZjednoczeni na rzecz wymiaru sprawiedliwo\u015bci\u201d], kt\u00f3ra r\u00f3wnie\u017c odby\u0142a si\u0119 dzi\u015b w Kijowie.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Siedem organ\u00f3w krajowych uczestnicz\u0105cych we wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) w sprawie domniemanych najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej pope\u0142nionych w Ukrainie zgodzi\u0142o si\u0119 na przed\u0142u\u017cenie dzia\u0142alno\u015bci zespo\u0142u JIT o dwa lata. Prokuratorzy generalni zaanga\u017cowanych kraj\u00f3w zgodzili si\u0119 na przed\u0142u\u017cenie podczas spotkania koordynacyjnego, kt\u00f3re odby\u0142o si\u0119 dzisiaj w Kijowie w Ukrainie. Spotkanie zbieg\u0142o si\u0119 w czasie z konferencj\u0105 United for Justice [\u201eZjednoczeni na rzecz wymiaru sprawiedliwo\u015bci\u201d], kt\u00f3ra r\u00f3wnie\u017c odby\u0142a si\u0119 dzi\u015b w Kijowie."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Zaledwie trzy tygodnie po rozpocz\u0119ciu pe\u0142nej inwazji na Ukrain\u0119 Eurojust wspar\u0142 powo\u0142anie wsp\u00f3lnego zespo\u0142u dochodzeniowo-\u015bledczego, kt\u00f3ry zosta\u0142 utworzony 25marca 2022r. przez Litw\u0119, Polsk\u0119 iUkrain\u0119. 30maja 2022r. cz\u0142onkami zespo\u0142u JIT sta\u0142y si\u0119 Estonia, \u0141otwa iS\u0142owacja, a13pa\u017adziernika 2022r. do\u0142\u0105czy\u0142a do nich Rumunia. 3 marca 2023r. siedem organ\u00f3w krajowych zespo\u0142u JIT podpisa\u0142o protok\u00f3\u0142 ustale\u0144 zDepartamentem Sprawiedliwo\u015bci Stan\u00f3w Zjednoczonych.Biuro Prokuratora Mi\u0119dzynarodowego Trybuna\u0142u Karnego(MTK) iEuropol\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
           "scheme": "Partner",
           "label": null
         }
