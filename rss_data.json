@@ -1,6 +1,76 @@
 {
-  "timestamp": "2024-07-03 12:17:34",
+  "timestamp": "2024-07-03 18:12:02",
   "entries": [
+    {
+      "title": "One year on since the launch of the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "One year on since the launch of the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA)"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/one-year-launch-international-centre-prosecution-crime-aggression-against-ukraine-icpa"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/one-year-launch-international-centre-prosecution-crime-aggression-against-ukraine-icpa",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-message-from-andriy-kostin-prosecutor-general-for-ukraine.png",
+      "field_list_image_1": "icpa message from andriy kostin prosecutor general for ukraine",
+      "summary": "Marking a historic moment, one year ago today, Eurojust launched the International Centre for the Prosecution of the Crime of Aggression (ICPA) - a unique judicial coordination platform dedicated to supporting national investigations into the crime of aggression related to the war in Ukraine.Since its launch in July 2023, the ICPA has made significant progress in building a common investigative and prosecutorial strategy for cases on the crime of aggression. ICPA participants have selected relevant evidence to focus on, and have coordinated and strengthened ongoing investigative efforts at national level.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Marking a historic moment, one year ago today, Eurojust launched the International Centre for the Prosecution of the Crime of Aggression (ICPA) - a unique judicial coordination platform dedicated to supporting national investigations into the crime of aggression related to the war in Ukraine.Since its launch in July 2023, the ICPA has made significant progress in building a common investigative and prosecutorial strategy for cases on the crime of aggression. ICPA participants have selected relevant evidence to focus on, and have coordinated and strengthened ongoing investigative efforts at national level."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Russia must be held accountable for its war of aggression said European Commissioner for Justice, Didier Reynders. With the ICPA we ensure that no evidence is lost, in view to prosecute those responsible for the crime of aggression in accordance with international standards. On the occasion of the first anniversary of the ICPA, I want to applaud its very important work and reiterate the commitment of the European Commission to take all the necessary measures to support Eurojust and the ICPA States, including Ukraine, to accomplish their crucial mission.Eurojust\u2019s President, Ladislav\u2026"
+        }
+      ],
+      "published": "Wed, 03 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        3,
+        12,
+        0,
+        0,
+        2,
+        185,
+        0
+      ],
+      "id": "b36ba0a7-5689-4479-b929-a4416d0ac54a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Drug trafficking network active across Europe dismantled",
       "title_detail": {
@@ -670,7 +740,7 @@
           "label": null
         },
         {
-          "term": "EMCDDA",
+          "term": "EUDA",
           "scheme": "Partner",
           "label": null
         },
@@ -3880,91 +3950,6 @@
         },
         {
           "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports an EPPO-led operation against carousel VAT fraud for the first time",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports an EPPO-led operation against carousel VAT fraud for the first time"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-eppo-led-operation-against-carousel-vat-fraud-first-time"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-eppo-led-operation-against-carousel-vat-fraud-first-time",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-id-66840.jpg",
-      "field_list_image_1": "pile of mobile phones (generic illustration)",
-      "summary": "For the first time, Eurojust has supported an international joint action led by the European Public Prosecutor\u2019s Office (EPPO) against large-scale cross-border carousel VAT fraud involving companies in several Member States. The joint operation, also supported by Europol, resulted in the arrest of 14 suspects and more than 180 simultaneous searches in 17 countries. Over 680 officers participated in the actions on the ground.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the first time, Eurojust has supported an international joint action led by the European Public Prosecutor\u2019s Office (EPPO) against large-scale cross-border carousel VAT fraud involving companies in several Member States. The joint operation, also supported by Europol, resulted in the arrest of 14 suspects and more than 180 simultaneous searches in 17 countries. Over 680 officers participated in the actions on the ground."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During the searches, law enforcement seized vast quantities of smartphones, worth more than EUR 15.3 million, as well as a yacht, worth EUR 3 million, and EUR 1.2 million in cash and cryptocurrency. Several luxury cars, jewellery, luxury watches and 2.5 kg of gold were also found.The suspects are being investigated for large-scale cross-border Missing Trader Intra-Community (MTIC) fraud involving the trade of electronic goods and protective face masks through companies based in several European countries. MTIC fraud is the theft of value-added tax (VAT) from a government by organised crime\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "08cce692-26c8-470f-a17e-e37294c768f2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Malta",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "EPPO",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
           "scheme": "Partner",
           "label": null
         }
