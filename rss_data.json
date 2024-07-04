@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-07-04 06:13:38",
+  "timestamp": "2024-07-04 12:17:16",
   "entries": [
+    {
+      "title": "Illegal trade in fake and prohibited pesticides and fertilizers halted in Romania and Italy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Illegal trade in fake and prohibited pesticides and fertilizers halted in Romania and Italy"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/illegal-trade-fake-and-prohibited-pesticides-and-fertilizers-halted-romania-and-italy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/illegal-trade-fake-and-prohibited-pesticides-and-fertilizers-halted-romania-and-italy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/jit3.jpeg",
+      "field_list_image_1": "police",
+      "summary": "An illegal trading scheme in counterfeit and banned pesticides and fertilizers that were potentially dangerous to consumers\u2019 health has been halted by the Romanian and Italian authorities. Eurojust and Europol supported the joint investigation team (JIT). During a series of actions in both countries, evidence of large-scale fraud, forgery and tax evasion was gathered and one suspect was arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An illegal trading scheme in counterfeit and banned pesticides and fertilizers that were potentially dangerous to consumers\u2019 health has been halted by the Romanian and Italian authorities. Eurojust and Europol supported the joint investigation team (JIT). During a series of actions in both countries, evidence of large-scale fraud, forgery and tax evasion was gathered and one suspect was arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The substances were all banned for trade in the European Union, as they could be dangerous to users and consumers as they contained high doses of active substances. The suspects illegally imported the products from China and Singapore, but sold them as bio- or organic fertilizers and pesticides, using fake labels. The suspects also sold goods that were fake but pretended they were legitimate organic products.Between February and May 2023, three suspect shipments arriving from outside the European Union were detected by the Romanian customs authorities. Subsequent inspections by the\u2026"
+        }
+      ],
+      "published": "Thu, 04 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        4,
+        12,
+        0,
+        0,
+        3,
+        186,
+        0
+      ],
+      "id": "92ca8785-8011-4b79-8f96-a350146ee2a5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Counterfeiting",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "One year on since the launch of the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA)",
       "title_detail": {
@@ -3826,86 +3906,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "Ainult kolm n\u00e4dalat p\u00e4rast t\u00e4iemahulise sissetungi algust Ukrainasse toetas Eurojust 25. m\u00e4rtsil 2022 Leedu, Poola ja Ukraina moodustatud \u00fchise uurimisr\u00fchma loomist. 30. mail 2022 said liikmeks Eesti, L\u00e4ti ja Slovakkia ning 13. oktoobril 2022 Rumeenia. 3. m\u00e4rtsil 2023 allkirjastasid \u00fchise uurimisr\u00fchma seitse riiklikku ametiasutust vastastikuse m\u00f5istmise memorandumi Ameerika \u00dchendriikide justiitsministeeriumiga.Rahvusvahelise Kriminaalkohtu Prokuratuur on osalenud \u00fchises uurimisr\u00fchmas alates aprillist 2022 ja Europol alates oktoobrist 2023.Two years onA timeline of Eurojust's response to the\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dohoda o pred\u013a\u017een\u00ed \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu pre \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny na Ukrajine o dva roky"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/sk/news/dohoda-o-predlzeni-cinnosti-spolocneho-vysetrovacieho-timu-pre-udajne-najzavaznejsie",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov, ktor\u00e9 sa z\u00fa\u010dast\u0148uj\u00fa na \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT) vs\u00favislosti s\u00fadajn\u00fdmi hlavn\u00fdmi medzin\u00e1rodn\u00fdmi trestn\u00fdmi \u010dinmi sp\u00e1chan\u00fdmi naUkrajine, sa dohodlo napred\u013a\u017een\u00ed \u010dinnosti SVT odva roky. Gener\u00e1lni prokur\u00e1tori z\u00fa\u010dastnen\u00fdch kraj\u00edn sa dohodli na tomto pred\u013a\u017een\u00ed \u010dinnosti na koordina\u010dnom stretnut\u00ed, ktor\u00e9 sa dnes konalo vKyjeve, na Ukrajine. Stretnutie sa konalo v rovnakom \u010dase ako konferencia United for Justice (Zjednoten\u00ed za spravodlivos\u0165), ktor\u00e1 sa dnes tie\u017e konala vKyjeve."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Len tri t\u00fd\u017edne po za\u010dat\u00ed rozsiahlej inv\u00e1zie na Ukrajinu Eurojust podporil zriadenie SVT, ktor\u00fd 25.marca 2022 zriadila Litva, Po\u013esko aUkrajina. D\u0148a 30.m\u00e1ja 2022 sa \u010dlenmi stali Est\u00f3nsko, Loty\u0161sko aSlovensko, poktor\u00fdch nasledovalo 13. okt\u00f3bra 2022 Rumunsko. D\u0148a 3.marca 2023 sedem vn\u00fatro\u0161t\u00e1tnych org\u00e1nov zapojen\u00fdch do\u010dinnosti SVT podp\u00edsalo sministerstvom spravodlivosti Spojen\u00fdch \u0161t\u00e1tov memorandum oporozumen\u00ed .\u00darad prokur\u00e1tora Medzin\u00e1rodn\u00e9ho trestn\u00e9ho s\u00fadu (MTS) aEuropol s\u00fa \u00fa\u010dastn\u00edkmi SVT od apr\u00edla 2022, resp.okt\u00f3bra 2023.Two years\u2026"
         }
       ],
       "published": "Thu, 29 Feb 2024 13:00:00 +0100",
