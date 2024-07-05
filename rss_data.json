@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-07-05 06:13:55",
+  "timestamp": "2024-07-05 12:16:33",
   "entries": [
+    {
+      "title": "Actions taken to stop Romanian human trafficking network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions taken to stop Romanian human trafficking network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/actions-taken-stop-romanian-human-trafficking-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/actions-taken-stop-romanian-human-trafficking-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240705-case-id-84645-human-trafficking-ro-fr-europol-sm-web.jpg",
+      "field_list_image_1": "Human trafficking, generic image",
+      "summary": "Coordinated efforts from Romanian and French authorities, with support from Eurojust and Europol, have led to the dismantling of a human trafficking network. The organised crime group (OCG) trafficked Romanian women into France for sexual exploitation. During a recent action day, eight suspects were identified and multiple victims and witnesses were heard. The victims have been offered support.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Coordinated efforts from Romanian and French authorities, with support from Eurojust and Europol, have led to the dismantling of a human trafficking network. The organised crime group (OCG) trafficked Romanian women into France for sexual exploitation. During a recent action day, eight suspects were identified and multiple victims and witnesses were heard. The victims have been offered support."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "An ongoing investigation led by the Romanian authorities confirmed that, in order to obtain important material benefits, the OCG members have been committing offences of trafficking in human beings, pimping and money laundering, since at least January 2022.The victims from disadvantaged backgrounds were recruited in Romania and subsequently transported to France for the purpose of sexual exploitation. The recruitment and control of the victims involved various forms of coercion, including threat, force and deception. The suspects executed most of their activities from Romania, travelling to\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "13c2e5f6-ad0f-41b8-89e8-dce9a0aba4c2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Illegal trade in fake and prohibited pesticides and fertilizers halted in Romania and Italy",
       "title_detail": {
@@ -3826,86 +3906,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "Vien tr\u012bs ned\u0113\u013cas p\u0113c pilna m\u0113roga iebrukuma Ukrain\u0101 Eurojust atbalst\u012bja KIG izveidi, ko 2022.gada 25.mart\u0101 izveidoja Lietuva, Polija un Ukraina. Par t\u0101s dal\u012bbvalst\u012bm 2022.gada 30.maij\u0101 k\u013cuva Igaunija, Latvija un Slov\u0101kija, un Rum\u0101nija, kas pievienoj\u0101s 2022.gada 13.oktobr\u012b. 2023.gada 3.mart\u0101 septi\u0146u KIG dal\u012bbvalstu iest\u0101des parakst\u012bja sapra\u0161an\u0101s memorandu ar Amerikas Savienoto Valstu Tieslietu departamentu.Starptautisk\u0101s Krimin\u0101ltiesas prokurora birojs(SKT) un Eiropols darbojas KIG sast\u0101v\u0101 attiec\u012bgi no 2022.gada apr\u012b\u013ca un 2023.\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ainult kolm n\u00e4dalat p\u00e4rast t\u00e4iemahulise sissetungi algust Ukrainasse toetas Eurojust 25. m\u00e4rtsil 2022 Leedu, Poola ja Ukraina moodustatud \u00fchise uurimisr\u00fchma loomist. 30. mail 2022 said liikmeks Eesti, L\u00e4ti ja Slovakkia ning 13. oktoobril 2022 Rumeenia. 3. m\u00e4rtsil 2023 allkirjastasid \u00fchise uurimisr\u00fchma seitse riiklikku ametiasutust vastastikuse m\u00f5istmise memorandumi Ameerika \u00dchendriikide justiitsministeeriumiga.Rahvusvahelise Kriminaalkohtu Prokuratuur on osalenud \u00fchises uurimisr\u00fchmas alates aprillist 2022 ja Europol alates oktoobrist 2023.Two years onA timeline of Eurojust's response to the\u2026"
         }
       ],
       "published": "Thu, 29 Feb 2024 13:00:00 +0100",
