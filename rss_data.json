@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-07-09 06:13:32",
+  "timestamp": "2024-07-09 12:18:23",
   "entries": [
+    {
+      "title": "Eurojust supports searches into bribery and money laundering",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports searches into bribery and money laundering"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-searches-bribery-and-money-laundering"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-searches-bribery-and-money-laundering",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-money-handcuffs-750-468.png",
+      "field_list_image_1": "money and handcuffs",
+      "summary": "Investigations into corruption, trading and the influencing and bribery of foreign public officials have led to 13 searches across France, Spain and the Netherlands. A multinational company is being investigated for possible corruption and money laundering involving civilian and military equipment.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Investigations into corruption, trading and the influencing and bribery of foreign public officials have led to 13 searches across France, Spain and the Netherlands. A multinational company is being investigated for possible corruption and money laundering involving civilian and military equipment."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "French authorities have started multiple investigations into the company. The first investigation, opened at the end of 2016, concerns the sale of defence material and the construction of a naval base, around which there are suspicions of corruption.A second investigation, opened in June 2023, concerns the suspected corruption and influencing of foreign public officials linked to the sale of civilian and military equipment abroad.As the company has subsidiaries in Spain and the Netherlands that needed to be searched, Eurojust helped connect the French authorities with the Spanish and Dutch\u2026"
+        }
+      ],
+      "published": "Tue, 09 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        9,
+        12,
+        0,
+        0,
+        1,
+        191,
+        0
+      ],
+      "id": "c1ba314c-f552-4dcb-ac61-13bde65b6945",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Corruption",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Mutual legal assistance",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
@@ -3826,86 +3906,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "La 25 martie 2022, la doar trei s\u0103pt\u0103m\u00e2ni de la \u00eenceputul invaziei de amploare a Ucrainei, Eurojust a sprijinit constituirea unei echipe comune de anchet\u0103 (ECA) de c\u0103tre Lituania, Polonia \u0219i Ucraina. La 30 mai 2022 s-au al\u0103turat Estonia, Letonia \u0219i Slovacia, fiind urmate de Rom\u00e2nia la 13 octombrie 2022. La 3 martie 2023, cele \u0219apte autorit\u0103\u021bi na\u021bionale participante \u00een cadrul ECA au semnat un memorandum de \u00een\u021belegere cu Departamentul de Justi\u021bie al Statelor Unite ale Americii.Parchetul Cur\u021bii Penale Interna\u021bionale (CPI) \u0219i Europol particip\u0103 la ECA din aprilie 2022 \u0219i, respectiv, octombrie 2023\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Kop\u0113j\u0101s izmekl\u0113\u0161anas grupas par iesp\u0113jamiem smagiem starptautiskiem noziegumiem Ukrain\u0101 darbs pagarin\u0101ts par diviem gadiem"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lv/news/kopejas-izmeklesanas-grupas-par-iespejamiem-smagiem-starptautiskiem-noziegumiem-ukraina-darbs",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Septi\u0146u dal\u012bbvalstu iest\u0101des, kas darbojas kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem smagiem starptautiskiem noziegumiem, kas pastr\u0101d\u0101ti Ukrain\u0101, ir vienoju\u0161\u0101s pagarin\u0101t KIG darb\u012bbu uz diviem gadiem. Iesaist\u012bto valstu \u0123ener\u0101lprokurori parakst\u012bja l\u0113mumu par \u0161o pagarin\u0101jumu koordin\u0101cijas san\u0101ksm\u0113, kas \u0161odien notika Kijiv\u0101, Ukrain\u0101. San\u0101ksme notika vienlaikus ar konferenci \"Vienoti par taisn\u012bgumu\", kas ar\u012b \u0161odien notika Kijiv\u0101."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Vien tr\u012bs ned\u0113\u013cas p\u0113c pilna m\u0113roga iebrukuma Ukrain\u0101 Eurojust atbalst\u012bja KIG izveidi, ko 2022.gada 25.mart\u0101 izveidoja Lietuva, Polija un Ukraina. Par t\u0101s dal\u012bbvalst\u012bm 2022.gada 30.maij\u0101 k\u013cuva Igaunija, Latvija un Slov\u0101kija, un Rum\u0101nija, kas pievienoj\u0101s 2022.gada 13.oktobr\u012b. 2023.gada 3.mart\u0101 septi\u0146u KIG dal\u012bbvalstu iest\u0101des parakst\u012bja sapra\u0161an\u0101s memorandu ar Amerikas Savienoto Valstu Tieslietu departamentu.Starptautisk\u0101s Krimin\u0101ltiesas prokurora birojs(SKT) un Eiropols darbojas KIG sast\u0101v\u0101 attiec\u012bgi no 2022.gada apr\u012b\u013ca un 2023.\u2026"
         }
       ],
       "published": "Thu, 29 Feb 2024 13:00:00 +0100",
