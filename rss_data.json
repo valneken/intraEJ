@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-07-26 12:16:58",
+  "timestamp": "2024-07-26 18:12:31",
   "entries": [
+    {
+      "title": "Sentences of over five years for Dutch criminals robbing ATMs in Germany",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Sentences of over five years for Dutch criminals robbing ATMs in Germany"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/sentences-over-five-years-dutch-criminals-robbing-atms-germany"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/sentences-over-five-years-dutch-criminals-robbing-atms-germany",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-robbery-case.jpg",
+      "field_list_image_1": "atm",
+      "summary": "The Regional Court of Bamberg in Germany has sentenced fifteen members of a Dutch led organised crime group (OCG) that robbed a series of Automatic Teller Machines (ATMs) in Germany, causing massive damage. The OCG members have been served prison sentences of between one year and nine months and five years and eleven months for a series of violent robberies in southern Germany. Eurojust coordinated the investigations and judicial cooperation between the German and Dutch authorities.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Regional Court of Bamberg in Germany has sentenced fifteen members of a Dutch led organised crime group (OCG) that robbed a series of Automatic Teller Machines (ATMs) in Germany, causing massive damage. The OCG members have been served prison sentences of between one year and nine months and five years and eleven months for a series of violent robberies in southern Germany. Eurojust coordinated the investigations and judicial cooperation between the German and Dutch authorities."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Between November 2021 and January 2023 the OCG members used severe violence to blast ATMs and crowbars to pry them open, stealing an estimated EUR 3.4 million. The damages inflicted on the buildings, teller machines, their infrastructure and the bank\u2019s surroundings amounted to well over EUR 4 million.The gang members often stole fast cars to carry out the heists in Germany, which usually took place at night in the regions of Bavaria and Baden-W\u00fcrttemberg, before speeding back to the Netherlands. In each attack the OCG managed to steal up to EUR 250 000 in cash. The gang was highly organised,\u2026"
+        }
+      ],
+      "published": "Fri, 26 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        26,
+        12,
+        0,
+        0,
+        4,
+        208,
+        0
+      ],
+      "id": "995884a2-4994-4ccd-96a7-03ef1e9892f7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Justice Done",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust and U.S. Department of Justice co-host meeting aimed at ensuring sensitive technologies stay out of the wrong hands",
       "title_detail": {
@@ -3810,86 +3885,6 @@
         },
         {
           "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/et/news/ukrainas-vaidetavalt-toimepandud-raskete-rahvusvaheliste-kuritegude-uhise-uurimisruhma",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/extend-the-joint-investigation-team-into-alleged-core-international-crimes-in-ukraine-for-two-years.jpg",
-      "field_list_image_1": "group picture from Kyiv meeting",
-      "summary": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seitse riiklikku ametiasutust, kes osalevad Ukrainas v\u00e4idetavalt toimepandud raskete rahvusvaheliste kuritegude \u00fchises uurimisr\u00fchmas (JIT), on kokku leppinud, et \u00fchise uurimisr\u00fchma tegevusaega pikendatakse kaks aastat. Osalevate riikide peaprokur\u00f6rid leppisid tegevusaja pikendamises kokku t\u00e4na Ukrainas Kiievis toimunud koordineerimisn\u00f5upidamisel. N\u00f5upidamine toimus samal ajal kui konverents \u201eUnited for Justice\u201c, mis toimub samuti Kiievis."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ainult kolm n\u00e4dalat p\u00e4rast t\u00e4iemahulise sissetungi algust Ukrainasse toetas Eurojust 25. m\u00e4rtsil 2022 Leedu, Poola ja Ukraina moodustatud \u00fchise uurimisr\u00fchma loomist. 30. mail 2022 said liikmeks Eesti, L\u00e4ti ja Slovakkia ning 13. oktoobril 2022 Rumeenia. 3. m\u00e4rtsil 2023 allkirjastasid \u00fchise uurimisr\u00fchma seitse riiklikku ametiasutust vastastikuse m\u00f5istmise memorandumi Ameerika \u00dchendriikide justiitsministeeriumiga.Rahvusvahelise Kriminaalkohtu Prokuratuur on osalenud \u00fchises uurimisr\u00fchmas alates aprillist 2022 ja Europol alates oktoobrist 2023.Two years onA timeline of Eurojust's response to the\u2026"
-        }
-      ],
-      "published": "Thu, 29 Feb 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        2,
-        29,
-        12,
-        0,
-        0,
-        3,
-        60,
-        0
-      ],
-      "id": "3c3079c4-26e1-4e0b-bc9b-438cddc9c82d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "ICC",
           "scheme": "Partner",
           "label": null
         }
