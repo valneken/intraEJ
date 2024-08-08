@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-08-08 12:17:38",
+  "timestamp": "2024-08-08 18:13:29",
   "entries": [
+    {
+      "title": "Financial scammers detained following actions coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Financial scammers detained following actions coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/financial-scammers-detained-following-actions-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/financial-scammers-detained-following-actions-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/generic-scam-image-detail-keyboard.jpg",
+      "field_list_image_1": "Generic image",
+      "summary": "Romanian and Moldovan authorities worked together to uncover an organised crime group (OCG) that has subjected more than 150 victims to financial scams since 2022. By selling a non-existent investment scheme, the group was able to gain access to their victims\u2019 bank accounts. The damages resulting from their scam are estimated at approximately EUR 3 million. Following a joint investigation, supported by Eurojust and Europol, Romanian and Moldovan authorities were able to detain 12 people on 7 August.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Romanian and Moldovan authorities worked together to uncover an organised crime group (OCG) that has subjected more than 150 victims to financial scams since 2022. By selling a non-existent investment scheme, the group was able to gain access to their victims\u2019 bank accounts. The damages resulting from their scam are estimated at approximately EUR 3 million. Following a joint investigation, supported by Eurojust and Europol, Romanian and Moldovan authorities were able to detain 12 people on 7 August."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The OCG started their scam by posting false advertisements on the internet that promoted an investment plan that would lead to secure, quick and substantial earnings in virtual currencies. To ensure the credibility of the advertisements, pictures of well-known people, logos of banks and specialised economic publications were added. People clicking on the advertisement were led to a fake investment platform where the victims would fill in their personal information. To obtain even more personal data, the scammers, posing as financial actors, called their victims to gain access to their bank\u2026"
+        }
+      ],
+      "published": "Thu, 08 Aug 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        8,
+        8,
+        12,
+        0,
+        0,
+        3,
+        221,
+        0
+      ],
+      "id": "faeb3e42-c915-4012-b5d4-4105e7be0316",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Moldova",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Alleged large-scale coin forger arrested in Kosovo due to Eurojust support",
       "title_detail": {
@@ -3786,101 +3861,6 @@
         {
           "term": "JHA agencies",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Support to halt money laundering in Italy via tax fraud and fake invoices",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Support to halt money laundering in Italy via tax fraud and fake invoices"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/support-halt-money-laundering-italy-tax-fraud-and-fake-invoices"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/support-halt-money-laundering-italy-tax-fraud-and-fake-invoices",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-case-id-82629.jpg",
-      "field_list_image_1": "police money seized",
-      "summary": "Eurojust has supported judicial authorities in Italy, Portugal and Spain in halting an elaborate money-laundering scheme via tax fraud. In a coordinated operation, five suspects have been arrested in Italy and Spain for laundering illicit criminal proceeds by committing VAT fraud on the alleged import of frozen fish from Portugal and Spain. The main suspect is associated with the Cosa Nostra mafia-type criminal organisation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported judicial authorities in Italy, Portugal and Spain in halting an elaborate money-laundering scheme via tax fraud. In a coordinated operation, five suspects have been arrested in Italy and Spain for laundering illicit criminal proceeds by committing VAT fraud on the alleged import of frozen fish from Portugal and Spain. The main suspect is associated with the Cosa Nostra mafia-type criminal organisation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00a9 - Guardia di FinanzaIn a recent operation, approximately EUR 3.3 million in cash, luxury vehicles and jewellery were seized. This includes the seizing of cash and blocking of bank accounts worth around EUR 600 000 by the Spanish authorities. In total, twelve individuals are currently under investigation by the Italian authorities, including the five suspects who were detained.The suspects were allegedly involved in a criminal network that laundered money via a complex tax fraud scheme, using fake invoices and avoiding the payment of VAT to the Italian authorities. For this purpose, an\u2026"
-        }
-      ],
-      "published": "Tue, 05 Mar 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        3,
-        5,
-        12,
-        0,
-        0,
-        1,
-        65,
-        0
-      ],
-      "id": "82ea8a80-81d6-48d1-976a-a69191da9678",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
           "label": null
         }
       ]
