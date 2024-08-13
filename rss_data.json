@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-08-13 12:18:32",
+  "timestamp": "2024-08-13 18:13:16",
   "entries": [
+    {
+      "title": "Eurojust supports large-scale anti-mafia operation leading to arrest and freezing of EUR 50 million",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports large-scale anti-mafia operation leading to arrest and freezing of EUR 50 million"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-large-scale-anti-mafia-operation-leading-arrest-and-freezing-eur-50-million"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-large-scale-anti-mafia-operation-leading-arrest-and-freezing-eur-50-million",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-press-release-12-08-2024-building-ground.jpg",
+      "field_list_image_1": "Generic image of building ground, not specific to case",
+      "summary": "An investigation lasting over two years has uncovered an intricate money laundering scheme run by a mafia family from Palermo. The total value of their profits is estimated at over EUR 500 million. They reinvested the profits of their crimes in multiple companies in Brazil. Cooperation between Italian, Brazilian and Swiss authorities led to the arrest of a member of the organised crime group (OCG) during an action day on 13 August, as well as the freezing of financial assets worth EUR 50 million during several searches in Italy, Brazil and Switzerland.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An investigation lasting over two years has uncovered an intricate money laundering scheme run by a mafia family from Palermo. The total value of their profits is estimated at over EUR 500 million. They reinvested the profits of their crimes in multiple companies in Brazil. Cooperation between Italian, Brazilian and Swiss authorities led to the arrest of a member of the organised crime group (OCG) during an action day on 13 August, as well as the freezing of financial assets worth EUR 50 million during several searches in Italy, Brazil and Switzerland."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "To support other major mafia families, the OCG was involved in various criminal activities, including extortion, money laundering and the fraudulent transfer of valuables. An integrated network of financial professionals in Italy and around the world helped the OCG to invest its profits in companies in Italy, including a well-known hotel.In 2016, the suspects moved their activities to Brazil to support another Italian criminal and launder more of their profits. The money arrived in Brazil through multiple transit bank accounts and with the support of their network of financial professionals\u2026"
+        }
+      ],
+      "published": "Tue, 13 Aug 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        8,
+        13,
+        12,
+        0,
+        0,
+        1,
+        226,
+        0
+      ],
+      "id": "fbc2d478-a9db-4a0e-8149-c4a0fdac30e9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Financial scammers detained following actions coordinated by Eurojust",
       "title_detail": {
@@ -3799,71 +3884,6 @@
       ],
       "id": "f663fc2b-c5a8-4e4b-a58c-98bd221f5e43",
       "guidislink": false
-    },
-    {
-      "title": "Eurojust and eu-LISA discuss closer cooperation to support digitalisation of justice across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and eu-LISA discuss closer cooperation to support digitalisation of justice across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-eu-lisa-discuss-closer-cooperation-support-digitalisation-justice-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-eu-lisa-discuss-closer-cooperation-support-digitalisation-justice-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eurojust-eu-lisa-pr.jpg",
-      "field_list_image_1": "Ms Agn\u00e8s Diallo and Mr Ladislav Hamran",
-      "summary": "Ms Agn\u00e8s Diallo and Mr Ladislav HamranEurojust and eu-LISA will strengthen their coordination as EU Agencies to support the digitalisation of judicial cooperation across the European Union. During a visit to The Hague by eu-LISA Executive Director Ms Agn\u00e8s Diallo, the discussions focused on the advantages of closer cooperation in support of the Digital Criminal Justice initiative.This cooperation could, for example, focus on ensuring the interoperability of EU-wide digital systems with those of national authorities, the implementation of the Joint Investigation Teams Collaboration Platform and the European Criminal Records Information System \u2013 Third Country Nationals (ECRIS-TCN), as well as the possible use of artificial intelligence (AI) in the field of judicial cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ms Agn\u00e8s Diallo and Mr Ladislav HamranEurojust and eu-LISA will strengthen their coordination as EU Agencies to support the digitalisation of judicial cooperation across the European Union. During a visit to The Hague by eu-LISA Executive Director Ms Agn\u00e8s Diallo, the discussions focused on the advantages of closer cooperation in support of the Digital Criminal Justice initiative.This cooperation could, for example, focus on ensuring the interoperability of EU-wide digital systems with those of national authorities, the implementation of the Joint Investigation Teams Collaboration Platform and the European Criminal Records Information System \u2013 Third Country Nationals (ECRIS-TCN), as well as the possible use of artificial intelligence (AI) in the field of judicial cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Executive Director of eu-LISA Ms Agn\u00e8s Diallo stated: Digitalisation of the EU\u2019s justice system has the potential to bring immense value to professionals and users. eu-LISA shares this strong vision and is fully committed to working with all its partners and stakeholders to make it a success. This is what we are continuously building together with Eurojust, ultimately for the benefit of EU citizens.Eurojust President Mr Ladislav Hamran said: New technologies shape the future of our societies, and it is important for prosecutors and judges to keep in step. I therefore consider closer\u2026"
-        }
-      ],
-      "published": "Thu, 07 Mar 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        3,
-        7,
-        12,
-        0,
-        0,
-        3,
-        67,
-        0
-      ],
-      "id": "f2f49043-f4f1-4874-89bd-5d5f6127f395",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "eu-LISA",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "JHA agencies",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
     }
   ]
 }
