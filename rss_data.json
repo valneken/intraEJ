@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-08-22 12:18:05",
+  "timestamp": "2024-08-22 18:12:56",
   "entries": [
+    {
+      "title": "Fugitive Italian crime leader arrested in Slovenia",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Fugitive Italian crime leader arrested in Slovenia"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fugitive-italian-crime-leader-arrested-slovenia"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fugitive-italian-crime-leader-arrested-slovenia",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/italy-slovenia-case-08-2024.jpg",
+      "field_list_image_1": "bags of drugs",
+      "summary": "A fast and coordinated action by Italian and Slovenian authorities, supported by Eurojust, has led to the arrest of a dangerous criminal hiding in Koper, Slovenia. The leader of an Italian organised crime group (OCG) was on the run from a 21-year prison sentence. He had been convicted of several crimes including drug trafficking, extortion and kidnapping.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A fast and coordinated action by Italian and Slovenian authorities, supported by Eurojust, has led to the arrest of a dangerous criminal hiding in Koper, Slovenia. The leader of an Italian organised crime group (OCG) was on the run from a 21-year prison sentence. He had been convicted of several crimes including drug trafficking, extortion and kidnapping."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Italian OCG leader, of Calabrian origin, fled on the eve of his conviction in February this year. A national and European Arrest Warrant was issued for the 40-year-old fugitive. Complex investigations lasting several months were launched. The fugitive was finally located in Slovenia through a phone tapping and surveillance operation.It was at this point that Eurojust became involved in the operation by executing a European Investigation Order (EIO). The EIO enabled surveillance activities in Slovenia, including phone tracking and physical tailing. In just 10 days, the EIO was executed and\u2026"
+        }
+      ],
+      "published": "Thu, 22 Aug 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        8,
+        22,
+        12,
+        0,
+        0,
+        3,
+        235,
+        0
+      ],
+      "id": "45cb68f1-0261-47a5-a5e1-0377d502f2cf",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Slovenia",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports large-scale anti-mafia operation leading to arrest and freezing of EUR 50 million",
       "title_detail": {
@@ -3836,54 +3916,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Eurojust welcomes COEST delegation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust welcomes COEST delegation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-welcomes-coest-delegation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-welcomes-coest-delegation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web1-visit-working-party-on-eastern-europe-and-central-asia-18.jpg",
-      "field_list_image_1": "Eurojust welcomes COEST delegation",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Today, 8 March, Eurojust welcomed a delegation from the European Council Working Party on Eastern Europe and Central Asia (COEST).The delegation met with Eurojust experts, who presented the Agency\u2019s work in response to the war in Ukraine. This included presentations on the Joint Investigation Team on war crimes, the Core International Crimes Evidence Database, and the International Centre for the Prosecution of the Crime of Aggression.The meeting, which also included the participation of representatives from the European External Action Service, DG NEAR, and the Belgian Ministry\u2026"
-        }
-      ],
-      "published": "Fri, 08 Mar 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        3,
-        8,
-        12,
-        0,
-        0,
-        4,
-        68,
-        0
-      ],
-      "id": "f663fc2b-c5a8-4e4b-a58c-98bd221f5e43",
-      "guidislink": false
     }
   ]
 }
