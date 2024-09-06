@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-09-06 06:14:21",
+  "timestamp": "2024-09-06 12:18:26",
   "entries": [
+    {
+      "title": "Three Belarusian nationals charged for forcing Polish plane to land to arrest dissident",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Three Belarusian nationals charged for forcing Polish plane to land to arrest dissident"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/three-belarusian-nationals-charged-forcing-polish-plane-land-arrest-dissident"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/three-belarusian-nationals-charged-forcing-polish-plane-land-arrest-dissident",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/plane-against-sky-size.jpg",
+      "field_list_image_1": "Plane - generic image",
+      "summary": "A three-year investigation has led to the charging of three Belarusian nationals for deceitfully seizing a Polish aircraft in Belarus to arrest a dissident. The forced landing in Minsk of a commercial flight caused a direct threat to the life and health of the 132 passengers and unlawfully deprived the crew and passengers of their liberty. Eurojust supported this high-profile case from the start of the investigations by Polish and Lithuanian authorities in 2021.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A three-year investigation has led to the charging of three Belarusian nationals for deceitfully seizing a Polish aircraft in Belarus to arrest a dissident. The forced landing in Minsk of a commercial flight caused a direct threat to the life and health of the 132 passengers and unlawfully deprived the crew and passengers of their liberty. Eurojust supported this high-profile case from the start of the investigations by Polish and Lithuanian authorities in 2021."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Belarusian air traffic controllers forced the aircraft to divert from its route to Vilnius by providing false information about an alleged explosive device, forcing the pilots to make an emergency landing at Minsk airport. After the aircraft landed in Minsk, the passengers were evacuated and their luggage was searched.During the evacuation, two passengers, a Belarusian dissident and his companion, were arrested by officials. Investigations into the incident revealed that these arrests were the real reason the flight was diverted to Minsk.Immediately after the incident, investigations were\u2026"
+        }
+      ],
+      "published": "Fri, 06 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        6,
+        12,
+        0,
+        0,
+        4,
+        250,
+        0
+      ],
+      "id": "589cbe82-f20d-4c42-888c-09ab58f8e32b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Find Eurojust in the European Pavilion at the World Port Days in Rotterdam",
       "title_detail": {
@@ -3796,76 +3871,6 @@
         {
           "term": "Sweden",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Visit of Lebanese Minister of Justice Mr Henri Khoury",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Visit of Lebanese Minister of Justice Mr Henri Khoury"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/visit-lebanese-minister-justice-mr-henri-khoury"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/visit-lebanese-minister-justice-mr-henri-khoury",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240318-mr.henri-khoury-minister-of-justice-lebanon-web-jpg.jpg",
-      "field_list_image_1": "Mr Henri Khoury Minister of Justice Lebanon",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Mr Ladislav Hamran, President of Eurojust and Mr Henri Khoury, Minister of Justice of LebanonA Lebanese delegation led by Justice Minister Mr Henri Khoury visited Eurojust today, to get better acquainted with the Agency, in particular the protection of personal data processed by Eurojust. The visit was organised by the European Commission in cooperation with Eurojust.Lebanon is one of the countries the European Commission is negotiating with to work towards an international agreement on cooperation with Eurojust. Minister Khoury was presented with the cooperation modalities the agreement\u2026"
-        }
-      ],
-      "published": "Mon, 18 Mar 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        3,
-        18,
-        12,
-        0,
-        0,
-        0,
-        78,
-        0
-      ],
-      "id": "c397df37-f9d7-426e-9705-f39af2d92b0f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Data protection",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Commission",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
