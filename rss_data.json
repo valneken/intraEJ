@@ -1,6 +1,54 @@
 {
-  "timestamp": "2024-09-09 12:19:42",
+  "timestamp": "2024-09-09 18:13:19",
   "entries": [
+    {
+      "title": "Eurojust at the Just Peace Open Day 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust at the Just Peace Open Day 2024"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-just-peace-open-day-2024"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-just-peace-open-day-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/openday2024-eurojust.png",
+      "field_list_image_1": "Open Day 2024 banner",
+      "summary": "2024 marks the 125th anniversary of the first Hague Peace Conference (1899) and many events are taking place in The Hague to mark this occasion.Peace and justice organisations from across The Hague will open their doors to the public for the Just Peace Open Day on 22 September 2024.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "2024 marks the 125th anniversary of the first Hague Peace Conference (1899) and many events are taking place in The Hague to mark this occasion.Peace and justice organisations from across The Hague will open their doors to the public for the Just Peace Open Day on 22 September 2024."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "This year, members of the public can find Eurojust at the House of Europe. Here you can meet the prosecutors tackling cross-border crime, listen to their stories on how Eurojust works or take part in a quiz about how we are getting justice done. We also have a special activity for children where they can help find evidence of crimes!Attendees can also register to listen to a presentation by Eurojust\u2019s Vice-President and Liaison Prosecutor from The Netherlands.10:30-11:30 \u2013 Eurojust Presentation by Vice-President Bostjan Skrlec (English)14:30-15:30 \u2013 Eurojust Presentation by Liaison Prosecutor\u2026"
+        }
+      ],
+      "published": "Mon, 09 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        9,
+        12,
+        0,
+        0,
+        0,
+        253,
+        0
+      ],
+      "id": "29fb69d4-1ec0-40ec-8189-f0d28b4398f8",
+      "guidislink": false
+    },
     {
       "title": "Three Belarusian nationals charged for forcing Polish plane to land to arrest dissident",
       "title_detail": {
@@ -650,66 +698,6 @@
       ]
     },
     {
-      "title": "Un importante paso contra el crimen organizado Eurojust firma Acuerdos de Trabajo con cinco pa\u00edses latinoamericanos",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Un importante paso contra el crimen organizado Eurojust firma Acuerdos de Trabajo con cinco pa\u00edses latinoamericanos"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/es/news/un-importante-paso-contra-el-crimen-organizado-eurojust-firma-acuerdos-de-trabajo-con-cinco"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/es/news/un-importante-paso-contra-el-crimen-organizado-eurojust-firma-acuerdos-de-trabajo-con-cinco",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240710-latam-signing-106.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "Para luchar contra la creciente amenaza global de las actividades delictivas, Eurojust ha firmado Acuerdos de Trabajo con las Fiscal\u00edas de Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa. Los nuevos acuerdos har\u00e1n m\u00e1s eficaz la cooperaci\u00f3n estrat\u00e9gica entre estas autoridades y Eurojust. Los fiscales generales de los cinco pa\u00edses y de Panam\u00e1, que ya tiene un Acuerdo de Trabajo firmado con Eurojust, asistieron al acto de las firmas en La Haya.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Para luchar contra la creciente amenaza global de las actividades delictivas, Eurojust ha firmado Acuerdos de Trabajo con las Fiscal\u00edas de Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa. Los nuevos acuerdos har\u00e1n m\u00e1s eficaz la cooperaci\u00f3n estrat\u00e9gica entre estas autoridades y Eurojust. Los fiscales generales de los cinco pa\u00edses y de Panam\u00e1, que ya tiene un Acuerdo de Trabajo firmado con Eurojust, asistieron al acto de las firmas en La Haya."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "El 68% de las redes delictivas m\u00e1s peligrosas operan a escala mundial, y el 36% de ellas se dedican al tr\u00e1fico de drogas, seg\u00fan un informe de Europol. Estas redes blanquean el producto de sus actividades a escala global, y el 32% de ellas lo hace tanto en la Uni\u00f3n Europea -EU- como en el extranjero.Para desmantelar estas redes es esencial la cooperaci\u00f3n internacional. En este sentido, Eurojust apoya a las autoridades nacionales de la UE para que colaboren con terceros pa\u00edses. Los Acuerdos de Trabajo con Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa, reforzar\u00e1n la cooperaci\u00f3n en la lucha contra\u2026"
-        }
-      ],
-      "published": "Wed, 10 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        10,
-        12,
-        0,
-        0,
-        2,
-        192,
-        0
-      ],
-      "id": "4e4806b9-f1b2-42c5-8416-4a16ef84d054",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "An important step against organised crime: Eurojust signs Working Arrangements with five Latin American countries",
       "title_detail": {
         "type": "text/plain",
@@ -740,6 +728,66 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "68% of the most threatening criminal networks operate globally, with 36% of these networks engaged in drug trafficking, according to a report from Europol. These networks launder the proceeds from their activities on a global scale, with 32% of networks laundering money in both the EU and abroad.To dismantle these networks, international cooperation is essential. Eurojust supports national authorities in the EU to work together with third countries. The Working Arrangements with Bolivia, Chile, Costa Rica, Ecuador and Peru will strengthen cooperation in the fight against organised crime and\u2026"
+        }
+      ],
+      "published": "Wed, 10 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        10,
+        12,
+        0,
+        0,
+        2,
+        192,
+        0
+      ],
+      "id": "4e4806b9-f1b2-42c5-8416-4a16ef84d054",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Un importante paso contra el crimen organizado Eurojust firma Acuerdos de Trabajo con cinco pa\u00edses latinoamericanos",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Un importante paso contra el crimen organizado Eurojust firma Acuerdos de Trabajo con cinco pa\u00edses latinoamericanos"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/es/news/un-importante-paso-contra-el-crimen-organizado-eurojust-firma-acuerdos-de-trabajo-con-cinco"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/es/news/un-importante-paso-contra-el-crimen-organizado-eurojust-firma-acuerdos-de-trabajo-con-cinco",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240710-latam-signing-106.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Para luchar contra la creciente amenaza global de las actividades delictivas, Eurojust ha firmado Acuerdos de Trabajo con las Fiscal\u00edas de Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa. Los nuevos acuerdos har\u00e1n m\u00e1s eficaz la cooperaci\u00f3n estrat\u00e9gica entre estas autoridades y Eurojust. Los fiscales generales de los cinco pa\u00edses y de Panam\u00e1, que ya tiene un Acuerdo de Trabajo firmado con Eurojust, asistieron al acto de las firmas en La Haya.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Para luchar contra la creciente amenaza global de las actividades delictivas, Eurojust ha firmado Acuerdos de Trabajo con las Fiscal\u00edas de Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa. Los nuevos acuerdos har\u00e1n m\u00e1s eficaz la cooperaci\u00f3n estrat\u00e9gica entre estas autoridades y Eurojust. Los fiscales generales de los cinco pa\u00edses y de Panam\u00e1, que ya tiene un Acuerdo de Trabajo firmado con Eurojust, asistieron al acto de las firmas en La Haya."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "El 68% de las redes delictivas m\u00e1s peligrosas operan a escala mundial, y el 36% de ellas se dedican al tr\u00e1fico de drogas, seg\u00fan un informe de Europol. Estas redes blanquean el producto de sus actividades a escala global, y el 32% de ellas lo hace tanto en la Uni\u00f3n Europea -EU- como en el extranjero.Para desmantelar estas redes es esencial la cooperaci\u00f3n internacional. En este sentido, Eurojust apoya a las autoridades nacionales de la UE para que colaboren con terceros pa\u00edses. Los Acuerdos de Trabajo con Bolivia, Chile, Costa Rica, Ecuador y Per\u00fa, reforzar\u00e1n la cooperaci\u00f3n en la lucha contra\u2026"
         }
       ],
       "published": "Wed, 10 Jul 2024 14:00:00 +0200",
@@ -1185,6 +1233,71 @@
       ]
     },
     {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -1289,71 +1402,6 @@
         },
         {
           "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Hungarian EU presidency to combat cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hungarian EU presidency to combat cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
-      "field_list_image_1": "Hungarian Presidency 2024 logo",
-      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
-        }
-      ],
-      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        1,
-        12,
-        0,
-        0,
-        0,
-        183,
-        0
-      ],
-      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Hungary",
           "scheme": "Member State",
           "label": null
         }
@@ -1920,61 +1968,6 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
-      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
-        }
-      ],
-      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        6,
-        4,
-        12,
-        0,
-        0,
-        1,
-        156,
-        0
-      ],
-      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2035,6 +2028,61 @@
         {
           "term": "Bosnia and Herzegovina",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
+      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
+        }
+      ],
+      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        4,
+        12,
+        0,
+        0,
+        1,
+        156,
+        0
+      ],
+      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3221,71 +3269,6 @@
       ]
     },
     {
-      "title": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/returned-stolen-baroque-painting.jpg",
-      "field_list_image_1": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
-      "summary": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The handover of the painting took place on 26 March 2024 at the National Museum of Art, Bucharest, between Thames Valley Police, Romanian Police, Christ Church College and the Romanian Ministry of Culture. This was assisted by the National Crime Agency\u2019s International Liaison Network.The UK authorities are appealing for information about two other paintings stolen in the same raid: \u2018A Soldier on Horseback\u2019 by Anthony van Dyck, dating from around 1616, and \u2018A Boy Drinking\u2019 by Annibale Carracci, dating from around 1580.\u00a9 Thames Valley PoliceThe Romanian police were contacted by a man in\u2026"
-        }
-      ],
-      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        19,
-        12,
-        0,
-        0,
-        4,
-        110,
-        0
-      ],
-      "id": "eccdc4dc-a164-463f-a141-1715fca60936",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Practitioners share expertise on battlefield evidence to tackle terrorism and core international crimes",
       "title_detail": {
         "type": "text/plain",
@@ -3366,93 +3349,53 @@
       ]
     },
     {
-      "title": "Crackdown on criminal network that used minors and women for street begging in Portugal",
+      "title": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Crackdown on criminal network that used minors and women for street begging in Portugal"
+        "value": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal"
+          "href": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-thb-distressed-children.jpg",
-      "field_list_image_1": "distressed children",
-      "summary": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people.",
+      "link": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/returned-stolen-baroque-painting.jpg",
+      "field_list_image_1": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
+      "summary": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people."
+        "value": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network is believed to have made a profit of over EUR 230,000 from this criminal activity.During a joint action on 11-14 March, the Portuguese and Romanian authorities carried out six house searches, interrogated three defendants and interviewed five witnesses in Romania. Eight more suspects were interrogated in the weeks following the operation. At least thirty victims were identified and brought to safety.Eurojust assisted the Portuguese and Romanian authorities in setting up and funding a joint investigation team into the case in April 2023. The Agency organised and hosted two\u2026"
+          "value": "The handover of the painting took place on 26 March 2024 at the National Museum of Art, Bucharest, between Thames Valley Police, Romanian Police, Christ Church College and the Romanian Ministry of Culture. This was assisted by the National Crime Agency\u2019s International Liaison Network.The UK authorities are appealing for information about two other paintings stolen in the same raid: \u2018A Soldier on Horseback\u2019 by Anthony van Dyck, dating from around 1616, and \u2018A Boy Drinking\u2019 by Annibale Carracci, dating from around 1580.\u00a9 Thames Valley PoliceThe Romanian police were contacted by a man in\u2026"
         }
       ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
+      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
         4,
-        12,
+        19,
         12,
         0,
         0,
         4,
-        103,
+        110,
         0
       ],
-      "id": "dd95b210-5fc8-4bdb-94ec-7939c4c1cdb5",
+      "id": "eccdc4dc-a164-463f-a141-1715fca60936",
       "guidislink": false,
       "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
         {
           "term": "Romania",
           "scheme": "Member State",
@@ -3462,60 +3405,10 @@
           "term": "Europol",
           "scheme": "Partner",
           "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking"
-      },
-      "links": [
+        },
         {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/meeting-of-eu-wildlife-trade-enforcement-group.jpg",
-      "field_list_image_1": "group picture, event to increase coordination in fight against wildlife trafficking",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 11-12 April 2024, the 46th Meeting of the EU Wildlife Trade Enforcement Group took place at Eurojust headquarters in The Hague. The event, which was organised by the European Commission\u2019s DG Environment, brought together key stakeholders working to fight back against wildlife trafficking.The illegal trade in protected wildlife species has become one of the most profitable criminal activities, with devastating effects on the environment, animal populations, human health and the global economy. Often, it also acts as a catalyst for other serious crimes, such as fraud, forgery of documents,\u2026"
-        }
-      ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        12,
-        12,
-        0,
-        0,
-        4,
-        103,
-        0
-      ],
-      "id": "7f7a545a-facb-478f-bad9-c255825c3551",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "European Commission",
-          "scheme": "Partner",
+          "term": "United Kingdom",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3626,6 +3519,161 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/meeting-of-eu-wildlife-trade-enforcement-group.jpg",
+      "field_list_image_1": "group picture, event to increase coordination in fight against wildlife trafficking",
+      "summary": "",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": ""
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 11-12 April 2024, the 46th Meeting of the EU Wildlife Trade Enforcement Group took place at Eurojust headquarters in The Hague. The event, which was organised by the European Commission\u2019s DG Environment, brought together key stakeholders working to fight back against wildlife trafficking.The illegal trade in protected wildlife species has become one of the most profitable criminal activities, with devastating effects on the environment, animal populations, human health and the global economy. Often, it also acts as a catalyst for other serious crimes, such as fraud, forgery of documents,\u2026"
+        }
+      ],
+      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        4,
+        12,
+        12,
+        0,
+        0,
+        4,
+        103,
+        0
+      ],
+      "id": "7f7a545a-facb-478f-bad9-c255825c3551",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Crackdown on criminal network that used minors and women for street begging in Portugal",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Crackdown on criminal network that used minors and women for street begging in Portugal"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-thb-distressed-children.jpg",
+      "field_list_image_1": "distressed children",
+      "summary": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal network is believed to have made a profit of over EUR 230,000 from this criminal activity.During a joint action on 11-14 March, the Portuguese and Romanian authorities carried out six house searches, interrogated three defendants and interviewed five witnesses in Romania. Eight more suspects were interrogated in the weeks following the operation. At least thirty victims were identified and brought to safety.Eurojust assisted the Portuguese and Romanian authorities in setting up and funding a joint investigation team into the case in April 2023. The Agency organised and hosted two\u2026"
+        }
+      ],
+      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        4,
+        12,
+        12,
+        0,
+        0,
+        4,
+        103,
+        0
+      ],
+      "id": "dd95b210-5fc8-4bdb-94ec-7939c4c1cdb5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "JIT funding",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3801,76 +3849,6 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust coordinates arrests in Swedish cannabis trafficking case",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates arrests in Swedish cannabis trafficking case"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-arrests-swedish-cannabis-trafficking-case"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-arrests-swedish-cannabis-trafficking-case",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240319-se-es-case-web.jpg",
-      "field_list_image_1": "Bank notes and a small bag with illicit drugs",
-      "summary": "Eurojust has supported the Swedish and Spanish authorities in the coordinated arrest of four suspects involved in the wholesale and transport of cannabis and other illicit drugs. The main suspect was allegedly organising the reception of the drugs in Sweden and their distribution in and around Stockholm. He was arrested in Spain based on a European Arrest Warrant (EAW) with a view to surrender him to Sweden.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported the Swedish and Spanish authorities in the coordinated arrest of four suspects involved in the wholesale and transport of cannabis and other illicit drugs. The main suspect was allegedly organising the reception of the drugs in Sweden and their distribution in and around Stockholm. He was arrested in Spain based on a European Arrest Warrant (EAW) with a view to surrender him to Sweden."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust set up a coordination centre last week to assist the Swedish and Spanish authorities with the exchange of information and the execution of the EAW, as well as European Investigation Orders. A number of premises were also searched and various goods and telecommunications equipment seized during concerted actions in both countries.Based on the interception and decoding by the Swedish authorities of large-scale encrypted communications, it was established that the suspects has transported, received and stored large quantities of cannabis in the second half of 2020. During this period,\u2026"
-        }
-      ],
-      "published": "Tue, 19 Mar 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        3,
-        19,
-        12,
-        0,
-        0,
-        1,
-        79,
-        0
-      ],
-      "id": "6ab9d7b5-0232-46fe-9667-9554759f5093",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
           "label": null
         }
       ]
