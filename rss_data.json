@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-09-16 06:15:27",
+  "timestamp": "2024-09-16 12:20:24",
   "entries": [
+    {
+      "title": "President of Slovenia praises results from cross-border judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "President of Slovenia praises results from cross-border judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/president-slovenia-praises-results-cross-border-judicial-cooperation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/president-slovenia-praises-results-cross-border-judicial-cooperation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/visit-president-slovenia.png",
+      "field_list_image_1": "Visit to Eurojust, of President of Slovenia, Ms Nata\u0161a Pirc Musar",
+      "summary": "During a visit to Eurojust, the President of Slovenia, Ms Nata\u0161a Pirc Musar, highlighted how judicial cooperation through the Agency supports justice being done across borders and ensures Europe\u2019s safety. She met with Eurojust President, Mr Ladislav Hamran, who acknowledged Slovenia\u2019s role in the fight against organised crime across Europe, and Eurojust Vice-President, Mr Bo\u0161tjan \u0160krlec, who illustrated how Slovenian representation at Eurojust engages with partners from the European Union and beyond, to coordinate judicial cooperation and enhance security.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "During a visit to Eurojust, the President of Slovenia, Ms Nata\u0161a Pirc Musar, highlighted how judicial cooperation through the Agency supports justice being done across borders and ensures Europe\u2019s safety. She met with Eurojust President, Mr Ladislav Hamran, who acknowledged Slovenia\u2019s role in the fight against organised crime across Europe, and Eurojust Vice-President, Mr Bo\u0161tjan \u0160krlec, who illustrated how Slovenian representation at Eurojust engages with partners from the European Union and beyond, to coordinate judicial cooperation and enhance security."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The President of Slovenia, Ms Nata\u0161a Pirc Musar said: I am pleased with the excellent work of Eurojust, particularly its cooperation with the competent authorities in Slovenia. I welcome the EU's focus on tackling organized crime, such as money laundering and corruption, which cannot be addressed by national authorities alone. I believe a solid legal framework and political will are essential for effective cooperation with other countries, and Slovenia supports all initiatives in this regard. We will need to continue relying on Eurojust\u2019s experience, both in developing new legislative\u2026"
+        }
+      ],
+      "published": "Mon, 16 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        16,
+        12,
+        0,
+        0,
+        0,
+        260,
+        0
+      ],
+      "id": "ff7cbb3f-e86f-456f-8844-b63c7fa92aad",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Slovenia",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "EuroMed Justice Project joins partners to strengthen regional efforts to combat human trafficking and migrant smuggling",
       "title_detail": {
@@ -3744,61 +3804,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts European Commission event to increase coordination in fight against wildlife trafficking"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-european-commission-event-increase-coordination-fight-against-wildlife",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/meeting-of-eu-wildlife-trade-enforcement-group.jpg",
-      "field_list_image_1": "group picture, event to increase coordination in fight against wildlife trafficking",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 11-12 April 2024, the 46th Meeting of the EU Wildlife Trade Enforcement Group took place at Eurojust headquarters in The Hague. The event, which was organised by the European Commission\u2019s DG Environment, brought together key stakeholders working to fight back against wildlife trafficking.The illegal trade in protected wildlife species has become one of the most profitable criminal activities, with devastating effects on the environment, animal populations, human health and the global economy. Often, it also acts as a catalyst for other serious crimes, such as fraud, forgery of documents,\u2026"
-        }
-      ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        12,
-        12,
-        0,
-        0,
-        4,
-        103,
-        0
-      ],
-      "id": "7f7a545a-facb-478f-bad9-c255825c3551",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "European Commission",
-          "scheme": "Partner",
           "label": null
         }
       ]
