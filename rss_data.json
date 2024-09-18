@@ -1,6 +1,111 @@
 {
-  "timestamp": "2024-09-18 06:15:14",
+  "timestamp": "2024-09-18 12:19:15",
   "entries": [
+    {
+      "title": "51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/encrypted-communication-platform-case-9-2024.jpg",
+      "field_list_image_1": "generic phone data image",
+      "summary": "During a global operation, authorities from around the globe took down an encrypted communication platform used for criminal activities such as drug trafficking, homicide, corruption and money laundering. The wide scale operation, supported by Eurojust and Europol, led to over 50 arrests and the seizing of financial assets.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "During a global operation, authorities from around the globe took down an encrypted communication platform used for criminal activities such as drug trafficking, homicide, corruption and money laundering. The wide scale operation, supported by Eurojust and Europol, led to over 50 arrests and the seizing of financial assets."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations into the communication platform started when authorities were alerted of a new encrypted service being used in Sweden, France, Spain and the Netherlands. Due to servers being located in France, French authorities started investigations into the platform. The platform\u2019s robust encryption made it ideal for criminal networks to use for their activities. It was mostly used for drug trafficking but also for other criminal activities, such as arms trading, homicide, robbery, kidnapping, and money laundering.The communication platform is a fully anonymised service. Users can purchase\u2026"
+        }
+      ],
+      "published": "Wed, 18 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        18,
+        12,
+        0,
+        0,
+        2,
+        262,
+        0
+      ],
+      "id": "12356675-9ec0-4be0-92bb-8f10d8fc8d9b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Iceland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "President of Slovenia praises results from cross-border judicial cooperation",
       "title_detail": {
@@ -3694,116 +3799,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust helps tackle massive fraud of EUR 645 million with medicinal cannabis plants across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust helps tackle massive fraud of EUR 645 million with medicinal cannabis plants across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-helps-tackle-massive-fraud-eur-645-million-medicinal-cannabis-plants-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-helps-tackle-massive-fraud-eur-645-million-medicinal-cannabis-plants-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/cannabis-plant-and-oil.jpg",
-      "field_list_image_1": "Lab worker holding cannabis plant and small jar with cannabis oil",
-      "summary": "Eurojust has assisted national authorities across Europe in tackling a massive fraud involving fake investments in cannabis plants for medicinal use. Two linked criminal organisations that advertised the scheme online and laundered the profits, which are estimated to be approximately EUR 645 million, have been dismantled. In a coordinated action, nine suspects have been arrested. Eurojust supported authorities in Germany, Spain and France in setting up a joint investigation team (JIT) into the fraud.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has assisted national authorities across Europe in tackling a massive fraud involving fake investments in cannabis plants for medicinal use. Two linked criminal organisations that advertised the scheme online and laundered the profits, which are estimated to be approximately EUR 645 million, have been dismantled. In a coordinated action, nine suspects have been arrested. Eurojust supported authorities in Germany, Spain and France in setting up a joint investigation team (JIT) into the fraud."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In Germany, France and Spain alone, over 4 500 victims have lodged formal complaints against the fraudsters, who set up a crowd-funding programme to raise a minimum of EUR 50 per investor for the development of medicinal cannabis plants. In reality, no cannabis plants were ever bought, although the organisers of the scheme pretended to work with legitimate and licensed enterprises that would cultivate them. The fraud ran from at least January 2020 to July 2022.The entire scheme had the character of a pyramid or \u2018Ponzi fraud\u2019 and promised extremely high returns on investment. Investigations in\u2026"
-        }
-      ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        12,
-        12,
-        0,
-        0,
-        4,
-        103,
-        0
-      ],
-      "id": "cf41ec19-72eb-4d84-b362-1be49ddb42dd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Malta",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
