@@ -1,6 +1,66 @@
 {
-  "timestamp": "2024-09-25 12:20:09",
+  "timestamp": "2024-09-25 18:14:01",
   "entries": [
+    {
+      "title": "European prosecutors join forces to systemically fight organised criminal groups in new network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European prosecutors join forces to systemically fight organised criminal groups in new network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-prosecutors-join-forces-systemically-fight-organised-criminal-groups-new-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-prosecutors-join-forces-systemically-fight-organised-criminal-groups-new-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20240925-ejocn-launch-3.jpg",
+      "field_list_image_1": "EJOCN Group picture",
+      "summary": "An important step in the fight against organised crime has been taken today with the launch of the European Judicial Organised Crime Network (EJOCN), hosted at Eurojust. The complex and fast-evolving nature of major crimes in Europe make strengthening international judicial coordination necessary. The EJOCN will go beyond the investigation-based collaboration and combat organised crime strategically. Dangerous criminal groups active in drug trafficking, money laundering, human trafficking, migrant smuggling, cybercrime and more will now face the full force of specialised prosecutors from all 27 EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An important step in the fight against organised crime has been taken today with the launch of the European Judicial Organised Crime Network (EJOCN), hosted at Eurojust. The complex and fast-evolving nature of major crimes in Europe make strengthening international judicial coordination necessary. The EJOCN will go beyond the investigation-based collaboration and combat organised crime strategically. Dangerous criminal groups active in drug trafficking, money laundering, human trafficking, migrant smuggling, cybercrime and more will now face the full force of specialised prosecutors from all 27 EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "76 per cent of criminal groups in the EU are active in two to seven countries and profits from all illicit activities are estimated at around EUR 139 billion annually. Dismantling these groups requires a transnational approach that is fast and flexible and that can adapt to an ever-changing criminal landscape. The EJOCN will focus on horizontal issues that arise in the investigation and prosecution of high-risk criminal networks. It will allow prosecutors to tackle recurring legal challenges and identify new, practical opportunities to cooperate.Over the past 20 years, Eurojust has built up a\u2026"
+        }
+      ],
+      "published": "Wed, 25 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        25,
+        12,
+        0,
+        0,
+        2,
+        269,
+        0
+      ],
+      "id": "9511c8ff-6c75-4c47-bd05-a4ee4ee445f6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJOCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups",
       "title_detail": {
@@ -3699,106 +3759,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Crackdown on criminal network that used minors and women for street begging in Portugal",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Crackdown on criminal network that used minors and women for street begging in Portugal"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/crackdown-criminal-network-used-minors-and-women-street-begging-portugal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-thb-distressed-children.jpg",
-      "field_list_image_1": "distressed children",
-      "summary": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Supported by Eurojust and Europol, judicial and law enforcement authorities in Portugal and Romania have dismantled an organised crime group involved in human trafficking, qualified fraud and money laundering. The suspects allegedly transported Romanian citizens, mostly minors and women, to Portugal and used them to beg for a fictitious association, posing as deaf-mute children and young people."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network is believed to have made a profit of over EUR 230,000 from this criminal activity.During a joint action on 11-14 March, the Portuguese and Romanian authorities carried out six house searches, interrogated three defendants and interviewed five witnesses in Romania. Eight more suspects were interrogated in the weeks following the operation. At least thirty victims were identified and brought to safety.Eurojust assisted the Portuguese and Romanian authorities in setting up and funding a joint investigation team into the case in April 2023. The Agency organised and hosted two\u2026"
-        }
-      ],
-      "published": "Fri, 12 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        12,
-        12,
-        0,
-        0,
-        4,
-        103,
-        0
-      ],
-      "id": "dd95b210-5fc8-4bdb-94ec-7939c4c1cdb5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
