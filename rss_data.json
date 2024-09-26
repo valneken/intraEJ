@@ -1,6 +1,196 @@
 {
-  "timestamp": "2024-09-26 12:20:11",
+  "timestamp": "2024-09-26 18:12:50",
   "entries": [
+    {
+      "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-major-operation-against-albanian-drug-trafficking-ring-italy-66-arrests"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-major-operation-against-albanian-drug-trafficking-ring-italy-66-arrests",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-2024-09-26-cocaine-infocus.jpg",
+      "field_list_image_1": "Cocaine in car",
+      "summary": "A large-scale cocaine-smuggling ring was dismantled by authorities in Italy, Albania, Poland and Switzerland, coordinated by Eurojust. During an action day, a total of 45 suspects were arrested, most of them in Italy. Prior to the action day, 21 suspects involved in the sale of cocaine in and around the city of Brescia were arrested. In total, 66 arrests were made. The Albanian-led organised crime group (OCG) had been selling cocaine from Latin America for at least four years, mainly in the north of Italy.Eurojust set up a coordination centre this week to support and coordinate the actions of all authorities involved. During the investigations and the action day, for an estimated amount of EUR 4 million in cash was seized, as well as 360 kilograms of cocaine, luxury vehicles and watches, telecommunications equipment, arms and ammunition.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A large-scale cocaine-smuggling ring was dismantled by authorities in Italy, Albania, Poland and Switzerland, coordinated by Eurojust. During an action day, a total of 45 suspects were arrested, most of them in Italy. Prior to the action day, 21 suspects involved in the sale of cocaine in and around the city of Brescia were arrested. In total, 66 arrests were made. The Albanian-led organised crime group (OCG) had been selling cocaine from Latin America for at least four years, mainly in the north of Italy.Eurojust set up a coordination centre this week to support and coordinate the actions of all authorities involved. During the investigations and the action day, for an estimated amount of EUR 4 million in cash was seized, as well as 360 kilograms of cocaine, luxury vehicles and watches, telecommunications equipment, arms and ammunition."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations into the drug-smuggling network started in 2020 at the request of the Public Prosecutor\u2019s Office (PPO) of Brescia. The OCG used five warehouses and storage centres in and around Brescia to distribute the cocaine.Credits: Guardia di Finanza di BreciaThe suspects laundered their illegal profits via an extensive network of enterprises run by an Italian-Chinese organisation set up for this purpose, which supplied fake invoices with a total value of around EUR 375 million. The OCG members will be charged with the trafficking of illicit drugs, money laundering and investment\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c019e472-1843-47e5-85f4-de120444993b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Exchange of information",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Mutual legal assistance",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "European prosecutors join forces to systemically fight organised criminal groups in new network",
       "title_detail": {
@@ -2318,61 +2508,6 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
-      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
-        }
-      ],
-      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        6,
-        4,
-        12,
-        0,
-        0,
-        1,
-        156,
-        0
-      ],
-      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2433,6 +2568,61 @@
         {
           "term": "Bosnia and Herzegovina",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
+      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
+        }
+      ],
+      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        4,
+        12,
+        0,
+        0,
+        1,
+        156,
+        0
+      ],
+      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3614,151 +3804,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Practitioners share expertise on battlefield evidence to tackle terrorism and core international crimes",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Practitioners share expertise on battlefield evidence to tackle terrorism and core international crimes"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/practitioners-share-expertise-battlefield-evidence-tackle-terrorism-and-core-international-crimes"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/practitioners-share-expertise-battlefield-evidence-tackle-terrorism-and-core-international-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-pr-expert-meeting-battlefield-evidence.jpg",
-      "field_list_image_1": "group picture expert meeting battlefield evidence",
-      "summary": "High-level representatives and prosecutors from the United States, the European Union, international organizations, and civil society have been taking stock of the latest developments and cooperation tools for the use of battlefield evidence collected in the context of an armed conflict. During a dedicated expert meeting at Eurojust, specialised prosecutors from the European Union dealing with counter-terrorism were joined for the first time by their counterparts from core international crimes units.The expert meeting was co-organised by the Eurojust Counter-Terrorism Working Group, the U.S. Department of Justice and the EU Network for the investigation and prosecution of genocide, crimes against impunity and war crimes (Genocide Network). The exchanges over the past two days are of crucial importance to prosecutors of terrorism offences and core international crimes, including war crimes, crimes against humanity and genocide. Expertise in the use of evidence from past armed conflicts can be used in proceedings related to ongoing and future conflicts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "High-level representatives and prosecutors from the United States, the European Union, international organizations, and civil society have been taking stock of the latest developments and cooperation tools for the use of battlefield evidence collected in the context of an armed conflict. During a dedicated expert meeting at Eurojust, specialised prosecutors from the European Union dealing with counter-terrorism were joined for the first time by their counterparts from core international crimes units.The expert meeting was co-organised by the Eurojust Counter-Terrorism Working Group, the U.S. Department of Justice and the EU Network for the investigation and prosecution of genocide, crimes against impunity and war crimes (Genocide Network). The exchanges over the past two days are of crucial importance to prosecutors of terrorism offences and core international crimes, including war crimes, crimes against humanity and genocide. Expertise in the use of evidence from past armed conflicts can be used in proceedings related to ongoing and future conflicts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on the importance of the meeting, Mr Matthew F. Blue, Chief of the Counterterrorism Section in the National Security Division of the U.S. Department of Justice said: \u2018Terrorists and war criminals should have no illusions that they are safe from prosecution when they plot and commit crimes in conflict zones. The United States is committed to ensuring that battlefield evidence is available for use in its domestic cases and those pursued by its European allies. Today\u2019s meeting reaffirms the strong transatlantic commitment to ensuring that this vital tool is effectively harnessed.\u2019Mr\u2026"
-        }
-      ],
-      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        19,
-        12,
-        0,
-        0,
-        4,
-        110,
-        0
-      ],
-      "id": "ef1571b2-7d47-4d7a-ad3d-69525bebbdc7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Battlefield evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/stolen-baroque-painting-returned-united-kingdom-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/returned-stolen-baroque-painting.jpg",
-      "field_list_image_1": "Stolen Baroque painting returned to the United Kingdom with support from Eurojust",
-      "summary": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The seventeenth century painting \u2018A Rocky Coast, with Soldiers Studying a Plan\u2019 has been safely returned to the United Kingdom from Romania with the support of Eurojust. The Italian Baroque landscape by Salvator Rosa was stolen from the Christ Church Picture Gallery in Oxford in March 2020. The Agency supported the investigation and played a key role in facilitating cross-border judicial cooperation between the national authorities involved."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The handover of the painting took place on 26 March 2024 at the National Museum of Art, Bucharest, between Thames Valley Police, Romanian Police, Christ Church College and the Romanian Ministry of Culture. This was assisted by the National Crime Agency\u2019s International Liaison Network.The UK authorities are appealing for information about two other paintings stolen in the same raid: \u2018A Soldier on Horseback\u2019 by Anthony van Dyck, dating from around 1616, and \u2018A Boy Drinking\u2019 by Annibale Carracci, dating from around 1580.\u00a9 Thames Valley PoliceThe Romanian police were contacted by a man in\u2026"
-        }
-      ],
-      "published": "Fri, 19 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        19,
-        12,
-        0,
-        0,
-        4,
-        110,
-        0
-      ],
-      "id": "eccdc4dc-a164-463f-a141-1715fca60936",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
