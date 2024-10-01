@@ -1,6 +1,71 @@
 {
-  "timestamp": "2024-10-01 12:20:40",
+  "timestamp": "2024-10-01 18:14:06",
   "entries": [
+    {
+      "title": "Eurojust and Council of Europe co-host workshop on spontaneous information sharing",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Council of Europe co-host workshop on spontaneous information sharing"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-council-europe-co-host-workshop-spontaneous-information-sharing"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-council-europe-co-host-workshop-spontaneous-information-sharing",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/coe-ej-25-26-9-2024.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "On 25-26 September, Eurojust and the Council of Europe co-hosted a workshop on the spontaneous exchange of information obtained during criminal investigations. More than 70 participants from approximately 40 countries joined the annual event, which took place at Eurojust\u2019s headquarters.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 25-26 September, Eurojust and the Council of Europe co-hosted a workshop on the spontaneous exchange of information obtained during criminal investigations. More than 70 participants from approximately 40 countries joined the annual event, which took place at Eurojust\u2019s headquarters."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Often, in cybercrime investigations authorities obtain valuable information that may assist another country in its criminal proceedings. Parties to the Council of Europe\u2019s Convention on Cybercrime (Budapest Convention) may spontaneously share information on the basis of Article 26, and there are a variety of ways of doing this in practice. During the two-day workshop, participants had lively debates on the practical use of Article 26 in various jurisdictions, which included sharing interpretations and applications based on national contexts.The often borderless nature of cyber- and cyber-\u2026"
+        }
+      ],
+      "published": "Tue, 01 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        1,
+        12,
+        0,
+        0,
+        1,
+        275,
+        0
+      ],
+      "id": "37141053-1ae2-45cd-8130-0f91012b9532",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Council of Europe",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
@@ -1773,71 +1838,6 @@
       ]
     },
     {
-      "title": "Hungarian EU presidency to combat cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hungarian EU presidency to combat cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
-      "field_list_image_1": "Hungarian Presidency 2024 logo",
-      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
-        }
-      ],
-      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        1,
-        12,
-        0,
-        0,
-        0,
-        183,
-        0
-      ],
-      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Hungary",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -1942,6 +1942,71 @@
         },
         {
           "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
           "scheme": "Member State",
           "label": null
         }
@@ -2508,6 +2573,61 @@
       ]
     },
     {
+      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
+      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
+        }
+      ],
+      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        4,
+        12,
+        0,
+        0,
+        1,
+        156,
+        0
+      ],
+      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2573,56 +2693,101 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
+        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
-      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
+      "field_list_image_1": "Generic bitcoin sacam alert",
+      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
+        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
+          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
         }
       ],
-      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published": "Fri, 31 May 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
-        6,
-        4,
+        5,
+        31,
         12,
         0,
         0,
-        1,
-        156,
+        4,
+        152,
         0
       ],
-      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
+      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
       "guidislink": false,
       "tags": [
         {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2738,106 +2903,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
-      "field_list_image_1": "Generic bitcoin sacam alert",
-      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
-        }
-      ],
-      "published": "Fri, 31 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        31,
-        12,
-        0,
-        0,
-        4,
-        152,
-        0
-      ],
-      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3566,54 +3631,6 @@
       ]
     },
     {
-      "title": "Launch of the new phase of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Launch of the new phase of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/emj-phase-vi-leaflet.jpg",
-      "field_list_image_1": "leaflet cover page",
-      "summary": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Today\u2019s conference marked the official start of the Project\u2019s 6th phase, which has a budget of EUR 6 million and a duration of four years. In addition to the delegations from the South Partner countries and EU Member States, the conference was attended by representatives of the Directorate-General for Neighbourhood and Enlargement Negotiations and the Directorate-General for Justice and Consumers, as well as representatives from EU Agencies and international organisations.EMJ VI will continue to develop its sustainable cooperation mechanisms for cross-border judicial cooperation in criminal\u2026"
-        }
-      ],
-      "published": "Thu, 25 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        25,
-        12,
-        0,
-        0,
-        3,
-        116,
-        0
-      ],
-      "id": "684cda57-f92e-4b93-bcc5-069cf3149595",
-      "guidislink": false
-    },
-    {
       "title": "Crackdown on criminal network that stole 170 historical books worth EUR 2.5 million across Europe",
       "title_detail": {
         "type": "text/plain",
@@ -3724,89 +3741,52 @@
       ]
     },
     {
-      "title": "Assistance in dismantling Pakistani-led migrant smuggling network in Romania, Italy and Austria",
+      "title": "Launch of the new phase of the EuroMed Justice project",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Assistance in dismantling Pakistani-led migrant smuggling network in Romania, Italy and Austria"
+        "value": "Launch of the new phase of the EuroMed Justice project"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/assistance-dismantling-pakistani-led-migrant-smuggling-network-romania-italy-and-austria"
+          "href": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/assistance-dismantling-pakistani-led-migrant-smuggling-network-romania-italy-and-austria",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-caseid-84527.png",
-      "field_list_image_1": "hand with role of banknotes",
-      "summary": "Authorities in Romania, Italy and Austria have dismantled a criminal network that abused work visas to smuggle over 500 Pakistani, Bengali and Egyptian migrants to various EU Member States. In total, 12 suspects have been formally identified and will be charged during an action day with the active support by Eurojust and Europol. Eurojust also assisted in setting up and financing a joint investigation team (JIT) into the case.",
+      "link": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/emj-phase-vi-leaflet.jpg",
+      "field_list_image_1": "leaflet cover page",
+      "summary": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities in Romania, Italy and Austria have dismantled a criminal network that abused work visas to smuggle over 500 Pakistani, Bengali and Egyptian migrants to various EU Member States. In total, 12 suspects have been formally identified and will be charged during an action day with the active support by Eurojust and Europol. Eurojust also assisted in setting up and financing a joint investigation team (JIT) into the case."
+        "value": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The migrant smuggling network advertised its services online, but members of the organised crime group (OCG) based in Pakistan also recruited migrants locally. The criminal network started its activities in January 2021 and operated until recently. In the EU, the OCG operated from Romania, Italy and Austria and is estimated to have earned at least EUR 1 million with their illegal activities.\u00a9 DIICOT and Politia RomanaThe smugglers obtained Romanian work visas for the migrants through a series of linked companies set up for this purpose, and placed them in Bucharest and Brasov. From there they\u2026"
+          "value": "Today\u2019s conference marked the official start of the Project\u2019s 6th phase, which has a budget of EUR 6 million and a duration of four years. In addition to the delegations from the South Partner countries and EU Member States, the conference was attended by representatives of the Directorate-General for Neighbourhood and Enlargement Negotiations and the Directorate-General for Justice and Consumers, as well as representatives from EU Agencies and international organisations.EMJ VI will continue to develop its sustainable cooperation mechanisms for cross-border judicial cooperation in criminal\u2026"
         }
       ],
-      "published": "Wed, 24 Apr 2024 14:00:00 +0200",
+      "published": "Thu, 25 Apr 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
         4,
-        24,
+        25,
         12,
         0,
         0,
-        2,
-        115,
+        3,
+        116,
         0
       ],
-      "id": "f2cdf525-c9ce-407e-92d1-cd7bdeb3d42f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Austria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
+      "id": "684cda57-f92e-4b93-bcc5-069cf3149595",
+      "guidislink": false
     }
   ]
 }
