@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-10-09 06:15:29",
+  "timestamp": "2024-10-09 12:19:53",
   "entries": [
+    {
+      "title": "Four arrests and nine companies seized in anti-mafia operation in Italy and Brazil",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Four arrests and nine companies seized in anti-mafia operation in Italy and Brazil"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/four-arrests-and-nine-companies-seized-anti-mafia-operation-italy-and-brazil"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/four-arrests-and-nine-companies-seized-anti-mafia-operation-italy-and-brazil",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-pr-it-br-mafia-case.jpg",
+      "field_list_image_1": "suspect handcuffed",
+      "summary": "Eurojust supported this international operation, which hit a notorious mafia organisation. Investigations into the criminal organisation uncovered an elaborate scheme that was laundering money from Italy to Brazil, through several companies. The operation on 7 October led to the arrest of four suspects and the seizure of nine companies in Italy, Hong Kong and Brazil.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supported this international operation, which hit a notorious mafia organisation. Investigations into the criminal organisation uncovered an elaborate scheme that was laundering money from Italy to Brazil, through several companies. The operation on 7 October led to the arrest of four suspects and the seizure of nine companies in Italy, Hong Kong and Brazil."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The suspects arrested today were involved in the mafia organisation and used extortion, money laundering and the fraudulent transfer of valuables to facilitate important mafia organisations. The main suspect in the scheme set up multiple companies in Brazil using straw men and shell companies. The companies were used to hide the criminal gains of mafia organisations from Italy.The investigations revealed that other companies active in the property and hospitality sectors in Italy, Hong Kong and Brazil were part of this elaborate money-laundering scheme. During the operation, nine companies\u2026"
+        }
+      ],
+      "published": "Wed, 09 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        9,
+        12,
+        0,
+        0,
+        2,
+        283,
+        0
+      ],
+      "id": "d373a80f-6484-4973-8f90-b36f1bea5ac2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust and Council of Europe co-host workshop on spontaneous information sharing",
       "title_detail": {
@@ -2693,106 +2773,6 @@
       ]
     },
     {
-      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
-      "field_list_image_1": "Generic bitcoin sacam alert",
-      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
-        }
-      ],
-      "published": "Fri, 31 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        31,
-        12,
-        0,
-        0,
-        4,
-        152,
-        0
-      ],
-      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Network of luxury car thieves dismantled with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2908,52 +2888,104 @@
       ]
     },
     {
-      "title": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023",
+      "title": "Successful operation against cryptocurrency scam coordinated by Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023"
+        "value": "Successful operation against cryptocurrency scam coordinated by Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023"
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/ar2023-cover-infocus.png",
-      "field_list_image_1": "Cover page annual report 2023",
-      "summary": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today.",
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-cryptocurrency-scam-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/pt-crypto-web.jpg",
+      "field_list_image_1": "Generic bitcoin sacam alert",
+      "summary": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today."
+        "value": "A coordinated operation to uncover an intricate cryptocurrency scam led to the arrest of a suspect in France. The investigations in Portugal, France, Germany, Italy and Romania, supported by Eurojust and Europol, revealed that the suspects were using a scam method known as \u2018rip deals\u2019 that caused losses of EUR 700 000 to Portuguese victims."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "2023 saw the launch of Eurojust\u2019s Core International Crimes Evidence Database (CICED) and the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA). These unique mechanisms support the crucial work of the joint investigation team (JIT) into alleged core international crimes committed in Ukraine, and are game-changers in ensuring accountability for the atrocities of Russia\u2019s war of aggression.Eurojust\u2019s Digital Criminal Justice Programme, also initiated in 2023, enables faster and closer collaboration between the Agency, Member States, partners and third\u2026"
+          "value": "Scammers using the \u2019rip deal\u2019method trick their victims into exchanging money via a fraudulent money exchange programme, which they then use to steal the victim\u2019s assets.Investigations revealed that the suspects scammed victims across Europe, including in Austria, Italy, Portugal, Spain and Switzerland. The suspects would approach their victims by expressing an interest in acquiring commercial businesses. After gaining their trust and convincing them to install crypto asset wallets, the suspects would steal the victim\u2019s funds.In the next phase of the scam, other members of the organised\u2026"
         }
       ],
-      "published": "Thu, 30 May 2024 14:00:00 +0200",
+      "published": "Fri, 31 May 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
         5,
-        30,
+        31,
         12,
         0,
         0,
-        3,
-        151,
+        4,
+        152,
         0
       ],
-      "id": "26c30e74-6b61-44f4-b52f-db80d539267c",
-      "guidislink": false
+      "id": "7dc44081-83b5-4e3a-9d4a-30c8eb382336",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
     },
     {
       "title": "Major operation to take down dangerous malware systems",
@@ -3064,6 +3096,54 @@
           "label": null
         }
       ]
+    },
+    {
+      "title": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/ar2023-cover-infocus.png",
+      "field_list_image_1": "Cover page annual report 2023",
+      "summary": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "2023 saw the launch of Eurojust\u2019s Core International Crimes Evidence Database (CICED) and the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA). These unique mechanisms support the crucial work of the joint investigation team (JIT) into alleged core international crimes committed in Ukraine, and are game-changers in ensuring accountability for the atrocities of Russia\u2019s war of aggression.Eurojust\u2019s Digital Criminal Justice Programme, also initiated in 2023, enables faster and closer collaboration between the Agency, Member States, partners and third\u2026"
+        }
+      ],
+      "published": "Thu, 30 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        30,
+        12,
+        0,
+        0,
+        3,
+        151,
+        0
+      ],
+      "id": "26c30e74-6b61-44f4-b52f-db80d539267c",
+      "guidislink": false
     },
     {
       "title": "Migrant smuggling operation taken down by Romanian and Moldovan authorities",
@@ -3739,54 +3819,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Launch of the new phase of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Launch of the new phase of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/launch-new-phase-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/emj-phase-vi-leaflet.jpg",
-      "field_list_image_1": "leaflet cover page",
-      "summary": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice (EMJ) VI kicked off today with an online launching conference attended by high-level representatives of the South Partner countries and European Union Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Today\u2019s conference marked the official start of the Project\u2019s 6th phase, which has a budget of EUR 6 million and a duration of four years. In addition to the delegations from the South Partner countries and EU Member States, the conference was attended by representatives of the Directorate-General for Neighbourhood and Enlargement Negotiations and the Directorate-General for Justice and Consumers, as well as representatives from EU Agencies and international organisations.EMJ VI will continue to develop its sustainable cooperation mechanisms for cross-border judicial cooperation in criminal\u2026"
-        }
-      ],
-      "published": "Thu, 25 Apr 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        4,
-        25,
-        12,
-        0,
-        0,
-        3,
-        116,
-        0
-      ],
-      "id": "684cda57-f92e-4b93-bcc5-069cf3149595",
-      "guidislink": false
     }
   ]
 }
