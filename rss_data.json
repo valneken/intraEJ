@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-10-15 12:20:33",
+  "timestamp": "2024-10-15 18:14:21",
   "entries": [
+    {
+      "title": "Criminals selling counterfeit wine stopped in their tracks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals selling counterfeit wine stopped in their tracks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-selling-counterfeit-wine-stopped-their-tracks"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-selling-counterfeit-wine-stopped-their-tracks",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/fr-it-ep-wine-case.png",
+      "field_list_image_1": "Bottles of wine",
+      "summary": "Eurojust and Europol supported the investigation by French and Italian authorities that led to the arrest of seven suspects and the seizure of cash, valuable goods and documentation needed for the investigation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Europol supported the investigation by French and Italian authorities that led to the arrest of seven suspects and the seizure of cash, valuable goods and documentation needed for the investigation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The international criminal group set up a well-structured organisation to counterfeit famous and exclusive French red wine, worth up to EUR 15 000 per bottle. By working with printing houses in Italy, the criminal group was able to re-create the corks and labels of famous French wineries. The forged wine was then delivered to an Italian airport and taken abroad to be sold at market value around the world by wine traders. The criminals were able to sell the bottles of the counterfeit wine, generating profits of over EUR 2 million.The investigation started after suspicions of forgery reached\u2026"
+        }
+      ],
+      "published": "Tue, 15 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        15,
+        12,
+        0,
+        0,
+        1,
+        289,
+        0
+      ],
+      "id": "fabb4241-49a8-401c-af68-017434d0663d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Counterfeiting",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Action to counter undeclared labour and tax fraud in Germany: five arrests",
       "title_detail": {
@@ -2803,6 +2878,61 @@
       ]
     },
     {
+      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
+      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
+        }
+      ],
+      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        6,
+        4,
+        12,
+        0,
+        0,
+        1,
+        156,
+        0
+      ],
+      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Chairman of the Presidency of Bosnia and Herzegovina highlights importance of cross-border judicial cooperation at Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2863,61 +2993,6 @@
         {
           "term": "Bosnia and Herzegovina",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
-      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
-        }
-      ],
-      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        6,
-        4,
-        12,
-        0,
-        0,
-        1,
-        156,
-        0
-      ],
-      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3736,66 +3811,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Mr Erik F\u00e5gelsbo new National Member for Sweden at Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Erik F\u00e5gelsbo new National Member for Sweden at Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-erik-fagelsbo-new-national-member-sweden-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-erik-fagelsbo-new-national-member-sweden-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/nm-erikfagelsbo-eurojust-1.jpg",
-      "field_list_image_1": "Mr Erik F\u00e5gelsbo, National Member for Sweden at Eurojust",
-      "summary": "Mr Erik F\u00e5gelsbo has been formally appointed as the new National Member for Sweden at Eurojust. He will succeed Ms Marie Lind Thomsen, with whom he has been working at the Agency as Deputy National Member since March 2020. He already served as acting National Member since July last year. Mr F\u00e5gelsbo has long-standing experience in international judicial cooperation, working as Justice and Home Affairs Counsellor at the Permanent Representation of Sweden to the European Union, among other roles.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Erik F\u00e5gelsbo has been formally appointed as the new National Member for Sweden at Eurojust. He will succeed Ms Marie Lind Thomsen, with whom he has been working at the Agency as Deputy National Member since March 2020. He already served as acting National Member since July last year. Mr F\u00e5gelsbo has long-standing experience in international judicial cooperation, working as Justice and Home Affairs Counsellor at the Permanent Representation of Sweden to the European Union, among other roles."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Upon his appointment as National Member for Sweden, Mr F\u00e5gelsbo stated: \u2018It is a true privilege to continue working for Eurojust in this new position, in which I will ensure Sweden\u2019s continued support to Eurojust. I particularly look forward to the work we will do on the evaluation of the Eurojust Regulation. This will be an excellent opportunity to further fine-tune our activities and to enhance the cooperation with all our partners who are fostering judicial cooperation across the European Union and beyond\u2019.The new National Member for Sweden has been appointed for a period of five\u2026"
-        }
-      ],
-      "published": "Tue, 07 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        7,
-        12,
-        0,
-        0,
-        1,
-        128,
-        0
-      ],
-      "id": "e142930c-be00-4bbf-ac1e-65d4fc0b59a9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
           "label": null
         }
       ]
