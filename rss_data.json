@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-10-18 06:15:31",
+  "timestamp": "2024-10-18 12:19:46",
   "entries": [
+    {
+      "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Over 6 million illegally exported pills seized in international operation against drug trafficking network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/over-6-million-illegally-exported-pills-seized-international-operation-against-drug"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/over-6-million-illegally-exported-pills-seized-international-operation-against-drug",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-infocus-pills-pictures.jpg",
+      "field_list_image_1": "Drugs seized",
+      "summary": "A criminal group that had set up an international smuggling route for prescription pills was taken down during a large-scale operation coordinated from Eurojust\u2019s headquarters. Romanian, Estonian, Finnish and Serbian authorities, supported by Eurojust and Europol, arrested 47 people and seized over 6 million pills.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A criminal group that had set up an international smuggling route for prescription pills was taken down during a large-scale operation coordinated from Eurojust\u2019s headquarters. Romanian, Estonian, Finnish and Serbian authorities, supported by Eurojust and Europol, arrested 47 people and seized over 6 million pills."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group, which operated throughout Europe, bought pills from other criminal networks in Serbia. The pills, used to treat anxiety, seizures and insomnia, were then hidden in tyres, in cars, which were transported on lorries, and in clothing to be taken to Romania and Estonia. After arriving in Romania or Estonia, the pills were transported on to the Nordic countries. Members of the criminal group in Finland and Norway acted as distributors and sold the pills on the streets. The sale of the pills was highly profitable for the criminal group. The pills seized during the operations\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "fd863a99-757d-49fa-a0eb-93fea6b3597c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Estonia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Finland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Criminals selling counterfeit wine stopped in their tracks",
       "title_detail": {
@@ -3726,91 +3811,6 @@
         {
           "term": "Luxembourg",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Take down of Austrian-based fraud scheme offering new type of crypto coin",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Take down of Austrian-based fraud scheme offering new type of crypto coin"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-at-case-cryptocurrency-0.jpg",
-      "field_list_image_1": "Crypto Scam",
-      "summary": "National authorities in Austria, Cyprus and the Czech Republic have taken decisive action against an online scam pretending to sell rights or tokens to an alleged new crypto currency. In a coordinated operation, supported by Eurojust and Europol, the six main suspects were arrested and six places were searched. In total, EUR 750.000 in assets, a property worth EUR 1.4 million and two cars were frozen/seized.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National authorities in Austria, Cyprus and the Czech Republic have taken decisive action against an online scam pretending to sell rights or tokens to an alleged new crypto currency. In a coordinated operation, supported by Eurojust and Europol, the six main suspects were arrested and six places were searched. In total, EUR 750.000 in assets, a property worth EUR 1.4 million and two cars were frozen/seized."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Between December 2017 and February 2018, the scammers pretended to have set up a genuine online trading company that had launched a new cryptocurrency. They offered 10 million tokens or respective rights to the new currency for sale. Investors paid them in regular crypto values such as bitcoin or ethereum. The Austrian-based fraudsters also claimed to have developed their own software and algorithm for the sale of the tokens, in order to gain credibility with investors.In February 2018, the perpetrators closed all their social media accounts and took the fake company\u2019s homepage offline\u2026"
-        }
-      ],
-      "published": "Wed, 08 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        8,
-        12,
-        0,
-        0,
-        2,
-        129,
-        0
-      ],
-      "id": "f2cde5d7-9eec-4990-a95c-1c67bedd596b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Austria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
