@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-10-23 12:20:24",
+  "timestamp": "2024-10-23 18:14:25",
   "entries": [
+    {
+      "title": "Evolving challenges of admissibility of e-evidence addressed at annual JITs Network meeting",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Evolving challenges of admissibility of e-evidence addressed at annual JITs Network meeting"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/evolving-challenges-admissibility-e-evidence-addressed-annual-jits-network-meeting"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/evolving-challenges-admissibility-e-evidence-addressed-annual-jits-network-meeting",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241023-jits-annual-meeting-12.jpg",
+      "field_list_image_1": "meeting room in plenary",
+      "summary": "On 23-24 October, the 20th Annual Meeting of the National Experts on Joint Investigation Teams took place at Eurojust. This year\u2019s event focused on the admissibility of evidence and e-evidence, a crucial aspect of modern criminal investigations. It was organised by the JITs Network Secretariat, in collaboration with Eurojust and Europol.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 23-24 October, the 20th Annual Meeting of the National Experts on Joint Investigation Teams took place at Eurojust. This year\u2019s event focused on the admissibility of evidence and e-evidence, a crucial aspect of modern criminal investigations. It was organised by the JITs Network Secretariat, in collaboration with Eurojust and Europol."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime groups increasingly exploit emerging technologies to facilitate their illicit activities, the need for effective and efficient collection of electronic evidence has become paramount. The meeting aimed to tackle the new legal challenges arising from the shift towards virtual evidence, and to identify best practices for Joint Investigation Teams (JITs) to support judicial and law enforcement authorities in obtaining electronic evidence across the EU and beyond.Eurojust has been actively involved in supporting the gathering of electronic evidence and ensuring its admissibility\u2026"
+        }
+      ],
+      "published": "Wed, 23 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        23,
+        12,
+        0,
+        0,
+        2,
+        297,
+        0
+      ],
+      "id": "6d46dc84-cc0e-4d3f-a533-e09101532354",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
       "title_detail": {
@@ -1888,71 +1963,6 @@
       ]
     },
     {
-      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
-      "field_list_image_1": "JITs training group",
-      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -2028,6 +2038,71 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
+      "field_list_image_1": "JITs training group",
+      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2288,6 +2363,71 @@
       ]
     },
     {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2392,71 +2532,6 @@
         },
         {
           "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Hungarian EU presidency to combat cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hungarian EU presidency to combat cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
-      "field_list_image_1": "Hungarian Presidency 2024 logo",
-      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
-        }
-      ],
-      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        1,
-        12,
-        0,
-        0,
-        0,
-        183,
-        0
-      ],
-      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Hungary",
           "scheme": "Member State",
           "label": null
         }
@@ -3358,54 +3433,6 @@
       ]
     },
     {
-      "title": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/ar2023-cover-infocus.png",
-      "field_list_image_1": "Cover page annual report 2023",
-      "summary": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "2023 saw the launch of Eurojust\u2019s Core International Crimes Evidence Database (CICED) and the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA). These unique mechanisms support the crucial work of the joint investigation team (JIT) into alleged core international crimes committed in Ukraine, and are game-changers in ensuring accountability for the atrocities of Russia\u2019s war of aggression.Eurojust\u2019s Digital Criminal Justice Programme, also initiated in 2023, enables faster and closer collaboration between the Agency, Member States, partners and third\u2026"
-        }
-      ],
-      "published": "Thu, 30 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        30,
-        12,
-        0,
-        0,
-        3,
-        151,
-        0
-      ],
-      "id": "26c30e74-6b61-44f4-b52f-db80d539267c",
-      "guidislink": false
-    },
-    {
       "title": "Major operation to take down dangerous malware systems",
       "title_detail": {
         "type": "text/plain",
@@ -3514,6 +3541,54 @@
           "label": null
         }
       ]
+    },
+    {
+      "title": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust continues to champion the EU\u2019s judicial response to the war in Ukraine, says Agency\u2019s Annual Report 2023"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-continues-champion-eus-judicial-response-war-ukraine-says-agencys-annual-report-2023",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/ar2023-cover-infocus.png",
+      "field_list_image_1": "Cover page annual report 2023",
+      "summary": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Spearheading the European Union\u2019s judicial response to the war in Ukraine, and digitalising criminal justice, were at the heart of Eurojust\u2019s work in 2023, and will continue to be so, says the Agency\u2019s Annual Report, published today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "2023 saw the launch of Eurojust\u2019s Core International Crimes Evidence Database (CICED) and the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA). These unique mechanisms support the crucial work of the joint investigation team (JIT) into alleged core international crimes committed in Ukraine, and are game-changers in ensuring accountability for the atrocities of Russia\u2019s war of aggression.Eurojust\u2019s Digital Criminal Justice Programme, also initiated in 2023, enables faster and closer collaboration between the Agency, Member States, partners and third\u2026"
+        }
+      ],
+      "published": "Thu, 30 May 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        5,
+        30,
+        12,
+        0,
+        0,
+        3,
+        151,
+        0
+      ],
+      "id": "26c30e74-6b61-44f4-b52f-db80d539267c",
+      "guidislink": false
     },
     {
       "title": "Migrant smuggling operation taken down by Romanian and Moldovan authorities",
@@ -3736,66 +3811,6 @@
         {
           "term": "Hungary",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Thousands of judicial cases opened against perpetrators of genocide in Rwanda since 1994",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Thousands of judicial cases opened against perpetrators of genocide in Rwanda since 1994"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/thousands-judicial-cases-opened-against-perpetrators-genocide-rwanda-1994"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/thousands-judicial-cases-opened-against-perpetrators-genocide-rwanda-1994",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eudai-pr-infocus1.png",
-      "field_list_image_1": "EU DAI banner",
-      "summary": "Since the genocide against the Tutsi and other massacres against moderate Hutu in Rwanda in 1994, judicial authorities in Europe, Rwanda and a UN tribunal have opened thousands of formal investigations and court cases against alleged perpetrators. In addition to the over 10 000 individuals tried by the Rwandan authorities, the International Criminal Tribunal for Rwanda has opened 93 cases and EU Member States judicial authorities have opened over 100 cases.The video is also available in FrenchMany potential perpetrators fled to EU Member States and other countries around the world after the genocide, making the opening of cases in the EU essential to fight impunity. Today, thirty years after the genocide, efforts to combat impunity continue in EU Member States, with Belgium and France taking the lead. These two countries currently have 83 ongoing proceedings, initiated based on universal or extraterritorial jurisdiction. Highlighting the importance of these efforts, the figures were presented during the annual EU Day Against Impunity, hosted by Eurojust today, which focused on justice for Rwanda, thirty years after the genocide.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Since the genocide against the Tutsi and other massacres against moderate Hutu in Rwanda in 1994, judicial authorities in Europe, Rwanda and a UN tribunal have opened thousands of formal investigations and court cases against alleged perpetrators. In addition to the over 10 000 individuals tried by the Rwandan authorities, the International Criminal Tribunal for Rwanda has opened 93 cases and EU Member States judicial authorities have opened over 100 cases.The video is also available in FrenchMany potential perpetrators fled to EU Member States and other countries around the world after the genocide, making the opening of cases in the EU essential to fight impunity. Today, thirty years after the genocide, efforts to combat impunity continue in EU Member States, with Belgium and France taking the lead. These two countries currently have 83 ongoing proceedings, initiated based on universal or extraterritorial jurisdiction. Highlighting the importance of these efforts, the figures were presented during the annual EU Day Against Impunity, hosted by Eurojust today, which focused on justice for Rwanda, thirty years after the genocide."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "This year\u2019s EU Day Against Impunity paid particular attention to increased international cooperation to continue the process of justice for victims of the genocide. In view of this, over 120 participants joined the online event, focused on successful prosecutions and lessons learned for future cases.The panellists also discussed methods to increase evidence and information sharing and how to further consider the perspective of victims in the judicial process. Raising awareness of the role of the EU among affected communities in Rwanda was also highlighted. For this reason, the event was also\u2026"
-        }
-      ],
-      "published": "Thu, 23 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        23,
-        12,
-        0,
-        0,
-        3,
-        144,
-        0
-      ],
-      "id": "167640b9-5d4b-4db2-9f90-f5e8cdca710b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
