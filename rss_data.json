@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-10-24 06:15:53",
+  "timestamp": "2024-10-24 12:20:14",
   "entries": [
+    {
+      "title": "Support to German-led action to halt at least EUR 300 million in online fraud",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Support to German-led action to halt at least EUR 300 million in online fraud"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/support-german-led-action-halt-least-eur-300-million-online-fraud"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/support-german-led-action-halt-least-eur-300-million-online-fraud",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-de-cybercrime.png",
+      "field_list_image_1": "Dark cyber-crime themed picture",
+      "summary": "A large-scale online investment scam has been dismantled with support of Eurojust. The perpetrators allegedly ran a fraud scheme that used fake investment platforms to deprive victims of at least EUR 300 million. At the request of the German authorities in Saxony, yesterday one suspect was arrested in Cyprus in a coordinated action. Eurojust assisted the German and Serbian authorities in setting up a joint investigation team (JIT) into the case.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A large-scale online investment scam has been dismantled with support of Eurojust. The perpetrators allegedly ran a fraud scheme that used fake investment platforms to deprive victims of at least EUR 300 million. At the request of the German authorities in Saxony, yesterday one suspect was arrested in Cyprus in a coordinated action. Eurojust assisted the German and Serbian authorities in setting up a joint investigation team (JIT) into the case."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The General Public Prosecution Office of Dresden and the Police Directorate of Chemnitz started investigations in June 2020, following complaints from online investors. They had been lured to professionally designed websites, promising high returns on low investments. Victims only received a maximum of 3% of their initial investment, if any money was returned at all. Through the websites, the perpetrators managed to gain access to personal data and bank account details, creating fake customer accounts to lend credibility to the scheme.To date, around 120 German victims are known, who have\u2026"
+        }
+      ],
+      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        24,
+        12,
+        0,
+        0,
+        3,
+        298,
+        0
+      ],
+      "id": "7018fa0e-b246-4004-9ab9-8a45487a85d6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Cyprus",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Evolving challenges of admissibility of e-evidence addressed at annual JITs Network meeting",
       "title_detail": {
@@ -1963,6 +2038,71 @@
       ]
     },
     {
+      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
+      "field_list_image_1": "JITs training group",
+      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -2038,71 +2178,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
-      "field_list_image_1": "JITs training group",
-      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2363,71 +2438,6 @@
       ]
     },
     {
-      "title": "Hungarian EU presidency to combat cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hungarian EU presidency to combat cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
-      "field_list_image_1": "Hungarian Presidency 2024 logo",
-      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
-        }
-      ],
-      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        1,
-        12,
-        0,
-        0,
-        0,
-        183,
-        0
-      ],
-      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Hungary",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2532,6 +2542,71 @@
         },
         {
           "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
           "scheme": "Member State",
           "label": null
         }
@@ -3751,66 +3826,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "New National Member for Hungary at Eurojust takes up duties",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "New National Member for Hungary at Eurojust takes up duties"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/new-national-member-hungary-eurojust-takes-duties"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/new-national-member-hungary-eurojust-takes-duties",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eszter-maria-kopf.jpg",
-      "field_list_image_1": "Ms Eszter M\u00e1ria K\u00f6pf",
-      "summary": "Ms Eszter M\u00e1ria K\u00f6pf has been appointed as the new National Member for Hungary at Eurojust. Ms K\u00f6pf succeeds Mr L\u00e1szl\u00f3 Venczl, who had served in the role since 2012 and has now retired. The new National Member for Hungary has long-standing experience in international cross-border judicial cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ms Eszter M\u00e1ria K\u00f6pf has been appointed as the new National Member for Hungary at Eurojust. Ms K\u00f6pf succeeds Mr L\u00e1szl\u00f3 Venczl, who had served in the role since 2012 and has now retired. The new National Member for Hungary has long-standing experience in international cross-border judicial cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ms Eszter M\u00e1ria K\u00f6pfCommenting on her new role as National Member, Ms K\u00f6pf stated: As prosecutor specialising in international and European cases, it is a great honour to continue my career as National Member at Eurojust, especially during the forthcoming EU Presidency. It is a priority for me to assist Hungarian prosecutors in their everyday cross-border work and to be a useful member of the College in strengthening European judicial cooperation. After decades, it's a fantastic experience to return to the picturesque Netherlands.Having started as a prosecutor in 1996, Ms K\u00f6pf has\u2026"
-        }
-      ],
-      "published": "Fri, 24 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        24,
-        12,
-        0,
-        0,
-        4,
-        145,
-        0
-      ],
-      "id": "9eb91c63-b37c-4d4f-9d23-98a87257d1e9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Hungary",
-          "scheme": "Member State",
           "label": null
         }
       ]
