@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-10-29 06:15:42",
+  "timestamp": "2024-10-29 12:20:48",
   "entries": [
+    {
+      "title": "Malware targeting millions of people taken down by international coalition",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Malware targeting millions of people taken down by international coalition"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/redline-meta.png",
+      "field_list_image_1": "REDLINE - META",
+      "summary": "A global operation, supported by Eurojust, has led to the takedown of servers of infostealers, a type of malware used to steal personal data and conduct cybercrimes worldwide. The infostealers, RedLine and META, taken down today targeted millions of victims worldwide, making it one of the largest malware platforms globally. An international coalition of authorities from the Netherlands, the United States, Belgium, Portugal, the United Kingdom and Australia shut down three servers in the Netherlands, seized two domains, unsealed charges in the United States and took two people into custody in Belgium.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A global operation, supported by Eurojust, has led to the takedown of servers of infostealers, a type of malware used to steal personal data and conduct cybercrimes worldwide. The infostealers, RedLine and META, taken down today targeted millions of victims worldwide, making it one of the largest malware platforms globally. An international coalition of authorities from the Netherlands, the United States, Belgium, Portugal, the United Kingdom and Australia shut down three servers in the Netherlands, seized two domains, unsealed charges in the United States and took two people into custody in Belgium."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "RedLine and Meta were able to steal personal data from infected devices. The data included saved usernames and passwords, and automatically saved form data, such as addresses, email addresses, phone numbers, cryptocurrency wallets, and cookies. After retrieving the personal data, the infostealers sold the information to other criminals through criminal market places. The criminals who purchased the personal data used it to steal money, cryptocurrency and to carry out follow-on hacking activities.Investigations into RedLine and Meta started after victims came forward and a security company\u2026"
+        }
+      ],
+      "published": "Tue, 29 Oct 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        10,
+        29,
+        12,
+        0,
+        0,
+        1,
+        303,
+        0
+      ],
+      "id": "ac4f7c11-88e6-45fe-b1bb-56d145f58f27",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Criminal network that manufactured narco-boats to smuggle drugs dismantled",
       "title_detail": {
@@ -2118,6 +2198,71 @@
       ]
     },
     {
+      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
+      "field_list_image_1": "JITs training group",
+      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -2193,71 +2338,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
-      "field_list_image_1": "JITs training group",
-      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3744,81 +3824,6 @@
       ],
       "id": "26c30e74-6b61-44f4-b52f-db80d539267c",
       "guidislink": false
-    },
-    {
-      "title": "Migrant smuggling operation taken down by Romanian and Moldovan authorities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Migrant smuggling operation taken down by Romanian and Moldovan authorities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/migrant-smuggling-operation-taken-down-romanian-and-moldovan-authorities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/migrant-smuggling-operation-taken-down-romanian-and-moldovan-authorities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-ro-mo-migrant-case.jpg",
-      "field_list_image_1": "Police action",
-      "summary": "A migrant smuggling operation has been dismantled by Romanian and Moldovan authorities, with the support of Eurojust. From 2019 until now, an organised crime group (OCG) smuggled over 100 migrants to the Schengen Area, demanding up to EUR 5 000 for the transport. On 27 May, authorities searched 11 houses and carried out multiple interrogations in Romania, and on 16 May another eight searches were conducted in Moldova, followed by the arrest of four drivers and their leader.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A migrant smuggling operation has been dismantled by Romanian and Moldovan authorities, with the support of Eurojust. From 2019 until now, an organised crime group (OCG) smuggled over 100 migrants to the Schengen Area, demanding up to EUR 5 000 for the transport. On 27 May, authorities searched 11 houses and carried out multiple interrogations in Romania, and on 16 May another eight searches were conducted in Moldova, followed by the arrest of four drivers and their leader."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00a9 - Romanian PoliceThe OCG smuggled migrants from Asia or Africa for sums ranging from EUR 3 000 to EUR 5 000. The migrants were smuggled in special spaces created to disguise the transport. The suspects used multiple routes for the smuggling, passing through Austria, Bulgaria, Croatia, Greece, Hungary, North-Macedonia, Romania, Serbia and T\u00fcrkiye. As part of their operation, the OCG recruited victims from countries that did not require a visa to travel to the European Union to transport the migrants undetected.With the support of Eurojust, the Romanian and Moldovan authorities set up a joint\u2026"
-        }
-      ],
-      "published": "Wed, 29 May 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        5,
-        29,
-        12,
-        0,
-        0,
-        2,
-        150,
-        0
-      ],
-      "id": "4c831ef7-efad-40ab-bbe2-d354b792a707",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Moldova",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
     }
   ]
 }
