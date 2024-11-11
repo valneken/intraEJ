@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-11-11 12:20:10",
+  "timestamp": "2024-11-11 18:13:39",
   "entries": [
+    {
+      "title": "International operation leads to seizure of 2 000 fake works of art with potential losses of EUR 200 million",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "International operation leads to seizure of 2 000 fake works of art with potential losses of EUR 200 million"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/international-operation-leads-seizure-2-000-fake-works-art-potential-losses-eur-200-million"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/international-operation-leads-seizure-2-000-fake-works-art-potential-losses-eur-200-million",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/fake-art-case-1.png",
+      "field_list_image_1": "fake art",
+      "summary": "Thirty-eight people have been indicted following an unprecedented operation supported by Eurojust against a criminal network for forging over 2 000 works of contemporary art. A year-and-a-half-long investigation by Italian authorities, in cooperation with Belgian, French and Spanish counterparts, led to the dismantling of the network, which would have caused economic damage of EUR 200 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Thirty-eight people have been indicted following an unprecedented operation supported by Eurojust against a criminal network for forging over 2 000 works of contemporary art. A year-and-a-half-long investigation by Italian authorities, in cooperation with Belgian, French and Spanish counterparts, led to the dismantling of the network, which would have caused economic damage of EUR 200 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The fake art recovered by the authorities included forged works by famous artists such as Banksy, Andy Warhol, Pablo Picasso, Joan Mir\u00f3, Francis Bacon, Wassily Kandinsky, Gustav Klimt, Claude Monet, Vincent van Gogh and Salvador Dal\u00ed. Investigations into the fake works revealed a network of forgers in Spain, France and Belgium. Once the fake works of art were produced, the network would work with several complicit auction houses in Italy to sell the pieces. To ensure the credibility of the auctions, exhibitions were organised throughout Italy and a catalogue of the art was published. Catching\u2026"
+        }
+      ],
+      "published": "Mon, 11 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        11,
+        12,
+        0,
+        0,
+        0,
+        316,
+        0
+      ],
+      "id": "e179ee69-7ef4-4aa6-8a0a-76cb72b3104b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
@@ -1147,81 +1222,6 @@
       ]
     },
     {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1332,6 +1332,81 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2983,6 +3058,71 @@
       ]
     },
     {
+      "title": "Hungarian EU presidency to combat cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Hungarian EU presidency to combat cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
+      "field_list_image_1": "Hungarian Presidency 2024 logo",
+      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
+        }
+      ],
+      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        1,
+        12,
+        0,
+        0,
+        0,
+        183,
+        0
+      ],
+      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Website used for child pornography, prostitution and drug dealing taken down with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -3087,71 +3227,6 @@
         },
         {
           "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Hungarian EU presidency to combat cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hungarian EU presidency to combat cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hungarian-eu-presidency-combat-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/hu24eu-logo-list.jpg",
-      "field_list_image_1": "Hungarian Presidency 2024 logo",
-      "summary": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Hungarian presidency of the Council of the European Union starts on 1 July. In the domain of Justice and Home Affairs, the Hungarian presidency has set out five priorities: the fight against terrorism and organised crime, trafficking and smuggling of human beings, illicit trafficking of cultural goods, environmental crime and cybercrime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cybercrime is a rapidly evolving and growing area of criminal activity. Cybercriminals are exploiting the speed and anonymity of the internet to commit a range of criminal acts, including large-scale cyberattacks and the use of malware, phishing and spam. Many of the cases opened at Eurojust, 534 cases in 2023 alone, investigate cybercrime. The Hungarian presidency will focus on the fight against cybercrime, as it is a serious threat to fundamental rights, critical infrastructure and competitiveness. A key objective in this priority area will be ensuring a safe online environment for children\u2026"
-        }
-      ],
-      "published": "Mon, 01 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        1,
-        12,
-        0,
-        0,
-        0,
-        183,
-        0
-      ],
-      "id": "ef3f8598-0cb3-4de2-856a-5445298be499",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Hungary",
           "scheme": "Member State",
           "label": null
         }
@@ -3713,61 +3788,6 @@
         {
           "term": "Montenegro",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 19th CrimEx and 3rd EMJNet meetings in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-19th-crimex-and-3rd-emjnet-meetings-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/19th-crimex-and-3rd-emjnet-meetings-in-the-hague.jpeg",
-      "field_list_image_1": "19th CrimEx and 3rd EMJNet meetings in the Hague",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 19th CrimEx and the 3rd EMJNet meetings were held on 29 and 30 May in a hybrid format at the Eurojust premises in the Hague. Criminal justice representatives from the EU South Partner Countries (SPCs) and the European Union Member States (EU MS) gathered to discuss and to identify common challenges and responses to strengthen international judicial cooperation in criminal matters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 29 May, SPCs and EU MS Country Representatives participated in the CrimEx meeting and had the opportunity to exchange on the technical challenges related to the Euro-Mediterranean judicial cooperation in criminal matters. Participants were invited to report and exchange on their national priorities on serious and organised crime. They also benefited from the experiences that shared from Spain in relation to Trafficking of Human Beings (THB) and the Netherlands in relation to Confiscations and Assets Recovery.On 30 May, judicial practitioners from SPCs and EU MS reported and exchanged on\u2026"
-        }
-      ],
-      "published": "Tue, 04 Jun 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        6,
-        4,
-        12,
-        0,
-        0,
-        1,
-        156,
-        0
-      ],
-      "id": "3aef0486-c461-4b7d-bc08-2ce47b3c0a50",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
