@@ -1,6 +1,76 @@
 {
-  "timestamp": "2024-11-15 06:17:53",
+  "timestamp": "2024-11-15 12:20:48",
   "entries": [
+    {
+      "title": "Criminals recruiting and exploiting workers arrested",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals recruiting and exploiting workers arrested"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-recruiting-and-exploiting-workers-arrested"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-recruiting-and-exploiting-workers-arrested",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-hu-ro-thb-case.png",
+      "field_list_image_1": "inside view of a factory",
+      "summary": "Eight suspects have been arrested during a Eurojust supported operation against a human trafficking ring in Hungary and Romania. The criminals recruited people from Romania and forced them to work in poor conditions and without freedom of movement in a paper factory in Hungary.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eight suspects have been arrested during a Eurojust supported operation against a human trafficking ring in Hungary and Romania. The criminals recruited people from Romania and forced them to work in poor conditions and without freedom of movement in a paper factory in Hungary."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The network started its illegal activities in 2013. Its targets were recruited from Romania to work in a paper factory in Hungary. They were promised a job with eight-hour workdays for five to six days a week a salary paid in Hungarian forints and accommodation and meals.After arriving in Hungary, the actual working conditions were much worse than promised. The victims\u2019 documents were confiscated, depriving them of their freedom of movement. The criminals placed the victims under constant surveillance, took away their phones and withheld their salaries. Work in the paper factory was carried\u2026"
+        }
+      ],
+      "published": "Fri, 15 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        15,
+        12,
+        0,
+        0,
+        4,
+        320,
+        0
+      ],
+      "id": "b053651b-ab84-485e-be6e-f172c9aeacba",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
       "title_detail": {
@@ -1427,6 +1497,81 @@
       ]
     },
     {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1537,81 +1682,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2863,71 +2933,6 @@
       ]
     },
     {
-      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
-      "field_list_image_1": "JITs training group",
-      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -3003,6 +3008,71 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
+      "field_list_image_1": "JITs training group",
+      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3657,106 +3727,6 @@
         },
         {
           "term": "USA",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports authorities in dismantling EUR 113 million fraudulent investment scheme",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports authorities in dismantling EUR 113 million fraudulent investment scheme"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-authorities-dismantling-eur-113-million-fraudulent-investment-scheme"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-authorities-dismantling-eur-113-million-fraudulent-investment-scheme",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240611-caseid-id-81618-web.jpg",
-      "field_list_image_1": "generic image",
-      "summary": "A fraudulent pyramid scheme was taken down by authorities from Germany, Switzerland, Austria, Czechia, Lithuania and Liechtenstein, with the support of Eurojust and Europol. The organised crime group (OCG) used an investment model that focused on the leasing and subleasing of cryptocurrency machines, such as exchange machines and hardware for mining. The suspects were able to target thousands of victims, causing losses of up to EUR 113 million. During an action day on 11 June, six arrests were made, 29 searches were conducted and the suspects\u2019 assets were frozen.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A fraudulent pyramid scheme was taken down by authorities from Germany, Switzerland, Austria, Czechia, Lithuania and Liechtenstein, with the support of Eurojust and Europol. The organised crime group (OCG) used an investment model that focused on the leasing and subleasing of cryptocurrency machines, such as exchange machines and hardware for mining. The suspects were able to target thousands of victims, causing losses of up to EUR 113 million. During an action day on 11 June, six arrests were made, 29 searches were conducted and the suspects\u2019 assets were frozen."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The advertised investment concept involved the leasing of cryptocurrency products, such as investments in server storage for internet cloud services and the subleasing of crypto exchange machines. The suspects promised returns of 70% before tax to those joining the scheme. Investigations by German authorities showed that the promised returns were not only unrealistic, but also impossible, as the leased equipment and systems allegedly did not exist.As the promised investment scheme did not exist as advertised, the suspects created a pyramid scheme, where most of the revenue for earlier\u2026"
-        }
-      ],
-      "published": "Wed, 12 Jun 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        6,
-        12,
-        12,
-        0,
-        0,
-        2,
-        164,
-        0
-      ],
-      "id": "c5c3c292-bcca-4da6-91af-2b592a728c46",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Austria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
