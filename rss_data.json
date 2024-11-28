@@ -1,6 +1,101 @@
 {
-  "timestamp": "2024-11-27 18:15:16",
+  "timestamp": "2024-11-28 00:55:24",
   "entries": [
+    {
+      "title": "Crackdown on illegal streaming network with 22 million users worldwide",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Crackdown on illegal streaming network with 22 million users worldwide"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-illegal-streaming-case.jpg",
+      "field_list_image_1": "person in front of multiple screens",
+      "summary": "Authorities have struck a blow at illegal streaming networks, by shutting down one of the world\u2019s largest illegal service. Eurojust and Europol supported the operation, which involved cooperation between Italian, Croatian, Dutch, Romanian, Swedish, Swiss and UK authorities. In a large-scale operation, over 100 searches were carried out against 102 suspects. Eleven suspects are arrested in Croatia.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have struck a blow at illegal streaming networks, by shutting down one of the world\u2019s largest illegal service. Eurojust and Europol supported the operation, which involved cooperation between Italian, Croatian, Dutch, Romanian, Swedish, Swiss and UK authorities. In a large-scale operation, over 100 searches were carried out against 102 suspects. Eleven suspects are arrested in Croatia."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The suspects illegally distributed material from streaming services online, including films and series. They also pirated more than 2 500 television channels such as sports channels. The illegal service served more than 22 million users worldwide. They were able to make over EUR 250 million in illegal profits per month. The economic damages to the copyright holders of the material is estimated at EUR 10 billion.To evade authorities, the suspects allegedly used encrypted messaging services to communicate and false identities to register phone numbers, credit cards, server rentals and\u2026"
+        }
+      ],
+      "published": "Wed, 27 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        27,
+        12,
+        0,
+        0,
+        2,
+        332,
+        0
+      ],
+      "id": "84eb2cc8-17cf-4ff9-9f31-5c8b493b35ba",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Croatia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Unaccompanied minors and challenges in the digital domain on agenda at annual meeting on migrant smuggling",
       "title_detail": {
@@ -497,66 +592,6 @@
       ]
     },
     {
-      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
-      "field_list_image_1": "generic lady justice image",
-      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Supplier of small boats to human smugglers arrested",
       "title_detail": {
         "type": "text/plain",
@@ -637,6 +672,66 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
+      "field_list_image_1": "generic lady justice image",
+      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
+        }
+      ],
+      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        14,
+        12,
+        0,
+        0,
+        3,
+        319,
+        0
+      ],
+      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1472,66 +1567,6 @@
       ]
     },
     {
-      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
-      "field_list_image_1": "PG Forum group picture",
-      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Intellectual property crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -1612,6 +1647,66 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
+      "field_list_image_1": "PG Forum group picture",
+      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3358,6 +3453,71 @@
       ]
     },
     {
+      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
+      "field_list_image_1": "JITs training group",
+      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
+        }
+      ],
+      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        7,
+        5,
+        12,
+        0,
+        0,
+        4,
+        187,
+        0
+      ],
+      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -3433,71 +3593,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project organised the training on Joint Investigation Teams (JITs) for Western Balkan prosecutors and investigators"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-organised-training-joint-investigation-teams-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-jits-training.png",
-      "field_list_image_1": "JITs training group",
-      "summary": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in collaboration with the Academy of European Law (ERA) and the JITs Network Secretariat, concluded a three-day specialised training program tailored for prosecutors and investigators from the Western Balkans. The training was held at Eurojust from 3 to 5 July and was designed to enhance capacity building and cooperation in criminal matters within the Western Balkans, and between the region and the EU, by equipping Western Balkan practitioners with practical skills and knowledge."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The intensive training focused on Joint Investigation Teams (JITs), an essential tool for international cooperation in the fight against organised crime, bringing together prosecutors, judges and law enforcement authorities to facilitate direct cooperation and communication during an investigation. Through a combination of theoretical sessions and practical case simulations, participants gained hands-on experience in establishing and managing JITs.The sessions covered the use of European and international legal instruments for cooperation, the roles and support available from Eurojust, the\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "09c97340-fe23-4d77-a459-53fbfd2bd4be",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3643,111 +3738,6 @@
         {
           "term": "Ukraine conflict",
           "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Drug trafficking network active across Europe dismantled",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Drug trafficking network active across Europe dismantled"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/drug-trafficking-network-active-across-europe-dismantled"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/drug-trafficking-network-active-across-europe-dismantled",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/drugs-trafficking-action-case-july-2024.jpg",
-      "field_list_image_1": "action image, still from full video",
-      "summary": "An operation in five countries led to the dismantling of an organised crime group (OCG) active across Europe. Investigations ongoing since 2021 revealed that the group was trafficking cannabis and cocaine across several EU and non-EU countries. The actions in Italy, Belgium, Germany and Ukraine, supported by Eurojust and Europol, led to the arrest of 13 suspects.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An operation in five countries led to the dismantling of an organised crime group (OCG) active across Europe. Investigations ongoing since 2021 revealed that the group was trafficking cannabis and cocaine across several EU and non-EU countries. The actions in Italy, Belgium, Germany and Ukraine, supported by Eurojust and Europol, led to the arrest of 13 suspects."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Drugs used for the group\u2019s illegal activities were supplied by members in Spain. The drugs were then transported across Europe by couriers, who concealed the supplies in trucks that were in the possession of the organisation. Members based in Italy, Belgium, Germany, Spain and Ukraine, then sold the drugs on their local drug markets.Drug trafficking remains one of the most serious security threats in Europe. Europol\u2019s report on criminal networks shows that 50% of the most threatening criminal networks active in the EU are involved in drug trafficking, and 50% of all homicides in Europe are\u2026"
-        }
-      ],
-      "published": "Tue, 02 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        2,
-        12,
-        0,
-        0,
-        1,
-        184,
-        0
-      ],
-      "id": "857c777f-ca28-412c-b124-eab390e6d4d9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination centre",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Search",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         },
         {
