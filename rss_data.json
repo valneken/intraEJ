@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-11-28 06:16:34",
+  "timestamp": "2024-11-28 12:21:52",
   "entries": [
+    {
+      "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Out now: SIRIUS Electronic Evidence Situation Report 2024"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/out-now-sirius-electronic-evidence-situation-report-2024"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/out-now-sirius-electronic-evidence-situation-report-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-e-evidence-situation-report-2024-small.png",
+      "field_list_image_1": "publication cover",
+      "summary": "SIRIUS EU Electronic Evidence Situation Report 2024Read the reportEurojust, Europol and the European Judicial Network have published the 2024 edition of the SIRIUS European Union (EU) Electronic Evidence Situation Report.First presented at the SIRIUS Annual Conference to an audience of EU law enforcement and judicial authorities, policymakers, and representatives of service providers, the report reflects on the evolving legislative framework and the growing reliance on electronic data in criminal investigations, while highlighting the persistent barriers to effective cooperation in accessing electronic data across borders for investigation and prosecution of crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "SIRIUS EU Electronic Evidence Situation Report 2024Read the reportEurojust, Europol and the European Judicial Network have published the 2024 edition of the SIRIUS European Union (EU) Electronic Evidence Situation Report.First presented at the SIRIUS Annual Conference to an audience of EU law enforcement and judicial authorities, policymakers, and representatives of service providers, the report reflects on the evolving legislative framework and the growing reliance on electronic data in criminal investigations, while highlighting the persistent barriers to effective cooperation in accessing electronic data across borders for investigation and prosecution of crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "While new legislative initiatives such as the EU Digital Services Act, the EU Electronic Evidence legislative package and the Second Additional Protocol to the Budapest Convention on Cybercrime signal progress, the process of accessing cross-border digital evidence across borders remains complex. Judicial cooperation remains slow and cumbersome, while voluntary cooperation with service providers, though faster, lacks legal certainty.From the perspective of law enforcement, Single Points of Contact (SPoCs) continue to play a crucial role in improving compliance rates with requests for data and\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "16c94773-8ab5-45f3-8da5-56166e0a01fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "EJN",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Crackdown on illegal streaming network with 22 million users worldwide",
       "title_detail": {
@@ -2017,6 +2092,81 @@
       ]
     },
     {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2127,81 +2277,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3673,76 +3748,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "One year on since the launch of the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA)",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "One year on since the launch of the International Centre for the Prosecution of the Crime of Aggression Against Ukraine (ICPA)"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/one-year-launch-international-centre-prosecution-crime-aggression-against-ukraine-icpa"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/one-year-launch-international-centre-prosecution-crime-aggression-against-ukraine-icpa",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/icpa-message-from-andriy-kostin-prosecutor-general-for-ukraine.png",
-      "field_list_image_1": "icpa message from andriy kostin prosecutor general for ukraine",
-      "summary": "Marking a historic moment, one year ago today, Eurojust launched the International Centre for the Prosecution of the Crime of Aggression (ICPA) - a unique judicial coordination platform dedicated to supporting national investigations into the crime of aggression related to the war in Ukraine.Since its launch in July 2023, the ICPA has made significant progress in building a common investigative and prosecutorial strategy for cases on the crime of aggression. ICPA participants have selected relevant evidence to focus on, and have coordinated and strengthened ongoing investigative efforts at national level.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Marking a historic moment, one year ago today, Eurojust launched the International Centre for the Prosecution of the Crime of Aggression (ICPA) - a unique judicial coordination platform dedicated to supporting national investigations into the crime of aggression related to the war in Ukraine.Since its launch in July 2023, the ICPA has made significant progress in building a common investigative and prosecutorial strategy for cases on the crime of aggression. ICPA participants have selected relevant evidence to focus on, and have coordinated and strengthened ongoing investigative efforts at national level."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Russia must be held accountable for its war of aggression said European Commissioner for Justice, Didier Reynders. With the ICPA we ensure that no evidence is lost, in view to prosecute those responsible for the crime of aggression in accordance with international standards. On the occasion of the first anniversary of the ICPA, I want to applaud its very important work and reiterate the commitment of the European Commission to take all the necessary measures to support Eurojust and the ICPA States, including Ukraine, to accomplish their crucial mission.Eurojust\u2019s President, Ladislav\u2026"
-        }
-      ],
-      "published": "Wed, 03 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        3,
-        12,
-        0,
-        0,
-        2,
-        185,
-        0
-      ],
-      "id": "b36ba0a7-5689-4479-b929-a4416d0ac54a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
           "label": null
         }
       ]
