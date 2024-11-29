@@ -1,6 +1,61 @@
 {
-  "timestamp": "2024-11-28 18:14:55",
+  "timestamp": "2024-11-29 00:55:34",
   "entries": [
+    {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
@@ -452,6 +507,76 @@
       ]
     },
     {
+      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
+      "field_list_image_1": "Precious archaeological vases",
+      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
+        }
+      ],
+      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        18,
+        12,
+        0,
+        0,
+        0,
+        323,
+        0
+      ],
+      "id": "db94391d-0f66-4693-b456-7563713826c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Laboratory seized and ten arrests in operation against Albanian-led cocaine trafficking gang",
       "title_detail": {
         "type": "text/plain",
@@ -527,76 +652,6 @@
       ]
     },
     {
-      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
-      "field_list_image_1": "Precious archaeological vases",
-      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
-        }
-      ],
-      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        18,
-        12,
-        0,
-        0,
-        0,
-        323,
-        0
-      ],
-      "id": "db94391d-0f66-4693-b456-7563713826c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Criminals recruiting and exploiting workers arrested",
       "title_detail": {
         "type": "text/plain",
@@ -662,6 +717,66 @@
         {
           "term": "Romania",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
+      "field_list_image_1": "generic lady justice image",
+      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
+        }
+      ],
+      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        14,
+        12,
+        0,
+        0,
+        3,
+        319,
+        0
+      ],
+      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -747,66 +862,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
-      "field_list_image_1": "generic lady justice image",
-      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1642,6 +1697,66 @@
       ]
     },
     {
+      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
+      "field_list_image_1": "PG Forum group picture",
+      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -1722,66 +1837,6 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
-      "field_list_image_1": "PG Forum group picture",
-      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Intellectual property crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2092,81 +2147,6 @@
       ]
     },
     {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2277,6 +2257,81 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3668,86 +3723,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Illegal trade in fake and prohibited pesticides and fertilizers halted in Romania and Italy",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Illegal trade in fake and prohibited pesticides and fertilizers halted in Romania and Italy"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/illegal-trade-fake-and-prohibited-pesticides-and-fertilizers-halted-romania-and-italy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/illegal-trade-fake-and-prohibited-pesticides-and-fertilizers-halted-romania-and-italy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/jit3.jpeg",
-      "field_list_image_1": "police",
-      "summary": "An illegal trading scheme in counterfeit and banned pesticides and fertilizers that were potentially dangerous to consumers\u2019 health has been halted by the Romanian and Italian authorities. Eurojust and Europol supported the joint investigation team (JIT). During a series of actions in both countries, evidence of large-scale fraud, forgery and tax evasion was gathered and one suspect was arrested.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An illegal trading scheme in counterfeit and banned pesticides and fertilizers that were potentially dangerous to consumers\u2019 health has been halted by the Romanian and Italian authorities. Eurojust and Europol supported the joint investigation team (JIT). During a series of actions in both countries, evidence of large-scale fraud, forgery and tax evasion was gathered and one suspect was arrested."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The substances were all banned for trade in the European Union, as they could be dangerous to users and consumers as they contained high doses of active substances. The suspects illegally imported the products from China and Singapore, but sold them as bio- or organic fertilizers and pesticides, using fake labels. The suspects also sold goods that were fake but pretended they were legitimate organic products.Between February and May 2023, three suspect shipments arriving from outside the European Union were detected by the Romanian customs authorities. Subsequent inspections by the\u2026"
-        }
-      ],
-      "published": "Thu, 04 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        4,
-        12,
-        0,
-        0,
-        3,
-        186,
-        0
-      ],
-      "id": "92ca8785-8011-4b79-8f96-a350146ee2a5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Counterfeiting",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
