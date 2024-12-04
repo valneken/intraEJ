@@ -1,6 +1,106 @@
 {
-  "timestamp": "2024-12-03 18:13:53",
+  "timestamp": "2024-12-04 00:56:42",
   "entries": [
+    {
+      "title": "International operation takes down another encrypted messaging service used by criminals",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "International operation takes down another encrypted messaging service used by criminals"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/matrix-social-post-landscape-v4.png",
+      "field_list_image_1": "take down of matrix",
+      "summary": "Authorities are staying on top of the encrypted messaging services that criminals use to undertake their activities. A joint investigation team (JIT) involving French and Dutch authorities has taken down another sophisticated encrypted messaging service, MATRIX. For three months, authorities were able to monitor the messages from possible criminals, which will now be used to support other investigations. During a coordinated operation supported by Eurojust and Europol, the messaging service was taken down by Dutch and French authorities and follow-up actions were executed by their Lithuanian and Spanish counterparts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities are staying on top of the encrypted messaging services that criminals use to undertake their activities. A joint investigation team (JIT) involving French and Dutch authorities has taken down another sophisticated encrypted messaging service, MATRIX. For three months, authorities were able to monitor the messages from possible criminals, which will now be used to support other investigations. During a coordinated operation supported by Eurojust and Europol, the messaging service was taken down by Dutch and French authorities and follow-up actions were executed by their Lithuanian and Spanish counterparts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "MATRIX, a messaging service made by criminals for criminals, was first discovered by Dutch authorities on the phone of a criminal convicted for the murder of a Dutch journalist in 2021. A large-scale investigation into the messaging service was initiated.It was soon clear that the infrastructure of this platform was technically more complex than previous platforms such as Sky ECC and EncroChat. The founders were convinced that the service was superior and more secure than previous applications used by criminals. Users were only able to join the service if they received an invitation. The\u2026"
+        }
+      ],
+      "published": "Tue, 03 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        3,
+        12,
+        0,
+        0,
+        1,
+        338,
+        0
+      ],
+      "id": "fc9b04eb-56cd-470a-a42b-f51870627956",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
       "title_detail": {
@@ -2147,6 +2247,81 @@
       ]
     },
     {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2257,81 +2432,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3643,86 +3743,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Coordinated actions from Romanian and French authorities to stop a human trafficking network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Coordinated actions from Romanian and French authorities to stop a human trafficking network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/actions-taken-stop-romanian-human-trafficking-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/actions-taken-stop-romanian-human-trafficking-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240705-case-id-84645-human-trafficking-ro-fr-europol-sm-web.jpg",
-      "field_list_image_1": "Human trafficking, generic image",
-      "summary": "Coordinated efforts from Romanian and French authorities, with support from Eurojust and Europol, have led to the dismantling of a human trafficking network. The organised crime group (OCG) trafficked Romanian women into France for sexual exploitation. During a recent action day, eight suspects were identified and multiple victims and witnesses were heard. The victims have been offered support.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Coordinated efforts from Romanian and French authorities, with support from Eurojust and Europol, have led to the dismantling of a human trafficking network. The organised crime group (OCG) trafficked Romanian women into France for sexual exploitation. During a recent action day, eight suspects were identified and multiple victims and witnesses were heard. The victims have been offered support."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "An ongoing investigation led by the Romanian authorities confirmed that, in order to obtain important material benefits, the OCG members have been committing offences of trafficking in human beings, pimping and money laundering, since at least January 2022.The victims from disadvantaged backgrounds were recruited in Romania and subsequently transported to France for the purpose of sexual exploitation. The recruitment and control of the victims involved various forms of coercion, including threat, force and deception. The suspects executed most of their activities from Romania, travelling to\u2026"
-        }
-      ],
-      "published": "Fri, 05 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        5,
-        12,
-        0,
-        0,
-        4,
-        187,
-        0
-      ],
-      "id": "13c2e5f6-ad0f-41b8-89e8-dce9a0aba4c2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
