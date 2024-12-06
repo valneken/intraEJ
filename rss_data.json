@@ -1,6 +1,91 @@
 {
-  "timestamp": "2024-12-05 18:14:05",
+  "timestamp": "2024-12-06 00:56:07",
   "entries": [
+    {
+      "title": "Authorities disrupt migrant smuggling supply chain",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities disrupt migrant smuggling supply chain"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/authorities-disrupt-migrant-smuggling-supply-chain"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/authorities-disrupt-migrant-smuggling-supply-chain",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/boats-seizures.jpg",
+      "field_list_image_1": "Boats seized",
+      "summary": "French and German authorities, supported by Eurojust and Europol, have rolled up a criminal network responsible for transporting equipment used to smuggle migrants to the United Kingdom. An international operation took place on 4 December where five suspects were arrested in France and eight suspects were arrested in Germany.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French and German authorities, supported by Eurojust and Europol, have rolled up a criminal network responsible for transporting equipment used to smuggle migrants to the United Kingdom. An international operation took place on 4 December where five suspects were arrested in France and eight suspects were arrested in Germany."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations into the criminal network uncovered a sophisticated operation across multiple countries. Nautical equipment such as inflatable boats, life vests and engines was purchased in Turkey and then taken to a warehouse in Germany. Human smugglers then picked up the equipment from the warehouse to take it to the coast of northern France. From there, the smugglers used low-quality inflatable boats to smuggle migrants over the Channel to the United Kingdom. Yesterday\u2019s operation follows a cross-border investigation between French and German authorities, coordinated by Eurojust and Europol\u2026"
+        }
+      ],
+      "published": "Thu, 05 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        5,
+        12,
+        0,
+        0,
+        3,
+        340,
+        0
+      ],
+      "id": "39bb5cbf-22b6-4256-b913-0765b733372c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Drug trafficking gang tackled in Germany and Serbia: ten arrests",
       "title_detail": {
@@ -1897,66 +1982,6 @@
       ]
     },
     {
-      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
-      "field_list_image_1": "PG Forum group picture",
-      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Intellectual property crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -2037,6 +2062,66 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
+      "field_list_image_1": "PG Forum group picture",
+      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3583,66 +3668,6 @@
       ]
     },
     {
-      "title": "An important step against organised crime: Eurojust signs Working Arrangements with five Latin American countries",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An important step against organised crime: Eurojust signs Working Arrangements with five Latin American countries"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/important-step-against-organised-crime-eurojust-signs-working-arrangements-five-latin-american"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/important-step-against-organised-crime-eurojust-signs-working-arrangements-five-latin-american",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240710-latam-signing-106.jpg",
-      "field_list_image_1": "EL Pacto",
-      "summary": "To fight the increasing threat of criminal activities globally, Eurojust has signed Working Arrangements with the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador and Peru. The new arrangements will make strategic cooperation between these authorities and Eurojust more effective. The prosecutors generals of the five countries and of Panama, which already has a Working Arrangement with Eurojust, attended the signing of the arrangements.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To fight the increasing threat of criminal activities globally, Eurojust has signed Working Arrangements with the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador and Peru. The new arrangements will make strategic cooperation between these authorities and Eurojust more effective. The prosecutors generals of the five countries and of Panama, which already has a Working Arrangement with Eurojust, attended the signing of the arrangements."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "68% of the most threatening criminal networks operate globally, with 36% of these networks engaged in drug trafficking, according to a report from Europol. These networks launder the proceeds from their activities on a global scale, with 32% of networks laundering money in both the EU and abroad.To dismantle these networks, international cooperation is essential. Eurojust supports national authorities in the EU to work together with third countries. The Working Arrangements with Bolivia, Chile, Costa Rica, Ecuador and Peru will strengthen cooperation in the fight against organised crime and\u2026"
-        }
-      ],
-      "published": "Wed, 10 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        10,
-        12,
-        0,
-        0,
-        2,
-        192,
-        0
-      ],
-      "id": "4e4806b9-f1b2-42c5-8416-4a16ef84d054",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Un importante paso contra el crimen organizado Eurojust firma Acuerdos de Trabajo con cinco pa\u00edses latinoamericanos",
       "title_detail": {
         "type": "text/plain",
@@ -3703,81 +3728,61 @@
       ]
     },
     {
-      "title": "Eurojust supports searches into bribery and money laundering",
+      "title": "An important step against organised crime: Eurojust signs Working Arrangements with five Latin American countries",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports searches into bribery and money laundering"
+        "value": "An important step against organised crime: Eurojust signs Working Arrangements with five Latin American countries"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-searches-bribery-and-money-laundering"
+          "href": "https://www.eurojust.europa.eu/news/important-step-against-organised-crime-eurojust-signs-working-arrangements-five-latin-american"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-searches-bribery-and-money-laundering",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/web-money-handcuffs-750-468.png",
-      "field_list_image_1": "money and handcuffs",
-      "summary": "Investigations into corruption, trading and the influencing and bribery of foreign public officials have led to 15 searches across France, Spain and the Netherlands. A multinational company is being investigated for possible corruption and money laundering involving civilian and military equipment.",
+      "link": "https://www.eurojust.europa.eu/news/important-step-against-organised-crime-eurojust-signs-working-arrangements-five-latin-american",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/20240710-latam-signing-106.jpg",
+      "field_list_image_1": "EL Pacto",
+      "summary": "To fight the increasing threat of criminal activities globally, Eurojust has signed Working Arrangements with the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador and Peru. The new arrangements will make strategic cooperation between these authorities and Eurojust more effective. The prosecutors generals of the five countries and of Panama, which already has a Working Arrangement with Eurojust, attended the signing of the arrangements.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Investigations into corruption, trading and the influencing and bribery of foreign public officials have led to 15 searches across France, Spain and the Netherlands. A multinational company is being investigated for possible corruption and money laundering involving civilian and military equipment."
+        "value": "To fight the increasing threat of criminal activities globally, Eurojust has signed Working Arrangements with the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador and Peru. The new arrangements will make strategic cooperation between these authorities and Eurojust more effective. The prosecutors generals of the five countries and of Panama, which already has a Working Arrangement with Eurojust, attended the signing of the arrangements."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "French authorities have started multiple investigations into the company. The first investigation, opened at the end of 2016, concerns the sale of defence material and the construction of a naval base, around which there are suspicions of corruption.A second investigation, opened in June 2023, concerns the suspected corruption and influencing of foreign public officials linked to the sale of civilian and military equipment abroad.As the company has subsidiaries in Spain and the Netherlands that needed to be searched, Eurojust helped connect the French authorities with the Spanish and Dutch\u2026"
+          "value": "68% of the most threatening criminal networks operate globally, with 36% of these networks engaged in drug trafficking, according to a report from Europol. These networks launder the proceeds from their activities on a global scale, with 32% of networks laundering money in both the EU and abroad.To dismantle these networks, international cooperation is essential. Eurojust supports national authorities in the EU to work together with third countries. The Working Arrangements with Bolivia, Chile, Costa Rica, Ecuador and Peru will strengthen cooperation in the fight against organised crime and\u2026"
         }
       ],
-      "published": "Tue, 09 Jul 2024 14:00:00 +0200",
+      "published": "Wed, 10 Jul 2024 14:00:00 +0200",
       "published_parsed": [
         2024,
         7,
-        9,
+        10,
         12,
         0,
         0,
-        1,
-        191,
+        2,
+        192,
         0
       ],
-      "id": "c1ba314c-f552-4dcb-ac61-13bde65b6945",
+      "id": "4e4806b9-f1b2-42c5-8416-4a16ef84d054",
       "guidislink": false,
       "tags": [
         {
-          "term": "Corruption",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination centre",
+          "term": "Cooperation agreement",
           "scheme": "Eurojust Tools",
           "label": null
         },
         {
-          "term": "Mutual legal assistance",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
