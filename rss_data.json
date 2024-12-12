@@ -1,6 +1,81 @@
 {
-  "timestamp": "2024-12-12 12:22:31",
+  "timestamp": "2024-12-12 18:15:52",
   "entries": [
+    {
+      "title": "Transatlantic cocaine trafficking route by air and sea halted: 23 arrests",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Transatlantic cocaine trafficking route by air and sea halted: 23 arrests"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/transatlantic-cocaine-trafficking-route-air-and-sea-halted-23-arrests"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/transatlantic-cocaine-trafficking-route-air-and-sea-halted-23-arrests",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cash-brazil-italy-case.png",
+      "field_list_image_1": "Cash",
+      "summary": "A joint operation in Brazil and Italy has led to the arrest of 23 members of a cocaine trafficking network linked to mafia families in Italy. The three criminal groups running the drug smuggling operation used cargo ships and private aircraft to transport large quantities of cocaine to Europe. Eurojust and Europol supported the investigations and the action day on 10 December.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint operation in Brazil and Italy has led to the arrest of 23 members of a cocaine trafficking network linked to mafia families in Italy. The three criminal groups running the drug smuggling operation used cargo ships and private aircraft to transport large quantities of cocaine to Europe. Eurojust and Europol supported the investigations and the action day on 10 December."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Following the arrest of two members of an Italian mafia family in Brazil in 2019, investigations were launched into the links between Brazilian and Italian criminal groups. The investigations revealed strong ties between the Italian mafia and Brazilian criminal organisations involved in coordinating cocaine shipments to Europe from the Port of Paranagu\u00e1. Throughout the investigations, authorities documented over 1 500 kg cocaine trafficked to Europe.The international criminal group linked to the \u2018Ndrangheta in Piedmont concealed the cocaine shipments in cargo ships destined for various\u2026"
+        }
+      ],
+      "published": "Thu, 12 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        12,
+        12,
+        0,
+        0,
+        3,
+        347,
+        0
+      ],
+      "id": "5ae372f9-552f-4760-855b-21069558c671",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Mr Jos\u00e9 de la Mata Amaya elected new Vice-President of Eurojust",
       "title_detail": {
@@ -1157,66 +1232,6 @@
       ]
     },
     {
-      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
-      "field_list_image_1": "generic lady justice image",
-      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Supplier of small boats to human smugglers arrested",
       "title_detail": {
         "type": "text/plain",
@@ -1297,6 +1312,66 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
+      "field_list_image_1": "generic lady justice image",
+      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
+        }
+      ],
+      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        14,
+        12,
+        0,
+        0,
+        3,
+        319,
+        0
+      ],
+      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3753,66 +3828,6 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and U.S. Department of Justice co-host meeting aimed at ensuring sensitive technologies stay out of the wrong hands",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and U.S. Department of Justice co-host meeting aimed at ensuring sensitive technologies stay out of the wrong hands"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-us-department-justice-co-host-meeting-aimed-ensuring-sensitive-technologies-stay-out-wrong-hands"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-us-department-justice-co-host-meeting-aimed-ensuring-sensitive-technologies-stay-out-wrong-hands",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/eurojust-and-u.s.-department-of-justice-meeting-sensitive-technologies.jpg",
-      "field_list_image_1": "Eurojust and U.S. Department of Justice meeting",
-      "summary": "Eurojust and the United States Department of Justice brought together senior European and US officials, prosecutors and law enforcement members for the purpose of stepping up efforts to combat the unlawful transfer of sensitive technology to foreign adversaries. The meeting on 12 July emphasised the urgent need to stop the illicit export of goods to Russia in light of its ongoing war of aggression against Ukraine.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the United States Department of Justice brought together senior European and US officials, prosecutors and law enforcement members for the purpose of stepping up efforts to combat the unlawful transfer of sensitive technology to foreign adversaries. The meeting on 12 July emphasised the urgent need to stop the illicit export of goods to Russia in light of its ongoing war of aggression against Ukraine."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The unlawful acquisition of sensitive technology is a significant threat to free and democratic societies around the world. When in the wrong hands, innovations that include semiconductor technology, quantum computing, biosciences and artificial intelligence can be used to increase the military capabilities of foreign adversaries. The technologies can also be used to engage in mass surveillance, suppress dissidents living abroad or commit other human rights abuses.The meeting served as a unique opportunity for US and European partners to discuss the threats posed by the acquisition of\u2026"
-        }
-      ],
-      "published": "Fri, 12 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        12,
-        12,
-        0,
-        0,
-        4,
-        194,
-        0
-      ],
-      "id": "b6cac468-9601-4d33-87f4-d466b4c02233",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
