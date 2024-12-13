@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-12-13 12:21:37",
+  "timestamp": "2024-12-13 18:15:30",
   "entries": [
+    {
+      "title": "Arms trafficking group uncovered in Albania and Kosovo*",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arms trafficking group uncovered in Albania and Kosovo*"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arms-trafficking-group-uncovered-albania-and-kosovo"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arms-trafficking-group-uncovered-albania-and-kosovo",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/albania-kosovo-case.png",
+      "field_list_image_1": "Arms trafficking group uncovered in Albania and Kosovo*",
+      "summary": "Authorities from Albania and Kosovo, supported by Eurojust and Europol, have disrupted an arms trafficking gang operating in both countries. The suspects were responsible for the supply, transport and sale of weapons and explosive materials, setting up an intricate import and export route towards the European Union. During a joint operation on 10 and 11 December, 14 suspects were arrested in Albania and Kosovo.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities from Albania and Kosovo, supported by Eurojust and Europol, have disrupted an arms trafficking gang operating in both countries. The suspects were responsible for the supply, transport and sale of weapons and explosive materials, setting up an intricate import and export route towards the European Union. During a joint operation on 10 and 11 December, 14 suspects were arrested in Albania and Kosovo."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal gang was responsible for the import, export, supply, transport and sale of weapons and explosive materials from Kosovo to Albania. It is suspected that the gang intended to set up a trafficking route towards the European Union. In addition to arms trafficking, the gang also trafficked drugs, mainly cocaine, from Albania to Kosovo.In April this year, the Special Prosecutor\u2019s Office in Kosovo found out about the criminal group and launched its investigation. As the criminal group consisted of citizens from both Kosovo and Albania, judicial cooperation began. A joint investigation\u2026"
+        }
+      ],
+      "published": "Fri, 13 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        13,
+        12,
+        0,
+        0,
+        4,
+        348,
+        0
+      ],
+      "id": "94304110-e23b-4c28-ba70-a2c17d2eeb12",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in firearms",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Kosovo",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Transatlantic cocaine trafficking route by air and sea halted: 23 arrests",
       "title_detail": {
@@ -2657,81 +2737,6 @@
       ]
     },
     {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2842,6 +2847,81 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3753,81 +3833,6 @@
         {
           "term": "North Macedonia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Sentences of over five years for Dutch criminals robbing ATMs in Germany",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Sentences of over five years for Dutch criminals robbing ATMs in Germany"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/sentences-over-five-years-dutch-criminals-robbing-atms-germany"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/sentences-over-five-years-dutch-criminals-robbing-atms-germany",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-robbery-case.jpg",
-      "field_list_image_1": "atm",
-      "summary": "The Regional Court of Bamberg in Germany has sentenced fifteen members of a Dutch led organised crime group (OCG) that robbed a series of Automatic Teller Machines (ATMs) in Germany, causing massive damage. The OCG members have been served prison sentences of between one year and nine months and five years and eleven months for a series of violent robberies in southern Germany. Eurojust coordinated the investigations and judicial cooperation between the German and Dutch authorities.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Regional Court of Bamberg in Germany has sentenced fifteen members of a Dutch led organised crime group (OCG) that robbed a series of Automatic Teller Machines (ATMs) in Germany, causing massive damage. The OCG members have been served prison sentences of between one year and nine months and five years and eleven months for a series of violent robberies in southern Germany. Eurojust coordinated the investigations and judicial cooperation between the German and Dutch authorities."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Between November 2021 and January 2023 the OCG members used severe violence to blast ATMs and crowbars to pry them open, stealing an estimated EUR 3.4 million. The damages inflicted on the buildings, teller machines, their infrastructure and the bank\u2019s surroundings amounted to well over EUR 4 million.The gang members often stole fast cars to carry out the heists in Germany, which usually took place at night in the regions of Bavaria and Baden-W\u00fcrttemberg, before speeding back to the Netherlands. In each attack the OCG managed to steal up to EUR 250 000 in cash. The gang was highly organised,\u2026"
-        }
-      ],
-      "published": "Fri, 26 Jul 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        7,
-        26,
-        12,
-        0,
-        0,
-        4,
-        208,
-        0
-      ],
-      "id": "995884a2-4994-4ccd-96a7-03ef1e9892f7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Robbery",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Justice Done",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
           "label": null
         }
       ]
