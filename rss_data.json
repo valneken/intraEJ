@@ -1,6 +1,141 @@
 {
-  "timestamp": "2024-12-16 12:23:24",
+  "timestamp": "2024-12-16 18:15:51",
   "entries": [
+    {
+      "title": "Four suspects arrested for illegally exporting archaeological treasures",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Four suspects arrested for illegally exporting archaeological treasures"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/four-suspects-arrested-illegally-exporting-archaeological-treasures"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/four-suspects-arrested-illegally-exporting-archaeological-treasures",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/etruscan-art-robbery.png",
+      "field_list_image_1": "etruscan art robbery",
+      "summary": "Italian authorities have disrupted a sophisticated operation that was illegally exporting precious archaeological artefacts belonging to the Italian state. The criminal group worked with expert grave robbers and thieves to excavate numerous objects. Following a complex investigation lasting over several years, Italian authorities, supported by Eurojust, dismantled the organisation and arrested four suspects.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Italian authorities have disrupted a sophisticated operation that was illegally exporting precious archaeological artefacts belonging to the Italian state. The criminal group worked with expert grave robbers and thieves to excavate numerous objects. Following a complex investigation lasting over several years, Italian authorities, supported by Eurojust, dismantled the organisation and arrested four suspects."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted mainly Apulian and Etruscan artefacts, which were stolen from archaeological sites in central and southern Italy. Once the grave robbers had retrieved the objects, a sophisticated operation would begin.The value of the objects was determined and fake documents were prepared to prove the apparent lawful origin of the goods. Specially equipped vehicles and professional couriers would then transport the objects. The sale of the objects was organised through a fake auction house in Belgium. The criminal group\u2019s operation was highly successful, generating huge illegal\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "e2ad6329-51f7-4d57-b4d3-b0ae7b14b1e6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Arms trafficking group uncovered in Albania and Kosovo*",
       "title_detail": {
@@ -1097,6 +1232,76 @@
       ]
     },
     {
+      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
+      "field_list_image_1": "Precious archaeological vases",
+      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
+        }
+      ],
+      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        18,
+        12,
+        0,
+        0,
+        0,
+        323,
+        0
+      ],
+      "id": "db94391d-0f66-4693-b456-7563713826c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Laboratory seized and ten arrests in operation against Albanian-led cocaine trafficking gang",
       "title_detail": {
         "type": "text/plain",
@@ -1166,76 +1371,6 @@
         },
         {
           "term": "Albania",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
-      "field_list_image_1": "Precious archaeological vases",
-      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
-        }
-      ],
-      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        18,
-        12,
-        0,
-        0,
-        0,
-        323,
-        0
-      ],
-      "id": "db94391d-0f66-4693-b456-7563713826c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -1592,6 +1727,66 @@
       ]
     },
     {
+      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
+      "field_list_image_1": "conference room",
+      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
+        }
+      ],
+      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        8,
+        12,
+        0,
+        0,
+        4,
+        313,
+        0
+      ],
+      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
         "type": "text/plain",
@@ -1667,66 +1862,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
-      "field_list_image_1": "conference room",
-      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
-        }
-      ],
-      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        8,
-        12,
-        0,
-        0,
-        4,
-        313,
-        0
-      ],
-      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3667,171 +3802,6 @@
         },
         {
           "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Financial scammers detained following actions coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Financial scammers detained following actions coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/financial-scammers-detained-following-actions-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/financial-scammers-detained-following-actions-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/generic-scam-image-detail-keyboard.jpg",
-      "field_list_image_1": "Generic image",
-      "summary": "Romanian and Moldovan authorities worked together to uncover an organised crime group (OCG) that has subjected more than 150 victims to financial scams since 2022. By selling a non-existent investment scheme, the group was able to gain access to their victims\u2019 bank accounts. The damages resulting from their scam are estimated at approximately EUR 3 million. Following a joint investigation, supported by Eurojust and Europol, Romanian and Moldovan authorities were able to detain 12 people on 7 August.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Romanian and Moldovan authorities worked together to uncover an organised crime group (OCG) that has subjected more than 150 victims to financial scams since 2022. By selling a non-existent investment scheme, the group was able to gain access to their victims\u2019 bank accounts. The damages resulting from their scam are estimated at approximately EUR 3 million. Following a joint investigation, supported by Eurojust and Europol, Romanian and Moldovan authorities were able to detain 12 people on 7 August."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The OCG started their scam by posting false advertisements on the internet that promoted an investment plan that would lead to secure, quick and substantial earnings in virtual currencies. To ensure the credibility of the advertisements, pictures of well-known people, logos of banks and specialised economic publications were added. People clicking on the advertisement were led to a fake investment platform where the victims would fill in their personal information. To obtain even more personal data, the scammers, posing as financial actors, called their victims to gain access to their bank\u2026"
-        }
-      ],
-      "published": "Thu, 08 Aug 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        8,
-        8,
-        12,
-        0,
-        0,
-        3,
-        221,
-        0
-      ],
-      "id": "faeb3e42-c915-4012-b5d4-4105e7be0316",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Moldova",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Alleged large-scale coin forger arrested in Kosovo due to Eurojust support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Alleged large-scale coin forger arrested in Kosovo due to Eurojust support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/alleged-large-scale-coin-forger-arrested-kosovo-due-eurojust-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/alleged-large-scale-coin-forger-arrested-kosovo-due-eurojust-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/coin-forger-web.jpg",
-      "field_list_image_1": "euro coins",
-      "summary": "With support provided via the Western Balkans Criminal Justice Project, hosted by Eurojust, an alleged large-scale coin forger has been arrested in Kosovo*. The arrested person is an employee of the North-Macedonian Ministry of the Interior and is suspected of producing around 2 million fake EUR 2 coins, which were about to be circulated into the Kosovar economy.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With support provided via the Western Balkans Criminal Justice Project, hosted by Eurojust, an alleged large-scale coin forger has been arrested in Kosovo*. The arrested person is an employee of the North-Macedonian Ministry of the Interior and is suspected of producing around 2 million fake EUR 2 coins, which were about to be circulated into the Kosovar economy."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Europol provided intelligence analysis, operational coordination and technical assistance to ensure the successful apprehension of the suspect.Investigations will now seek to establish the full scale of the coin forgery. During searches of the suspect\u2019s home, machines for the production of counterfeit currency, coin templates and raw materials have been seized. The suspect had been under surveillance for a longer period.His successful apprehension was the result of a joint investigation team (JIT) supported by the Western Balkans Criminal Justice Project, and financed as part of the\u2026"
-        }
-      ],
-      "published": "Tue, 06 Aug 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        8,
-        6,
-        12,
-        0,
-        0,
-        1,
-        219,
-        0
-      ],
-      "id": "368f92e2-6c9a-46d4-bd3f-9b8cfae3a5b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Counterfeiting",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EMPACT",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Kosovo",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "North Macedonia",
           "scheme": "Third states",
           "label": null
         }
