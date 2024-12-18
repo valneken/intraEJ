@@ -1,6 +1,136 @@
 {
-  "timestamp": "2024-12-18 12:21:20",
+  "timestamp": "2024-12-18 18:15:50",
   "entries": [
+    {
+      "title": "Criminal group disrupting public services by stealing power cables arrested",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminal group disrupting public services by stealing power cables arrested"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminal-group-disrupting-public-services-stealing-power-cables-arrested"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminal-group-disrupting-public-services-stealing-power-cables-arrested",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-de-bg-cable-case.png",
+      "field_list_image_1": "cables",
+      "summary": "German and Bulgarian authorities have rolled up a criminal group that was involved in the large-scale theft of power cables across Germany. The disappearance of the cables caused major disruptions to large public construction sites. During a joint operation coordinated by Eurojust and Europol, eight suspects were arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Bulgarian authorities have rolled up a criminal group that was involved in the large-scale theft of power cables across Germany. The disappearance of the cables caused major disruptions to large public construction sites. During a joint operation coordinated by Eurojust and Europol, eight suspects were arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group consisting mostly of Bulgarian nationals, set up a large-scale operation to steal power cables in three states in Germany, Baden-Wuerttemberg, Hesse and Saarland. After stealing the power cables, the group sold them for substantial profits. Afterwards, the proceeds were then transferred to Bulgaria.Through investigations, the authorities were able to link 45 individual cases of power cable theft to the criminal group. The total value of the stolen cables is around 1 million euros.After German authorities discovered that the criminal group behind the theft was partly\u2026"
+        }
+      ],
+      "published": "Wed, 18 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        18,
+        12,
+        0,
+        0,
+        2,
+        353,
+        0
+      ],
+      "id": "5130d8ff-f5af-4e6d-9d84-3659a28f84a2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Four suspects arrested for illegally exporting archaeological treasures",
       "title_detail": {
@@ -77,61 +207,6 @@
         {
           "term": "Spain",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
-      "field_list_image_1": "EuroMed 20th CrimEx meeting",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
-        }
-      ],
-      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        16,
-        12,
-        0,
-        0,
-        0,
-        351,
-        0
-      ],
-      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -727,61 +802,6 @@
       ]
     },
     {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -852,6 +872,61 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2872,6 +2947,81 @@
       ]
     },
     {
+      "title": "Successful operation against fraudsters targeting cities and municipalities",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Successful operation against fraudsters targeting cities and municipalities"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
+      "field_list_image_1": "Generic fraud image",
+      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
+        }
+      ],
+      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        9,
+        26,
+        12,
+        0,
+        0,
+        3,
+        270,
+        0
+      ],
+      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports major operation against Albanian drug-trafficking ring in Italy: 66 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2982,81 +3132,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Successful operation against fraudsters targeting cities and municipalities",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Successful operation against fraudsters targeting cities and municipalities"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/successful-operation-against-fraudsters-targeting-cities-and-municipalities",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-it-de-fraud-case.jpg",
-      "field_list_image_1": "Generic fraud image",
-      "summary": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and Italian authorities worked together with Eurojust and Europol to stop a fraudulent scheme. The suspects targeted public institutions, cities, and municipalities, and were able to cause damages of several million euros. On 24 September, an operation took place where technology and assets were seized and search warrants against five suspects were executed."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "For over a year, suspects ran a fraudulent scheme in Germany that made them millions. Several public institutions, companies, cities, and municipalities were affected by the scheme. By using phishing techniques, the suspects gained access to real invoices that were addressed to public institutions and companies. The fraudsters manipulated them with their own financial information. The manipulated invoices were then sent to victims, who paid them to the fraudsters instead of their business partners.Investigations into the scheme identified five suspects with Italian and German citizenship. As\u2026"
-        }
-      ],
-      "published": "Thu, 26 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        26,
-        12,
-        0,
-        0,
-        3,
-        270,
-        0
-      ],
-      "id": "c7a099dd-53a1-4475-bbe3-71b7c21e9479",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3718,91 +3793,6 @@
         {
           "term": "Slovenia",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports large-scale anti-mafia operation leading to arrest and freezing of EUR 50 million",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports large-scale anti-mafia operation leading to arrest and freezing of EUR 50 million"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-large-scale-anti-mafia-operation-leading-arrest-and-freezing-eur-50-million"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-large-scale-anti-mafia-operation-leading-arrest-and-freezing-eur-50-million",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-press-release-12-08-2024-building-ground.jpg",
-      "field_list_image_1": "Generic image of building ground, not specific to case",
-      "summary": "An investigation lasting over two years has uncovered an intricate money laundering scheme run by a mafia family from Palermo. The total value of their profits is estimated at over EUR 500 million. They reinvested the profits of their crimes in multiple companies in Brazil. Cooperation between Italian, Brazilian and Swiss authorities led to the arrest of a member of the organised crime group (OCG) during an action day on 13 August, as well as the freezing of financial assets worth EUR 50 million during several searches in Italy, Brazil and Switzerland.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An investigation lasting over two years has uncovered an intricate money laundering scheme run by a mafia family from Palermo. The total value of their profits is estimated at over EUR 500 million. They reinvested the profits of their crimes in multiple companies in Brazil. Cooperation between Italian, Brazilian and Swiss authorities led to the arrest of a member of the organised crime group (OCG) during an action day on 13 August, as well as the freezing of financial assets worth EUR 50 million during several searches in Italy, Brazil and Switzerland."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "To support other major mafia families, the OCG was involved in various criminal activities, including extortion, money laundering and the fraudulent transfer of valuables. An integrated network of financial professionals in Italy and around the world helped the OCG to invest its profits in companies in Italy, including a well-known hotel.In 2016, the suspects moved their activities to Brazil to support another Italian criminal and launder more of their profits. The money arrived in Brazil through multiple transit bank accounts and with the support of their network of financial professionals\u2026"
-        }
-      ],
-      "published": "Tue, 13 Aug 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        8,
-        13,
-        12,
-        0,
-        0,
-        1,
-        226,
-        0
-      ],
-      "id": "fbc2d478-a9db-4a0e-8149-c4a0fdac30e9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination centre",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
           "label": null
         }
       ]
