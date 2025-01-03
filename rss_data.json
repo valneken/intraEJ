@@ -1,53 +1,70 @@
 {
-  "timestamp": "2025-01-03 06:15:10",
+  "timestamp": "2025-01-03 12:20:03",
   "entries": [
     {
-      "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
+      "title": "Ms Martyna Pospieszalska new U.S. Liaison Prosecutor at Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024"
+        "value": "Ms Martyna Pospieszalska new U.S. Liaison Prosecutor at Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024"
+          "href": "https://www.eurojust.europa.eu/news/ms-martyna-pospieszalska-new-us-liaison-prosecutor-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/casework-highlights-24.png",
-      "field_list_image_1": "Casework highlights 2024",
-      "summary": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks.",
+      "link": "https://www.eurojust.europa.eu/news/ms-martyna-pospieszalska-new-us-liaison-prosecutor-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/us-liaison-prosecutor-ms-martyna-pospieszalska-eurojust.jpg",
+      "field_list_image_1": "Ms Martyna Pospieszalska, U.S. Liaison Prosecutor at Eurojust",
+      "summary": "Ms Martyna Pospieszalska has taken up her duties as the new Liaison Prosecutor for the United States at Eurojust. She succeeds Mr Philip Mirrer-Singer and has been appointed for an initial term of two years. Ms Pospieszalska has over a decade of experience working in the field of international cooperation in criminal matters with extensive expertise in extraditions, mutual legal assistance, electronic evidence and cross-border asset forfeiture.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks."
+        "value": "Ms Martyna Pospieszalska has taken up her duties as the new Liaison Prosecutor for the United States at Eurojust. She succeeds Mr Philip Mirrer-Singer and has been appointed for an initial term of two years. Ms Pospieszalska has over a decade of experience working in the field of international cooperation in criminal matters with extensive expertise in extraditions, mutual legal assistance, electronic evidence and cross-border asset forfeiture."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Some highlights of our 2024 casework:EUR 2 billion money laundering network dismantledA financial institution in Lithuania was discovered laundering around EUR 2 billion through a worldwide web of shell companies. Italian, Latvian and Lithuanian authorities, supported by Eurojust and Europol, took down the network during an action day on 27 February. Eighteen people were arrested and over EUR 11.5 million in assets and bank accounts were frozen.Takedown of online infrastructure used for terrorist propagandaAfter a complex investigation that monitored the online activities of terrorist groups\u2026"
+          "value": "As the new U.S. Liaison Prosecutor, Ms Pospieszalska said: I\u2019m incredibly honoured to represent the U.S. Department of Justice at Eurojust. My appointment - together with the present Deputy Liaison Prosecutor Timothy Rank and U.S. Special Prosecutor for the Crime of Aggression Jessica Kim - reflects the United States\u2019 strong commitment to working hand in hand with our European partners to investigate and prosecute serious transnational crimes and uphold the rule of law.Ms Pospieszalska comes to Eurojust having worked as a Trial Attorney at the U.S. Department of Justice\u2019s Office of\u2026"
         }
       ],
-      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published": "Fri, 03 Jan 2025 13:00:00 +0100",
       "published_parsed": [
-        2024,
-        12,
-        20,
+        2025,
+        1,
+        3,
         12,
         0,
         0,
         4,
-        355,
+        3,
         0
       ],
-      "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
-      "guidislink": false
+      "id": "ba3c816b-d1b4-440c-83bb-75d4e70acbc6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Liaison Prosecutor",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
     },
     {
       "title": "2024: Eurojust year in review",
@@ -95,6 +112,54 @@
         0
       ],
       "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
+      "guidislink": false
+    },
+    {
+      "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/casework-highlights-24.png",
+      "field_list_image_1": "Casework highlights 2024",
+      "summary": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Some highlights of our 2024 casework:EUR 2 billion money laundering network dismantledA financial institution in Lithuania was discovered laundering around EUR 2 billion through a worldwide web of shell companies. Italian, Latvian and Lithuanian authorities, supported by Eurojust and Europol, took down the network during an action day on 27 February. Eighteen people were arrested and over EUR 11.5 million in assets and bank accounts were frozen.Takedown of online infrastructure used for terrorist propagandaAfter a complex investigation that monitored the online activities of terrorist groups\u2026"
+        }
+      ],
+      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        20,
+        12,
+        0,
+        0,
+        4,
+        355,
+        0
+      ],
+      "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
       "guidislink": false
     },
     {
@@ -898,6 +963,61 @@
       ]
     },
     {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -968,61 +1088,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -1898,6 +1963,66 @@
       ]
     },
     {
+      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
+      "field_list_image_1": "conference room",
+      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
+        }
+      ],
+      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        8,
+        12,
+        0,
+        0,
+        4,
+        313,
+        0
+      ],
+      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
         "type": "text/plain",
@@ -1973,66 +2098,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
-      "field_list_image_1": "conference room",
-      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
-        }
-      ],
-      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        8,
-        12,
-        0,
-        0,
-        4,
-        313,
-        0
-      ],
-      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3704,54 +3769,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Find Eurojust in the European Pavilion at the World Port Days in Rotterdam",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Find Eurojust in the European Pavilion at the World Port Days in Rotterdam"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/find-eurojust-european-pavilion-world-port-days-rotterdam"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/find-eurojust-european-pavilion-world-port-days-rotterdam",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/festival-tents.jpg",
-      "field_list_image_1": "Festival tents",
-      "summary": "From 6-8 September 2024, you can find Eurojust at the 47th annual World Port Days event in Rotterdam.Ports are key gateways that connect Europe with the rest of the world. Each year, more than 90 million containers enter the 3 main EU ports \u2013 Antwerp, Hamburg and Rotterdam. They are essential hubs for economic growth and prosperity, and create many labour opportunities.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 6-8 September 2024, you can find Eurojust at the 47th annual World Port Days event in Rotterdam.Ports are key gateways that connect Europe with the rest of the world. Each year, more than 90 million containers enter the 3 main EU ports \u2013 Antwerp, Hamburg and Rotterdam. They are essential hubs for economic growth and prosperity, and create many labour opportunities."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "At World Port Days event, thousands of visitors are invited to discover the port of Rotterdam. The programme includes special ships, exciting excursions, spectacles on the water and the European Pavilion: the primary destination for anyone interested in learning about the various benefits and initiatives of the European Union in the Netherlands.The European Pavilion, created by the European Commission Representation in the Netherlands and Kansen voor West, will bring together agencies and projects that are based in the Netherlands and financed through the EU budget. This includes the three EU\u2026"
-        }
-      ],
-      "published": "Tue, 03 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        3,
-        12,
-        0,
-        0,
-        1,
-        247,
-        0
-      ],
-      "id": "ad282e3b-fd7f-4096-be61-9991a49a38ce",
-      "guidislink": false
     }
   ]
 }
