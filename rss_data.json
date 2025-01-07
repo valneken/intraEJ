@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-01-07 12:20:43",
+  "timestamp": "2025-01-07 18:14:48",
   "entries": [
+    {
+      "title": "Mr Pawe\u0142 W\u0105sik takes up duties as new National Member for Poland at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Pawe\u0142 W\u0105sik takes up duties as new National Member for Poland at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-pawel-wasik-takes-duties-new-national-member-poland-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-pawel-wasik-takes-duties-new-national-member-poland-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250107-wasik-pawel-nm-poland-infocus.jpg",
+      "field_list_image_1": "Pawe\u0142 W\u0105sik",
+      "summary": "Mr Pawe\u0142 W\u0105sik took up his duties as the new National Member for Poland at Eurojust this week. He replaces Mr Marius Skowronski and will serve a term of four years. Mr W\u0105sik (48) is an experienced public prosecutor who has been posted at the Agency since 2016 as Assistant to the National Member for Poland. He currently heads the Economic Crime Team at Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Pawe\u0142 W\u0105sik took up his duties as the new National Member for Poland at Eurojust this week. He replaces Mr Marius Skowronski and will serve a term of four years. Mr W\u0105sik (48) is an experienced public prosecutor who has been posted at the Agency since 2016 as Assistant to the National Member for Poland. He currently heads the Economic Crime Team at Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his appointment as the new National Member, Mr W\u0105sik stated: This is a great honour and an incredible opportunity to help strengthen international judicial cooperation in the fight against serious crime. I am pleased that my work and commitment to date have been recognised in this way, all the more so because I am taking up this post at a very demanding time, including the Polish Presidency of the Council of the European Union.The Polish team at Eurojust has already been doing an excellent job in this direction and, given the scale of the challenge, I am pleased to announce that\u2026"
+        }
+      ],
+      "published": "Tue, 07 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        7,
+        12,
+        0,
+        0,
+        1,
+        7,
+        0
+      ],
+      "id": "dfb24408-6895-44b3-8bc4-f404769433d8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Ms Martyna Pospieszalska new U.S. Liaison Prosecutor at Eurojust",
       "title_detail": {
@@ -62,54 +122,6 @@
       ]
     },
     {
-      "title": "2024: Eurojust year in review",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "2024: Eurojust year in review"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
-      "field_list_image_1": "a collage image, year review",
-      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
-        }
-      ],
-      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        20,
-        12,
-        0,
-        0,
-        4,
-        355,
-        0
-      ],
-      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
-      "guidislink": false
-    },
-    {
       "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
       "title_detail": {
         "type": "text/plain",
@@ -155,6 +167,54 @@
         0
       ],
       "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
+      "guidislink": false
+    },
+    {
+      "title": "2024: Eurojust year in review",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "2024: Eurojust year in review"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
+      "field_list_image_1": "a collage image, year review",
+      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
+        }
+      ],
+      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        20,
+        12,
+        0,
+        0,
+        4,
+        355,
+        0
+      ],
+      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
       "guidislink": false
     },
     {
@@ -958,61 +1018,6 @@
       ]
     },
     {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -1083,6 +1088,61 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2653,6 +2713,66 @@
       ]
     },
     {
+      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
+      "field_list_image_1": "PG Forum group picture",
+      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
       "title_detail": {
         "type": "text/plain",
@@ -2733,66 +2853,6 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
-      "field_list_image_1": "PG Forum group picture",
-      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Intellectual property crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3689,81 +3749,6 @@
       ],
       "id": "29fb69d4-1ec0-40ec-8189-f0d28b4398f8",
       "guidislink": false
-    },
-    {
-      "title": "Three Belarusian nationals charged for forcing Polish plane to land to arrest dissident",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Three Belarusian nationals charged for forcing Polish plane to land to arrest dissident"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/three-belarusian-nationals-charged-forcing-polish-plane-land-arrest-dissident"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/three-belarusian-nationals-charged-forcing-polish-plane-land-arrest-dissident",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/plane-against-sky-size.jpg",
-      "field_list_image_1": "Plane - generic image",
-      "summary": "A three-year investigation has led to the charging of three Belarusian nationals for deceitfully seizing a Polish aircraft in Belarus to arrest a dissident. The forced landing in Minsk of a commercial flight caused a direct threat to the life and health of the 132 passengers and unlawfully deprived the crew and passengers of their liberty. Eurojust supported this high-profile case from the start of the investigations by Polish and Lithuanian authorities in 2021.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A three-year investigation has led to the charging of three Belarusian nationals for deceitfully seizing a Polish aircraft in Belarus to arrest a dissident. The forced landing in Minsk of a commercial flight caused a direct threat to the life and health of the 132 passengers and unlawfully deprived the crew and passengers of their liberty. Eurojust supported this high-profile case from the start of the investigations by Polish and Lithuanian authorities in 2021."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Belarusian air traffic controllers forced the aircraft to divert from its route to Vilnius by providing false information about an alleged explosive device, forcing the pilots to make an emergency landing at Minsk airport. After the aircraft landed in Minsk, the passengers were evacuated and their luggage was searched.During the evacuation, two passengers, a Belarusian dissident and his companion, were arrested by officials. Investigations into the incident revealed that these arrests were the real reason the flight was diverted to Minsk.Immediately after the incident, investigations were\u2026"
-        }
-      ],
-      "published": "Fri, 06 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        6,
-        12,
-        0,
-        0,
-        4,
-        250,
-        0
-      ],
-      "id": "589cbe82-f20d-4c42-888c-09ab58f8e32b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
     }
   ]
 }
