@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-14 06:14:26",
+  "timestamp": "2025-01-14 12:19:37",
   "entries": [
     {
       "title": "Combatting major organised crime and human trafficking priorities for Polish EU Presidency",
@@ -718,6 +718,76 @@
       ]
     },
     {
+      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
+        }
+      ],
+      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        6,
+        12,
+        0,
+        0,
+        4,
+        341,
+        0
+      ],
+      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Action against \u2018phone phishing\u2019 gang in Belgium and the Netherlands: eight arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1088,6 +1158,61 @@
       ]
     },
     {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -1158,61 +1283,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2088,66 +2158,6 @@
       ]
     },
     {
-      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
-      "field_list_image_1": "conference room",
-      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
-        }
-      ],
-      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        8,
-        12,
-        0,
-        0,
-        4,
-        313,
-        0
-      ],
-      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
         "type": "text/plain",
@@ -2223,6 +2233,66 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
+      "field_list_image_1": "conference room",
+      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
+        }
+      ],
+      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        8,
+        12,
+        0,
+        0,
+        4,
+        313,
+        0
+      ],
+      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2703,6 +2773,61 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
+        }
+      ],
+      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        24,
+        12,
+        0,
+        0,
+        3,
+        298,
+        0
+      ],
+      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3643,131 +3768,6 @@
         {
           "term": "Slovenia",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice Project joins partners to strengthen regional efforts to combat human trafficking and migrant smuggling",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice Project joins partners to strengthen regional efforts to combat human trafficking and migrant smuggling"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-joins-partners-strengthen-regional-efforts-combat-human-trafficking"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-joins-partners-strengthen-regional-efforts-combat-human-trafficking",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-training-malta-sept-2024.jpg",
-      "field_list_image_1": "group picture training participants",
-      "summary": "From 9-13 September, theEuroMed Justice Project, in co-operation with INTERPOL Momentum MENA project and the Malta General Policeorganisedan in-person capacity building training on Human Trafficking and Migrant Smuggling Investigations, in Valletta, Malta.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 9-13 September, theEuroMed Justice Project, in co-operation with INTERPOL Momentum MENA project and the Malta General Policeorganisedan in-person capacity building training on Human Trafficking and Migrant Smuggling Investigations, in Valletta, Malta."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The 5-day course enhanced law enforcement\u2019s and judicial authorities technical capacities in addressing transnational organized human trafficking and migrant smuggling crimes by adapting current and state-of-the-art investigation techniques and practices. It was organised under the framework of the Action Plan A: Countering the trafficking in human beings and smuggling of migrants within the cross-Mediterranean region.Using various innovative and interactive training strategies, more than 50 human trafficking and migrant smuggling investigators, border security officers, prosecutors, and\u2026"
-        }
-      ],
-      "published": "Fri, 13 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        13,
-        12,
-        0,
-        0,
-        4,
-        257,
-        0
-      ],
-      "id": "ed97f1d6-049a-416f-af7b-2f3c079739dc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "The joint investigation team enhances investigations into crimes of torture, ill-treatment and filtration in Ukraine",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The joint investigation team enhances investigations into crimes of torture, ill-treatment and filtration in Ukraine"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-enhances-investigations-crimes-torture-ill-treatment-and-filtration"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-enhances-investigations-crimes-torture-ill-treatment-and-filtration",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/meeting-kyiv-on-jits-resized.jpg",
-      "field_list_image_1": "kyiv meeting",
-      "summary": "\u00a9 Office of the Prosecutor General of UkraineThe seven members of the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to amend the JIT Agreement to enhance investigations on crimes of torture, ill-treatment and filtration.The JIT meeting took place in Kyiv on 10 September, just before the start of today\u2019s United for Justice Conference.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u00a9 Office of the Prosecutor General of UkraineThe seven members of the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have agreed to amend the JIT Agreement to enhance investigations on crimes of torture, ill-treatment and filtration.The JIT meeting took place in Kyiv on 10 September, just before the start of today\u2019s United for Justice Conference."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the last two and a half years, the JIT's operations have significantly strengthened the capacity of member states to investigate Russian war crimes, laying a solid legal foundation for gathering, preserving, and exchanging evidence.Just three weeks after the start of the full-scale invasion of Ukraine, Eurojust supported the establishment of a JIT set up on 25 March 2022 by Lithuania, Poland and Ukraine. On 30 May 2022, Estonia, Latvia and Slovakia became members, followed by Romania on 13 October 2022. On 3 March 2023, the JIT\u2019s seven national authorities signed a Memorandum of\u2026"
-        }
-      ],
-      "published": "Wed, 11 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        11,
-        12,
-        0,
-        0,
-        2,
-        255,
-        0
-      ],
-      "id": "2c709cf4-218b-419d-bb85-02477ddf85e1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
