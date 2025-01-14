@@ -1,6 +1,76 @@
 {
-  "timestamp": "2025-01-14 00:49:45",
+  "timestamp": "2025-01-14 06:14:26",
   "entries": [
+    {
+      "title": "Combatting major organised crime and human trafficking priorities for Polish EU Presidency",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Combatting major organised crime and human trafficking priorities for Polish EU Presidency"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/combatting-major-organised-crime-and-human-trafficking-priorities-polish-eu-presidency"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/combatting-major-organised-crime-and-human-trafficking-priorities-polish-eu-presidency",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-polish-presidency-logo.png",
+      "field_list_image_1": "polish presidency logo",
+      "summary": "In the field of justice and security, the Polish Presidency of the Council of the European Union will focus on combatting major cross-border criminal networks, hybrid threats, and terrorism and radicalisation. Particular attention will be paid to combat the trafficking of illicit drugs, human trafficking and migrant smuggling.Another priority is the protection of minors from exploitation, including sexual abuse. Efforts to ensure accountability for alleged core international crimes committed in Ukraine will also be a major focus. Poland took up the Presidency on 1 January.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In the field of justice and security, the Polish Presidency of the Council of the European Union will focus on combatting major cross-border criminal networks, hybrid threats, and terrorism and radicalisation. Particular attention will be paid to combat the trafficking of illicit drugs, human trafficking and migrant smuggling.Another priority is the protection of minors from exploitation, including sexual abuse. Efforts to ensure accountability for alleged core international crimes committed in Ukraine will also be a major focus. Poland took up the Presidency on 1 January."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on the Polish EU priorities for justice and security, National Member for Poland at Eurojust Mr Pawe\u0142 W\u0105sik said: I am delighted and honoured to begin my term as the National Member for Poland at Eurojust, at the start of the Polish Presidency of the Council of the European Union. This is a significant challenge and opportunity. Given our commitment to the subject to date, it will not come as a surprise to anyone that in light of the ongoing war in Ukraine, we will also prioritise supporting Ukraine\u2019s security and justice sector, fostering greater coordination in addressing the\u2026"
+        }
+      ],
+      "published": "Mon, 13 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        13,
+        12,
+        0,
+        0,
+        0,
+        13,
+        0
+      ],
+      "id": "f2167358-7aa5-42d5-a790-c9975aa3c01c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Mr Pawe\u0142 W\u0105sik takes up duties as new National Member for Poland at Eurojust",
       "title_detail": {
@@ -3701,54 +3771,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Eurojust at the Just Peace Open Day 2024",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust at the Just Peace Open Day 2024"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-just-peace-open-day-2024"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-just-peace-open-day-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/openday2024-eurojust.png",
-      "field_list_image_1": "Open Day 2024 banner",
-      "summary": "2024 marks the 125th anniversary of the first Hague Peace Conference (1899) and many events are taking place in The Hague to mark this occasion.Peace and justice organisations from across The Hague will open their doors to the public for the Just Peace Open Day on 22 September 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "2024 marks the 125th anniversary of the first Hague Peace Conference (1899) and many events are taking place in The Hague to mark this occasion.Peace and justice organisations from across The Hague will open their doors to the public for the Just Peace Open Day on 22 September 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "This year, members of the public can find Eurojust at the House of Europe. Here you can meet the prosecutors tackling cross-border crime, listen to their stories on how Eurojust works or take part in a quiz about how we are getting justice done. We also have a special activity for children where they can help find evidence of crimes!Attendees can also register to listen to a presentation by Eurojust\u2019s Vice-President and National Member from The Netherlands.10:30-11:30 \u2013 Eurojust Presentation by Vice-President Bostjan Skrlec (English)14:30-15:30 \u2013 Eurojust Presentation by National Member\u2026"
-        }
-      ],
-      "published": "Mon, 09 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        9,
-        12,
-        0,
-        0,
-        0,
-        253,
-        0
-      ],
-      "id": "29fb69d4-1ec0-40ec-8189-f0d28b4398f8",
-      "guidislink": false
     }
   ]
 }
