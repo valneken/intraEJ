@@ -1,6 +1,71 @@
 {
-  "timestamp": "2025-01-20 06:15:36",
+  "timestamp": "2025-01-20 12:20:00",
   "entries": [
+    {
+      "title": "Mr Branislav Boh\u00e1\u010dik starts as new National Member for Slovakia at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Branislav Boh\u00e1\u010dik starts as new National Member for Slovakia at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-branislav-bohacik-starts-new-national-member-slovakia-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-branislav-bohacik-starts-new-national-member-slovakia-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250116-sk-nm-mr-bohacik-03-infocus.jpg",
+      "field_list_image_1": "Mr Branislav Boh\u00e1\u010dik",
+      "summary": "Mr Branislav Boh\u00e1\u010dik has started his work as the new National Member for Slovakia at Eurojust. Mr Boh\u00e1\u010dik has been appointed for a term of five years and succeeds former National Member and Eurojust President Mr Ladislav Hamran, whose mandate ended in November 2024.Before joining Eurojust, he worked as a judicial cybercrime specialist in the international department of the Prosecutor General\u2019s office. In this capacity, Mr Boh\u00e1\u010dik gained extensive experience in working with the Agency as a Member of the Board of the European Judicial Cybercrime Network (EJCN).",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Branislav Boh\u00e1\u010dik has started his work as the new National Member for Slovakia at Eurojust. Mr Boh\u00e1\u010dik has been appointed for a term of five years and succeeds former National Member and Eurojust President Mr Ladislav Hamran, whose mandate ended in November 2024.Before joining Eurojust, he worked as a judicial cybercrime specialist in the international department of the Prosecutor General\u2019s office. In this capacity, Mr Boh\u00e1\u010dik gained extensive experience in working with the Agency as a Member of the Board of the European Judicial Cybercrime Network (EJCN)."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his appointment as the new National Member for Slovakia, Mr Boh\u00e1\u010dik said: Judges and prosecutors face an increase in cross-border cases, as organised crime groups nowadays know no boundaries and abuse modern technologies. In my experience as a prosecutor, I have learned that international cooperation is key to achieving our common goal to fight this cross-border organised crime. Eurojust has the experience and channels to build bridges between authorities, overcome language barriers, and also assist with legal and practical hurdles, which would otherwise affect our national\u2026"
+        }
+      ],
+      "published": "Mon, 20 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        20,
+        12,
+        0,
+        0,
+        0,
+        20,
+        0
+      ],
+      "id": "ff644422-9997-4a8c-b72d-4f27df1ae01e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Slovakia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "European Commissioner McGrath launches collaboration with Eurojust",
       "title_detail": {
@@ -843,76 +908,6 @@
       ]
     },
     {
-      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
-        }
-      ],
-      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        6,
-        12,
-        0,
-        0,
-        4,
-        341,
-        0
-      ],
-      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Action against \u2018phone phishing\u2019 gang in Belgium and the Netherlands: eight arrests",
       "title_detail": {
         "type": "text/plain",
@@ -993,6 +988,76 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
+        }
+      ],
+      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        6,
+        12,
+        0,
+        0,
+        4,
+        341,
+        0
+      ],
+      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1283,61 +1348,6 @@
       ]
     },
     {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -1408,6 +1418,61 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2283,66 +2348,6 @@
       ]
     },
     {
-      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
-      "field_list_image_1": "conference room",
-      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
-        }
-      ],
-      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        8,
-        12,
-        0,
-        0,
-        4,
-        313,
-        0
-      ],
-      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
         "type": "text/plain",
@@ -2418,6 +2423,66 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
+      "field_list_image_1": "conference room",
+      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
+        }
+      ],
+      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        8,
+        12,
+        0,
+        0,
+        4,
+        313,
+        0
+      ],
+      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2828,61 +2893,6 @@
       ]
     },
     {
-      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
-        }
-      ],
-      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        24,
-        12,
-        0,
-        0,
-        3,
-        298,
-        0
-      ],
-      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Support to German-led action to halt at least EUR 300 million in online fraud",
       "title_detail": {
         "type": "text/plain",
@@ -2958,6 +2968,61 @@
       ]
     },
     {
+      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
+        }
+      ],
+      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        24,
+        12,
+        0,
+        0,
+        3,
+        298,
+        0
+      ],
+      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Evolving challenges of admissibility of e-evidence addressed at annual JITs Network meeting",
       "title_detail": {
         "type": "text/plain",
@@ -3028,6 +3093,66 @@
         {
           "term": "JITs Network",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
+      "field_list_image_1": "PG Forum group picture",
+      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
+        }
+      ],
+      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        18,
+        12,
+        0,
+        0,
+        4,
+        292,
+        0
+      ],
+      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3113,66 +3238,6 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Intellectual property rights and network against organised crime main themes for EU Prosecutors General at 18th Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/intellectual-property-rights-and-network-against-organised-crime-main-themes-eu-prosecutors-general-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241017-conforum-familyphoto-sm.jpg",
-      "field_list_image_1": "PG Forum group picture",
-      "summary": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The protection of intellectual property rights and stepping up the fight against major organised criminal networks, including the better execution of penalties, were at the forefront of the annual meeting of European Prosecutors General, taking place yesterday and today. During their 18th annual Forum, hosted at Eurojust, they discussed how to increase cooperation and the exchange of best practice.Only last month, Eurojust launched the new European Judicial Organised Crime Network (EJOCN). The establishment of the EJOCN was one of the priorities of the Belgian Presidency of the Council of the European Union (EU) during the first half of 2024. Taking on the stark increase of infringements on intellectual property rights and related crimes in cyberspace are important priorities for the current Hungarian Presidency. The annual Forum is jointly chaired by Prosecutors General of the EU Member States, which hold the Presidency of the Council of the European Union during the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutor General of Hungary, Mr P\u00e9ter Polt, said: \u2018The area of intellectual property crimes is an area that has been tremendously affected by the rapid development of information technology in the recent decades. Due to this, country borders have lost their importance when it comes to intellectual property infringements, while the modus operandi have become diverse. Therefore, provisions of civil law and criminal law need to form a coherent system in the international context as well, while simultaneously taking particularities of the national legal systems into account.\u2019Representing\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "ce42968f-f9f4-46e7-8295-747d4132ac2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Intellectual property crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3668,66 +3733,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "European prosecutors join forces to systemically fight organised criminal groups in new network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European prosecutors join forces to systemically fight organised criminal groups in new network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-prosecutors-join-forces-systemically-fight-organised-criminal-groups-new-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-prosecutors-join-forces-systemically-fight-organised-criminal-groups-new-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20240925-ejocn-launch-3.jpg",
-      "field_list_image_1": "EJOCN Group picture",
-      "summary": "An important step in the fight against organised crime has been taken today with the launch of the European Judicial Organised Crime Network (EJOCN), hosted at Eurojust. The complex and fast-evolving nature of major crimes in Europe make strengthening international judicial coordination necessary. The EJOCN will go beyond the investigation-based collaboration and combat organised crime strategically. Dangerous criminal groups active in drug trafficking, money laundering, human trafficking, migrant smuggling, cybercrime and more will now face the full force of specialised prosecutors from all 27 EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An important step in the fight against organised crime has been taken today with the launch of the European Judicial Organised Crime Network (EJOCN), hosted at Eurojust. The complex and fast-evolving nature of major crimes in Europe make strengthening international judicial coordination necessary. The EJOCN will go beyond the investigation-based collaboration and combat organised crime strategically. Dangerous criminal groups active in drug trafficking, money laundering, human trafficking, migrant smuggling, cybercrime and more will now face the full force of specialised prosecutors from all 27 EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "76 per cent of criminal groups in the EU are active in two to seven countries and profits from all illicit activities are estimated at around EUR 139 billion annually. Dismantling these groups requires a transnational approach that is fast and flexible and that can adapt to an ever-changing criminal landscape. The EJOCN will focus on horizontal issues that arise in the investigation and prosecution of high-risk criminal networks. It will allow prosecutors to tackle recurring legal challenges and identify new, practical opportunities to cooperate.Over the past 20 years, Eurojust has built up a\u2026"
-        }
-      ],
-      "published": "Wed, 25 Sep 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        9,
-        25,
-        12,
-        0,
-        0,
-        2,
-        269,
-        0
-      ],
-      "id": "9511c8ff-6c75-4c47-bd05-a4ee4ee445f6",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
