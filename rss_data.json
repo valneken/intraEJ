@@ -1,6 +1,176 @@
 {
-  "timestamp": "2025-01-29 12:19:44",
+  "timestamp": "2025-01-29 18:14:27",
   "entries": [
+    {
+      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
+      "field_list_image_1": "Cigarettes",
+      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
+        }
+      ],
+      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        29,
+        12,
+        0,
+        0,
+        2,
+        29,
+        0
+      ],
+      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "OLAF",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Assistance to Germany and Slovenia in operation against illegal labour and tax evasion: three arrests",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Assistance to Germany and Slovenia in operation against illegal labour and tax evasion: three arrests"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/agency-assists-german-and-slovenia-operation-against-illegal-labour-and-tax-evasion"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/agency-assists-german-and-slovenia-operation-against-illegal-labour-and-tax-evasion",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-de-sl-labour-case.jpg",
+      "field_list_image_1": "building worker",
+      "summary": "German and Slovenian authorities, with the support of Eurojust, conducted a coordinated action today against the illegal trafficking and posting of foreign building labourers and tax evasion. During the action day, the three main suspects were arrested in Germany. Their I illegal activities deprived the German tax authorities of approximately EUR 12 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and Slovenian authorities, with the support of Eurojust, conducted a coordinated action today against the illegal trafficking and posting of foreign building labourers and tax evasion. During the action day, the three main suspects were arrested in Germany. Their I illegal activities deprived the German tax authorities of approximately EUR 12 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The alleged perpetrators had set up at least two Slovenian shell companies as subcontractors or service providers to facilitate the posting of Bosnian workers on German building sites, mainly in the Kassel area of Hesse. The Bosnian labourers were illegally trafficked to Germany with fake work visas and without paying social security contributions. The service companies were also used to issue fake invoices to avoid taxation and to pay the workers in cash.Investigations into the fraud were initiated in 2022 by the Public Prosecution Office (PPO) of Kassel in Germany. Eurojust enabled\u2026"
+        }
+      ],
+      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        29,
+        12,
+        0,
+        0,
+        2,
+        29,
+        0
+      ],
+      "id": "9158d34b-1829-4f25-b522-238d7f6345e5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Slovenia",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Criminals operating an illegal financial service to launder millions of euros busted",
       "title_detail": {
@@ -552,54 +722,6 @@
       ]
     },
     {
-      "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/casework-highlights-24.png",
-      "field_list_image_1": "Casework highlights 2024",
-      "summary": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Some highlights of our 2024 casework:EUR 2 billion money laundering network dismantledA financial institution in Lithuania was discovered laundering around EUR 2 billion through a worldwide web of shell companies. Italian, Latvian and Lithuanian authorities, supported by Eurojust and Europol, took down the network during an action day on 27 February. Eighteen people were arrested and over EUR 11.5 million in assets and bank accounts were frozen.Takedown of online infrastructure used for terrorist propagandaAfter a complex investigation that monitored the online activities of terrorist groups\u2026"
-        }
-      ],
-      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        20,
-        12,
-        0,
-        0,
-        4,
-        355,
-        0
-      ],
-      "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
-      "guidislink": false
-    },
-    {
       "title": "2024: Eurojust year in review",
       "title_detail": {
         "type": "text/plain",
@@ -645,6 +767,54 @@
         0
       ],
       "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
+      "guidislink": false
+    },
+    {
+      "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fake-art-money-laundering-eurojusts-cross-border-investigations-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/casework-highlights-24.png",
+      "field_list_image_1": "Casework highlights 2024",
+      "summary": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "As the hub for cross-border judicial cooperation, Eurojust works together with national authorities to fight organised crime. Our support and expertise helps authorities to solve complex investigations into a variety of crime types. In 2024, we saw a number of long running cases lead to joint operations that arrested suspects, seized goods and stopped criminals in their tracks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Some highlights of our 2024 casework:EUR 2 billion money laundering network dismantledA financial institution in Lithuania was discovered laundering around EUR 2 billion through a worldwide web of shell companies. Italian, Latvian and Lithuanian authorities, supported by Eurojust and Europol, took down the network during an action day on 27 February. Eighteen people were arrested and over EUR 11.5 million in assets and bank accounts were frozen.Takedown of online infrastructure used for terrorist propagandaAfter a complex investigation that monitored the online activities of terrorist groups\u2026"
+        }
+      ],
+      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        20,
+        12,
+        0,
+        0,
+        4,
+        355,
+        0
+      ],
+      "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
       "guidislink": false
     },
     {
@@ -718,6 +888,61 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -798,61 +1023,6 @@
         {
           "term": "Spain",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
-      "field_list_image_1": "EuroMed 20th CrimEx meeting",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
-        }
-      ],
-      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        16,
-        12,
-        0,
-        0,
-        0,
-        351,
-        0
-      ],
-      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3568,151 +3738,6 @@
         {
           "term": "Italy",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Four arrests and nine companies seized in anti-mafia operation in Italy and Brazil",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Four arrests and nine companies seized in anti-mafia operation in Italy and Brazil"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/four-arrests-and-nine-companies-seized-anti-mafia-operation-italy-and-brazil"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/four-arrests-and-nine-companies-seized-anti-mafia-operation-italy-and-brazil",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-pr-it-br-mafia-case.jpg",
-      "field_list_image_1": "suspect handcuffed",
-      "summary": "Eurojust supported this international operation, which hit a notorious mafia organisation. Investigations into the criminal organisation uncovered an elaborate scheme that was laundering money from Italy to Brazil, through several companies. The operation on 7 October led to the arrest of four suspects and the seizure of nine companies in Italy, Hong Kong and Brazil.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supported this international operation, which hit a notorious mafia organisation. Investigations into the criminal organisation uncovered an elaborate scheme that was laundering money from Italy to Brazil, through several companies. The operation on 7 October led to the arrest of four suspects and the seizure of nine companies in Italy, Hong Kong and Brazil."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The suspects arrested today were involved in the mafia organisation and used extortion, money laundering and the fraudulent transfer of valuables to facilitate important mafia organisations. The main suspect in the scheme set up multiple companies in Brazil using straw men and shell companies. The companies were used to hide the criminal gains of mafia organisations from Italy.The investigations revealed that other companies active in the property and hospitality sectors in Italy, Hong Kong and Brazil were part of this elaborate money-laundering scheme. During the operation, nine companies\u2026"
-        }
-      ],
-      "published": "Wed, 09 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        9,
-        12,
-        0,
-        0,
-        2,
-        283,
-        0
-      ],
-      "id": "d373a80f-6484-4973-8f90-b36f1bea5ac2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Council of Europe co-host workshop on spontaneous information sharing",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Council of Europe co-host workshop on spontaneous information sharing"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-council-europe-co-host-workshop-spontaneous-information-sharing"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-council-europe-co-host-workshop-spontaneous-information-sharing",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/coe-ej-25-26-9-2024.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "On 25-26 September, Eurojust and the Council of Europe co-hosted a workshop on the spontaneous exchange of information obtained during criminal investigations. More than 70 participants from approximately 40 countries joined the annual event, which took place at Eurojust\u2019s headquarters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 25-26 September, Eurojust and the Council of Europe co-hosted a workshop on the spontaneous exchange of information obtained during criminal investigations. More than 70 participants from approximately 40 countries joined the annual event, which took place at Eurojust\u2019s headquarters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Often, in cybercrime investigations authorities obtain valuable information that may assist another country in its criminal proceedings. Parties to the Council of Europe\u2019s Convention on Cybercrime (Budapest Convention) may spontaneously share information on the basis of Article 26, and there are a variety of ways of doing this in practice. During the two-day workshop, participants had lively debates on the practical use of Article 26 in various jurisdictions, which included sharing interpretations and applications based on national contexts.The often borderless nature of cyber- and cyber-\u2026"
-        }
-      ],
-      "published": "Tue, 01 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        1,
-        12,
-        0,
-        0,
-        1,
-        275,
-        0
-      ],
-      "id": "37141053-1ae2-45cd-8130-0f91012b9532",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Council of Europe",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
           "label": null
         }
       ]
