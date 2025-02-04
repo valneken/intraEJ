@@ -1,6 +1,96 @@
 {
-  "timestamp": "2025-02-04 12:20:28",
+  "timestamp": "2025-02-04 18:14:25",
   "entries": [
+    {
+      "title": "Operation against international drug trafficking network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Operation against international drug trafficking network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/operation-against-international-drug-trafficking-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/operation-against-international-drug-trafficking-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-fr-es-drug-trafficking-case.png",
+      "field_list_image_1": "drugs in hidden compartments",
+      "summary": "French and Spanish authorities, with the support of Eurojust and Europol, have stopped an illegal drug delivery into France arriving from Spain. The drug seizure is part of an operation against an international trafficking network active in the two countries. Authorities arrested 24 members of the network, including the two leaders, and seized over 150 kg of drugs with a market value of EUR 2.5 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French and Spanish authorities, with the support of Eurojust and Europol, have stopped an illegal drug delivery into France arriving from Spain. The drug seizure is part of an operation against an international trafficking network active in the two countries. Authorities arrested 24 members of the network, including the two leaders, and seized over 150 kg of drugs with a market value of EUR 2.5 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The French criminal group set up import routes to transport drugs into France from their headquarters in Spain. Using vehicles with hidden compartments, the group was able to avoid detection and transport multiple types of synthetic drugs and cannabis into France. By frequently changing the routes used, the group further ensured that they remained undetected.French authorities started investigating the network together with their partners in Spain in June 2024. They soon located the head of the network in Southern Spain and investigated the criminal activities such as drug trafficking\u2026"
+        }
+      ],
+      "published": "Tue, 04 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        4,
+        12,
+        0,
+        0,
+        1,
+        35,
+        0
+      ],
+      "id": "aaacb45d-fbe0-4aff-bc8a-f365d4341998",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
       "title_detail": {
@@ -893,61 +983,6 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
-      "field_list_image_1": "EuroMed 20th CrimEx meeting",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
-        }
-      ],
-      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        16,
-        12,
-        0,
-        0,
-        0,
-        351,
-        0
-      ],
-      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Four suspects arrested for illegally exporting archaeological treasures",
       "title_detail": {
         "type": "text/plain",
@@ -1023,6 +1058,61 @@
         {
           "term": "Spain",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1253,76 +1343,6 @@
       ]
     },
     {
-      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
-        }
-      ],
-      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        6,
-        12,
-        0,
-        0,
-        4,
-        341,
-        0
-      ],
-      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Action against \u2018phone phishing\u2019 gang in Belgium and the Netherlands: eight arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1403,6 +1423,76 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
+        }
+      ],
+      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        6,
+        12,
+        0,
+        0,
+        4,
+        341,
+        0
+      ],
+      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3658,91 +3748,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Action to counter undeclared labour and tax fraud in Germany: five arrests",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action to counter undeclared labour and tax fraud in Germany: five arrests"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-counter-undeclared-labour-and-tax-fraud-germany-five-arrests"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-counter-undeclared-labour-and-tax-fraud-germany-five-arrests",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-case-de-hr-cz-it.png",
-      "field_list_image_1": "construction worker",
-      "summary": "Eurojust supported authorities in Germany, Croatia, Czechia and Italy to counter a long-term fraud with illegal or undeclared labour and tax evasion. During an action day, five suspects were arrested for allegedly running a network of building enterprises that employed labourers without paying taxes and social levies. In total, 47 places were searched in the four countries concerned.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supported authorities in Germany, Croatia, Czechia and Italy to counter a long-term fraud with illegal or undeclared labour and tax evasion. During an action day, five suspects were arrested for allegedly running a network of building enterprises that employed labourers without paying taxes and social levies. In total, 47 places were searched in the four countries concerned."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The perpetrators set up three different building companies, mainly operating in and around the city of M\u00fcnster in Germany, which did not pay taxes or social levies on the wages of their employees. To mask this fraud, a string of so-called service companies were set up in the Czechia, which supplied fake invoices. One of the suspects also functioned as alleged manager or administrator of some of the enterprises, to give the fraud an official front.The fraud ran at least since 2019 and was uncovered by the Public Prosecutor\u2019s Office of M\u00fcnster in North-Rhine Westphalia. At their request,\u2026"
-        }
-      ],
-      "published": "Fri, 11 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        11,
-        12,
-        0,
-        0,
-        4,
-        285,
-        0
-      ],
-      "id": "e773d0d9-2f2c-4d4e-ab49-d6ad80790f78",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Croatia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
