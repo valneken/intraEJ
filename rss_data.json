@@ -1,6 +1,86 @@
 {
-  "timestamp": "2025-02-05 18:14:45",
+  "timestamp": "2025-02-06 00:52:03",
   "entries": [
+    {
+      "title": "Counterfeiting cash group disrupted: 12 arrests",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Counterfeiting cash group disrupted: 12 arrests"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/counterfeiting-cash-group-disrupted-12-arrests"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/counterfeiting-cash-group-disrupted-12-arrests",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/counterfeiting-money-pr-feb-2025.jpg",
+      "field_list_image_1": "counterfeiting money - banknote inspected",
+      "summary": "Eurojust and Europol supported an operation that put a halt to a criminal group that produced and sold counterfeit euro coins and bills. The criminals were active in North Macedonia and Serbia. Through a joint investigation team (JIT), the North Macedonian and Serbian authorities conducted their investigation leading to the arrest of 12 suspects.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Europol supported an operation that put a halt to a criminal group that produced and sold counterfeit euro coins and bills. The criminals were active in North Macedonia and Serbia. Through a joint investigation team (JIT), the North Macedonian and Serbian authorities conducted their investigation leading to the arrest of 12 suspects."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During an action day on 2 February, actions took place simultaneously in North Macedonia and Serbia. Authorities searched multiple locations and found machines used to make moulds and stamps for counterfeit money, hot rollers, presses, a counterfeit banknote detector and holograms. Over 180 000 counterfeit euro banknotes were seized during searches in Serbia, and over 500 000 in North Macedonia.Authorities also seized cash in different currencies, phones and laptops. Evidence collected during the searches will be further analysed to serve the ongoing investigations. Twelve members of the\u2026"
+        }
+      ],
+      "published": "Wed, 05 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        5,
+        12,
+        0,
+        0,
+        2,
+        36,
+        0
+      ],
+      "id": "000aa259-37fe-4875-9000-a80262975650",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Counterfeiting",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "North Macedonia",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Operation against international drug trafficking network",
       "title_detail": {
@@ -812,54 +892,6 @@
       ]
     },
     {
-      "title": "2024: Eurojust year in review",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "2024: Eurojust year in review"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
-      "field_list_image_1": "a collage image, year review",
-      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
-        }
-      ],
-      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        20,
-        12,
-        0,
-        0,
-        4,
-        355,
-        0
-      ],
-      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
-      "guidislink": false
-    },
-    {
       "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
       "title_detail": {
         "type": "text/plain",
@@ -905,6 +937,54 @@
         0
       ],
       "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
+      "guidislink": false
+    },
+    {
+      "title": "2024: Eurojust year in review",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "2024: Eurojust year in review"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
+      "field_list_image_1": "a collage image, year review",
+      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
+        }
+      ],
+      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        20,
+        12,
+        0,
+        0,
+        4,
+        355,
+        0
+      ],
+      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
       "guidislink": false
     },
     {
@@ -1343,6 +1423,76 @@
       ]
     },
     {
+      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
+        }
+      ],
+      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        6,
+        12,
+        0,
+        0,
+        4,
+        341,
+        0
+      ],
+      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Action against \u2018phone phishing\u2019 gang in Belgium and the Netherlands: eight arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1423,76 +1573,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Strengthening Judicial Cooperation: First Edition of the WBCJ Project Winter Academy on Judicial Cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/strengthening-judicial-cooperation-first-edition-wbcj-project-winter-academy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-winter-academy-on-judicial-cooperation-1.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project (WBCJ), in collaboration with the Academy of European Law (ERA), the JITs Network, and the Sirius Project, successfully organised the Winter Academy on Judicial Cooperation in Cross-Border Organized Crime for newly appointed Western Balkan practitioners from December 4 to 6, 2024, in Trier, Germany. This intensive three-day training provided a valuable platform for Western Balkan judicial practitioners to deepen their understanding and skills in cross-border judicial cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the three days, young judicial practitioners engaged in enriching discussions and hands-on activities, gaining insights into judicial cooperation frameworks. The event not only enhanced their technical skills but also strengthened ties among legal practitioners committed to combating cross-border organized crime. The event involved a simulated coordination meeting, where participants applied their learning in a collaborative exercise, fostering teamwork and practical skills.Throughout the program, participants from the Western Balkans worked alongside experienced expert trainers who\u2026"
-        }
-      ],
-      "published": "Fri, 06 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        6,
-        12,
-        0,
-        0,
-        4,
-        341,
-        0
-      ],
-      "id": "e007ee6b-7c40-4b0e-a96c-43ed9eab879d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2503,6 +2583,66 @@
       ]
     },
     {
+      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
+      "field_list_image_1": "generic lady justice image",
+      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
+        }
+      ],
+      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        14,
+        12,
+        0,
+        0,
+        3,
+        319,
+        0
+      ],
+      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Supplier of small boats to human smugglers arrested",
       "title_detail": {
         "type": "text/plain",
@@ -2583,66 +2723,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
-      "field_list_image_1": "generic lady justice image",
-      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2783,6 +2863,66 @@
       ]
     },
     {
+      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
+      "field_list_image_1": "conference room",
+      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
+        }
+      ],
+      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        8,
+        12,
+        0,
+        0,
+        4,
+        313,
+        0
+      ],
+      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Electronic evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust hosts meetings on surrender and extradition procedures with UK and US partners",
       "title_detail": {
         "type": "text/plain",
@@ -2858,66 +2998,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bridging the Gap: Supporting Cross-Border Access to Electronic Evidence"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bridging-gap-supporting-cross-border-access-electronic-evidence",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sirius-conference-2024.jpg",
-      "field_list_image_1": "conference room",
-      "summary": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The SIRIUS Conference 2024 took place from 5-7 November, bringing together law enforcement, judicial authorities, policy makers, and service providers to discuss the evolving challenges in cross-border access to electronic evidence. This annual event serves as a platform for updates on legal developments, data disclosure procedures, and the latest investigative tools, with hands-on training from industry experts."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In a rapidly changing online environment, law enforcement and judicial authorities need support to cope with the complexity and volume of information and to develop their knowledge when obtaining electronic data from service providers based in other jurisdictions. The SIRIUS project, co-implemented by Europol and Eurojust, supports investigators with a variety of services, such as guidelines, trainings and tools, to help with accessing data held by the industry. These services are available to law enforcement and judicial authorities via the SIRIUS restricted platform and mobile application.\u2026"
-        }
-      ],
-      "published": "Fri, 08 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        8,
-        12,
-        0,
-        0,
-        4,
-        313,
-        0
-      ],
-      "id": "6e2f1cc8-0dda-4a5e-a4d5-ea00f6827a8a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3328,61 +3408,6 @@
       ]
     },
     {
-      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
-        }
-      ],
-      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        24,
-        12,
-        0,
-        0,
-        3,
-        298,
-        0
-      ],
-      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Support to German-led action to halt at least EUR 300 million in online fraud",
       "title_detail": {
         "type": "text/plain",
@@ -3453,6 +3478,61 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
+        }
+      ],
+      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        24,
+        12,
+        0,
+        0,
+        3,
+        298,
+        0
+      ],
+      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3673,81 +3753,6 @@
         {
           "term": "Organised crime",
           "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Criminals selling counterfeit wine stopped in their tracks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals selling counterfeit wine stopped in their tracks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-selling-counterfeit-wine-stopped-their-tracks"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-selling-counterfeit-wine-stopped-their-tracks",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/fr-it-ep-wine-case.png",
-      "field_list_image_1": "Bottles of wine",
-      "summary": "Eurojust and Europol supported the investigation by French and Italian authorities that led to the arrest of seven suspects and the seizure of cash, valuable goods and documentation needed for the investigation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Europol supported the investigation by French and Italian authorities that led to the arrest of seven suspects and the seizure of cash, valuable goods and documentation needed for the investigation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The international criminal group set up a well-structured organisation to counterfeit famous and exclusive French red wine, worth up to EUR 15 000 per bottle. By working with printing houses in Italy, the criminal group was able to re-create the corks and labels of famous French wineries. The forged wine was then delivered to an Italian airport and taken abroad to be sold at market value around the world by wine traders. The criminals were able to sell the bottles of the counterfeit wine, generating profits of over EUR 2 million.The investigation started after suspicions of forgery reached\u2026"
-        }
-      ],
-      "published": "Tue, 15 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        15,
-        12,
-        0,
-        0,
-        1,
-        289,
-        0
-      ],
-      "id": "fabb4241-49a8-401c-af68-017434d0663d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Counterfeiting",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
