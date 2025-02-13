@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-02-13 00:52:23",
+  "timestamp": "2025-02-13 06:15:14",
   "entries": [
+    {
+      "title": "New Eurojust-hosted project widens scope of actions against impunity for war crimes and genocide beyond EU",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New Eurojust-hosted project widens scope of actions against impunity for war crimes and genocide beyond EU"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-eurojust-hosted-project-widens-scope-actions-against-impunity-war-crimes-and-genocide"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-eurojust-hosted-project-widens-scope-actions-against-impunity-war-crimes-and-genocide",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-impna-launch.jpg",
+      "field_list_image_1": "IMPNA Launch card",
+      "summary": "Cooperation with countries outside the European Union to fight impunity for war crimes, genocide and crimes against humanity will be bolstered by a dedicated new project launched today at Eurojust. This should lead to fewer \u2018safe havens\u2019 for perpetrators of such core international crimes. The collaboration with civil society organisations (CSOs) and coordination of their efforts can also be strengthened via this four-year National Authorities against Impunity Project (IMPNA).",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation with countries outside the European Union to fight impunity for war crimes, genocide and crimes against humanity will be bolstered by a dedicated new project launched today at Eurojust. This should lead to fewer \u2018safe havens\u2019 for perpetrators of such core international crimes. The collaboration with civil society organisations (CSOs) and coordination of their efforts can also be strengthened via this four-year National Authorities against Impunity Project (IMPNA)."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "National Authorities Against Impunity (IMPNA) projectView leafletThe practical aim of this project is to assist CSOs at regional and local level and set up platforms for their cooperation with judicial authorities outside the EU. This will assist organisations in dealing with the increase in violations of human rights due to the sharp rise of armed conflicts across the globe.The number of armed conflicts worldwide has doubled over the last five years, according to Armed Conflict Location and Event Data (ACLED). This has led to a stark increase in war crimes, genocide and crimes against\u2026"
+        }
+      ],
+      "published": "Wed, 12 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        12,
+        12,
+        0,
+        0,
+        2,
+        43,
+        0
+      ],
+      "id": "d96d74bb-e216-4083-89c7-024fdd6998c6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "IMPNA",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Romania and Netherlands set up joint investigation team into theft of precious historic art from Dutch museum",
       "title_detail": {
@@ -1133,61 +1193,6 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
-      "field_list_image_1": "EuroMed 20th CrimEx meeting",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
-        }
-      ],
-      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        16,
-        12,
-        0,
-        0,
-        0,
-        351,
-        0
-      ],
-      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Four suspects arrested for illegally exporting archaeological treasures",
       "title_detail": {
         "type": "text/plain",
@@ -1263,6 +1268,61 @@
         {
           "term": "Spain",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2438,76 +2498,6 @@
       ]
     },
     {
-      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
-      "field_list_image_1": "Precious archaeological vases",
-      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
-        }
-      ],
-      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        18,
-        12,
-        0,
-        0,
-        0,
-        323,
-        0
-      ],
-      "id": "db94391d-0f66-4693-b456-7563713826c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Laboratory seized and ten arrests in operation against Albanian-led cocaine trafficking gang",
       "title_detail": {
         "type": "text/plain",
@@ -2577,6 +2567,76 @@
         },
         {
           "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
+      "field_list_image_1": "Precious archaeological vases",
+      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
+        }
+      ],
+      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        18,
+        12,
+        0,
+        0,
+        0,
+        323,
+        0
+      ],
+      "id": "db94391d-0f66-4693-b456-7563713826c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -3478,6 +3538,61 @@
       ]
     },
     {
+      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
+        }
+      ],
+      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
+      "published_parsed": [
+        2024,
+        10,
+        24,
+        12,
+        0,
+        0,
+        3,
+        298,
+        0
+      ],
+      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Support to German-led action to halt at least EUR 300 million in online fraud",
       "title_detail": {
         "type": "text/plain",
@@ -3553,61 +3668,6 @@
       ]
     },
     {
-      "title": "WBCJ Project Completes Outreach Event Series Across the Western Balkans",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project Completes Outreach Event Series Across the Western Balkans"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-completes-outreach-event-series-across-western-balkans",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/0-default-logoeurojust.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The series of outreach events organised by the Western Balkans Criminal Justice (WBCJ) Project has successfully concluded, covering Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia. The Project Team held six events in the region between September 2023 and October 2024, one in each beneficiary country, with a focus on promoting Eurojust, the WBCJ Project, the EJN Network, the JITs Network, and the range of support available to the region."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The events brought together prosecutors, judges, law enforcement officials, and international partners, fostering collaboration to enhance judicial cooperation and strengthen cross-border justice. Participants were introduced to the role of Eurojust, the WBCJ Project, the EJN Network and the JITs Network, in the Western Balkans, alongside practical resources such as financial assistance mechanisms for cross-border investigations, Joint Investigation Teams (JITs), and tailored operational tools.Each session provided a platform for in-depth discussions, expert presentations, and interactive\u2026"
-        }
-      ],
-      "published": "Thu, 24 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        24,
-        12,
-        0,
-        0,
-        3,
-        298,
-        0
-      ],
-      "id": "15e0a44f-09a6-4802-a320-1598a527cfe9",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Evolving challenges of admissibility of e-evidence addressed at annual JITs Network meeting",
       "title_detail": {
         "type": "text/plain",
@@ -3678,91 +3738,6 @@
         {
           "term": "JITs Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Over 6 million illegally exported pills seized in international operation against drug trafficking network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Over 6 million illegally exported pills seized in international operation against drug trafficking network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/over-6-million-illegally-exported-pills-seized-international-operation-against-drug"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/over-6-million-illegally-exported-pills-seized-international-operation-against-drug",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-infocus-pills-pictures.jpg",
-      "field_list_image_1": "Drugs seized",
-      "summary": "A criminal group that had set up an international smuggling route for prescription pills was taken down during a large-scale operation coordinated from Eurojust\u2019s headquarters. Romanian, Estonian, Finnish and Serbian authorities, supported by Eurojust and Europol, arrested 47 people and seized over 6 million pills.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A criminal group that had set up an international smuggling route for prescription pills was taken down during a large-scale operation coordinated from Eurojust\u2019s headquarters. Romanian, Estonian, Finnish and Serbian authorities, supported by Eurojust and Europol, arrested 47 people and seized over 6 million pills."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group, which operated throughout Europe, bought pills from other criminal networks in Serbia. The pills, used to treat anxiety, seizures and insomnia, were then hidden in tyres, in cars, which were transported on lorries, and in clothing to be taken to Romania and Estonia. After arriving in Romania or Estonia, the pills were transported on to the Nordic countries. Members of the criminal group in Finland and Norway acted as distributors and sold the pills on the streets. The sale of the pills was highly profitable for the criminal group. The pills seized during the operations\u2026"
-        }
-      ],
-      "published": "Fri, 18 Oct 2024 14:00:00 +0200",
-      "published_parsed": [
-        2024,
-        10,
-        18,
-        12,
-        0,
-        0,
-        4,
-        292,
-        0
-      ],
-      "id": "fd863a99-757d-49fa-a0eb-93fea6b3597c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Finland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Serbia",
-          "scheme": "Third states",
           "label": null
         }
       ]
