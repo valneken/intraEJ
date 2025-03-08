@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-03-08 00:42:03",
+  "timestamp": "2025-03-08 06:12:36",
   "entries": [
+    {
+      "title": "Strengthening ties across the ocean: Latin American ministers visit Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Strengthening ties across the ocean: Latin American ministers visit Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/strengthening-ties-across-ocean-latin-american-ministers-visit-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/strengthening-ties-across-ocean-latin-american-ministers-visit-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250307-clasi-visit-40-2.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "Global cooperation is key to ensuring safety and fighting the increasingly numerous international operating criminal networks. On 7 March, representatives from 15 Latin American countries visited Eurojust to experience first-hand how the Agency ensures that judicial authorities can work together swiftly and safely.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Global cooperation is key to ensuring safety and fighting the increasingly numerous international operating criminal networks. On 7 March, representatives from 15 Latin American countries visited Eurojust to experience first-hand how the Agency ensures that judicial authorities can work together swiftly and safely."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The visit to the Eurojust headquarters in The Hague is part of a mission from the Latin American Internal Security Committee to the European Union institutions (CLASI). The committee brings together policymakers from 12 Latin American countries to fight serious organised crime together. The committee regularly meets with EU ministers to enhance law enforcement cooperation and tackle internal security threats posed by global organised criminal networks.The representatives, including ministers from Brazil, Costa Rica, Dominican Republic, Guatemala, Panama and Peru, were welcomed by Eurojust\u2026"
+        }
+      ],
+      "published": "Fri, 07 Mar 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        3,
+        7,
+        12,
+        0,
+        0,
+        4,
+        66,
+        0
+      ],
+      "id": "8ecd2521-75f6-4943-a738-bac0e7aaf749",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Mr Pavel Zeman rejoins Eurojust as National Member for Czech Republic",
       "title_detail": {
@@ -132,316 +192,36 @@
       ]
     },
     {
-      "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
+      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456"
+        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani"
+          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani",
+      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f.",
+      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f."
+        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "JIT members have been busy working on a common prosecutorial strategy, which prioritises investigations into the crime of aggression, crimes of torture, ill-treatment and filtration in relation to illegal detention sites, as well as the crime of genocide.Since March 2022, the Agency has organised 26 coordination meetings between the JIT and other national authorities investigating alleged core international crimes committed in Ukraine. This has allowed involved countries to exchange data on their respective domestic investigations, discuss strategies and priorities, and coordinate\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "JTG nariai intensyviai dirbo rengdami bendr\u0105 baud\u017eiamojo persekiojimo strategij\u0105, pagal kuri\u0105 pirmenyb\u0117 teikiama agresijos nusikaltim\u0173, kankinim\u0173, netinkamo elgesio ir filtravimo neteis\u0117tose sulaikymo vietose bei genocido nusikaltim\u0173 tyrimams.Nuo 2022m. kovom\u0117n. Agent\u016bra sureng\u0117 26 koordinacinius pasitarimus, kuriuose dalyvavo JTG nariai ir kitos nacionalin\u0117s institucijos, tirian\u010dios \u012ftariamus sunkiausius tarptautinius nusikaltimus Ukrainoje. Dalyvaujan\u010dioms \u0161alims buvo suteikta galimyb\u0117 keistis duomenimis apie atitinkamus savo vidaus tyrimus, aptarti strategijas ir prioritetus\u2026"
+          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -552,6 +332,146 @@
       ]
     },
     {
+      "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
       "title_detail": {
         "type": "text/plain",
@@ -622,36 +542,176 @@
       ]
     },
     {
-      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
+      "title": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
+        "value": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
+          "href": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
+      "link": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
+      "summary": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
+        "value": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
+          "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "JTG nariai intensyviai dirbo rengdami bendr\u0105 baud\u017eiamojo persekiojimo strategij\u0105, pagal kuri\u0105 pirmenyb\u0117 teikiama agresijos nusikaltim\u0173, kankinim\u0173, netinkamo elgesio ir filtravimo neteis\u0117tose sulaikymo vietose bei genocido nusikaltim\u0173 tyrimams.Nuo 2022m. kovom\u0117n. Agent\u016bra sureng\u0117 26 koordinacinius pasitarimus, kuriuose dalyvavo JTG nariai ir kitos nacionalin\u0117s institucijos, tirian\u010dios \u012ftariamus sunkiausius tarptautinius nusikaltimus Ukrainoje. Dalyvaujan\u010dioms \u0161alims buvo suteikta galimyb\u0117 keistis duomenimis apie atitinkamus savo vidaus tyrimus, aptarti strategijas ir prioritetus\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "JIT members have been busy working on a common prosecutorial strategy, which prioritises investigations into the crime of aggression, crimes of torture, ill-treatment and filtration in relation to illegal detention sites, as well as the crime of genocide.Since March 2022, the Agency has organised 26 coordination meetings between the JIT and other national authorities investigating alleged core international crimes committed in Ukraine. This has allowed involved countries to exchange data on their respective domestic investigations, discuss strategies and priorities, and coordinate\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -1122,86 +1182,6 @@
       ]
     },
     {
-      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
-      "field_list_image_1": "Cigarettes",
-      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
-        }
-      ],
-      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        1,
-        29,
-        12,
-        0,
-        0,
-        2,
-        29,
-        0
-      ],
-      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "OLAF",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Assistance to Germany and Slovenia in operation against illegal labour and tax evasion: three arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1287,6 +1267,86 @@
         {
           "term": "Slovenia",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
+      "field_list_image_1": "Cigarettes",
+      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
+        }
+      ],
+      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        29,
+        12,
+        0,
+        0,
+        2,
+        29,
+        0
+      ],
+      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "OLAF",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2013,61 +2073,6 @@
       ]
     },
     {
-      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
-      "field_list_image_1": "EuroMed 20th CrimEx meeting",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
-        }
-      ],
-      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        16,
-        12,
-        0,
-        0,
-        0,
-        351,
-        0
-      ],
-      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Four suspects arrested for illegally exporting archaeological treasures",
       "title_detail": {
         "type": "text/plain",
@@ -2143,6 +2148,61 @@
         {
           "term": "Spain",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EuroMed Justice project organised its 20th CrimEx in the Hague",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EuroMed Justice project organised its 20th CrimEx in the Hague"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/euromed-justice-project-organised-its-20th-crimex-hague",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-20th-crimex-in-the-hague.jpg",
+      "field_list_image_1": "EuroMed 20th CrimEx meeting",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) project, the 20th CrimEx was held on 11 and 12 December in a hybrid format at the Eurojust premises in The Hague. Criminal justice representatives from 7 South Partner Countries (SPCs) and 10 European Union Member States (EU MS) gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters along with the missions, goals and next steps of the cooperation mechanisms of the EuroMed Justice project."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Effective cooperation begins with a solid understanding of the various judicial systems. In this regard, on 11 December, delegations from South Partner Countries presented key elements of their national justice systems, including an overview of their organisational structures and descriptions of the national frameworks for judicial cooperation. This covered the role of central authorities and the involvement of prosecution services in facilitating judicial cooperation. The purpose of this roundtable was to raise awareness on the specificities of the South Partner Countries\u2019 criminal justice\u2026"
+        }
+      ],
+      "published": "Mon, 16 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        351,
+        0
+      ],
+      "id": "9ca6bd32-cfd6-4ba6-a8c4-399c7fffd4a7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3318,76 +3378,6 @@
       ]
     },
     {
-      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
-      "field_list_image_1": "Precious archaeological vases",
-      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
-        }
-      ],
-      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        18,
-        12,
-        0,
-        0,
-        0,
-        323,
-        0
-      ],
-      "id": "db94391d-0f66-4693-b456-7563713826c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Laboratory seized and ten arrests in operation against Albanian-led cocaine trafficking gang",
       "title_detail": {
         "type": "text/plain",
@@ -3457,6 +3447,76 @@
         },
         {
           "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
+      "field_list_image_1": "Precious archaeological vases",
+      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
+        }
+      ],
+      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        18,
+        12,
+        0,
+        0,
+        0,
+        323,
+        0
+      ],
+      "id": "db94391d-0f66-4693-b456-7563713826c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -3613,66 +3673,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Unlawful attacks under international law   in the spotlight at 36th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/unlawful-attacks-under-international-law-spotlight-36th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image.png",
-      "field_list_image_1": "generic lady justice image",
-      "summary": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 36th Meeting of the Genocide Network took place this week at Eurojust. More than 140 experts gathered at Eurojust headquarters to discuss the critical issue of unlawful attacks against civilians under international humanitarian law."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Ongoing conflicts and evolving forms of warfare have increasingly highlighted the impact of military operations on civilian populations and infrastructure. During the two-day event, participants discussed the complexities of international humanitarian law and its application in modern conflicts, in particular in relation to war crimes investigations and prosecutions.SearchThe Genocide Network also used the occasion to launch a new, searchable database of selected judicial decisions on core international crimes, translated into English. The database gathers key decisions from EU Member States\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "c4371d17-dd8f-4f01-93b1-04bf81775e2c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
