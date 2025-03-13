@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-03-13 06:16:06",
+  "timestamp": "2025-03-13 12:22:01",
   "entries": [
+    {
+      "title": "Ms Kirstine Troldborg new Representative for Denmark at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ms Kirstine Troldborg new Representative for Denmark at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ms-kirstine-troldborg-new-representative-denmark-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ms-kirstine-troldborg-new-representative-denmark-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kirstine-troldborg.jpg",
+      "field_list_image_1": "Ms Kirstine Troldborg",
+      "summary": "Ms Kirstine Troldborg has taken up her duties as the new Representative for Denmark at Eurojust, replacing Mr Torben Thygesen. She was previously Head of International Affairs at the Office of the Director of Public Prosecutions of Denmark. She also served as Denmark\u2019s Deputy Representative at Eurojust, operating from Copenhagen. In 2023, she replaced Mr Thygesen for an interim period of three months. Ms Troldborg has been appointed for a period of five years.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ms Kirstine Troldborg has taken up her duties as the new Representative for Denmark at Eurojust, replacing Mr Torben Thygesen. She was previously Head of International Affairs at the Office of the Director of Public Prosecutions of Denmark. She also served as Denmark\u2019s Deputy Representative at Eurojust, operating from Copenhagen. In 2023, she replaced Mr Thygesen for an interim period of three months. Ms Troldborg has been appointed for a period of five years."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her start at Eurojust, Ms Troldborg stated: I\u2019m convinced that Eurojust is the most effective existing platform for international judicial cooperation in criminal matters. For this reason, I am enthusiastic about joining the Agency and participating in the fight against serious cross-border crime. Through good and elaborate cooperation, we can make Europe a safer place for our citizens.The new Representative* for Denmark is an experienced prosecutor who has dedicated most of her career to criminal law. As Head of International Affairs at the Office of the Director of Public\u2026"
+        }
+      ],
+      "published": "Thu, 13 Mar 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        3,
+        13,
+        12,
+        0,
+        0,
+        3,
+        72,
+        0
+      ],
+      "id": "07d8f4d8-6d68-4024-b0c7-502ecc57c27c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Denmark",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Strengthening ties across the ocean: Latin American ministers visit Eurojust",
       "title_detail": {
@@ -1182,6 +1242,86 @@
       ]
     },
     {
+      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
+      "field_list_image_1": "Cigarettes",
+      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
+        }
+      ],
+      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        29,
+        12,
+        0,
+        0,
+        2,
+        29,
+        0
+      ],
+      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "OLAF",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Assistance to Germany and Slovenia in operation against illegal labour and tax evasion: three arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1267,86 +1407,6 @@
         {
           "term": "Slovenia",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
-      "field_list_image_1": "Cigarettes",
-      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
-        }
-      ],
-      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        1,
-        29,
-        12,
-        0,
-        0,
-        2,
-        29,
-        0
-      ],
-      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "OLAF",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1902,54 +1962,6 @@
       ]
     },
     {
-      "title": "2024: Eurojust year in review",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "2024: Eurojust year in review"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
-      "field_list_image_1": "a collage image, year review",
-      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
-        }
-      ],
-      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        20,
-        12,
-        0,
-        0,
-        4,
-        355,
-        0
-      ],
-      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
-      "guidislink": false
-    },
-    {
       "title": "From fake art to money laundering: Eurojust\u2019s cross-border investigations in 2024",
       "title_detail": {
         "type": "text/plain",
@@ -1995,6 +2007,54 @@
         0
       ],
       "id": "9d79b566-4564-45b9-a871-752131bc4d9d",
+      "guidislink": false
+    },
+    {
+      "title": "2024: Eurojust year in review",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "2024: Eurojust year in review"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/2024-eurojust-year-review",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/institutional-year-in-review.jpg",
+      "field_list_image_1": "a collage image, year review",
+      "summary": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust is the EU\u2019s powerhouse for international judicial cooperation, setting the global standard for how to tackle cross-border crime effectively and efficiently.This year saw the further evolution of the Agency, as we expanded our cooperation with partner countries, continued our support of accountability efforts in Ukraine, and welcomed new leadership \u2013 among other milestones."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Here are a few highlights:Deepening Cooperation with Latin AmericaOrganised crime groups are increasingly operating on a global scale, which means efforts for cooperation with partner countries outside of the EU is a priority. With 68% of the most threatening criminal networks operate globally, and 36% of these networks engaged in drug trafficking, forging closer partnerships with countries who are frequent origin or transit points is critical.Over the course of the year, new Working Arrangements were signed between Eurojust and the Prosecution Services of Bolivia, Chile, Costa Rica, Ecuador\u2026"
+        }
+      ],
+      "published": "Fri, 20 Dec 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        12,
+        20,
+        12,
+        0,
+        0,
+        4,
+        355,
+        0
+      ],
+      "id": "521f8bb6-6fa8-433d-b456-eb5f588db679",
       "guidislink": false
     },
     {
@@ -2873,6 +2933,61 @@
       ]
     },
     {
+      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
+      "field_list_image_1": "Eurojust building",
+      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
+        }
+      ],
+      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        28,
+        12,
+        0,
+        0,
+        3,
+        333,
+        0
+      ],
+      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Out now: SIRIUS Electronic Evidence Situation Report 2024",
       "title_detail": {
         "type": "text/plain",
@@ -2943,61 +3058,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Annual Meeting on Counter-Terrorism: tackling the multifaceted terrorist threat"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-tackling-multifaceted-terrorist-threat",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20241125-counter-terrorism-meeting-1.jpg",
-      "field_list_image_1": "Eurojust building",
-      "summary": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 27 and 28 November, Eurojust hosted its annual counter-terrorism meeting, which gathered specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to discuss the latest challenges and share best practices in combatting terrorist threats."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, and Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Mr Bartjan Wegter, the EU Counter-Terrorism Coordinator (EU CTC), and representatives from the European Commission highlighted that counter-terrorism is a standing priority for the EU and presented key relevant policy and legislative developments on this issue. In a context where the terrorist threat is increasingly complex and multifaceted, participants also discussed the scope of terrorism and the acts that may lead to it.\u2026"
-        }
-      ],
-      "published": "Thu, 28 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        28,
-        12,
-        0,
-        0,
-        3,
-        333,
-        0
-      ],
-      "id": "fa38fbcb-796e-4757-8644-b21e44b92952",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3378,6 +3438,76 @@
       ]
     },
     {
+      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
+      "field_list_image_1": "Precious archaeological vases",
+      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
+        }
+      ],
+      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
+      "published_parsed": [
+        2024,
+        11,
+        18,
+        12,
+        0,
+        0,
+        0,
+        323,
+        0
+      ],
+      "id": "db94391d-0f66-4693-b456-7563713826c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Laboratory seized and ten arrests in operation against Albanian-led cocaine trafficking gang",
       "title_detail": {
         "type": "text/plain",
@@ -3453,76 +3583,6 @@
       ]
     },
     {
-      "title": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Precious archaeological vases and coins returned to Italian museum with support of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/precious-archaeological-vases-and-coins-returned-italian-museum-support-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/precious-archaeological-vases-in-focus.jpg",
-      "field_list_image_1": "Precious archaeological vases",
-      "summary": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has supported Italian authorities with the return of over 2 500 precious ancient coins, vases and small sculptures that had been illegally excavated and later sold in Switzerland. Last Friday afternoon, the treasures from the ancient city of Cales, dating from the third century BC and the eight century DC, were officially presented in the National Archaeological Museum of Santa Maria Capua Vetere."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust helped Italian authorities carry out searches in Switzerland and collect data on bank accounts and transfers in Belgium and the Netherlands, as well as information on online auction houses. A total of 43 suspects were indicted, four of whom were initially taken into custody. They were suspected of art fraud, including illegal excavations, sales through auction houses and the provision of fake certificates of authenticity. The value of the returned artefacts is estimated at around EUR 2 million.The investigations were launched in 2022 by the Public Prosecutor\u2019s Office (PPO) of Santa\u2026"
-        }
-      ],
-      "published": "Mon, 18 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        18,
-        12,
-        0,
-        0,
-        0,
-        323,
-        0
-      ],
-      "id": "db94391d-0f66-4693-b456-7563713826c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Criminals recruiting and exploiting workers arrested",
       "title_detail": {
         "type": "text/plain",
@@ -3588,91 +3648,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Supplier of small boats to human smugglers arrested",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Supplier of small boats to human smugglers arrested"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/supplier-small-boats-human-smugglers-arrested"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/supplier-small-boats-human-smugglers-arrested",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-be-uk-nl-small-boats.png",
-      "field_list_image_1": "boat",
-      "summary": "During an international action, a major supplier of small boats to human smugglers was arrested in the Netherlands. Dutch, Belgian and UK authorities worked together with Eurojust and Europol to arrest the individual who is suspected of supplying engines and boats to smugglers.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "During an international action, a major supplier of small boats to human smugglers was arrested in the Netherlands. Dutch, Belgian and UK authorities worked together with Eurojust and Europol to arrest the individual who is suspected of supplying engines and boats to smugglers."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The suspect was arrested on Wednesday afternoon after arriving at the airport of Amsterdam. He will be extradited by Dutch authorities to Belgium to face charges of smuggling of human beings in the context of the activities of a criminal organisation. He is suspected of running an operation that supplied small boats and engines to human smugglers who were active in Belgium and northern France. The 44-year-old Turkish national was shipping his supplies from T\u00fcrkiye and storing them in Europe before transporting them to northern France for the smugglers.Criminal networks often use the\u2026"
-        }
-      ],
-      "published": "Thu, 14 Nov 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        11,
-        14,
-        12,
-        0,
-        0,
-        3,
-        319,
-        0
-      ],
-      "id": "efa72c4b-23e7-460c-99a7-27018ff5d801",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
