@@ -1,6 +1,61 @@
 {
-  "timestamp": "2025-05-15 06:18:15",
+  "timestamp": "2025-05-15 12:23:50",
   "entries": [
+    {
+      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
+        }
+      ],
+      "published": "Thu, 15 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        15,
+        12,
+        0,
+        0,
+        3,
+        135,
+        0
+      ],
+      "id": "c37c73f5-a1fa-446e-8596-728000504465",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Corruption",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "International coalition uncovers EUR 3 million online investment fraud",
       "title_detail": {
@@ -1567,36 +1622,36 @@
       ]
     },
     {
-      "title": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu",
+      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu"
+        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie"
+          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie",
+      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem.",
+      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem."
+        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
+          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -1637,36 +1692,36 @@
       ]
     },
     {
-      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
+      "title": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
+        "value": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
+          "href": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
+      "link": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
+      "summary": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
+        "value": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
+          "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -1847,36 +1902,36 @@
       ]
     },
     {
-      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
+      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
+        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
+          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
+      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
+      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
+        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
+          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -1917,36 +1972,36 @@
       ]
     },
     {
-      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
+      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
+        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
+          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
+      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
+      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
+        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
+          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -2417,86 +2472,6 @@
       ]
     },
     {
-      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
-      "field_list_image_1": "Cigarettes",
-      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
-        }
-      ],
-      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        1,
-        29,
-        12,
-        0,
-        0,
-        2,
-        29,
-        0
-      ],
-      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "OLAF",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Assistance to Germany and Slovenia in operation against illegal labour and tax evasion: three arrests",
       "title_detail": {
         "type": "text/plain",
@@ -2582,6 +2557,86 @@
         {
           "term": "Slovenia",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Criminals smuggling 1.5 billion untaxed cigarettes stopped",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals smuggling 1.5 billion untaxed cigarettes stopped"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-smuggling-15-billion-untaxed-cigarettes-stopped",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cigarettes.jpg",
+      "field_list_image_1": "Cigarettes",
+      "summary": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An operation coordinated from Eurojust\u2019s headquarters in The Hague has led to the arrest of ten criminals suspected of smuggling 150 containers of over 1.5 billion undeclared cigarettes. German, Belgian and Dutch authorities discovered the activities of the smuggling group following a four-year investigation. The cigarette smuggling resulted in a fiscal loss of around EUR 550 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The investigation into the smuggling group started in May 2020, when three containers arrived in Belgium filled with undeclared cigarettes instead of the supposed construction material destined for Germany. The group tried to avoid suspicion by filling one of the three containers with the declared goods and presenting it correctly to customs. The building materials would then be loaded into the second and third containers to get them through customs. The smuggling did not go unnoticed as customs officers discovered that the containers were filled with undeclared cigarettes.With the support of\u2026"
+        }
+      ],
+      "published": "Wed, 29 Jan 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        1,
+        29,
+        12,
+        0,
+        0,
+        2,
+        29,
+        0
+      ],
+      "id": "18bf0ebf-d88f-4165-a8d7-39b40ae81e79",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "OLAF",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3438,91 +3493,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Arms trafficking group uncovered in Albania and Kosovo*",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arms trafficking group uncovered in Albania and Kosovo*"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arms-trafficking-group-uncovered-albania-and-kosovo"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arms-trafficking-group-uncovered-albania-and-kosovo",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/albania-kosovo-case.png",
-      "field_list_image_1": "Arms trafficking group uncovered in Albania and Kosovo*",
-      "summary": "Authorities from Albania and Kosovo, supported by Eurojust and Europol, have disrupted an arms trafficking gang operating in both countries. The suspects were responsible for the supply, transport and sale of weapons and explosive materials, setting up an intricate import and export route towards the European Union. During a joint operation on 10 and 11 December, 14 suspects were arrested in Albania and Kosovo.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities from Albania and Kosovo, supported by Eurojust and Europol, have disrupted an arms trafficking gang operating in both countries. The suspects were responsible for the supply, transport and sale of weapons and explosive materials, setting up an intricate import and export route towards the European Union. During a joint operation on 10 and 11 December, 14 suspects were arrested in Albania and Kosovo."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal gang was responsible for the import, export, supply, transport and sale of weapons and explosive materials from Kosovo to Albania. It is suspected that the gang intended to set up a trafficking route towards the European Union. In addition to arms trafficking, the gang also trafficked drugs, mainly cocaine, from Albania to Kosovo.In April this year, the Special Prosecutor\u2019s Office in Kosovo found out about the criminal group and launched its investigation. As the criminal group consisted of citizens from both Kosovo and Albania, judicial cooperation began. A joint investigation\u2026"
-        }
-      ],
-      "published": "Fri, 13 Dec 2024 13:00:00 +0100",
-      "published_parsed": [
-        2024,
-        12,
-        13,
-        12,
-        0,
-        0,
-        4,
-        348,
-        0
-      ],
-      "id": "94304110-e23b-4c28-ba70-a2c17d2eeb12",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in firearms",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Albania",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Kosovo",
-          "scheme": "Third states",
           "label": null
         }
       ]
