@@ -1,57 +1,97 @@
 {
-  "timestamp": "2025-05-23 00:59:45",
+  "timestamp": "2025-05-23 06:17:40",
   "entries": [
     {
-      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
+      "title": "Coordinated action to take down the most dangerous malware variants",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
+        "value": "Coordinated action to take down the most dangerous malware variants"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
+          "href": "https://www.eurojust.europa.eu/news/coordinated-action-take-down-most-dangerous-malware-variants"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
-      "field_list_image_1": "EU DAI",
-      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
+      "link": "https://www.eurojust.europa.eu/news/coordinated-action-take-down-most-dangerous-malware-variants",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-endgame-2.png",
+      "field_list_image_1": "operation logo and flags",
+      "summary": "Authorities around the world cooperated this week to disrupt some of the world\u2019s most dangerous malware. During an action week that took place between 19 May and 22 May, measures were taken against several malware families, and some of the perpetrators behind them were identified. In total, international arrest warrants were obtained against 20 individuals criminally charged, more than 300 servers were taken down and over EUR 3 million in cryptocurrency was seized. Eurojust and Europol have supported the authorities\u2019 operation against the dangerous malware since 2024.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
+        "value": "Authorities around the world cooperated this week to disrupt some of the world\u2019s most dangerous malware. During an action week that took place between 19 May and 22 May, measures were taken against several malware families, and some of the perpetrators behind them were identified. In total, international arrest warrants were obtained against 20 individuals criminally charged, more than 300 servers were taken down and over EUR 3 million in cryptocurrency was seized. Eurojust and Europol have supported the authorities\u2019 operation against the dangerous malware since 2024."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
+          "value": "This week\u2019s actions follow the largest ever operation against botnets from May 2024, Operation Endgame. This year during Endgame 2.0, the measures targeted the successor groups of malware taken down by the authorities and other relevant variants: Bumblebee, Lactrodectus, Qakbot, DanaBot, HijackLoader, Trickbot, and WarmCookie. As these variants are at the beginning of the cyberattack chain, disrupting them damages the entire \u2018cybercrime as a service\u2019 ecosystem.The malware taken down this week is known as \u2018initial access malware\u2019. It is used for initial infection, helping cybercriminals\u2026"
         }
       ],
-      "published": "Thu, 22 May 2025 14:00:00 +0200",
+      "published": "Fri, 23 May 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         5,
-        22,
+        23,
         12,
         0,
         0,
-        3,
-        142,
+        4,
+        143,
         0
       ],
-      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
+      "id": "07f3d8b2-3406-4f99-87c7-273a405d0e7e",
       "guidislink": false,
       "tags": [
         {
-          "term": "Genocide Prosecution Network",
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Denmark",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -137,6 +177,61 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
+      "field_list_image_1": "EU DAI",
+      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 22 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        22,
+        12,
+        0,
+        0,
+        3,
+        142,
+        0
+      ],
+      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -367,6 +462,54 @@
       ]
     },
     {
+      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
+      "field_list_image_1": "Cover page annual report 2024",
+      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
+        }
+      ],
+      "published": "Thu, 15 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        15,
+        12,
+        0,
+        0,
+        3,
+        135,
+        0
+      ],
+      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
+      "guidislink": false
+    },
+    {
       "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
@@ -475,54 +618,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
-      "field_list_image_1": "Cover page annual report 2024",
-      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
-        }
-      ],
-      "published": "Thu, 15 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        15,
-        12,
-        0,
-        0,
-        3,
-        135,
-        0
-      ],
-      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
-      "guidislink": false
     },
     {
       "title": "International coalition uncovers EUR 3 million online investment fraud",
@@ -695,6 +790,61 @@
       ]
     },
     {
+      "title": "Working Arrangement signed with Republic of Korea",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Working Arrangement signed with Republic of Korea"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
+      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
+      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
+        }
+      ],
+      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        30,
+        12,
+        0,
+        0,
+        2,
+        120,
+        0
+      ],
+      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports authorities to stop gold robbers in Italy",
       "title_detail": {
         "type": "text/plain",
@@ -755,61 +905,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Working Arrangement signed with Republic of Korea",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Working Arrangement signed with Republic of Korea"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
-      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
-      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
-        }
-      ],
-      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        30,
-        12,
-        0,
-        0,
-        2,
-        120,
-        0
-      ],
-      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1140,71 +1235,6 @@
       ]
     },
     {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -1339,6 +1369,71 @@
         },
         {
           "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -2160,146 +2255,6 @@
       ]
     },
     {
-      "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s",
       "title_detail": {
         "type": "text/plain",
@@ -2400,6 +2355,146 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3465,76 +3560,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Combatting major organised crime and human trafficking priorities for Polish EU Presidency",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Combatting major organised crime and human trafficking priorities for Polish EU Presidency"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/combatting-major-organised-crime-and-human-trafficking-priorities-polish-eu-presidency"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/combatting-major-organised-crime-and-human-trafficking-priorities-polish-eu-presidency",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-polish-presidency-logo.png",
-      "field_list_image_1": "polish presidency logo",
-      "summary": "In the field of justice and security, the Polish Presidency of the Council of the European Union will focus on combatting major cross-border criminal networks, hybrid threats, and terrorism and radicalisation. Particular attention will be paid to combat the trafficking of illicit drugs, human trafficking and migrant smuggling.Another priority is the protection of minors from exploitation, including sexual abuse. Efforts to ensure accountability for alleged core international crimes committed in Ukraine will also be a major focus. Poland took up the Presidency on 1 January.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In the field of justice and security, the Polish Presidency of the Council of the European Union will focus on combatting major cross-border criminal networks, hybrid threats, and terrorism and radicalisation. Particular attention will be paid to combat the trafficking of illicit drugs, human trafficking and migrant smuggling.Another priority is the protection of minors from exploitation, including sexual abuse. Efforts to ensure accountability for alleged core international crimes committed in Ukraine will also be a major focus. Poland took up the Presidency on 1 January."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on the Polish EU priorities for justice and security, National Member for Poland at Eurojust Mr Pawe\u0142 W\u0105sik said: I am delighted and honoured to begin my term as the National Member for Poland at Eurojust, at the start of the Polish Presidency of the Council of the European Union. This is a significant challenge and opportunity. Given our commitment to the subject to date, it will not come as a surprise to anyone that in light of the ongoing war in Ukraine, we will also prioritise supporting Ukraine\u2019s security and justice sector, fostering greater coordination in addressing the\u2026"
-        }
-      ],
-      "published": "Mon, 13 Jan 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        1,
-        13,
-        12,
-        0,
-        0,
-        0,
-        13,
-        0
-      ],
-      "id": "f2167358-7aa5-42d5-a790-c9975aa3c01c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
           "label": null
         }
       ]
