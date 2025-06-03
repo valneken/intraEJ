@@ -1,6 +1,76 @@
 {
-  "timestamp": "2025-06-03 06:18:33",
+  "timestamp": "2025-06-03 12:24:56",
   "entries": [
+    {
+      "title": "Eurojust supports successful operation against human traffickers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports successful operation against human traffickers"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
+      "field_list_image_1": "girl",
+      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 17 suspects were identified.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 17 suspects were identified."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+        }
+      ],
+      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        3,
+        12,
+        0,
+        0,
+        1,
+        154,
+        0
+      ],
+      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Genocide Prosecution Network presents new visual identity",
       "title_detail": {
@@ -52,6 +122,76 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
+      "field_list_image_1": "group picture",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
+        }
+      ],
+      "published": "Fri, 23 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        23,
+        12,
+        0,
+        0,
+        4,
+        143,
+        0
+      ],
+      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -152,71 +292,56 @@
       ]
     },
     {
-      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
+      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
+        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
+          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
+      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
+      "field_list_image_1": "EU DAI",
+      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
+        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
+          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
         }
       ],
-      "published": "Fri, 23 May 2025 14:00:00 +0200",
+      "published": "Thu, 22 May 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         5,
-        23,
+        22,
         12,
         0,
         0,
-        4,
-        143,
+        3,
+        142,
         0
       ],
-      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
+      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
       "guidislink": false,
       "tags": [
         {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
+          "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -302,61 +427,6 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
-      "field_list_image_1": "EU DAI",
-      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 22 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        22,
-        12,
-        0,
-        0,
-        3,
-        142,
-        0
-      ],
-      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -587,36 +657,36 @@
       ]
     },
     {
-      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -631,12 +701,12 @@
         135,
         0
       ],
-      "id": "c37c73f5-a1fa-446e-8596-728000504465",
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
       "guidislink": false,
       "tags": [
         {
-          "term": "Corruption",
-          "scheme": "Crime type",
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -690,36 +760,36 @@
       "guidislink": false
     },
     {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -734,12 +804,12 @@
         135,
         0
       ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "id": "c37c73f5-a1fa-446e-8596-728000504465",
       "guidislink": false,
       "tags": [
         {
-          "term": "Third countries",
-          "scheme": "Partner",
+          "term": "Corruption",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2170,146 +2240,6 @@
       ]
     },
     {
-      "title": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "JIT members have been busy working on a common prosecutorial strategy, which prioritises investigations into the crime of aggression, crimes of torture, ill-treatment and filtration in relation to illegal detention sites, as well as the crime of genocide.Since March 2022, the Agency has organised 26 coordination meetings between the JIT and other national authorities investigating alleged core international crimes committed in Ukraine. This has allowed involved countries to exchange data on their respective domestic investigations, discuss strategies and priorities, and coordinate\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "JTG nariai intensyviai dirbo rengdami bendr\u0105 baud\u017eiamojo persekiojimo strategij\u0105, pagal kuri\u0105 pirmenyb\u0117 teikiama agresijos nusikaltim\u0173, kankinim\u0173, netinkamo elgesio ir filtravimo neteis\u0117tose sulaikymo vietose bei genocido nusikaltim\u0173 tyrimams.Nuo 2022m. kovom\u0117n. Agent\u016bra sureng\u0117 26 koordinacinius pasitarimus, kuriuose dalyvavo JTG nariai ir kitos nacionalin\u0117s institucijos, tirian\u010dios \u012ftariamus sunkiausius tarptautinius nusikaltimus Ukrainoje. Dalyvaujan\u010dioms \u0161alims buvo suteikta galimyb\u0117 keistis duomenimis apie atitinkamus savo vidaus tyrimus, aptarti strategijas ir prioritetus\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
       "title_detail": {
         "type": "text/plain",
@@ -2340,6 +2270,146 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Three years since the full-scale invasion of Ukraine: Concrete steps supported by Eurojust on the road to accountability"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/three-years-full-scale-invasion-ukraine-concrete-steps-supported-eurojust-road-accountability",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Available in:EstonianLatvianLithuanianPolishRomanianSlovakUkrainianThe national authorities participating in the Eurojust-supported joint investigation team (JIT) on alleged core international crimes committed in Ukraine have interviewed 4 000 witnesses so far, in addition to over 40 000 interviews conducted by the Ukrainian authorities on their own territory. As a result of close cooperation between the JIT parties (representing the national judicial authorities of Lithuania, Estonia, Latvia, Poland, Romania, the Slovak Republic and Ukraine), the Lithuanian Prosecution Service has issued Notices of Suspicion in absentia against six suspects. In addition, the Office of the Prosecutor General of Ukraine has issued a Notice of Suspicion against another individual for war crimes against a civilian."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "JIT members have been busy working on a common prosecutorial strategy, which prioritises investigations into the crime of aggression, crimes of torture, ill-treatment and filtration in relation to illegal detention sites, as well as the crime of genocide.Since March 2022, the Agency has organised 26 coordination meetings between the JIT and other national authorities investigating alleged core international crimes committed in Ukraine. This has allowed involved countries to exchange data on their respective domestic investigations, discuss strategies and priorities, and coordinate\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -2450,36 +2520,36 @@
       ]
     },
     {
-      "title": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu",
+      "title": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trzy lata od pe\u0142noskalowej inwazji na Ukrain\u0119: konkretne dzia\u0142ania wspierane przez Eurojust na drodze ku rozliczeniu"
+        "value": "Pra\u0117jo treji metai nuo plataus masto invazijos \u012f Ukrain\u0105: Eurojusto remiami konkret\u016bs veiksmai siekiant atskaitomyb\u0117s"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na"
+          "href": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/pl/news/trzy-lata-od-pelnoskalowej-inwazji-na-ukraine-konkretne-dzialania-wspierane-przez-eurojust-na",
+      "link": "https://www.eurojust.europa.eu/lt/news/praejo-treji-metai-nuo-plataus-masto-invazijos-i-ukraina-eurojusto-remiami-konkretus-veiksmai",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119.",
+      "summary": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Organy krajowe, kt\u00f3re uczestnicz\u0105 we wspieranym przez Eurojust wsp\u00f3lnym zespole dochodzeniowo-\u015bledczym (JIT) do spraw najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re wed\u0142ug doniesie\u0144 pope\u0142niono w Ukrainie, przes\u0142ucha\u0142y do tej pory 4 tys. \u015bwiadk\u00f3w, nie licz\u0105c ponad 40 tys. przes\u0142ucha\u0144 przeprowadzonych przez organy ukrai\u0144skie na ich w\u0142asnym terytorium. W wyniku \u015bcis\u0142ej wsp\u00f3\u0142pracy mi\u0119dzy stronami zespo\u0142u JIT (reprezentuj\u0105cymi krajowe organy wymiaru sprawiedliwo\u015bci Litwy, Estonii, \u0141otwy, Polski, Rumunii, S\u0142owacji i Ukrainy) prokuratura litewska wyda\u0142a zaoczne zawiadomienia o podejrzeniu pope\u0142nienia przest\u0119pstwa przez sze\u015bciu podejrzanych. Ponadto biuro prokuratora generalnego Ukrainy wyda\u0142o zawiadomienie o podejrzeniu pope\u0142nienia zbrodni wojennych przeciwko ludno\u015bci cywilnej przez inn\u0105 osob\u0119."
+        "value": "Eurojusto remiamoje jungtin\u0117je \u012ftariam\u0173 sunkiausi\u0173 tarptautini\u0173 nusikaltim\u0173 Ukrainoje tyrimo grup\u0117je (JTG) dalyvaujan\u010dios nacionalin\u0117s institucijos iki \u0161iol apklaus\u0117 4 000 liudytoj\u0173, be to, Ukrainos vald\u017eios institucijos savo \u0161alies teritorijoje apklaus\u0117 daugiau kaip 40 000 liudytoj\u0173. Glaud\u017eiai bendradarbiaujant JTG \u0161alims (atstovaujan\u010dioms Lietuvos, Estijos, Latvijos, Lenkijos, Rumunijos, Slovakijos ir Ukrainos nacionalin\u0117ms teismin\u0117ms institucijoms), Lietuvos prokurat\u016bra \u0161e\u0161iems \u012ftariamiesiems \u012fteik\u0117 prane\u0161imus apie \u012ftarimus in absentia. Be to, Ukrainos generalinio prokuroro tarnyba prane\u0161im\u0105 apie \u012ftarimus vykd\u017eius karo nusikaltimus prie\u0161 civilius \u012fteik\u0117 dar vienam asmeniui."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cz\u0142onkowie zespo\u0142u JIT pracuj\u0105 nad wsp\u00f3ln\u0105 strategi\u0105 organ\u00f3w prokuratorskich, wkt\u00f3rej priorytetowo traktuje si\u0119 post\u0119powania przygotowawcze wsprawie zbrodni agresji, przest\u0119pstw zwi\u0105zanych ze stosowaniem tortur, z\u0142ego traktowania ifiltracji wodniesieniu do nielegalnych miejsc zatrzyma\u0144, atak\u017ce zbrodni ludob\u00f3jstwa.Od marca 2022r. Agencja zorganizowa\u0142a 26spotka\u0144 koordynacyjnych zudzia\u0142em cz\u0142onk\u00f3w zespo\u0142u JIT iinnych organ\u00f3w krajowych prowadz\u0105cych post\u0119powania przygotowawcze wsprawie najpowa\u017cniejszych zbrodni wagi mi\u0119dzynarodowej, kt\u00f3re\u2026"
+          "value": "JTG nariai intensyviai dirbo rengdami bendr\u0105 baud\u017eiamojo persekiojimo strategij\u0105, pagal kuri\u0105 pirmenyb\u0117 teikiama agresijos nusikaltim\u0173, kankinim\u0173, netinkamo elgesio ir filtravimo neteis\u0117tose sulaikymo vietose bei genocido nusikaltim\u0173 tyrimams.Nuo 2022m. kovom\u0117n. Agent\u016bra sureng\u0117 26 koordinacinius pasitarimus, kuriuose dalyvavo JTG nariai ir kitos nacionalin\u0117s institucijos, tirian\u010dios \u012ftariamus sunkiausius tarptautinius nusikaltimus Ukrainoje. Dalyvaujan\u010dioms \u0161alims buvo suteikta galimyb\u0117 keistis duomenimis apie atitinkamus savo vidaus tyrimus, aptarti strategijas ir prioritetus\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3495,71 +3565,6 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Mr Branislav Boh\u00e1\u010dik starts as new National Member for Slovakia at Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Branislav Boh\u00e1\u010dik starts as new National Member for Slovakia at Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-branislav-bohacik-starts-new-national-member-slovakia-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-branislav-bohacik-starts-new-national-member-slovakia-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250116-sk-nm-mr-bohacik-03-infocus.jpg",
-      "field_list_image_1": "Mr Branislav Boh\u00e1\u010dik",
-      "summary": "Mr Branislav Boh\u00e1\u010dik has started his work as the new National Member for Slovakia at Eurojust. Mr Boh\u00e1\u010dik has been appointed for a term of five years and succeeds former National Member and Eurojust President Mr Ladislav Hamran, whose mandate ended in November 2024.Before joining Eurojust, he worked as a judicial cybercrime specialist in the international department of the Prosecutor General\u2019s office. In this capacity, Mr Boh\u00e1\u010dik gained extensive experience in working with the Agency as a Member of the Board of the European Judicial Cybercrime Network (EJCN).",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Branislav Boh\u00e1\u010dik has started his work as the new National Member for Slovakia at Eurojust. Mr Boh\u00e1\u010dik has been appointed for a term of five years and succeeds former National Member and Eurojust President Mr Ladislav Hamran, whose mandate ended in November 2024.Before joining Eurojust, he worked as a judicial cybercrime specialist in the international department of the Prosecutor General\u2019s office. In this capacity, Mr Boh\u00e1\u010dik gained extensive experience in working with the Agency as a Member of the Board of the European Judicial Cybercrime Network (EJCN)."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on his appointment as the new National Member for Slovakia, Mr Boh\u00e1\u010dik said: Judges and prosecutors face an increase in cross-border cases, as organised crime groups nowadays know no boundaries and abuse modern technologies. In my experience as a prosecutor, I have learned that international cooperation is key to achieving our common goal to fight this cross-border organised crime. Eurojust has the experience and channels to build bridges between authorities, overcome language barriers, and also assist with legal and practical hurdles, which would otherwise affect our national\u2026"
-        }
-      ],
-      "published": "Mon, 20 Jan 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        1,
-        20,
-        12,
-        0,
-        0,
-        0,
-        20,
-        0
-      ],
-      "id": "ff644422-9997-4a8c-b72d-4f27df1ae01e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Slovakia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
