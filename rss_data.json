@@ -1,72 +1,57 @@
 {
-  "timestamp": "2025-06-18 01:01:32",
+  "timestamp": "2025-06-18 06:18:41",
   "entries": [
     {
-      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
+      "title": "Western Balkan General and Special Chief Prosecutors meet in Tirana for the Second Consultative Forum",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
+        "value": "Western Balkan General and Special Chief Prosecutors meet in Tirana for the Second Consultative Forum"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
+          "href": "https://www.eurojust.europa.eu/news/western-balkan-general-and-special-chief-prosecutors-meet-tirana-second-consultative-forum"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
-      "field_list_image_1": "European Arrest Warrant",
-      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
+      "link": "https://www.eurojust.europa.eu/news/western-balkan-general-and-special-chief-prosecutors-meet-tirana-second-consultative-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/family-picture-wb-forum.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The second Regional Western Balkan Consultative Forum organisedby the Western Balkans Criminal Justice Project in cooperation with the General Prosecution Office of Albania, took place on 17 June 2025 in Tirana. The Western Balkan General and Special Chief Prosecutors convened to discuss common experiences and challenges, and to highlight the importance of international cooperation in the fight against organised crime.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
+        "value": "The second Regional Western Balkan Consultative Forum organisedby the Western Balkans Criminal Justice Project in cooperation with the General Prosecution Office of Albania, took place on 17 June 2025 in Tirana. The Western Balkan General and Special Chief Prosecutors convened to discuss common experiences and challenges, and to highlight the importance of international cooperation in the fight against organised crime."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
+          "value": "The Consultative Forum urged for stronger regional collaboration and promoted direct exchanges among Western Balkan partners. Participants reaffirmed their shared objectives in combating crime and emphasised the supportive roles that Eurojust and the WBCJ Project can provide to authorities in the region."
         }
       ],
-      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
+      "published": "Tue, 17 Jun 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         6,
-        16,
+        17,
         12,
         0,
         0,
-        0,
-        167,
+        1,
+        168,
         0
       ],
-      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
+      "id": "affb3423-f30e-419f-bd40-96486978d2e5",
       "guidislink": false,
       "tags": [
         {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -162,6 +147,76 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
+      "field_list_image_1": "European Arrest Warrant",
+      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
+        }
+      ],
+      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        16,
+        12,
+        0,
+        0,
+        0,
+        167,
+        0
+      ],
+      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1182,36 +1237,36 @@
       ]
     },
     {
-      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -1226,12 +1281,12 @@
         135,
         0
       ],
-      "id": "c37c73f5-a1fa-446e-8596-728000504465",
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
       "guidislink": false,
       "tags": [
         {
-          "term": "Corruption",
-          "scheme": "Crime type",
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1285,36 +1340,36 @@
       "guidislink": false
     },
     {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -1329,12 +1384,12 @@
         135,
         0
       ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "id": "c37c73f5-a1fa-446e-8596-728000504465",
       "guidislink": false,
       "tags": [
         {
-          "term": "Third countries",
-          "scheme": "Partner",
+          "term": "Corruption",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -1510,6 +1565,61 @@
       ]
     },
     {
+      "title": "Working Arrangement signed with Republic of Korea",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Working Arrangement signed with Republic of Korea"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
+      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
+      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
+        }
+      ],
+      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        30,
+        12,
+        0,
+        0,
+        2,
+        120,
+        0
+      ],
+      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports authorities to stop gold robbers in Italy",
       "title_detail": {
         "type": "text/plain",
@@ -1570,61 +1680,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Working Arrangement signed with Republic of Korea",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Working Arrangement signed with Republic of Korea"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
-      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
-      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
-        }
-      ],
-      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        30,
-        12,
-        0,
-        0,
-        2,
-        120,
-        0
-      ],
-      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1955,131 +2010,6 @@
       ]
     },
     {
-      "title": "37th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "37th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/genocide-network.png",
-      "field_list_image_1": "Genocide Network 37th meeting",
-      "summary": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting included presentations on the crime of genocide, including on its historical origins and contemporary developments. The prosecution of genocide cases against ISIL members in Germany and the first genocide conviction in Sweden linked to the enslavement and forcible transfer of Yazidi children were notably discussed.Other topics covered included, amongst others, the legal challenges in developing genocide cases and the prosecution of incitement to genocide.This meeting was chaired by the Polish Presidency of the Council of the EU and organised by the Genocide Network\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "492c2caf-303b-4dcf-a554-cd9726819f16",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -2155,6 +2085,131 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "37th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "37th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/genocide-network.png",
+      "field_list_image_1": "Genocide Network 37th meeting",
+      "summary": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day meeting included presentations on the crime of genocide, including on its historical origins and contemporary developments. The prosecution of genocide cases against ISIL members in Germany and the first genocide conviction in Sweden linked to the enslavement and forcible transfer of Yazidi children were notably discussed.Other topics covered included, amongst others, the legal challenges in developing genocide cases and the prosecution of incitement to genocide.This meeting was chaired by the Polish Presidency of the Council of the EU and organised by the Genocide Network\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "492c2caf-303b-4dcf-a554-cd9726819f16",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2905,36 +2960,36 @@
       ]
     },
     {
-      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
+      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
+        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
+          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
+      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
+      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
+        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
+          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3115,106 +3170,36 @@
       ]
     },
     {
-      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
+      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
+        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
+          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
+      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
       "field_list_image_1": "CICED figures visual",
-      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
+      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
+        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
+          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3285,6 +3270,76 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3510,76 +3565,6 @@
         {
           "term": "IMPNA",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Romania and Netherlands set up joint investigation team into theft of precious historic art from Dutch museum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Romania and Netherlands set up joint investigation team into theft of precious historic art from Dutch museum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/romania-and-netherlands-set-joint-investigation-team-theft-precious-historic-art-dutch-museum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/romania-and-netherlands-set-joint-investigation-team-theft-precious-historic-art-dutch-museum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-ro-nl-historic-art-case.jpg",
-      "field_list_image_1": "historic art helmet",
-      "summary": "Judicial and law enforcement authorities in Romania and the Netherlands have set up a dedicatedjoint investigation team (JIT) into the theft of four pieces of precious historic Romanian art from the Dutch Drents Museum, last month. The JIT has been set up with active support from Eurojust, which will provide operational, logistic and legal assistance to the investigators on the case.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial and law enforcement authorities in Romania and the Netherlands have set up a dedicatedjoint investigation team (JIT) into the theft of four pieces of precious historic Romanian art from the Dutch Drents Museum, last month. The JIT has been set up with active support from Eurojust, which will provide operational, logistic and legal assistance to the investigators on the case."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Four pieces of major Romanian cultural heritage, including the historic golden crown of Co\u0163ofene\u015fti, were stolen from the museum in Assen in the north of the Netherlands in the early hours of Saturday 25 January. The perpetrators used massive force and gained access by means of an explosion, in order to steal the crown and three ancient golden bracelets, which were all exhibited on loan from the Romanian National Museum of History. In the meantime, three suspects have been arrested in the Netherlands and are currently still being held in custody.At the request of the Romanian authorities,\u2026"
-        }
-      ],
-      "published": "Mon, 10 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        10,
-        12,
-        0,
-        0,
-        0,
-        41,
-        0
-      ],
-      "id": "a459c3f1-6f59-44cb-8f7d-4e8b6cf01727",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Art theft",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
