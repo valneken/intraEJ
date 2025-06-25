@@ -1,6 +1,101 @@
 {
-  "timestamp": "2025-06-25 06:19:24",
+  "timestamp": "2025-06-25 12:25:12",
   "entries": [
+    {
+      "title": "Large-scale fraud using trusted online seller accounts uncovered",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Large-scale fraud using trusted online seller accounts uncovered"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-online-accounts-fraud-case.jpg",
+      "field_list_image_1": "online shopping, Credit card, smartphone",
+      "summary": "A criminal group hacked into trusted online shop accounts to defraud customers of over EUR 400 000 by selling goods that would never arrive. The criminals were able to take over 405 seller accounts. Authorities from Romania and Germany worked together with Eurojust to take down the criminal group.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A criminal group hacked into trusted online shop accounts to defraud customers of over EUR 400 000 by selling goods that would never arrive. The criminals were able to take over 405 seller accounts. Authorities from Romania and Germany worked together with Eurojust to take down the criminal group."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminals used phishing techniques to obtain login credentials from legitimate sellers on a well-known online commerce platform. After gaining access to the account, they changed the login details, locking the rightful users out of their accounts. The criminals then continued to post advertisements of fake goods on the seller account. Because customers trusted the seller accounts, they initially put orders in for over EUR 106 million. In the end, 556 customers completed their order and purchased goods that would never arrive, causing damages of over EUR 400 000.When investigators\u2026"
+        }
+      ],
+      "published": "Wed, 25 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        25,
+        12,
+        0,
+        0,
+        2,
+        176,
+        0
+      ],
+      "id": "b9a1a423-0518-4201-bc11-00d44b2c59dd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Expert workshop held in Nigeria to boost judicial cooperation with EU",
       "title_detail": {
@@ -1415,61 +1510,6 @@
       "guidislink": false
     },
     {
-      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
-      "field_list_image_1": "Eurojust logo",
-      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
-        }
-      ],
-      "published": "Thu, 15 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        15,
-        12,
-        0,
-        0,
-        3,
-        135,
-        0
-      ],
-      "id": "c37c73f5-a1fa-446e-8596-728000504465",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Corruption",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
@@ -1520,6 +1560,61 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-investigations-alleged-corruption-military-equipment-purchases-nato-",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-full-logo-building-pattern-fog2.png",
+      "field_list_image_1": "Eurojust logo",
+      "summary": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "At the request of the Belgian authorities, Eurojust has coordinated cross-border judicial support to investigations into alleged corruption regarding the purchase of military equipment for the North Atlantic Treaty Organisation (NATO). This allegedly took place via particular current and former employees of the NATO Support and Procurement Agency (NSPA).Since April of this year, Eurojust has organised a series of meetings to enable cooperation and the exchange of information. It also set up a coordination centre on Tuesday 13 May 2025, to support judicial and investigative measures taken in all countries concerned. As a result of these measures, various potential suspects have been identified."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In view of the involvement of various national authorities into these investigations, Eurojust was requested by the Belgian Federal Prosecution Service to ensure a coordinated judicial approach. The Agency will continue to provide cross-border judicial assistance to all investigative authorities involved.As investigations are ongoing, Eurojust cannot provide any further comment at this stage."
+        }
+      ],
+      "published": "Thu, 15 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        15,
+        12,
+        0,
+        0,
+        3,
+        135,
+        0
+      ],
+      "id": "c37c73f5-a1fa-446e-8596-728000504465",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Corruption",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -1695,61 +1790,6 @@
       ]
     },
     {
-      "title": "Working Arrangement signed with Republic of Korea",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Working Arrangement signed with Republic of Korea"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
-      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
-      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
-        }
-      ],
-      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        30,
-        12,
-        0,
-        0,
-        2,
-        120,
-        0
-      ],
-      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports authorities to stop gold robbers in Italy",
       "title_detail": {
         "type": "text/plain",
@@ -1810,6 +1850,61 @@
         {
           "term": "Romania",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Working Arrangement signed with Republic of Korea",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Working Arrangement signed with Republic of Korea"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
+      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
+      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
+        }
+      ],
+      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        30,
+        12,
+        0,
+        0,
+        2,
+        120,
+        0
+      ],
+      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2140,6 +2235,71 @@
       ]
     },
     {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "37th Meeting of the Genocide Network",
       "title_detail": {
         "type": "text/plain",
@@ -2275,71 +2435,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3090,6 +3185,76 @@
       ]
     },
     {
+      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
       "title_detail": {
         "type": "text/plain",
@@ -3190,76 +3355,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Kolm aastat p\u00e4rast t\u00e4iemahulist sissetungi Ukrainasse: Eurojusti toetatavad konkreetsed sammud vastutusele v\u00f5tmise suunas"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/et/news/kolm-aastat-parast-taiemahulist-sissetungi-ukrainasse-eurojusti-toetatavad-konkreetsed-sammud",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ukrainas toime pandud raskeid rahvusvahelisi kuritegusid uurivas Eurojusti toetatud \u00fchises uurimisr\u00fchmas osalevad riiklikud ametiasutused on seni k\u00fcsitlenud 4000 tunnistajat lisaks \u00fcle 40 000 k\u00fcsitlemisele, mille Ukraina ametiasutused on oma territooriumil l\u00e4bi viinud. \u00dchise uurimisr\u00fchma osaliste (kes esindavad Leedu, Eesti, L\u00e4ti, Poola, Rumeenia, Slovaki Vabariigi ja Ukraina \u00f5igusasutusi) tiheda koost\u00f6\u00f6 tulemusena on Leedu prokuratuur v\u00e4ljastanud tagaseljateate kuue kahtlustatava suhtes. Lisaks sellele on Ukraina peaprokuratuur v\u00e4ljastanud kahtlustuse veel \u00fche isiku vastu tsiviilisikute vastu toime pandud s\u00f5jakuritegude eest."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00dchise uurimisr\u00fchma liikmed on tegelenud \u00fchise \u00f5igusem\u00f5istmise strateegia v\u00e4ljat\u00f6\u00f6tamisega, mis seab prioriteediks agressioonikuriteo ning piinamise, v\u00e4\u00e4rkohtlemise ja filtratsiooni kuritegude uurimise seoses ebaseaduslike kinnipidamiskohtadega, samuti genotsiidikuriteo uurimise.Alates m\u00e4rtsist 2022 on amet korraldanud 22 koordineerimisn\u00f5upidamist \u00fchise uurimisr\u00fchma liikmete ja muude riiklike ametiasutuste vahel, kes uurivad Ukrainas v\u00e4idetavalt toimepandud raskeid rahvusvahelisi kuritegusid. See on v\u00f5imaldanud asjaomastel riikidel vahetada andmeid oma vastavate siseriiklike uurimiste kohta,\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
@@ -3505,61 +3600,6 @@
         {
           "term": "Ukraine conflict",
           "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan and Latin American Prosecutors meet in Peru to strengthen cross-border cooperation against organised crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan and Latin American Prosecutors meet in Peru to strengthen cross-border cooperation against organised crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-and-latin-american-prosecutors-meet-peru-strengthen-cross-border-cooperation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-and-latin-american-prosecutors-meet-peru-strengthen-cross-border-cooperation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-web.png",
-      "field_list_image_1": "group picture meeting",
-      "summary": "Prosecutors from the Western Balkans and Latin America gathered in Lima (Peru) for a meeting aimed at enhancing international cooperation in the fight against organised crime. The event, \u2018\u2019Networking for Impact: Enhancing Cross-Border Cooperation Between Western Balkan and Latin American Prosecutors in the Area of Organised Crime\u2019\u2019, took place between 18 \u2013 20 February 2025 and marked a significant step towards advancing joint efforts to dismantle international criminal networks.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Prosecutors from the Western Balkans and Latin America gathered in Lima (Peru) for a meeting aimed at enhancing international cooperation in the fight against organised crime. The event, \u2018\u2019Networking for Impact: Enhancing Cross-Border Cooperation Between Western Balkan and Latin American Prosecutors in the Area of Organised Crime\u2019\u2019, took place between 18 \u2013 20 February 2025 and marked a significant step towards advancing joint efforts to dismantle international criminal networks."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The event, co-organised between the Western Balkans Criminal Justice (WBCJ) Project and EL PACCTO 2.0, focused on addressing pressing challenges in combating organised crime and ways to enhance cooperation. Leading prosecutors in charge of cross-border cases gathered together to exchange information and strengthen judicial ties.The event featured a series of discussions on crime trends, international cooperation, and strategies for enhancing cross-border efforts. Sessions included expert presentations on emerging threats, roundtable discussions on legal and operational challenges, and\u2026"
-        }
-      ],
-      "published": "Thu, 20 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        20,
-        12,
-        0,
-        0,
-        3,
-        51,
-        0
-      ],
-      "id": "690c7e7e-cc66-4a22-b6e2-8350531e88b6",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
