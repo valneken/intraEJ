@@ -1,6 +1,91 @@
 {
-  "timestamp": "2025-06-27 18:17:12",
+  "timestamp": "2025-06-28 01:00:13",
   "entries": [
+    {
+      "title": "Romanian criminals stealing fertilisers and pesticides in western France stopped in tracks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Romanian criminals stealing fertilisers and pesticides in western France stopped in tracks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/romanian-criminals-stealing-fertilisers-and-pesticides-western-france-stopped-tracks"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/romanian-criminals-stealing-fertilisers-and-pesticides-western-france-stopped-tracks",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/boxes.png",
+      "field_list_image_1": "Boxes",
+      "summary": "Following close cooperation between the French and Romanian authorities, criminals stealing agrochemical products across western France have been stopped in their tracks. The network was also involved in transporting and concealing the stolen goods. During a coordinated action this week, 12 suspects were arrested or identified in both countries.Eurojust supported the judiciary in both countries by facilitating the execution of European Arrest Warrants (EAWs) and European Investigation Orders and provided further cross-border judicial support.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Following close cooperation between the French and Romanian authorities, criminals stealing agrochemical products across western France have been stopped in their tracks. The network was also involved in transporting and concealing the stolen goods. During a coordinated action this week, 12 suspects were arrested or identified in both countries.Eurojust supported the judiciary in both countries by facilitating the execution of European Arrest Warrants (EAWs) and European Investigation Orders and provided further cross-border judicial support."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal network was well organised and structured, specialising in the theft of fertilisers and pesticides, for instance. The action day in France and Romania targeted three teams of thieves, two carriers and two fences. Three suspects were arrested in France, and nine more were identified in Romania, based on EAWs issued by the French authorities.Over the past two years, at least sixty farms, agricultural storage facilities and enterprises have been burgled. The value of the stolen goods and the damage caused by the thefts is estimated at EUR 3 million. The thefts were not without\u2026"
+        }
+      ],
+      "published": "Fri, 27 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        27,
+        12,
+        0,
+        0,
+        4,
+        178,
+        0
+      ],
+      "id": "d7137034-dba7-49e9-944a-4af81b92abbd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Environmental crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Large-scale fraud using trusted online seller accounts uncovered",
       "title_detail": {
@@ -1510,61 +1595,6 @@
       "guidislink": false
     },
     {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
-        }
-      ],
-      "published": "Thu, 15 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        15,
-        12,
-        0,
-        0,
-        3,
-        135,
-        0
-      ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
       "title_detail": {
         "type": "text/plain",
@@ -1615,6 +1645,61 @@
         {
           "term": "Corruption",
           "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+        }
+      ],
+      "published": "Thu, 15 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        15,
+        12,
+        0,
+        0,
+        3,
+        135,
+        0
+      ],
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2235,6 +2320,86 @@
       ]
     },
     {
+      "title": "Illegal money mule network grinds to a halt with Eurojust support",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Illegal money mule network grinds to a halt with Eurojust support"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/illegal-money-mule-network-grinds-halt-eurojust-support"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/illegal-money-mule-network-grinds-halt-eurojust-support",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-mules.png",
+      "field_list_image_1": "Money in rugsack",
+      "summary": "The Romanian authorities, in close cooperation with their French and British counterparts, have taken down a criminal group that recruited hundreds of money mules to launder the proceeds of an elaborate online fraud scheme. Eurojust assisted the authorities by setting up a joint investigation team (JIT) into the case and coordinated an action day, which led to taking preventative measures against 13 suspects in Romania and the arrest of seven suspects in the United Kingdom. The fraudsters made an estimated profit of at least EUR 3 million, mainly by sending fake business emails.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Romanian authorities, in close cooperation with their French and British counterparts, have taken down a criminal group that recruited hundreds of money mules to launder the proceeds of an elaborate online fraud scheme. Eurojust assisted the authorities by setting up a joint investigation team (JIT) into the case and coordinated an action day, which led to taking preventative measures against 13 suspects in Romania and the arrest of seven suspects in the United Kingdom. The fraudsters made an estimated profit of at least EUR 3 million, mainly by sending fake business emails."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "By sending fake emails from legitimate enterprises, the scammers managed to defraud both individual customers and entire companies. This was mainly done by sending them genuine-looking emails with falsified invoiced that led the victims to pay into the perpetrators\u2019 accounts. Currently there are 113 victims identified from several European countries, in particular from the United Kingdom.To launder the profits of this fraudulent scheme, the Romanian-based criminal group recruited hundreds of money mules. The recruits were sent to the United Kingdom to open bank accounts and further launder\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "82c37ecd-4f4d-47f0-b2f1-4927129b1eae",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
       "title_detail": {
         "type": "text/plain",
@@ -2355,86 +2520,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Illegal money mule network grinds to a halt with Eurojust support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Illegal money mule network grinds to a halt with Eurojust support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/illegal-money-mule-network-grinds-halt-eurojust-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/illegal-money-mule-network-grinds-halt-eurojust-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-mules.png",
-      "field_list_image_1": "Money in rugsack",
-      "summary": "The Romanian authorities, in close cooperation with their French and British counterparts, have taken down a criminal group that recruited hundreds of money mules to launder the proceeds of an elaborate online fraud scheme. Eurojust assisted the authorities by setting up a joint investigation team (JIT) into the case and coordinated an action day, which led to taking preventative measures against 13 suspects in Romania and the arrest of seven suspects in the United Kingdom. The fraudsters made an estimated profit of at least EUR 3 million, mainly by sending fake business emails.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Romanian authorities, in close cooperation with their French and British counterparts, have taken down a criminal group that recruited hundreds of money mules to launder the proceeds of an elaborate online fraud scheme. Eurojust assisted the authorities by setting up a joint investigation team (JIT) into the case and coordinated an action day, which led to taking preventative measures against 13 suspects in Romania and the arrest of seven suspects in the United Kingdom. The fraudsters made an estimated profit of at least EUR 3 million, mainly by sending fake business emails."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "By sending fake emails from legitimate enterprises, the scammers managed to defraud both individual customers and entire companies. This was mainly done by sending them genuine-looking emails with falsified invoiced that led the victims to pay into the perpetrators\u2019 accounts. Currently there are 113 victims identified from several European countries, in particular from the United Kingdom.To launder the profits of this fraudulent scheme, the Romanian-based criminal group recruited hundreds of money mules. The recruits were sent to the United Kingdom to open bank accounts and further launder\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "82c37ecd-4f4d-47f0-b2f1-4927129b1eae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3495,76 +3580,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ir pag\u0101ju\u0161i tr\u012bs gadi kop\u0161 pilna m\u0113roga iebrukuma Ukrain\u0101: Konkr\u0113ti Eurojust atbalst\u012btie pas\u0101kumi ce\u013c\u0101 uz p\u0101rskatatbild\u012bbu"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/lv/news/ir-pagajusi-tris-gadi-kops-pilna-meroga-iebrukuma-ukraina-konkreti-eurojust-atbalstitie",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Valstu iest\u0101des, kas piedal\u0101s Eurojust atbalst\u012btaj\u0101 kop\u0113j\u0101 izmekl\u0113\u0161anas grup\u0101 (KIG) par iesp\u0113jamiem galvenajiem starptautiskajiem noziegumiem, kas izdar\u012bti Ukrain\u0101, l\u012bdz \u0161im ir interv\u0113ju\u0161as 4 000 liecinieku \u2014 papildus vair\u0101k nek\u0101 40 000 intervij\u0101m, ko Ukrainas iest\u0101des veiku\u0161as sav\u0101 teritorij\u0101. Cie\u0161\u0101s sadarb\u012bbas rezult\u0101t\u0101 starp KIG pus\u0113m (kas p\u0101rst\u0101v Lietuvas, Igaunijas, Latvijas, Polijas, Rum\u0101nijas, Slov\u0101kijas Republikas un Ukrainas tiesu iest\u0101des) Lietuvas prokurat\u016bra ir aizmuguriski izdevusi pazi\u0146ojumus par aizdom\u0101m pret se\u0161iem aizdom\u0101s tur\u0113tajiem. Turkl\u0101t Ukrainas \u0122ener\u0101lprokurat\u016bra ir izdevusi pazi\u0146ojumu par aizdom\u0101m pret v\u0113l vienu personu par kara noziegumiem pret civiliedz\u012bvot\u0101jiem."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "KIG dal\u012bbnieki ir str\u0101d\u0101ju\u0161i pie kop\u0113jas krimin\u0101lvaj\u0101\u0161anas strat\u0113\u0123ijas, kur\u0101 priorit\u0101te tiek pie\u0161\u0137irta agresijas nozieguma, sp\u012bdzin\u0101\u0161anas, nepie\u0146emamas iztur\u0113\u0161an\u0101s un filtr\u0113\u0161anas noziegumu saist\u012bb\u0101 ar nelikum\u012bg\u0101m ieslodz\u012bjuma viet\u0101m izmekl\u0113\u0161anai, k\u0101 ar\u012b genoc\u012bda noziegumam.Kop\u0161 2022.gada marta A\u0123ent\u016bra ir r\u012bkojusi 26koordin\u0101cijas san\u0101ksmes, kur\u0101s piedal\u012bj\u0101s gan KIG dal\u012bbvalstis, gan citu valstu iest\u0101des, kas izmekl\u0113 iesp\u0113jamos smagos starptautiskos noziegumus, kas izdar\u012bti Ukrain\u0101. Tas ir \u013c\u0101vis iesaist\u012btaj\u0101m valst\u012bm apmain\u012bties ar datiem par attiec\u012bgaj\u0101m iek\u0161zemes izmekl\u0113\u0161an\u0101m,\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
