@@ -1,57 +1,67 @@
 {
-  "timestamp": "2025-07-07 06:20:07",
+  "timestamp": "2025-07-07 12:25:11",
   "entries": [
     {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title": "Important stolen artworks returned from Italy to Spain with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+        "value": "Important stolen artworks returned from Italy to Spain with support of Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+          "href": "https://www.eurojust.europa.eu/news/important-stolen-artworks-returned-italy-spain-support-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "link": "https://www.eurojust.europa.eu/news/important-stolen-artworks-returned-italy-spain-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/es-it-art-1.png",
+      "field_list_image_1": "Returned, stolen art",
+      "summary": "Eurojust has played a pivotal role in returning 66 stolen historic artworks from Italy to Spain. In one case, 65 precious paintings and an altarpiece were returned with the support of European Investigation Orders (EIOs), among other measures.In an unrelated case, a wooden carved statue, stolen from a church in Palencia, Spain, in 1979, was handed over to the Spanish authorities following its discovery and subsequent investigations in Genoa. Eurojust assisted with the issuance and execution of a freezing order.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+        "value": "Eurojust has played a pivotal role in returning 66 stolen historic artworks from Italy to Spain. In one case, 65 precious paintings and an altarpiece were returned with the support of European Investigation Orders (EIOs), among other measures.In an unrelated case, a wooden carved statue, stolen from a church in Palencia, Spain, in 1979, was handed over to the Spanish authorities following its discovery and subsequent investigations in Genoa. Eurojust assisted with the issuance and execution of a freezing order."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+          "value": "The wooden statue depicts the evangelist Saint Luke and dates from the 15th century. It was stolen from the Santa Eugenia de Astudillo church in Palencia, to which it will be returned in due course. After its theft, it was bought by an art collector in Genoa, who was unaware that it had been stolen.When relatives of the collector put it up for auction in 2022, the theft came to light, and its origin was established as the church in Palencia. Following a freezing order issued by the Spanish authorities and with the support of Eurojust, the restitution procedure began. The statue was formally\u2026"
         }
       ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published": "Mon, 07 Jul 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         7,
-        4,
+        7,
         12,
         0,
         0,
-        4,
-        185,
+        0,
+        188,
         0
       ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "id": "461dea6b-cfa9-4b25-b5ad-414e57640334",
       "guidislink": false,
       "tags": [
         {
-          "term": "Third countries",
-          "scheme": "Partner",
+          "term": "Art theft",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -117,6 +127,61 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -487,6 +552,76 @@
       ]
     },
     {
+      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
+      "field_list_image_1": "European Arrest Warrant",
+      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
+        }
+      ],
+      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        16,
+        12,
+        0,
+        0,
+        0,
+        167,
+        0
+      ],
+      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Largest illegal trading platform for drugs taken down",
       "title_detail": {
         "type": "text/plain",
@@ -582,76 +717,6 @@
       ]
     },
     {
-      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
-      "field_list_image_1": "European Arrest Warrant",
-      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
-        }
-      ],
-      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        16,
-        12,
-        0,
-        0,
-        0,
-        167,
-        0
-      ],
-      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust assists in operation in Romania and Moldova against laundering phishing fraud proceeds",
       "title_detail": {
         "type": "text/plain",
@@ -726,91 +791,6 @@
         },
         {
           "term": "Moldova",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
-      "field_list_image_1": "Generic image",
-      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
-        }
-      ],
-      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        11,
-        12,
-        0,
-        0,
-        2,
-        162,
-        0
-      ],
-      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -907,56 +887,71 @@
       ]
     },
     {
-      "title": "Eurojust supports successful operation against human traffickers",
+      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports successful operation against human traffickers"
+        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
-      "field_list_image_1": "girl",
-      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
+      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
+      "field_list_image_1": "Generic image",
+      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
+        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
         }
       ],
-      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         6,
-        3,
+        11,
         12,
         0,
         0,
-        1,
-        154,
+        2,
+        162,
         0
       ],
-      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
       "guidislink": false,
       "tags": [
         {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
           "term": "Trafficking in human beings",
           "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
           "label": null
         },
         {
@@ -970,7 +965,7 @@
           "label": null
         },
         {
-          "term": "Switzerland",
+          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -1082,6 +1077,76 @@
       ]
     },
     {
+      "title": "Eurojust supports successful operation against human traffickers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports successful operation against human traffickers"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
+      "field_list_image_1": "girl",
+      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+        }
+      ],
+      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        3,
+        12,
+        0,
+        0,
+        1,
+        154,
+        0
+      ],
+      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Genocide Prosecution Network presents new visual identity",
       "title_detail": {
         "type": "text/plain",
@@ -1132,76 +1197,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
-        }
-      ],
-      "published": "Fri, 23 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        23,
-        12,
-        0,
-        0,
-        4,
-        143,
-        0
-      ],
-      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1297,6 +1292,76 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
+      "field_list_image_1": "group picture",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
+        }
+      ],
+      "published": "Fri, 23 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        23,
+        12,
+        0,
+        0,
+        4,
+        143,
+        0
+      ],
+      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1995,61 +2060,6 @@
       ]
     },
     {
-      "title": "Working Arrangement signed with Republic of Korea",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Working Arrangement signed with Republic of Korea"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
-      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
-      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
-        }
-      ],
-      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        30,
-        12,
-        0,
-        0,
-        2,
-        120,
-        0
-      ],
-      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports authorities to stop gold robbers in Italy",
       "title_detail": {
         "type": "text/plain",
@@ -2110,6 +2120,61 @@
         {
           "term": "Romania",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Working Arrangement signed with Republic of Korea",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Working Arrangement signed with Republic of Korea"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
+      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
+      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
+        }
+      ],
+      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        30,
+        12,
+        0,
+        0,
+        2,
+        120,
+        0
+      ],
+      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3420,76 +3485,6 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0422\u0440\u0438 \u0440\u043e\u043a\u0438 \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043f\u043e\u0432\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0433\u043d\u0435\u043d\u043d\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0443: \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0456 \u043a\u0440\u043e\u043a\u0438, \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043d\u0456 \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c \u043d\u0430 \u0448\u043b\u044f\u0445\u0443 \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ua/news/try-roky-vid-pochatku-povnomasshtabnoho-vtorhnennya-v-ukrayinu-konkretni-kroky-pidtrymani",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0431\u0435\u0440\u0443\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u044c \u0443 \u0440\u043e\u0431\u043e\u0442\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0456\u0434\u0447\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 JIT, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f \u0404\u0432\u0440\u043e\u044e\u0441\u0442\u043e\u043c, \u0449\u043e\u0434\u043e \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432, \u0441\u043a\u043e\u0454\u043d\u0438\u0445 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0436\u0435 \u043e\u043f\u0438\u0442\u0430\u043b\u0438 4 000 \u0441\u0432\u0456\u0434\u043a\u0456\u0432 \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u043f\u043e\u043d\u0430\u0434 40 000 \u0434\u043e\u043f\u0438\u0442\u0456\u0432, \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438 \u043d\u0430 \u0457\u0445\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457. \u0423 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0442\u0456\u0441\u043d\u043e\u0457 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u043c\u0456\u0436 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c\u0438 \u0433\u0440\u0443\u043f\u0438 JIT (\u044f\u043a\u0456 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u044c \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0441\u0443\u0434\u043e\u0432\u0456 \u043e\u0440\u0433\u0430\u043d\u0438 \u041b\u0438\u0442\u0432\u0438, \u0415\u0441\u0442\u043e\u043d\u0456\u0457, \u041b\u0430\u0442\u0432\u0456\u0457, \u041f\u043e\u043b\u044c\u0449\u0456, \u0420\u0443\u043c\u0443\u043d\u0456\u0457, \u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438) \u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0442\u0443\u0440\u0430 \u041b\u0438\u0442\u0432\u0438 \u0437\u0430\u043e\u0447\u043d\u043e \u0432\u0438\u0434\u0430\u043b\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u043f\u0440\u043e\u0442\u0438 \u0448\u0435\u0441\u0442\u0438 \u043f\u0456\u0434\u043e\u0437\u0440\u044e\u0432\u0430\u043d\u0438\u0445. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u041e\u0444\u0456\u0441 \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0432 \u043f\u0440\u043e \u043f\u0456\u0434\u043e\u0437\u0440\u0443 \u0449\u0435 \u043e\u0434\u043d\u0456\u0439 \u043e\u0441\u043e\u0431\u0456 \u0443 \u0441\u043a\u043e\u0454\u043d\u043d\u0456 \u0432\u043e\u0454\u043d\u043d\u0438\u0445 \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u0438 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0427\u043b\u0435\u043d\u0438 \u0433\u0440\u0443\u043f\u0438 JIT \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043d\u0430\u0434 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u044e \u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440\u0441\u044c\u043a\u043e\u044e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0454\u044e, \u044f\u043a\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044e \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0430\u0433\u0440\u0435\u0441\u0456\u0457, \u0437\u043b\u043e\u0447\u0438\u043d\u0456\u0432 \u043a\u0430\u0442\u0443\u0432\u0430\u043d\u044c, \u0436\u043e\u0440\u0441\u0442\u043e\u043a\u043e\u0433\u043e \u043f\u043e\u0432\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0444\u0456\u043b\u044c\u0442\u0440\u0430\u0446\u0456\u0457 \u0449\u043e\u0434\u043e \u043c\u0456\u0441\u0446\u044c \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e \u0443\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u043b\u043e\u0447\u0438\u043d\u0443 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443.\u0417\u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022\u0440\u043e\u043a\u0443 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u043b\u043e 22 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0456\u0439\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043c\u0456\u0436 JIT \u0442\u0430 \u0456\u043d\u0448\u0438\u043c\u0438 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0432\u043b\u0430\u0434\u0438, \u044f\u043a\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u044e\u0442\u044c \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0456 \u0437\u043b\u043e\u0447\u0438\u043d\u0438, \u0441\u043a\u043e\u0454\u043d\u0456 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0426\u0435 \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c \u043a\u0440\u0430\u0457\u043d\u0430\u043c \u043e\u0431\u043c\u0456\u043d\u044e\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u0430\u043d\u0438\u043c\u0438 \u043f\u0440\u043e \u0441\u0432\u043e\u0457 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0440\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f, \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0456\u0457 \u0442\u0430 \u043f\u0440\u0456\u043e\u0440\u0438\u0442\u0435\u0442\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0432\u0430\u0442\u0438 \u0441\u043b\u0456\u0434\u0447\u0456 \u0437\u0430\u0445\u043e\u0434\u0438.\u0404\u0432\u0440\u043e\u044e\u0441\u0442\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
