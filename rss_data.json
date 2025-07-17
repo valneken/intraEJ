@@ -1,121 +1,6 @@
 {
-  "timestamp": "2025-07-17 01:05:37",
+  "timestamp": "2025-07-17 06:19:46",
   "entries": [
-    {
-      "title": "Hacktivist group responsible for cyberattacks on critical infrastructure in Europe taken down",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Hacktivist group responsible for cyberattacks on critical infrastructure in Europe taken down"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cybercrime-pr-16-07-2025.jpg",
-      "field_list_image_1": "Cybercrime",
-      "summary": "Twelve countries, together with Eurojust and Europol took down the hacktivist group NoName057(16), which is responsible for multiple distributed denial-of-service (DDoS) attacks targeting critical infrastructure such as power suppliers and public transport across Europe. During an action day on 15 July, the botnet using hundreds of computer systems worldwide was shut down and seven arrest warrants were issued, including against the main instigators living in the Russian Federation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Twelve countries, together with Eurojust and Europol took down the hacktivist group NoName057(16), which is responsible for multiple distributed denial-of-service (DDoS) attacks targeting critical infrastructure such as power suppliers and public transport across Europe. During an action day on 15 July, the botnet using hundreds of computer systems worldwide was shut down and seven arrest warrants were issued, including against the main instigators living in the Russian Federation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "NoName057(16) has professed support for the Russian Federation since the start of the war of aggression against Ukraine. Since the start of the war, it has executed multiple DDoS attacks against critical infrastructure during high-level (political) events. The group has also exhibited anti-NATO and anti-U.S. sentiment. During a DDoS attack, a website or online service is flooded with traffic, overloading its capacity and thus making it unavailable. The hacktivist group has executed 14 attacks in Germany, some of them lasting multiple days and affecting around 230 organisations including arms\u2026"
-        }
-      ],
-      "published": "Wed, 16 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        16,
-        12,
-        0,
-        0,
-        2,
-        197,
-        0
-      ],
-      "id": "23360353-759d-46a2-9626-46ab92b6adce",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Finland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
     {
       "title": "EuroMed Prosecutors General Forum brings cross-Mediterranean partners together",
       "title_detail": {
@@ -1447,76 +1332,6 @@
       ]
     },
     {
-      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
-        }
-      ],
-      "published": "Fri, 23 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        23,
-        12,
-        0,
-        0,
-        4,
-        143,
-        0
-      ],
-      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated action to take down the most dangerous malware variants",
       "title_detail": {
         "type": "text/plain",
@@ -1607,6 +1422,76 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
+      "field_list_image_1": "group picture",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
+        }
+      ],
+      "published": "Fri, 23 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        23,
+        12,
+        0,
+        0,
+        4,
+        143,
+        0
+      ],
+      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2810,6 +2695,71 @@
       ]
     },
     {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -2885,71 +2835,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3590,6 +3475,76 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
+        }
+      ],
+      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        2,
+        24,
+        12,
+        0,
+        0,
+        0,
+        55,
+        0
+      ],
+      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Tri roky od komplexnej inv\u00e1zie na Ukrajinu: konkr\u00e9tne kroky podporovan\u00e9 agent\u00farou Eurojust na ceste k vyvodeniu zodpovednosti"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/sk/news/tri-roky-od-komplexnej-invazie-na-ukrajinu-konkretne-kroky-podporovane-agenturou-eurojust-na",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
+      "field_list_image_1": "CICED figures visual",
+      "summary": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Vn\u00fatro\u0161t\u00e1tne org\u00e1ny zapojen\u00e9 do \u010dinnosti spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu (SVT), ktor\u00fd sa s podporou Eurojust zameriava na \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 na Ukrajine, dosia\u013e vypo\u010duli 4 000 svedkov. Okrem toho ukrajinsk\u00e9 org\u00e1ny uskuto\u010dnili na svojom vlastnom \u00fazem\u00ed viac ako 40 000 rozhovorov. V\u010faka \u00fazkej spolupr\u00e1ci medzi z\u00fa\u010dastnen\u00fdmi stranami SVT (zastupuj\u00face vn\u00fatro\u0161t\u00e1tne justi\u010dn\u00e9 org\u00e1ny Litvy, Est\u00f3nska, Loty\u0161ska, Po\u013eska, Rumunska, Slovenskej republiky a Ukrajiny) vydala litovsk\u00e1 prokurat\u00fara ozn\u00e1menia o podozren\u00ed v nepr\u00edtomnosti proti \u0161iestim podozriv\u00fdm osob\u00e1m. Ukrajinsk\u00e1 gener\u00e1lna prokurat\u00fara navy\u0161e vydala ozn\u00e1menie o podozren\u00ed proti inej osobe za vojnov\u00e9 zlo\u010diny proti civilistovi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u010clenovia spolo\u010dn\u00e9ho vy\u0161etrovacieho t\u00edmu vypracovali spolo\u010dn\u00fa strat\u00e9giu trestn\u00e9ho st\u00edhania, ktorej prioritou s\u00fa vy\u0161etrovania zlo\u010dinu agresie, trestn\u00fdch \u010dinov mu\u010denia, zl\u00e9ho zaobch\u00e1dzania a filtr\u00e1cie v s\u00favislosti s miestami, kde sa obmedzuje osobn\u00e1 sloboda, ako aj zlo\u010dinu genoc\u00eddy.Od marca 2022 agent\u00fara organizovala 26koordina\u010dn\u00fdch stretnut\u00ed medzi spolo\u010dn\u00fdm vy\u0161etrovac\u00edm t\u00edmom a\u010fal\u0161\u00edmi vn\u00fatro\u0161t\u00e1tnymi org\u00e1nmi, ktor\u00e9 vy\u0161etruj\u00fa \u00fadajn\u00e9 najz\u00e1va\u017enej\u0161ie medzin\u00e1rodn\u00e9 trestn\u00e9 \u010diny sp\u00e1chan\u00e9 naUkrajine. To umo\u017enilo z\u00fa\u010dastnen\u00fdm krajin\u00e1m vymie\u0148a\u0165 si \u00fadaje o svojich pr\u00edslu\u0161n\u00fdch dom\u00e1cich\u2026"
         }
       ],
       "published": "Mon, 24 Feb 2025 13:00:00 +0100",
