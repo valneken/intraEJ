@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-07-17 12:26:08",
+  "timestamp": "2025-07-17 18:18:41",
   "entries": [
+    {
+      "title": "Eurojust and League of Arab States strengthen ties in fight against transnational crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and League of Arab States strengthen ties in fight against transnational crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-league-arab-states-strengthen-ties-fight-against-transnational-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-league-arab-states-strengthen-ties-fight-against-transnational-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-las-current-affairs-2.png",
+      "field_list_image_1": "Group picture",
+      "summary": "In a bid to strengthen their partnership against organised crime, the General Secretariat of the League of Arab States hosted, with the support of the EU-funded CTJUST project, a high-level workshop in Cairo, Egypt, on 16-17 July 2025. The two-day meeting convened experts from Eurojust, the Arab League, and Arab League Member States to explore strategies for reinforcing cooperation between the two regions.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In a bid to strengthen their partnership against organised crime, the General Secretariat of the League of Arab States hosted, with the support of the EU-funded CTJUST project, a high-level workshop in Cairo, Egypt, on 16-17 July 2025. The two-day meeting convened experts from Eurojust, the Arab League, and Arab League Member States to explore strategies for reinforcing cooperation between the two regions."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop's agenda featured in-depth discussions on the role of Eurojust, cooperation with non-EU countries, and the nuances of judicial cooperation between the Arab League and EU Member States. This exchange of expertise and ideas aimed to enhance collaboration in the fight against transnational crime.By strengthening judicial cooperation, the EU and the Arab region can more effectively address the complex challenges posed by transnational crime, ultimately contributing to regional security, economic stability, and good governance."
+        }
+      ],
+      "published": "Thu, 17 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        17,
+        12,
+        0,
+        0,
+        3,
+        198,
+        0
+      ],
+      "id": "538dc732-4bb0-4579-875b-23093c1ef4dd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Hacktivist group responsible for cyberattacks on critical infrastructure in Europe taken down",
       "title_detail": {
@@ -312,61 +372,6 @@
       ]
     },
     {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
       "title_detail": {
         "type": "text/plain",
@@ -427,6 +432,61 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -612,61 +672,6 @@
       ]
     },
     {
-      "title": "Expert workshop held in Nigeria to boost judicial cooperation with EU",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Expert workshop held in Nigeria to boost judicial cooperation with EU"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/nigeria-workshop-1.png",
-      "field_list_image_1": "Expert workshop held in Nigeria",
-      "summary": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The expert workshop between Eurojust and Nigeria aims to tackle the complex challenges posed by transnational organised crime, particularly in areas such as fraud, cybercrime, and human trafficking, and terrorism. The impact of these crimes is felt in both the EU and Nigeria, with significant consequences for regional security, economic stability, and good governance, underscoring the need for enhanced cooperation and collaboration.During the workshop, participants could join sessions on the role of Eurojust, judicial cooperation procedures in Nigeria, and challenges to judicial cooperation.\u2026"
-        }
-      ],
-      "published": "Thu, 19 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        19,
-        12,
-        0,
-        0,
-        3,
-        170,
-        0
-      ],
-      "id": "9997fc9f-d978-4dc1-90aa-b35281886bef",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "WBCJ Project Organises the Regional Environmental Crime Conference in North Macedonia",
       "title_detail": {
         "type": "text/plain",
@@ -737,6 +742,61 @@
         {
           "term": "North Macedonia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Expert workshop held in Nigeria to boost judicial cooperation with EU",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Expert workshop held in Nigeria to boost judicial cooperation with EU"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/nigeria-workshop-1.png",
+      "field_list_image_1": "Expert workshop held in Nigeria",
+      "summary": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The expert workshop between Eurojust and Nigeria aims to tackle the complex challenges posed by transnational organised crime, particularly in areas such as fraud, cybercrime, and human trafficking, and terrorism. The impact of these crimes is felt in both the EU and Nigeria, with significant consequences for regional security, economic stability, and good governance, underscoring the need for enhanced cooperation and collaboration.During the workshop, participants could join sessions on the role of Eurojust, judicial cooperation procedures in Nigeria, and challenges to judicial cooperation.\u2026"
+        }
+      ],
+      "published": "Thu, 19 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        19,
+        12,
+        0,
+        0,
+        3,
+        170,
+        0
+      ],
+      "id": "9997fc9f-d978-4dc1-90aa-b35281886bef",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1217,6 +1277,76 @@
       ]
     },
     {
+      "title": "Eurojust supports successful operation against human traffickers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports successful operation against human traffickers"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
+      "field_list_image_1": "girl",
+      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+        }
+      ],
+      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        3,
+        12,
+        0,
+        0,
+        1,
+        154,
+        0
+      ],
+      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Fake lottery scam dismantled at request of German authorities",
       "title_detail": {
         "type": "text/plain",
@@ -1317,76 +1447,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports successful operation against human traffickers",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports successful operation against human traffickers"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
-      "field_list_image_1": "girl",
-      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
-        }
-      ],
-      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        3,
-        12,
-        0,
-        0,
-        1,
-        154,
-        0
-      ],
-      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
           "label": null
         }
       ]
@@ -1612,61 +1672,6 @@
       ]
     },
     {
-      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
-      "field_list_image_1": "EU DAI",
-      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 22 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        22,
-        12,
-        0,
-        0,
-        3,
-        142,
-        0
-      ],
-      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Main organisers of large-scale drug transports to Nordic countries arrested in Serbia",
       "title_detail": {
         "type": "text/plain",
@@ -1747,6 +1752,61 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
+      "field_list_image_1": "EU DAI",
+      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 22 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        22,
+        12,
+        0,
+        0,
+        3,
+        142,
+        0
+      ],
+      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1977,36 +2037,36 @@
       ]
     },
     {
-      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
-      "field_list_image_1": "Cover page annual report 2024",
-      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -2021,8 +2081,15 @@
         135,
         0
       ],
-      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
-      "guidislink": false
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
     },
     {
       "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
@@ -2080,36 +2147,36 @@
       ]
     },
     {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
+      "field_list_image_1": "Cover page annual report 2024",
+      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -2124,15 +2191,8 @@
         135,
         0
       ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
+      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
+      "guidislink": false
     },
     {
       "title": "International coalition uncovers EUR 3 million online investment fraud",
@@ -2750,66 +2810,6 @@
       ]
     },
     {
-      "title": "37th Meeting of the Genocide Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "37th Meeting of the Genocide Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/genocide-network.png",
-      "field_list_image_1": "Genocide Network 37th meeting",
-      "summary": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting included presentations on the crime of genocide, including on its historical origins and contemporary developments. The prosecution of genocide cases against ISIL members in Germany and the first genocide conviction in Sweden linked to the enslavement and forcible transfer of Yazidi children were notably discussed.Other topics covered included, amongst others, the legal challenges in developing genocide cases and the prosecution of incitement to genocide.This meeting was chaired by the Polish Presidency of the Council of the EU and organised by the Genocide Network\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "492c2caf-303b-4dcf-a554-cd9726819f16",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -2949,6 +2949,66 @@
         },
         {
           "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "37th Meeting of the Genocide Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "37th Meeting of the Genocide Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/37th-meeting-genocide-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/genocide-network.png",
+      "field_list_image_1": "Genocide Network 37th meeting",
+      "summary": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 37th Meeting of the Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Network) took place this week at Eurojust. This biannual meeting brought together judicial and investigative authorities, representatives from civil society and NGOs, as well as other specialised experts to discuss the latest developments in the fight against impunity."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day meeting included presentations on the crime of genocide, including on its historical origins and contemporary developments. The prosecution of genocide cases against ISIL members in Germany and the first genocide conviction in Sweden linked to the enslavement and forcible transfer of Yazidi children were notably discussed.Other topics covered included, amongst others, the legal challenges in developing genocide cases and the prosecution of incitement to genocide.This meeting was chaired by the Polish Presidency of the Council of the EU and organised by the Genocide Network\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "492c2caf-303b-4dcf-a554-cd9726819f16",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Prosecution Network",
           "scheme": "Partner",
           "label": null
         }
@@ -3555,76 +3615,6 @@
         {
           "term": "France",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Trei ani de la invazia pe scar\u0103 larg\u0103 \u00een Ucraina: M\u0103suri concrete sprijinite de Eurojust \u00een direc\u021bia asum\u0103rii r\u0103spunderii"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ro/news/trei-ani-de-la-invazia-pe-scara-larga-ucraina-masuri-concrete-sprijinite-de-eurojust-directia",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ciced-visual-feb2025.png",
-      "field_list_image_1": "CICED figures visual",
-      "summary": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Autorit\u0103\u021bile na\u021bionale care particip\u0103 la echipa comun\u0103 de anchet\u0103 (ECA) sprijinit\u0103 de Eurojust privind cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina au intervievat, p\u00e2n\u0103 \u00een prezent, 4 000 de martori, pe l\u00e2ng\u0103 peste 40 000 de interviuri efectuate de autorit\u0103\u021bile ucrainene pe propriul lor teritoriu. Ca urmare a cooper\u0103rii str\u00e2nse \u00eentre p\u0103r\u021bile la ECA (ce reprezint\u0103 autorit\u0103\u021bile judiciare na\u021bionale din Lituania, Estonia, Letonia, Polonia, Rom\u00e2nia, Republica Slovac\u0103 \u0219i Ucraina), Ministerul Public din Lituania a emis, pe numele a \u0219ase suspec\u021bi, acte de aducere la cuno\u0219tin\u021b\u0103 \u00een lips\u0103 a faptelor de care sunt suspecta\u021bi. \u00cen plus, parchetul general din Ucraina a emis, pe numele altei persoane, un act de aducere la cuno\u0219tin\u021b\u0103 a faptelor de care este suspectat\u0103, pentru crime de r\u0103zboi \u00eempotriva unui civil."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Membrii ECA s-au ocupat asiduu de elaborarea unei strategii comune de urm\u0103rire penal\u0103, care acord\u0103 prioritate anchetelor privind crima de agresiune, infrac\u021biunile de tortur\u0103, relele tratamente \u0219i filtrarea \u00een leg\u0103tur\u0103 cu centrele de lipsire de libertate \u00een mod ilegal, precum \u0219i privind crima de genocid.Din martie2022, agen\u021bia a organizat 26 de \u00eent\u00e2lniri de coordonare \u00eentre ECA \u0219i alte autorit\u0103\u021bi na\u021bionale care ancheteaz\u0103 cele mai grave presupuse crime interna\u021bionale comise \u00een Ucraina. Acest demers a permis \u021b\u0103rilor implicate s\u0103 fac\u0103 schimb de date cu privire la anchetele lor na\u021bionale\u2026"
-        }
-      ],
-      "published": "Mon, 24 Feb 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        2,
-        24,
-        12,
-        0,
-        0,
-        0,
-        55,
-        0
-      ],
-      "id": "d38d7647-4826-4a92-9150-fc503f3106b2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
