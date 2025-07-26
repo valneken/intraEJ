@@ -1,22 +1,102 @@
 {
-  "timestamp": "2025-07-25 18:18:34",
+  "timestamp": "2025-07-26 01:03:45",
   "entries": [
     {
-      "title": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust support",
+      "title": "Large-scale thefts of luxury watches: gang dismantled in Italy with support of Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust support"
+        "value": "Large-scale thefts of luxury watches: gang dismantled in Italy with support of Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-support"
+          "href": "https://www.eurojust.europa.eu/news/large-scale-thefts-luxury-watches-gang-dismantled-italy-support-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-support",
+      "link": "https://www.eurojust.europa.eu/news/large-scale-thefts-luxury-watches-gang-dismantled-italy-support-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-luxury-watches-case.png",
+      "field_list_image_1": "luxury watches",
+      "summary": "Nine members of a gang involved in stealing luxury watches were arrested this week in Italy, with the support of Eurojust. Through an exchange of information and evidence via the Agency, police forces across southern Italy were able to link the criminals to thefts in various Italian cities, as well as in Ibiza, Spain and Saint-Tropez, France. The suspects were part of a roving gang, which travelled frequently between the three countries.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Nine members of a gang involved in stealing luxury watches were arrested this week in Italy, with the support of Eurojust. Through an exchange of information and evidence via the Agency, police forces across southern Italy were able to link the criminals to thefts in various Italian cities, as well as in Ibiza, Spain and Saint-Tropez, France. The suspects were part of a roving gang, which travelled frequently between the three countries."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal network mainly targeted elderly victims in wealthier tourist resorts, following them on motorcycles. Once a target was established and with the cooperation of accomplices who followed the motorbikes by car in small andbusy streets, expensive watches were snatched from the victims.The thefts took place at carefully chosen opportunities, for instance, when victims got out of their cars. The watches were then passed on to the accomplices in cars. The value of the stolen watches is estimated at at least EUR 370 000.The gang was run by two senior members. For part of\u2026"
+        }
+      ],
+      "published": "Fri, 25 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        25,
+        12,
+        0,
+        0,
+        4,
+        206,
+        0
+      ],
+      "id": "982ae1ac-caa7-4e6d-a56d-4b69179b0bd5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust assistance",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust assistance"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-assistance"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-assistance",
       "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-ro-uk-case-atm.png",
       "field_list_image_1": "POS terminal",
       "summary": "Authorities in Romania and the United Kingdom have taken concerted action to block criminals who illegally withdrew cash from automated teller machines (ATMs) on a large scale. By using specialised computer programs and devices, the Romanian criminal network managed to steal an estimated EUR 580 000. The criminal group was also involved in other types of payment and card fraud.During an operation in Romania, two suspects were identified and brought in for questioning. In the UK, prosecutions have already been initiated against eight members of the group, following an action day in December 2024.",
@@ -972,61 +1052,6 @@
       ]
     },
     {
-      "title": "Expert workshop held in Nigeria to boost judicial cooperation with EU",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Expert workshop held in Nigeria to boost judicial cooperation with EU"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/nigeria-workshop-1.png",
-      "field_list_image_1": "Expert workshop held in Nigeria",
-      "summary": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The expert workshop between Eurojust and Nigeria aims to tackle the complex challenges posed by transnational organised crime, particularly in areas such as fraud, cybercrime, and human trafficking, and terrorism. The impact of these crimes is felt in both the EU and Nigeria, with significant consequences for regional security, economic stability, and good governance, underscoring the need for enhanced cooperation and collaboration.During the workshop, participants could join sessions on the role of Eurojust, judicial cooperation procedures in Nigeria, and challenges to judicial cooperation.\u2026"
-        }
-      ],
-      "published": "Thu, 19 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        19,
-        12,
-        0,
-        0,
-        3,
-        170,
-        0
-      ],
-      "id": "9997fc9f-d978-4dc1-90aa-b35281886bef",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "WBCJ Project Organises the Regional Environmental Crime Conference in North Macedonia",
       "title_detail": {
         "type": "text/plain",
@@ -1097,6 +1122,61 @@
         {
           "term": "North Macedonia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Expert workshop held in Nigeria to boost judicial cooperation with EU",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Expert workshop held in Nigeria to boost judicial cooperation with EU"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/expert-workshop-held-nigeria-boost-judicial-cooperation-eu",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/nigeria-workshop-1.png",
+      "field_list_image_1": "Expert workshop held in Nigeria",
+      "summary": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In a significant milestone in the fight against transnational organised crime, a high-level expert workshop was convened in Abuja, Nigeria, on 18 June 2025. The workshop brought together top officials from Eurojust, the Nigerian government, and EU Member States to discuss the judicial cooperation between partners."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The expert workshop between Eurojust and Nigeria aims to tackle the complex challenges posed by transnational organised crime, particularly in areas such as fraud, cybercrime, and human trafficking, and terrorism. The impact of these crimes is felt in both the EU and Nigeria, with significant consequences for regional security, economic stability, and good governance, underscoring the need for enhanced cooperation and collaboration.During the workshop, participants could join sessions on the role of Eurojust, judicial cooperation procedures in Nigeria, and challenges to judicial cooperation.\u2026"
+        }
+      ],
+      "published": "Thu, 19 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        19,
+        12,
+        0,
+        0,
+        3,
+        170,
+        0
+      ],
+      "id": "9997fc9f-d978-4dc1-90aa-b35281886bef",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2337,36 +2417,36 @@
       ]
     },
     {
-      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
-      "field_list_image_1": "Cover page annual report 2024",
-      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -2381,8 +2461,15 @@
         135,
         0
       ],
-      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
-      "guidislink": false
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
     },
     {
       "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
@@ -2440,36 +2527,36 @@
       ]
     },
     {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+        "value": "Global partnerships drive justice results, says Eurojust\u2019s Annual Report 2024"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+          "href": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "link": "https://www.eurojust.europa.eu/news/global-partnerships-drive-justice-results-says-eurojusts-annual-report-2024",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar2024-cover-pub-landscape.png",
+      "field_list_image_1": "Cover page annual report 2024",
+      "summary": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+        "value": "With criminal networks increasingly operating across continents and currencies, international judicial cooperation is more vital than ever. In 2024, Eurojust expanded its global partnerships, and will continue to do so, to deliver justice and protect communities, says the Agency\u2019s Annual Report, published today."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+          "value": "Over the past five years, Eurojust\u2019s case workload has increased by more than 60%. In 2024 alone, the Agency handled nearly 13 000 cross-border crime cases. This reflects the unprecedented pace at which organised crime in Europe is evolving, as well as national authorities\u2019 reliance on Eurojust to support complex international investigations.Eurojust President, Michael Schmid, commented: With a consistently high number of cases in recent years, our need for close cooperation with prosecutors and judges - both within Europe and beyond - is greater than ever. Thanks to our expanded global\u2026"
         }
       ],
       "published": "Thu, 15 May 2025 14:00:00 +0200",
@@ -2484,15 +2571,8 @@
         135,
         0
       ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
+      "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
+      "guidislink": false
     },
     {
       "title": "International coalition uncovers EUR 3 million online investment fraud",
@@ -3590,81 +3670,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Commissioner for Internal Affairs and Migration Brunner meets Eurojust presidency",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Commissioner for Internal Affairs and Migration Brunner meets Eurojust presidency"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/commissioner-internal-affairs-and-migration-brunner-meets-eurojust-presidency"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/commissioner-internal-affairs-and-migration-brunner-meets-eurojust-presidency",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/brunner-visit-infocus.jpg",
-      "field_list_image_1": "Michael Schmid with Magnus Brunner",
-      "summary": "Europe is secure when every part of the chain works together across borders. Eurojust supports judicial authorities to collaborate and fight organised crime together. On 18 March, European Commissioner for Internal Affairs and Migration, Magnus Brunner, learned about Eurojust\u2019s unique role in the criminal justice system during his visit to the Agency\u2019s headquarters.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Europe is secure when every part of the chain works together across borders. Eurojust supports judicial authorities to collaborate and fight organised crime together. On 18 March, European Commissioner for Internal Affairs and Migration, Magnus Brunner, learned about Eurojust\u2019s unique role in the criminal justice system during his visit to the Agency\u2019s headquarters."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During the visit, Eurojust President Michael Schmid and Commissioner Brunner discussed the threat of organised crime to European citizens. As organised crime becomes more professional and more global, authorities need to keep up and work together. Eurojust provides hands-on support to prosecutors to collaborate on cross-border investigations. In 2024, nearly 13 000 criminal investigations received support from Eurojust, leading to the freezing of more than EUR 1 billion in assets and over 1 000 arrests.Eurojust President Michael Schmid and Commissioner Magnus BrunnerCommissioner for Internal\u2026"
-        }
-      ],
-      "published": "Tue, 18 Mar 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        3,
-        18,
-        12,
-        0,
-        0,
-        1,
-        77,
-        0
-      ],
-      "id": "081139df-8e81-4f28-afd3-b5fa8f7ed4d0",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Contact points",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "European Commission",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Liaison Prosecutor",
-          "scheme": "Partner",
           "label": null
         }
       ]
