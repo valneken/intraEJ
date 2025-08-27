@@ -1,6 +1,66 @@
 {
-  "timestamp": "2025-08-27 12:23:39",
+  "timestamp": "2025-08-27 18:16:51",
   "entries": [
+    {
+      "title": "New National Member for Hungary Dr. Anik\u00f3 Orosz starts work at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New National Member for Hungary Dr. Anik\u00f3 Orosz starts work at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-national-member-hungary-dr-aniko-orosz-starts-work-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-national-member-hungary-dr-aniko-orosz-starts-work-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-hu-nm.png",
+      "field_list_image_1": "Dr. Anik\u00f3 Orosz",
+      "summary": "Prosecutor Ms Anik\u00f3 Orosz has started her mandate at Eurojust as the new National Member for Hungary. She has been a member of the Hungarian Prosecution Service since 2003, specialising in cases involving the trafficking of human beings. At Eurojust, she will enable cooperation between the Hungarian authorities and their international partners on cross-border investigations.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Prosecutor Ms Anik\u00f3 Orosz has started her mandate at Eurojust as the new National Member for Hungary. She has been a member of the Hungarian Prosecution Service since 2003, specialising in cases involving the trafficking of human beings. At Eurojust, she will enable cooperation between the Hungarian authorities and their international partners on cross-border investigations."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Ms Anik\u00f3 Orosz first served at a Budapest District Prosecution Office, where she worked as a prosecutor supervising investigations and representing the office in court. From 2010, she started working at the Chief Prosecution Office of the Capital in Budapest, and from 2012 she was placed at the International Legal Assistance Division of the Department for the Supervision of Investigations and Preparation of Indictments of the Office of the Prosecutor General. Here, she mostly worked on cases involving human trafficking. Since 2019, she has been seconded to the Cabinet of the Prosecutor\u2026"
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        12,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "id": "9901fed6-a36d-44e6-8d0e-349804018efe",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New operation against criminal network smuggling Syrian migrants to Germany: five arrests",
       "title_detail": {
@@ -2497,6 +2557,61 @@
       ]
     },
     {
+      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
+      "field_list_image_1": "group picture",
+      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
+        }
+      ],
+      "published": "Thu, 15 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        15,
+        12,
+        0,
+        0,
+        3,
+        135,
+        0
+      ],
+      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust coordinates investigations into alleged corruption in  military equipment purchases for NATO",
       "title_detail": {
         "type": "text/plain",
@@ -2598,61 +2713,6 @@
       ],
       "id": "febfacc9-c7bd-4b5e-a5ac-186aacddc1af",
       "guidislink": false
-    },
-    {
-      "title": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust strengthens cooperation with Gulf Cooperation Council and its member states"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-strengthens-cooperation-gulf-cooperation-council-and-its-member-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gcc-meeting.png",
-      "field_list_image_1": "group picture",
-      "summary": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 14-15 May, Eurojust hosted a meeting with the Gulf Cooperation Council (GCC) Secretariat General and its member states, including the United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Qatar, and Kuwait. The meeting was a crucial step in Eurojust's efforts to deepen its cooperation with the GCC countries and bolster the global response to cross-border crime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day meeting featured a range of presentations, discussions, and networking opportunities, including sessions on Eurojust's casework, its role in combating money laundering and cybercrime, and the experience of its Liaison Prosecutors. The meeting builds on the fruitful cooperation and collaboration between Eurojust, the GCC and its member states, and is expected to contribute to a safer and more secure global community.The visit enabled Eurojust to learn about the legal systems and challenges in judicial cooperation in the Gulf region, and to organise bilateral meetings between\u2026"
-        }
-      ],
-      "published": "Thu, 15 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        15,
-        12,
-        0,
-        0,
-        3,
-        135,
-        0
-      ],
-      "id": "cd49e199-5ee7-464d-8f7c-d702677ab542",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
     },
     {
       "title": "International coalition uncovers EUR 3 million online investment fraud",
@@ -3270,6 +3330,71 @@
       ]
     },
     {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -3345,71 +3470,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3605,91 +3665,6 @@
         {
           "term": "FRA",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Investigators roll up mafia-style organisation in Italy and Germany",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Investigators roll up mafia-style organisation in Italy and Germany"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/investigators-roll-mafia-style-organisation-italy-and-germany"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/investigators-roll-mafia-style-organisation-italy-and-germany",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/handcuffs.png",
-      "field_list_image_1": "Handcuffs",
-      "summary": "An extensive five-year investigation into an \u2018Ndrangheta mafia-style organisation active in Germany and Italy has led to the arrest of 29 suspects during a joint operation by Italian and German authorities, supported by Eurojust. The mafia-style group was responsible for a number of crimes in the Stuttgart area, and Calabria and Emilia-Romagna, including fraudulent trade in food products, attempted manslaughter, drug trafficking, tax evasion and money laundering.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An extensive five-year investigation into an \u2018Ndrangheta mafia-style organisation active in Germany and Italy has led to the arrest of 29 suspects during a joint operation by Italian and German authorities, supported by Eurojust. The mafia-style group was responsible for a number of crimes in the Stuttgart area, and Calabria and Emilia-Romagna, including fraudulent trade in food products, attempted manslaughter, drug trafficking, tax evasion and money laundering."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The joint operation was coordinated from the Eurojust premises in The Hague. Authorities worked together to carry out around 40 searches in Germany and Italy. Ten of the suspects were arrested in Germany and 19 in Italy. Among those arrested in Germany is a police officer, who is suspected of supporting the criminal organisation.During the joint actions in both countries, carried out today, over 350 law enforcement officers were deployed. German officers were involved in the operations on the ground in Italy and vice versa.To carry out the investigation, a joint investigation team (JIT) was\u2026"
-        }
-      ],
-      "published": "Tue, 01 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        1,
-        12,
-        0,
-        0,
-        1,
-        91,
-        0
-      ],
-      "id": "62978119-5236-44a4-a4d2-6151be300bb6",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
