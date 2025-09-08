@@ -1,6 +1,71 @@
 {
-  "timestamp": "2025-09-08 12:24:57",
+  "timestamp": "2025-09-08 18:17:23",
   "entries": [
+    {
+      "title": "Eurojust supports capture  of  individual who is suspected of transmitting state secrets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports capture  of  individual who is suspected of transmitting state secrets"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-capture-individual-who-suspected-transmitting-state-secrets"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-capture-individual-who-suspected-transmitting-state-secrets",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/handcuffs.jpg",
+      "field_list_image_1": "Handboeien",
+      "summary": "Romanian, Czech and Hungarian authorities have worked together with Eurojust to capture an individual investigated for the crime of treason by way of transmitting state secrets on a continuous basis. The suspect had two meetings in 2024 and 2025 in Budapest, Hungary with intelligence officers from the State Security Committee of Belarus. The meetings endangered Romania\u2019s national security.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Romanian, Czech and Hungarian authorities have worked together with Eurojust to capture an individual investigated for the crime of treason by way of transmitting state secrets on a continuous basis. The suspect had two meetings in 2024 and 2025 in Budapest, Hungary with intelligence officers from the State Security Committee of Belarus. The meetings endangered Romania\u2019s national security."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Evidence in the case exposed that the individual was involved in the unauthorised disclosure of state secrets to representatives of a foreign power, namely officers of the secret service of Belarus from 2024 onwards. The suspect previously held a leadership position in the Information and Security Service of the Republic of Moldova.It is alleged that the intent of the meetings held in Budapest was for the suspect to deliver information in exchange for money and receive further instructions.With Eurojust\u2019s coordination, authorities from Romania, Czechia and Hungary were able to exchange\u2026"
+        }
+      ],
+      "published": "Mon, 08 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        8,
+        12,
+        0,
+        0,
+        0,
+        251,
+        0
+      ],
+      "id": "6f12f493-c85e-479a-9d56-421190143c8f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New National Member for Hungary Dr. Anik\u00f3 Orosz starts work at Eurojust",
       "title_detail": {
@@ -892,6 +957,61 @@
       ]
     },
     {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
       "title_detail": {
         "type": "text/plain",
@@ -952,61 +1072,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2885,6 +2950,61 @@
       ]
     },
     {
+      "title": "Working Arrangement signed with Republic of Korea",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Working Arrangement signed with Republic of Korea"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
+      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
+      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
+        }
+      ],
+      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        30,
+        12,
+        0,
+        0,
+        2,
+        120,
+        0
+      ],
+      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports authorities to stop gold robbers in Italy",
       "title_detail": {
         "type": "text/plain",
@@ -2945,61 +3065,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Working Arrangement signed with Republic of Korea",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Working Arrangement signed with Republic of Korea"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/working-arrangement-signed-republic-korea",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/skorea-eurojust-signing.png",
-      "field_list_image_1": "Eurojust President Mr Michael Schmid  and Minister of Justice of the Republic of Korea Mr. Park Sung-jae",
-      "summary": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Mr Michael Schmid and Minister of Justice of the Republic of Korea Mr Park Sung-jae signed a Working Arrangement today in Seoul to enable long-term cooperation in the fight against serious and organised crime. The arrangement provides for strategic collaboration and the exchange of information between the Agency and the authorities of the Republic of Korea. It is the ninth country outside the European Union, which has signed such an arrangement with Eurojust and the first Asian country."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Mr Michael Schmid said: Organised crime is becoming increasingly sophisticated and international, operating seamlessly across both physical and digital borders. To meet this challenge, prosecutors from different countries and continents need to unite and devise strategies for closer cooperation. It is not enough to temporarily disrupt criminal networks. We need to hold these criminals accountable in court. That is why I am proud to sign this Working Arrangement with our South Korean counterparts today, laying the foundation for deeper cooperation and more impactful joint\u2026"
-        }
-      ],
-      "published": "Wed, 30 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        30,
-        12,
-        0,
-        0,
-        2,
-        120,
-        0
-      ],
-      "id": "e76bcac4-88d6-482c-bab2-10a48f35f4b5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3330,71 +3395,6 @@
       ]
     },
     {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal money mule network grinds to a halt with Eurojust support",
       "title_detail": {
         "type": "text/plain",
@@ -3535,6 +3535,71 @@
       ]
     },
     {
+      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
+      "field_list_image_1": "Signing of Working Arrangement with Egypt",
+      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
+        }
+      ],
+      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        4,
+        10,
+        12,
+        0,
+        0,
+        3,
+        100,
+        0
+      ],
+      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cooperation agreement",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Eurojust",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkan investigators and prosecutors gather in Warsaw to discuss crypto-assets and e-evidence challenges",
       "title_detail": {
         "type": "text/plain",
@@ -3600,71 +3665,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust hosts Victims\u2019 Rights Symposium under the auspices of the Polish Presidency of the Council of the European Union",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts Victims\u2019 Rights Symposium under the auspices of the Polish Presidency of the Council of the European Union"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-victims-rights-symposium-under-auspices-polish-presidency-council-european"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-victims-rights-symposium-under-auspices-polish-presidency-council-european",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250403-symposium-victims-rights.jpg",
-      "field_list_image_1": "Victim's Rights Symposium",
-      "summary": "Over 70 judicial practitioners coming from 28 countries gathered at Eurojust for the second symposium on victims\u2019 rights. The event brought together practitioners and representatives from national and EU bodies over two days to exchange best practices and discuss the challenges associated to victims\u2019 rights in cross-border cases. Focussed discussions on victims of trafficking in human beings, terrorism, migrant smuggling and online investment frauds allowed for the identification of specific challenges and best practices to overcome them.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Over 70 judicial practitioners coming from 28 countries gathered at Eurojust for the second symposium on victims\u2019 rights. The event brought together practitioners and representatives from national and EU bodies over two days to exchange best practices and discuss the challenges associated to victims\u2019 rights in cross-border cases. Focussed discussions on victims of trafficking in human beings, terrorism, migrant smuggling and online investment frauds allowed for the identification of specific challenges and best practices to overcome them."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Without a proper identification of victims, their rights to information, support and compensation are significantly undermined. Eurojust set up its Victims\u2019 Rights Working Group to bring together the Agency\u2019s expertise in this field. Eurojust is uniquely positioned to facilitate information exchange on victims and help prevent and solve conflicts of jurisdiction while finding concrete solutions for victims across the European Union, such as ensuring their right to compensation.In this year\u2019s edition, practitioners shared their experience in relation to securing the identification and the buy-\u2026"
-        }
-      ],
-      "published": "Thu, 03 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        3,
-        12,
-        0,
-        0,
-        3,
-        93,
-        0
-      ],
-      "id": "265e61db-953a-4251-8d16-db485133747e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Support for victims",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "EIGE",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "FRA",
-          "scheme": "Partner",
           "label": null
         }
       ]
