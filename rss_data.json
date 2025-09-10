@@ -1,6 +1,91 @@
 {
-  "timestamp": "2025-09-10 12:22:40",
+  "timestamp": "2025-09-10 18:16:41",
   "entries": [
+    {
+      "title": "International coalition catches fugitive criminal leader in Spain",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "International coalition catches fugitive criminal leader in Spain"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/international-coalition-catches-fugitive-criminal-leader-spain"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/international-coalition-catches-fugitive-criminal-leader-spain",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-fugitive-criminal-leader-spain-case.png",
+      "field_list_image_1": "police car",
+      "summary": "After escaping a police station in Prato, Tuscany, a criminal leader suspected of drug trafficking in Italy fled the country and travelled across Europe to evade the authorities. Only two months after his escape, authorities from Italy, Belgium, Spain and France, coordinated by Eurojust, tracked him down and were able to arrest him in Barcelona on 1 September.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "After escaping a police station in Prato, Tuscany, a criminal leader suspected of drug trafficking in Italy fled the country and travelled across Europe to evade the authorities. Only two months after his escape, authorities from Italy, Belgium, Spain and France, coordinated by Eurojust, tracked him down and were able to arrest him in Barcelona on 1 September."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The fugitive had resided in Italy for about ten years and built his criminal empire through drug trafficking. He was subject to preventive custody in February 2024 following an investigation into his criminal activity, including property crimes and the illegal possession of weapons and stolen goods. At the beginning of July 2025, the criminal leader was arrested in his apartment. While under arrest at the police station, he managed to free himself from his handcuffs and escape. With the help of his network of accomplices, he was able to leave Italy.As soon as the fugitive had escaped, the\u2026"
+        }
+      ],
+      "published": "Wed, 10 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        10,
+        12,
+        0,
+        0,
+        2,
+        253,
+        0
+      ],
+      "id": "a647cb96-4cf3-419f-9944-0d012d8d4169",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports capture  of  individual who is suspected of transmitting state secrets",
       "title_detail": {
@@ -957,61 +1042,6 @@
       ]
     },
     {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
       "title_detail": {
         "type": "text/plain",
@@ -1072,6 +1102,61 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3595,76 +3680,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan investigators and prosecutors gather in Warsaw to discuss crypto-assets and e-evidence challenges",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan investigators and prosecutors gather in Warsaw to discuss crypto-assets and e-evidence challenges"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-investigators-and-prosecutors-gather-warsaw-discuss-crypto-assets-and-e-evidence-challenges"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-investigators-and-prosecutors-gather-warsaw-discuss-crypto-assets-and-e-evidence-challenges",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-warsaw-wb-2.png",
-      "field_list_image_1": "meeting room",
-      "summary": "As digital technologies reshape the landscape of crime, staying ahead of emerging threats is more critical than ever. In response to these challenges, the Western Balkans Criminal Justice (WBCJ) Project organised together with the European Judicial Cybercrime Network (EJCN), the SIRIUS Project, and the CyberSEE Project a two-day seminar on investigations involving crypto-assets and e-evidence, which took place in the National Prosecutor\u2019s Office of Poland on 8-9 April 2025 under the auspices of the Polish Presidency.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "As digital technologies reshape the landscape of crime, staying ahead of emerging threats is more critical than ever. In response to these challenges, the Western Balkans Criminal Justice (WBCJ) Project organised together with the European Judicial Cybercrime Network (EJCN), the SIRIUS Project, and the CyberSEE Project a two-day seminar on investigations involving crypto-assets and e-evidence, which took place in the National Prosecutor\u2019s Office of Poland on 8-9 April 2025 under the auspices of the Polish Presidency."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The event brought together prosecutors and investigators from the Western Balkans to share their experiences, discuss challenges, and strengthen overall cooperation in the fight against cybercrime. Additionally, the participants were able to benefit from the experiences of EU prosecutors specialised in this matter.Sessions included a wide range of topics such as tracing and seizing crypto-assets, discussions on how crypto-assets are utilised in online fraud and money laundering, as well as the cooperation with crypto-asset service providers.Through this workshop, the WBCJ Project was able to\u2026"
-        }
-      ],
-      "published": "Wed, 09 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        9,
-        12,
-        0,
-        0,
-        2,
-        99,
-        0
-      ],
-      "id": "cda8f537-674e-4a7a-9732-417411b182f4",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Electronic evidence",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
