@@ -1,6 +1,71 @@
 {
-  "timestamp": "2025-09-12 12:22:33",
+  "timestamp": "2025-09-12 18:14:22",
   "entries": [
+    {
+      "title": "Western Balkans Criminal Justice project and EUIPO join forces against IP crime at Alicante meetings",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice project and EUIPO join forces against IP crime at Alicante meetings"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-and-euipo-join-forces-against-ip-crime-alicante"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-and-euipo-join-forces-against-ip-crime-alicante",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ip-crime-wbcj-project.jpeg",
+      "field_list_image_1": "IP Crime WBCJ Project meeting",
+      "summary": "On 10 September 2025, the Western Balkans Criminal Justice (WBCJ) project organised a workshop for prosecutors and investigators from the Western Balkans, Moldova and Ukraine on investigating and prosecuting intellectual property (IP) crime across borders. The event took place in Alicante, Spain and was organised in partnership with the EU4IP project, implemented by the European Union Intellectual Property Office (EUIPO).",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 10 September 2025, the Western Balkans Criminal Justice (WBCJ) project organised a workshop for prosecutors and investigators from the Western Balkans, Moldova and Ukraine on investigating and prosecuting intellectual property (IP) crime across borders. The event took place in Alicante, Spain and was organised in partnership with the EU4IP project, implemented by the European Union Intellectual Property Office (EUIPO)."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop was followed by the 12th European Intellectual Property Prosecutors Network (EIPPN) Workshop organised by the European Observatory on Infringements of Intellectual Property Rights on 11 and 12 September, with the support of the WBCJ project.Bringing together prosecutors, investigators, and IP crime experts from the Western Balkans, Moldova, Ukraine and the EU, both events provided a platform to share good practices and strengthen judicial cooperation in the fight against IP crime and its links to organised criminal networks.During the WBCJ-led event on 10 September, participants\u2026"
+        }
+      ],
+      "published": "Fri, 12 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        12,
+        12,
+        0,
+        0,
+        4,
+        255,
+        0
+      ],
+      "id": "013e5518-ce7e-4493-bbb9-7d84602a3e2f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "IPC Project",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New report on cumulative prosecutions highlights legal pathways to comprehensive accountability",
       "title_detail": {
@@ -1597,6 +1662,76 @@
       ]
     },
     {
+      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
+      "field_list_image_1": "European Arrest Warrant",
+      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
+        }
+      ],
+      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        16,
+        12,
+        0,
+        0,
+        0,
+        167,
+        0
+      ],
+      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Largest illegal trading platform for drugs taken down",
       "title_detail": {
         "type": "text/plain",
@@ -1687,76 +1822,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
-      "field_list_image_1": "European Arrest Warrant",
-      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
-        }
-      ],
-      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        16,
-        12,
-        0,
-        0,
-        0,
-        167,
-        0
-      ],
-      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2017,6 +2082,76 @@
       ]
     },
     {
+      "title": "Eurojust supports successful operation against human traffickers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports successful operation against human traffickers"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
+      "field_list_image_1": "girl",
+      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+        }
+      ],
+      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        3,
+        12,
+        0,
+        0,
+        1,
+        154,
+        0
+      ],
+      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Fake lottery scam dismantled at request of German authorities",
       "title_detail": {
         "type": "text/plain",
@@ -2122,76 +2257,6 @@
       ]
     },
     {
-      "title": "Eurojust supports successful operation against human traffickers",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports successful operation against human traffickers"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
-      "field_list_image_1": "girl",
-      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
-        }
-      ],
-      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        3,
-        12,
-        0,
-        0,
-        1,
-        154,
-        0
-      ],
-      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Genocide Prosecution Network presents new visual identity",
       "title_detail": {
         "type": "text/plain",
@@ -2242,6 +2307,76 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
+      "field_list_image_1": "group picture",
+      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
+        }
+      ],
+      "published": "Fri, 23 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        23,
+        12,
+        0,
+        0,
+        4,
+        143,
+        0
+      ],
+      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2342,131 +2477,6 @@
       ]
     },
     {
-      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
-        }
-      ],
-      "published": "Fri, 23 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        23,
-        12,
-        0,
-        0,
-        4,
-        143,
-        0
-      ],
-      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
-      "field_list_image_1": "EU DAI",
-      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 22 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        22,
-        12,
-        0,
-        0,
-        3,
-        142,
-        0
-      ],
-      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Main organisers of large-scale drug transports to Nordic countries arrested in Serbia",
       "title_detail": {
         "type": "text/plain",
@@ -2547,6 +2557,61 @@
         {
           "term": "Serbia",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "10th EU Day Against Impunity event emphasises protection of the independence and integrity of international judicial authorities who are investigating and prosecuting core international crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/10th-eu-day-against-impunity-event-emphasises-protection-independence-and-integrity",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eudai-graphic.png",
+      "field_list_image_1": "EU DAI",
+      "summary": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 22 May 2025, Eurojust, the Genocide Prosecution Network, European Commission and Polish Presidency of the Council of the EU jointly marked the 10th EU Day Against Impunity for genocide, crimes against humanity, and war crimes. The hybrid event gathered 175 representatives of judicial authorities, civil society and the diplomatic community at Eurojust\u2019s headquarters and online to discuss the protection of the independence and integrity of judicial authorities investigating and prosecuting core international crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "International judicial authorities are increasingly confronted with challenges such as sanctions, funding limitations, and lack of cooperation. These obstacles risk disrupting ongoing investigations and proceedings, ultimately undermining justice for the victims of some of the most heinous crimes.The opening remarks provided by Eurojust, the Polish Ministry of Justice and the European Commission, underscored the significance of international judicial institutions, including the International Criminal Court (ICC), in ensuring justice for core international crimes.Mr Michael Schmid, Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 22 May 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        5,
+        22,
+        12,
+        0,
+        0,
+        3,
+        142,
+        0
+      ],
+      "id": "5bf9291f-ffe9-4042-93f6-433f4ca08986",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3545,71 +3610,6 @@
         {
           "term": "Bosnia and Herzegovina",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and Egypt step up judicial cooperation with new Working Arrangement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-egypt-step-judicial-cooperation-new-working-arrangement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/egypt-working-arrangement-signing.png",
-      "field_list_image_1": "Signing of Working Arrangement with Egypt",
-      "summary": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "To enhance cooperation in criminal investigations, Egypt and Eurojust have today signed a Working Arrangement. Egypt is the eighth country to sign such an arrangement with Eurojust. The agreement will make strategic cooperation between Egyptian authorities and Eurojust more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "As organised crime travels across borders, so must judicial cooperation. As a facilitator of cross-border judicial cooperation, Eurojust not only ensures that authorities from EU Member States can work together efficiently to investigate serious cross-border crimes, but also facilitates cooperation with countries outside the EU. Through various cooperation agreements, Eurojust brings partner countries and Member States closer together. The Working Arrangement signed with Egypt will strengthen cooperation with the country in the fight against serious organised crime.Eurojust President Mr\u2026"
-        }
-      ],
-      "published": "Thu, 10 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        10,
-        12,
-        0,
-        0,
-        3,
-        100,
-        0
-      ],
-      "id": "b9de8dba-6ba8-4400-89b2-186ab97cc2fc",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cooperation agreement",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Eurojust",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
