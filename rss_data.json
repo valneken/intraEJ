@@ -1,6 +1,106 @@
 {
-  "timestamp": "2025-09-23 12:23:24",
+  "timestamp": "2025-09-23 18:17:52",
   "entries": [
+    {
+      "title": "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bitcoin-fraudster.png",
+      "field_list_image_1": "Artistic impression of fraudster in front of laptop",
+      "summary": "At the request of the Spanish and Portuguese authorities, Eurojust has coordinated a major operation across Europe to halt an elaborate investment fraud with cryptocurrencies. During an action day, five suspects were arrested, including the alleged main perpetrator behind the scam. Via an online investment platform, he defrauded over a hundred victims in Germany, France, Italy and Spain, among others, of at least EUR 100 million.During the joint action day, five places were searched in both Spain and Portugal, as well as in Italy, Romania and Bulgaria, where bank accounts and other financial assets were also frozen. The alleged main perpetrator is suspected of large-scale fraud and money laundering.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "At the request of the Spanish and Portuguese authorities, Eurojust has coordinated a major operation across Europe to halt an elaborate investment fraud with cryptocurrencies. During an action day, five suspects were arrested, including the alleged main perpetrator behind the scam. Via an online investment platform, he defrauded over a hundred victims in Germany, France, Italy and Spain, among others, of at least EUR 100 million.During the joint action day, five places were searched in both Spain and Portugal, as well as in Italy, Romania and Bulgaria, where bank accounts and other financial assets were also frozen. The alleged main perpetrator is suspected of large-scale fraud and money laundering."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The fraud had been running for several years, with the main suspect offering high returns on investments in various cryptocurrencies via professionally designed online platforms. Large parts of these investments were diverted mainly to bank accounts in Lithuania to launder the proceeds. Once victims tried to recover their investments, they were asked to pay additional fees, after which the website that was used for the fraud disappeared. Subsequently, the investors lost most or, in some cases, all of their money.Eurojust supported the setting up of a joint investigation team (JIT) between the\u2026"
+        }
+      ],
+      "published": "Tue, 23 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        23,
+        12,
+        0,
+        0,
+        1,
+        266,
+        0
+      ],
+      "id": "1bead2b8-9f78-412b-a10e-84c76afef573",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
       "title_detail": {
@@ -787,76 +887,6 @@
       ]
     },
     {
-      "title": "Operation targeting human trafficking and money laundering: 13  arrests in Romania and Netherlands",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Operation targeting human trafficking and money laundering: 13  arrests in Romania and Netherlands"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/operation-targeting-human-trafficking-and-money-laundering-13-arrests-romania-and-netherlands"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/operation-targeting-human-trafficking-and-money-laundering-13-arrests-romania-and-netherlands",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-2.jpg",
-      "field_list_image_1": "arrest team",
-      "summary": "An organised crime group that took vulnerable women from Romania to the Netherlands for sexual exploitation has been halted thanks to a coordinated operation between Romanian and Dutch authorities, in collaboration with Eurojust. During an action day earlier this month, 13 suspects were arrested in both countries. Four of the suspects have been surrendered from Romania to the Netherlands.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An organised crime group that took vulnerable women from Romania to the Netherlands for sexual exploitation has been halted thanks to a coordinated operation between Romanian and Dutch authorities, in collaboration with Eurojust. During an action day earlier this month, 13 suspects were arrested in both countries. Four of the suspects have been surrendered from Romania to the Netherlands."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Starting in 2020, the group, led by two family members, used \u2018loverboy\u2019 techniques to target vulnerable Romanian women, who were coerced into prostitution in the Netherlands under direct supervision of the criminal group.To maintain total control over the lives of their victims, the suspects lived with them. In some cases, members of the group used physical and psychological force against the women to prevent them from escaping the situation.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103The sexual exploitation generated significant illegal proceeds for the criminal group, which were laundered through relatives and\u2026"
-        }
-      ],
-      "published": "Mon, 21 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        21,
-        12,
-        0,
-        0,
-        0,
-        202,
-        0
-      ],
-      "id": "08347070-35c7-419f-9f96-07371516c0f3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Alleged perpetrator of sending thousands of threatening emails to schools in Czech Republic, Slovakia and Latvia apprehended",
       "title_detail": {
         "type": "text/plain",
@@ -927,6 +957,76 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Operation targeting human trafficking and money laundering: 13  arrests in Romania and Netherlands",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Operation targeting human trafficking and money laundering: 13  arrests in Romania and Netherlands"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/operation-targeting-human-trafficking-and-money-laundering-13-arrests-romania-and-netherlands"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/operation-targeting-human-trafficking-and-money-laundering-13-arrests-romania-and-netherlands",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-2.jpg",
+      "field_list_image_1": "arrest team",
+      "summary": "An organised crime group that took vulnerable women from Romania to the Netherlands for sexual exploitation has been halted thanks to a coordinated operation between Romanian and Dutch authorities, in collaboration with Eurojust. During an action day earlier this month, 13 suspects were arrested in both countries. Four of the suspects have been surrendered from Romania to the Netherlands.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An organised crime group that took vulnerable women from Romania to the Netherlands for sexual exploitation has been halted thanks to a coordinated operation between Romanian and Dutch authorities, in collaboration with Eurojust. During an action day earlier this month, 13 suspects were arrested in both countries. Four of the suspects have been surrendered from Romania to the Netherlands."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Starting in 2020, the group, led by two family members, used \u2018loverboy\u2019 techniques to target vulnerable Romanian women, who were coerced into prostitution in the Netherlands under direct supervision of the criminal group.To maintain total control over the lives of their victims, the suspects lived with them. In some cases, members of the group used physical and psychological force against the women to prevent them from escaping the situation.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103The sexual exploitation generated significant illegal proceeds for the criminal group, which were laundered through relatives and\u2026"
+        }
+      ],
+      "published": "Mon, 21 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        21,
+        12,
+        0,
+        0,
+        0,
+        202,
+        0
+      ],
+      "id": "08347070-35c7-419f-9f96-07371516c0f3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1787,76 +1887,6 @@
       ]
     },
     {
-      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
-      "field_list_image_1": "European Arrest Warrant",
-      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
-        }
-      ],
-      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        16,
-        12,
-        0,
-        0,
-        0,
-        167,
-        0
-      ],
-      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Largest illegal trading platform for drugs taken down",
       "title_detail": {
         "type": "text/plain",
@@ -1952,6 +1982,76 @@
       ]
     },
     {
+      "title": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Rapid surrender of high-profile murder suspect from Greece to Italy coordinated by Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/rapid-surrender-high-profile-murder-suspect-greece-italy-coordinated-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eaw-image.png",
+      "field_list_image_1": "European Arrest Warrant",
+      "summary": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The suspect in a high-profile murder case can be surrendered from Greece to Italy, due to a rapid judicial support action coordinated by Eurojust. Close cooperation via the Agency ensured that a European Arrest Warrant (EAW) could be issued in time, in order to keep the suspect detained in Greece. The detained person is suspected of the murder of an infant girl in the Villa Doria Pamphili park in Rome a week ago."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations indicated an American citizen as the alleged suspect of the murder, which led to public indignation in Italy. The body of the alleged mother of the young child was also found in the park last week, but the cause of her death has not yet been officially ascertained.The Italian State Police, coordinated by the Public Prosecutor\u2019s Office of Rome, managed to trace the suspect travelling to the Greek island of Skiathos last Thursday. In close cooperation with their Italian counterparts, the Greek police were able to apprehend him the following day.The rapid issuance and timely\u2026"
+        }
+      ],
+      "published": "Mon, 16 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        16,
+        12,
+        0,
+        0,
+        0,
+        167,
+        0
+      ],
+      "id": "eb21800c-52e4-4300-a03c-fc188bcbfe71",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust assists in operation in Romania and Moldova against laundering phishing fraud proceeds",
       "title_detail": {
         "type": "text/plain",
@@ -2026,91 +2126,6 @@
         },
         {
           "term": "Moldova",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
-      "field_list_image_1": "Generic image",
-      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
-        }
-      ],
-      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        11,
-        12,
-        0,
-        0,
-        2,
-        162,
-        0
-      ],
-      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -2202,6 +2217,91 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
+      "field_list_image_1": "Generic image",
+      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
+        }
+      ],
+      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        11,
+        12,
+        0,
+        0,
+        2,
+        162,
+        0
+      ],
+      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3525,121 +3625,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Cooperation of joint investigation team into crimes against Ezidi victims in Syria and Iraq leads to first two convictions",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation of joint investigation team into crimes against Ezidi victims in Syria and Iraq leads to first two convictions"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/cooperation-joint-investigation-team-crimes-against-ezidi-victims-syria-and-iraq-leads-first"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/cooperation-joint-investigation-team-crimes-against-ezidi-victims-syria-and-iraq-leads-first",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/visual-web.png",
-      "field_list_image_1": "generic image",
-      "summary": "Extensive cooperation between Sweden, France, the Netherlands and Belgium in a Eurojust-supported joint investigation team (JIT) into crimes against Ezidi victims in Syria and Iraq has led to the first two convictions of foreign terrorist fighters (FTFs). This is the outcome of an interim evaluation of the JIT, carried out at Eurojust. To continue investigations and prosecutions, the JIT partners stress the importance of the continued availability of information and evidence via the United Nations and access to specific databases.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Extensive cooperation between Sweden, France, the Netherlands and Belgium in a Eurojust-supported joint investigation team (JIT) into crimes against Ezidi victims in Syria and Iraq has led to the first two convictions of foreign terrorist fighters (FTFs). This is the outcome of an interim evaluation of the JIT, carried out at Eurojust. To continue investigations and prosecutions, the JIT partners stress the importance of the continued availability of information and evidence via the United Nations and access to specific databases."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "With Eurojust\u2019s support, the JIT was set up in October 2021 by the judicial authorities of Sweden and France, with Belgium joining in October 2022 and the Netherlands in June 2023. The main aim of this judicial cooperation is to identify FTFs linked to ISIL (Da\u2019esh) who have returned from Syria or Iraq and were involved in core international crimes, mainly perpetrated against Ezidi victims. Core international crimes are crimes such as genocide, war crimes and crimes against humanity.The Netherlands had its first conviction for crimes against the Ezidi in December 2024. A Dutch citizen was\u2026"
-        }
-      ],
-      "published": "Tue, 15 Apr 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        4,
-        15,
-        12,
-        0,
-        0,
-        1,
-        105,
-        0
-      ],
-      "id": "3fa188b9-bd56-4e93-b7a7-a3b8fe45a031",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Foreign terrorist fighters",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Justice Done",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
