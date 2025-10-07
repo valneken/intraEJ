@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07 12:24:23",
+  "timestamp": "2025-10-07 18:17:43",
   "entries": [
     {
       "title": "Coordinated action to arrest gang members stealing over one hundred luxury cars across Europe",
@@ -87,6 +87,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
+      "field_list_image_1": "Prosecutors General of the Balkan States",
+      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+        }
+      ],
+      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        7,
+        12,
+        0,
+        0,
+        1,
+        280,
+        0
+      ],
+      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -227,6 +287,54 @@
       ]
     },
     {
+      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
+      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
+      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
+        }
+      ],
+      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        2,
+        12,
+        0,
+        0,
+        3,
+        275,
+        0
+      ],
+      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
+      "guidislink": false
+    },
+    {
       "title": "Prosecutors and Eurojust prepare for upcoming Special Tribunal for the Crime of Aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -290,54 +398,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
-      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
-      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
-        }
-      ],
-      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        2,
-        12,
-        0,
-        0,
-        3,
-        275,
-        0
-      ],
-      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
-      "guidislink": false
     },
     {
       "title": "Eurojust brings key stakeholders together for exchange on EU e-Evidence Package",
@@ -845,6 +905,66 @@
       ]
     },
     {
+      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
+      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
+      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
+        }
+      ],
+      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        22,
+        12,
+        0,
+        0,
+        0,
+        265,
+        0
+      ],
+      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases",
       "title_detail": {
         "type": "text/plain",
@@ -905,66 +1025,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
-      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
-      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
-        }
-      ],
-      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        22,
-        12,
-        0,
-        0,
-        0,
-        265,
-        0
-      ],
-      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2875,91 +2935,6 @@
       ]
     },
     {
-      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
-      "field_list_image_1": "Generic image",
-      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
-        }
-      ],
-      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        11,
-        12,
-        0,
-        0,
-        2,
-        162,
-        0
-      ],
-      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Dutch-Italian cocaine trafficking route intercepted",
       "title_detail": {
         "type": "text/plain",
@@ -3045,6 +3020,161 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Action to tackle human traffickers forcing female victims into prostitution in Romania and UK"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/action-tackle-human-traffickers-forcing-female-victims-prostitution-romania-and-uk",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/uk-ro-ep-ej.jpg",
+      "field_list_image_1": "Generic image",
+      "summary": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With support from Eurojust and Europol, Romanian and UK authorities have taken decisive action against a human trafficking network that forced at least 27 young female victims into prostitution. During a coordinated action day, twelve suspects have been identified and forty places were searched, while victims were brought to safety. Eurojust supported the action by setting up and financing a joint investigation team (JIT) in November 2024."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Since 2019, the perpetrators have recruited young female victims from poor backgrounds or from social care centres without relatives, mainly in Bucharest and the Romanian Prahova region. Using the so-called \u2018lover boy method\u2019, the perpetrators promised the victims job opportunities in sectors such as catering or tourism, but in reality forced them into prostitution in Romania and the United Kingdom. This often occurred after they were deprived of their identity documents.\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103asThe criminal network behind the human trafficking arranged for transport and housing in the UK.\u2026"
+        }
+      ],
+      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        11,
+        12,
+        0,
+        0,
+        2,
+        162,
+        0
+      ],
+      "id": "b53ae3f1-df8c-4cf8-a636-5d419842ce48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust supports successful operation against human traffickers",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports successful operation against human traffickers"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
+      "field_list_image_1": "girl",
+      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
+        }
+      ],
+      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        6,
+        3,
+        12,
+        0,
+        0,
+        1,
+        154,
+        0
+      ],
+      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3150,76 +3280,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports successful operation against human traffickers",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports successful operation against human traffickers"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-successful-operation-against-human-traffickers",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/girl.png",
-      "field_list_image_1": "girl",
-      "summary": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities have tracked down and dismantled a human trafficking network operating in Switzerland. The criminal group recruited young vulnerable women in Romania for sexual exploitation. The close cooperation between investigators from both countries, supported by Eurojust and Europol, culminated in an action day on 3 June, during which 18 suspects were arrested."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group targeted individuals from disadvantaged communities in Romania. The perpetrators approached their victims on social media, luring them with false romantic promises or offers for them to perform sex work abroad under favourable conditions. Once the victims accepted these offers, they were taken abroad to provide sexual services on escort websites and in rented flats. They were kept under constant surveillance by the criminal group and subjected to appalling conditions, working long hours in degrading and unsafe circumstances. The victims were expected to work continuously,\u2026"
-        }
-      ],
-      "published": "Tue, 03 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        3,
-        12,
-        0,
-        0,
-        1,
-        154,
-        0
-      ],
-      "id": "2cebd99a-2b59-4e63-b38e-c525fe365311",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3579,96 +3639,6 @@
         },
         {
           "term": "Serbia",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Major strike against Italian-Albanian drug trafficking network: 52 suspects targeted",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Major strike against Italian-Albanian drug trafficking network: 52 suspects targeted"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/major-strike-against-italian-albanian-drug-trafficking-network-52-suspects-targeted"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/major-strike-against-italian-albanian-drug-trafficking-network-52-suspects-targeted",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-it-al-drugs-case.png",
-      "field_list_image_1": "drugs",
-      "summary": "With the active assistance of Eurojust, the authorities in Italy and Albania have dealt a major blow to three linked organised crime groups (OCGs) involved in large-scale drug trafficking and money laundering. During a joint action day, arrest warrants were issued against 52 suspects, including individuals believed to be at the highest levels in the hierarchies of the OCGs. Eurojust supported the cooperation between the Italian and Albanian authorities by setting up ajoint investigation team (JIT).",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With the active assistance of Eurojust, the authorities in Italy and Albania have dealt a major blow to three linked organised crime groups (OCGs) involved in large-scale drug trafficking and money laundering. During a joint action day, arrest warrants were issued against 52 suspects, including individuals believed to be at the highest levels in the hierarchies of the OCGs. Eurojust supported the cooperation between the Italian and Albanian authorities by setting up ajoint investigation team (JIT)."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During the action day, authorities in both countries seized assets worth at least several millions euros, including apartments and companies, as well as various luxury vehicles. . Large amounts of cash and quantities of cocaine and heroin were also seized. A full and complete evaluation of the seizures will be carried out in the coming days.No complete estimate of the total profits of the cooperation between the three OCGs is available. However, information obtained through the JIT shows that the criminal networks were involved in payments, often in cash, of close to EUR 5 million and the\u2026"
-        }
-      ],
-      "published": "Wed, 21 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        21,
-        12,
-        0,
-        0,
-        2,
-        141,
-        0
-      ],
-      "id": "04f38b8b-f4e9-44d2-a872-58d3a2531ee7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Mutual legal assistance",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Albania",
           "scheme": "Third states",
           "label": null
         }
