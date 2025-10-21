@@ -1,6 +1,141 @@
 {
-  "timestamp": "2025-10-21 06:18:50",
+  "timestamp": "2025-10-21 12:25:36",
   "entries": [
+    {
+      "title": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/over-1-000-years-imprisonment-mafia-members-following-largest-ever-action-against-italian"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/over-1-000-years-imprisonment-mafia-members-following-largest-ever-action-against-italian",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/thumbnail-video.jpg",
+      "field_list_image_1": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
+      "summary": "While a maxi-trial of 132 \u2018Ndrangheta mafia members arrested in 2023 during an action day involving 10 countries is ongoing in Reggio Calabria in Italy, 76 of the defendants have already been tried. The first judicial decision has been issued, and the competent judge has convicted the defendants to a total of 1 098 years in jail and a fine of EUR 440 000.The joint operation involving the authorities of Italy, Belgium, Germany, France, Portugal, Slovenia, Spain, Romania, Brazil and Panama is considered one of the largest hits against the Italian poly-criminal network to date. Eurojust and Europol's support for the investigation was crucial given the large number of countries involved.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "While a maxi-trial of 132 \u2018Ndrangheta mafia members arrested in 2023 during an action day involving 10 countries is ongoing in Reggio Calabria in Italy, 76 of the defendants have already been tried. The first judicial decision has been issued, and the competent judge has convicted the defendants to a total of 1 098 years in jail and a fine of EUR 440 000.The joint operation involving the authorities of Italy, Belgium, Germany, France, Portugal, Slovenia, Spain, Romania, Brazil and Panama is considered one of the largest hits against the Italian poly-criminal network to date. Eurojust and Europol's support for the investigation was crucial given the large number of countries involved."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "This was the first judicial decision of the Court of Reggio Calabria following a request by 76 defendants for a shortened procedure (known as a rito abbreviato). The suspects have been sentenced for participating in a mafia-style organised crime group and for taking part in an international drug trafficking organisation.Eurojust considers this to be its largest action taken against a mafia-style organisation. The operation was carried out by the Italian competent judicial authority \u2013 the District Antimafia Prosecutor Office of Reggio Calabria, in close partnership with the competent\u2026"
+        }
+      ],
+      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        21,
+        12,
+        0,
+        0,
+        1,
+        294,
+        0
+      ],
+      "id": "057a91d5-f677-4fe5-97ee-a21ab2ee802a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination centre",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Justice Done",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Portugal",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Slovenia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Decisive action against various online scams in Austria and Latvia: seven arrests",
       "title_detail": {
@@ -82,66 +217,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
-      "field_list_image_1": "Money Laundering Focus Group",
-      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
-        }
-      ],
-      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        16,
-        12,
-        0,
-        0,
-        3,
-        289,
-        0
-      ],
-      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Asset recovery",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -232,6 +307,66 @@
         {
           "term": "Malta",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
+      "field_list_image_1": "Money Laundering Focus Group",
+      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
+        }
+      ],
+      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        16,
+        12,
+        0,
+        0,
+        3,
+        289,
+        0
+      ],
+      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Asset recovery",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -522,6 +657,54 @@
       ]
     },
     {
+      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
+      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
+      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
+        }
+      ],
+      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        2,
+        12,
+        0,
+        0,
+        3,
+        275,
+        0
+      ],
+      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
+      "guidislink": false
+    },
+    {
       "title": "Prosecutors and Eurojust prepare for upcoming Special Tribunal for the Crime of Aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -585,54 +768,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
-      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
-      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
-        }
-      ],
-      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        2,
-        12,
-        0,
-        0,
-        3,
-        275,
-        0
-      ],
-      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
-      "guidislink": false
     },
     {
       "title": "Eurojust brings key stakeholders together for exchange on EU e-Evidence Package",
@@ -2440,6 +2575,61 @@
       ]
     },
     {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
       "title_detail": {
         "type": "text/plain",
@@ -2500,61 +2690,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3570,76 +3705,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Lisbon hosts the 21st CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/lisbon-hosts-21st-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-21st-crimex.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Under the framework of the 6th phase of the EuroMed Justice (EMJ) Project, the 21st CrimEx was held on 21 and 22 May in Lisbon, Portugal. Criminal justice representatives from 6 South Partner Countries (SPCs) and 9 European Union Member States gathered to discuss technical and strategic aspects of international judicial cooperation in criminal matters, focusing on exchanges on challenges and best practices on cases of trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from the South Partner Countries and EU Member States also prepared for the 6th EuroMed Prosecutors General Forum, which will be held at Eurojust in The Hague in July 2025. CrimEx members gave their recommendations and discussed the 2025-2027 multi-annual strategy, together with the action plans in relation to judicial cooperation on asset recovery (A) and trafficking in human beings and migrant smuggling (B).Additionally, the EuroMed Justice Project team reported on recent activities. This included a presentation from the Egyptian representative on the Technical Assistance\u2026"
-        }
-      ],
-      "published": "Fri, 23 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        23,
-        12,
-        0,
-        0,
-        4,
-        143,
-        0
-      ],
-      "id": "19f09844-6b9c-4f9d-b4e7-e7677e6da0ae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
