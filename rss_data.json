@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-21 12:25:36",
+  "timestamp": "2025-10-21 18:17:23",
   "entries": [
     {
       "title": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
@@ -132,6 +132,96 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
+      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
+        }
+      ],
+      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        21,
+        12,
+        0,
+        0,
+        1,
+        294,
+        0
+      ],
+      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Sport-related crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -657,54 +747,6 @@
       ]
     },
     {
-      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
-      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
-      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
-        }
-      ],
-      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        2,
-        12,
-        0,
-        0,
-        3,
-        275,
-        0
-      ],
-      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
-      "guidislink": false
-    },
-    {
       "title": "Prosecutors and Eurojust prepare for upcoming Special Tribunal for the Crime of Aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -768,6 +810,54 @@
           "label": null
         }
       ]
+    },
+    {
+      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
+      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
+      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
+        }
+      ],
+      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        2,
+        12,
+        0,
+        0,
+        3,
+        275,
+        0
+      ],
+      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
+      "guidislink": false
     },
     {
       "title": "Eurojust brings key stakeholders together for exchange on EU e-Evidence Package",
@@ -1275,6 +1365,66 @@
       ]
     },
     {
+      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
+      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
+      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
+        }
+      ],
+      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        22,
+        12,
+        0,
+        0,
+        0,
+        265,
+        0
+      ],
+      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases",
       "title_detail": {
         "type": "text/plain",
@@ -1335,66 +1485,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
-      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
-      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
-        }
-      ],
-      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        22,
-        12,
-        0,
-        0,
-        0,
-        265,
-        0
-      ],
-      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3650,61 +3740,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Genocide Prosecution Network presents new visual identity",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Genocide Prosecution Network presents new visual identity"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-presents-new-visual-identity"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-presents-new-visual-identity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/gpn-logo.png",
-      "field_list_image_1": "GPN logo",
-      "summary": "The Genocide Prosecution Network has presented a new overall visual identity that reflects its mission and core values. The new logo and accompanying visuals represent what has always guided the Network\u2019s commitment to international justice. The presentation of the new logo coincides with the change from its name of Genocide Network to Genocide Prosecution Network.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Genocide Prosecution Network has presented a new overall visual identity that reflects its mission and core values. The new logo and accompanying visuals represent what has always guided the Network\u2019s commitment to international justice. The presentation of the new logo coincides with the change from its name of Genocide Network to Genocide Prosecution Network."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "This design shows a more modern, dynamic and cohesive look, in line with current branding and communication standards. The new logo is a combination of symbols, bringing together multiple concepts essential to the Network (hover over any of the specific aspects to see a detailed graphic display of this feature of the logo):Law: represented by Lady Justice, evoking the scales of justice.Network map: connecting lines symbolising cooperation between national authorities, partners and stakeholders.Human figure with palms up: placed at the heart of the symbol, representing the victims of core\u2026"
-        }
-      ],
-      "published": "Wed, 28 May 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        5,
-        28,
-        12,
-        0,
-        0,
-        2,
-        148,
-        0
-      ],
-      "id": "09ed8583-c959-4479-9385-e4fed618ed94",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
