@@ -1,62 +1,82 @@
 {
-  "timestamp": "2025-11-04 06:19:34",
+  "timestamp": "2025-11-04 12:27:08",
   "entries": [
     {
-      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
+      "title": "Decisive actions against cryptocurrency scammers earning over EUR 600 million",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
+        "value": "Decisive actions against cryptocurrency scammers earning over EUR 600 million"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
+          "href": "https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
-      "field_list_image_1": "lady justice",
-      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
+      "link": "https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/2025-11-04-cryptocurrency-pr.png",
+      "field_list_image_1": "generic image",
+      "summary": "Nine people suspected of money laundering have been arrested during a synchronised operation that took place in three countries at the same time. The suspects set up a cryptocurrency money laundering network that scammed victims out of over EUR 600 million. Eurojust, the EU\u2019s judicial cooperation hub, ensured that French, Belgian, Cypriot, German and Spanish authorities worked together to take the network down.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
+        "value": "Nine people suspected of money laundering have been arrested during a synchronised operation that took place in three countries at the same time. The suspects set up a cryptocurrency money laundering network that scammed victims out of over EUR 600 million. Eurojust, the EU\u2019s judicial cooperation hub, ensured that French, Belgian, Cypriot, German and Spanish authorities worked together to take the network down."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
+          "value": "The members of the network created dozens of fake cryptocurrency investment platforms that looked like legitimate websites and promised high returns. They recruited their victims using a variety of methods such as social media advertising, cold calling, fake news articles and fake testimonials from celebrities or successful investors.When victims would transfer cryptocurrency to the platforms, they were never able to recover their money. The crypto assets earned through the various scams were then laundered using blockchain technology. The criminals were able to launder approximately EUR 600\u2026"
         }
       ],
-      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
+      "published": "Tue, 04 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
-        10,
-        24,
+        11,
+        4,
         12,
         0,
         0,
-        4,
-        297,
+        1,
+        308,
         0
       ],
-      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
+      "id": "74c72a25-8607-49a5-9b17-11125ee3c1d6",
       "guidislink": false,
       "tags": [
         {
-          "term": "Drug trafficking",
+          "term": "Cybercrime",
           "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Cyprus",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -142,6 +162,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
+      "field_list_image_1": "lady justice",
+      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
+        }
+      ],
+      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        24,
+        12,
+        0,
+        0,
+        4,
+        297,
+        0
+      ],
+      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -655,6 +735,66 @@
       ]
     },
     {
+      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
+      "field_list_image_1": "Prosecutors General of the Balkan States",
+      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+        }
+      ],
+      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        7,
+        12,
+        0,
+        0,
+        1,
+        280,
+        0
+      ],
+      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Coordinated action to arrest gang members stealing over one hundred luxury cars across Europe",
       "title_detail": {
         "type": "text/plain",
@@ -745,61 +885,61 @@
       ]
     },
     {
-      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+        "value": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+          "href": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
-      "field_list_image_1": "Prosecutors General of the Balkan States",
-      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "link": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/consultative-forum-2025.jpg",
+      "field_list_image_1": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
+      "summary": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+        "value": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+          "value": "Commenting on the 19th Consultative Forum, Eurojust President Mr Michael Schmid emphasised: The Consultative Forum is a crucial meeting for us. It allows the highest representatives of national judicial authorities to come together, discuss different crime threats and give guidance on our work. Eurojust couldn\u2019t be more pleased to have hosted the Prosecutors General from the EU Member States as well as representatives from Europol and the European Public Prosecutor\u2019s Office. It was an honour, as well, to have received Mr Ruslan Kravchenko, Prosecutor General of Ukraine, to review work on our\u2026"
         }
       ],
-      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published": "Fri, 03 Oct 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         10,
-        7,
+        3,
         12,
         0,
         0,
-        1,
-        280,
+        4,
+        276,
         0
       ],
-      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "id": "85753efb-8966-4dce-957a-0e228c3c6add",
       "guidislink": false,
       "tags": [
         {
-          "term": "Bulgaria",
-          "scheme": "Member State",
+          "term": "Organised crime",
+          "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -875,66 +1015,6 @@
         {
           "term": "Albania",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/consultative-forum-2025.jpg",
-      "field_list_image_1": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
-      "summary": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on the 19th Consultative Forum, Eurojust President Mr Michael Schmid emphasised: The Consultative Forum is a crucial meeting for us. It allows the highest representatives of national judicial authorities to come together, discuss different crime threats and give guidance on our work. Eurojust couldn\u2019t be more pleased to have hosted the Prosecutors General from the EU Member States as well as representatives from Europol and the European Public Prosecutor\u2019s Office. It was an honour, as well, to have received Mr Ruslan Kravchenko, Prosecutor General of Ukraine, to review work on our\u2026"
-        }
-      ],
-      "published": "Fri, 03 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        3,
-        12,
-        0,
-        0,
-        4,
-        276,
-        0
-      ],
-      "id": "85753efb-8966-4dce-957a-0e228c3c6add",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -1558,6 +1638,66 @@
       ]
     },
     {
+      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
+      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
+      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
+        }
+      ],
+      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        22,
+        12,
+        0,
+        0,
+        0,
+        265,
+        0
+      ],
+      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases",
       "title_detail": {
         "type": "text/plain",
@@ -1618,66 +1758,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
-      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
-      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
-        }
-      ],
-      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        22,
-        12,
-        0,
-        0,
-        0,
-        265,
-        0
-      ],
-      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2858,6 +2938,61 @@
       ]
     },
     {
+      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
+      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
+      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
+        }
+      ],
+      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        7,
+        4,
+        12,
+        0,
+        0,
+        4,
+        185,
+        0
+      ],
+      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
       "title_detail": {
         "type": "text/plain",
@@ -2918,61 +3053,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-ministry-justice-united-arab-emirates-host-expert-workshop-strengthen-judicial",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arab-emirates-host-expert-workshop.png",
-      "field_list_image_1": "Eurojust and the Ministry of Justice of the United Arab Emirates host an expert workshop",
-      "summary": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 2 to 3 July 2025, Eurojust and the United Arab Emirates (UAE) Ministry of Justice jointly hosted a successful workshop in Abu Dhabi, marking a significant advancement in the fight against transnational organised crime. The event brought together 25 participants, including prosecutors from all Public Prosecution departments of the seven emirates of the UAE, central authority staff, and representatives from the UAE\u2019s Interpol office. Attendees had the opportunity to exchange best practices, tackle common challenges, and strengthen existing partnership."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop centered on presenting Eurojust\u2019s mandate and activities to UAE counterparts, while discussing the respective roles in international judicial cooperation, cybercrime, money laundering, and asset recovery. Eurojust\u2019s representatives shared their knowledge and experience, emphasizing the critical importance of cooperation and coordination in tackling complex, cross-border crimes. The event also served as a platform for constructive dialogue and knowledge exchange. By exploring ways to enhance collaboration, participants sought to identify opportunities for more effective\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "5f2a31a3-aace-4447-a63b-d21858fc4e4d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3583,96 +3663,6 @@
         {
           "term": "Moldova",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Dutch-Italian cocaine trafficking route intercepted",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Dutch-Italian cocaine trafficking route intercepted"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/dutch-italian-cocaine-trafficking-route-intercepted"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/dutch-italian-cocaine-trafficking-route-intercepted",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-drugs-route-case.png",
-      "field_list_image_1": "suspects handcuffs",
-      "summary": "Italian and Dutch authorities worked together to disrupt a cocaine trafficking route from the Netherlands to Sardinia. Following a four-year investigation, two suspects were arrested in Italy and one in the Netherlands during an action day on 11 June.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Italian and Dutch authorities worked together to disrupt a cocaine trafficking route from the Netherlands to Sardinia. Following a four-year investigation, two suspects were arrested in Italy and one in the Netherlands during an action day on 11 June."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Italian authorities were investigating a criminal group based in southern Sardinia, composed of eight individuals who were importing large quantities of cocaine from the Netherlands. The drugs were loaded into vehicles with hidden compartments at the bottom. After hiding the cocaine, the vehicles were driven to Italy, where the drugs were sold to local traffickers in Sardinia. During the investigation, over 20 kilograms of pure cocaine were seized, and three couriers were arrested.The cooperation with the Netherlands has started four years ago on the basis of mutual legal assistance on\u2026"
-        }
-      ],
-      "published": "Wed, 11 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        11,
-        12,
-        0,
-        0,
-        2,
-        162,
-        0
-      ],
-      "id": "093e9300-2e71-4dab-afd0-57cd3b3fe077",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
           "label": null
         }
       ]
