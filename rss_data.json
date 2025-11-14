@@ -1,6 +1,166 @@
 {
-  "timestamp": "2025-11-13 18:18:09",
+  "timestamp": "2025-11-14 01:00:02",
   "entries": [
+    {
+      "title": "Authorities continue to protect citizens from cybercriminals during major malware operation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities continue to protect citizens from cybercriminals during major malware operation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-endgame-case-logo-2.jpg",
+      "field_list_image_1": "Operation Endgame logo",
+      "summary": "Operation Endgame, the international cooperation between law enforcement and judicial authorities from ten countries has succeeded to dismantle another infostealer, a Remote Access Trojan (RAT) and a botnet that played key roles in international cybercrime. International cooperation in the operation was coordinated from the outset through Eurojust and Europol. The dismantled infrastructure was responsible for infecting hundreds of thousands of computers worldwide with malware.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Operation Endgame, the international cooperation between law enforcement and judicial authorities from ten countries has succeeded to dismantle another infostealer, a Remote Access Trojan (RAT) and a botnet that played key roles in international cybercrime. International cooperation in the operation was coordinated from the outset through Eurojust and Europol. The dismantled infrastructure was responsible for infecting hundreds of thousands of computers worldwide with malware."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Infostealers and botnets are used to steal sensitive personal data, such as passwords and banking details, from devices worldwide. Cybercriminals purchase botnets, large networks of infected computers, to take control of these computers and transfer data to their own servers. A RAT is software that enables criminals to control registered computers remotely, thereby gaining full control over the digital system.By targeting the infostealer and botnet, authorities, together with multiple private cybersecurity organisations, took down a criminal infrastructure that is critical for several\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "6d729a3f-3604-421f-ba9a-f5716a2446ea",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Denmark",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust delegation visits Cairo to bolster judicial cooperation with Egypt",
       "title_detail": {
@@ -715,6 +875,96 @@
       "guidislink": false
     },
     {
+      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
+      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
+        }
+      ],
+      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        21,
+        12,
+        0,
+        0,
+        1,
+        294,
+        0
+      ],
+      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Sport-related crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
       "title_detail": {
         "type": "text/plain",
@@ -850,96 +1100,6 @@
       ]
     },
     {
-      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
-      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
-        }
-      ],
-      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        21,
-        12,
-        0,
-        0,
-        1,
-        294,
-        0
-      ],
-      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Sport-related crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Decisive action against various online scams in Austria and Latvia: seven arrests",
       "title_detail": {
         "type": "text/plain",
@@ -1020,66 +1180,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
-      "field_list_image_1": "Money Laundering Focus Group",
-      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
-        }
-      ],
-      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        16,
-        12,
-        0,
-        0,
-        3,
-        289,
-        0
-      ],
-      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Asset recovery",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -1170,6 +1270,66 @@
         {
           "term": "Malta",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
+      "field_list_image_1": "Money Laundering Focus Group",
+      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
+        }
+      ],
+      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        16,
+        12,
+        0,
+        0,
+        3,
+        289,
+        0
+      ],
+      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Asset recovery",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -1633,6 +1793,66 @@
       ]
     },
     {
+      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
+      "field_list_image_1": "Group picture with all participants",
+      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
+        }
+      ],
+      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        30,
+        12,
+        0,
+        0,
+        1,
+        273,
+        0
+      ],
+      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJOCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "E-Evidence in focus at Eurojust and Council of Europe joint cybercrime workshop",
       "title_detail": {
         "type": "text/plain",
@@ -1692,66 +1912,6 @@
         },
         {
           "term": "Council of Europe",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
-      "field_list_image_1": "Group picture with all participants",
-      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
-        }
-      ],
-      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        30,
-        12,
-        0,
-        0,
-        1,
-        273,
-        0
-      ],
-      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
           "scheme": "Partner",
           "label": null
         }
@@ -3493,186 +3653,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Romanian criminals stealing fertilisers and pesticides in western France stopped in tracks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Romanian criminals stealing fertilisers and pesticides in western France stopped in tracks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/romanian-criminals-stealing-fertilisers-and-pesticides-western-france-stopped-tracks"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/romanian-criminals-stealing-fertilisers-and-pesticides-western-france-stopped-tracks",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/boxes.png",
-      "field_list_image_1": "Boxes",
-      "summary": "Following close cooperation between the French and Romanian authorities, criminals stealing agrochemical products across western France have been stopped in their tracks. The network was also involved in transporting and concealing the stolen goods. During a coordinated action this week, 12 suspects were arrested or identified in both countries.Eurojust supported the judiciary in both countries by facilitating the execution of European Arrest Warrants (EAWs) and European Investigation Orders and provided further cross-border judicial support.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Following close cooperation between the French and Romanian authorities, criminals stealing agrochemical products across western France have been stopped in their tracks. The network was also involved in transporting and concealing the stolen goods. During a coordinated action this week, 12 suspects were arrested or identified in both countries.Eurojust supported the judiciary in both countries by facilitating the execution of European Arrest Warrants (EAWs) and European Investigation Orders and provided further cross-border judicial support."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network was well organised and structured, specialising in the theft of fertilisers and pesticides, for instance. The action day in France and Romania targeted three teams of thieves, two carriers and two fences. Three suspects were arrested in France, and nine more were identified in Romania, based on EAWs issued by the French authorities.Over the past two years, at least sixty farms, agricultural storage facilities and enterprises have been burgled. The value of the stolen goods and the damage caused by the thefts is estimated at EUR 3 million. The thefts were not without\u2026"
-        }
-      ],
-      "published": "Fri, 27 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        27,
-        12,
-        0,
-        0,
-        4,
-        178,
-        0
-      ],
-      "id": "d7137034-dba7-49e9-944a-4af81b92abbd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Environmental crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Large-scale fraud using trusted online seller accounts uncovered",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Large-scale fraud using trusted online seller accounts uncovered"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-online-accounts-fraud-case.jpg",
-      "field_list_image_1": "online shopping, Credit card, smartphone",
-      "summary": "A criminal group hacked into trusted online shop accounts to defraud customers of over EUR 400 000 by selling goods that would never arrive. The criminals were able to take over 405 seller accounts. Authorities from Romania and Germany worked together with Eurojust to take down the criminal group.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A criminal group hacked into trusted online shop accounts to defraud customers of over EUR 400 000 by selling goods that would never arrive. The criminals were able to take over 405 seller accounts. Authorities from Romania and Germany worked together with Eurojust to take down the criminal group."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminals used phishing techniques to obtain login credentials from legitimate sellers on a well-known online commerce platform. After gaining access to the account, they changed the login details, locking the rightful users out of their accounts. The criminals then continued to post advertisements of fake goods on the seller account. Because customers trusted the seller accounts, they initially put orders in for over EUR 106 million. In the end, 556 customers completed their order and purchased goods that would never arrive, causing damages of over EUR 400 000.When investigators\u2026"
-        }
-      ],
-      "published": "Wed, 25 Jun 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        6,
-        25,
-        12,
-        0,
-        0,
-        2,
-        176,
-        0
-      ],
-      "id": "b9a1a423-0518-4201-bc11-00d44b2c59dd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Search",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
