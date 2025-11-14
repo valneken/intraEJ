@@ -1,6 +1,161 @@
 {
-  "timestamp": "2025-11-14 06:19:43",
+  "timestamp": "2025-11-14 12:25:33",
   "entries": [
+    {
+      "title": "Large methamphetamine network dismantled",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Large methamphetamine network dismantled"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/large-methamphetamine-network-dismantled"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/large-methamphetamine-network-dismantled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ongoing-operations-web2.png",
+      "field_list_image_1": "operations",
+      "summary": "During a coordinated action day, authorities from Czech Republic, Hungary, Romania and the Republic of Moldova dismantled a drug trafficking network with support from Eurojust and Europol, leading to the arrest of 15 suspects. The criminal group is suspected of trafficking precursors, the base ingredients to produce and sell methamphetamine across the European Union.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "During a coordinated action day, authorities from Czech Republic, Hungary, Romania and the Republic of Moldova dismantled a drug trafficking network with support from Eurojust and Europol, leading to the arrest of 15 suspects. The criminal group is suspected of trafficking precursors, the base ingredients to produce and sell methamphetamine across the European Union."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The cross-border cooperation uncovered an international criminal group involved in procuring precursors to produce pseudoephedrine in hidden laboratories set up across the world, including Egypt, for the manufacture of methamphetamine. After the initial production in Egypt, the methamphetamine was smuggled into Czechia by couriers in their luggage on tourist flights. After the drugs were transformed back into their crystalline form, they were distributed in different EU countries through a network of dealers and sold to various consumers, fueling addiction and further criminal activity. To\u2026"
+        }
+      ],
+      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        14,
+        12,
+        0,
+        0,
+        4,
+        318,
+        0
+      ],
+      "id": "02f64dbc-0422-4dc1-a04a-5e7c774905a1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Moldova",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Authorities continue to protect citizens from cybercriminals during major malware operation",
       "title_detail": {
@@ -92,71 +247,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
-        }
-      ],
-      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        13,
-        12,
-        0,
-        0,
-        3,
-        317,
-        0
-      ],
-      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -682,66 +772,6 @@
       ]
     },
     {
-      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
-      "field_list_image_1": "lady justice",
-      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
-        }
-      ],
-      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        24,
-        12,
-        0,
-        0,
-        4,
-        297,
-        0
-      ],
-      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Slovak\u2013Hungarian operation dismantles major drug trafficking network with support of Eurojust coordination centre: 22 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -822,6 +852,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
+      "field_list_image_1": "lady justice",
+      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
+        }
+      ],
+      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        24,
+        12,
+        0,
+        0,
+        4,
+        297,
+        0
+      ],
+      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1620,54 +1710,6 @@
       ]
     },
     {
-      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
-      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
-      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
-        }
-      ],
-      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        2,
-        12,
-        0,
-        0,
-        3,
-        275,
-        0
-      ],
-      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
-      "guidislink": false
-    },
-    {
       "title": "Prosecutors and Eurojust prepare for upcoming Special Tribunal for the Crime of Aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -1733,6 +1775,54 @@
       ]
     },
     {
+      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
+      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
+      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
+        }
+      ],
+      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        2,
+        12,
+        0,
+        0,
+        3,
+        275,
+        0
+      ],
+      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
+      "guidislink": false
+    },
+    {
       "title": "Eurojust brings key stakeholders together for exchange on EU e-Evidence Package",
       "title_detail": {
         "type": "text/plain",
@@ -1788,66 +1878,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
-      "field_list_image_1": "Group picture with all participants",
-      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
-        }
-      ],
-      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        30,
-        12,
-        0,
-        0,
-        1,
-        273,
-        0
-      ],
-      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1912,6 +1942,66 @@
         },
         {
           "term": "Council of Europe",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
+      "field_list_image_1": "Group picture with all participants",
+      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
+        }
+      ],
+      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        30,
+        12,
+        0,
+        0,
+        1,
+        273,
+        0
+      ],
+      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJOCN",
           "scheme": "Partner",
           "label": null
         }
@@ -3588,71 +3678,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-holds-second-edition-training-joint-investigation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-holds-second-edition-training-joint-investigation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-trier-group-pic.jpg",
-      "field_list_image_1": "Western Balkans Criminal Justice Project holds the second edition of training on joint investigation teams for investigators and prosecutors",
-      "summary": "For the second consecutive year, the Western Balkans Criminal Justice Project (WBCJ) successfully held its flagship training on Joint Investigation Teams (JITs) for judicial and law enforcement authorities from the Western Balkan region. The training, organised in cooperation with the JITs Network Secretariat and the Academy of European Law (ERA), took place from 1 to 4 July 2025 at ERA\u2019s headquarters in Trier, Germany.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the second consecutive year, the Western Balkans Criminal Justice Project (WBCJ) successfully held its flagship training on Joint Investigation Teams (JITs) for judicial and law enforcement authorities from the Western Balkan region. The training, organised in cooperation with the JITs Network Secretariat and the Academy of European Law (ERA), took place from 1 to 4 July 2025 at ERA\u2019s headquarters in Trier, Germany."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The four-day specialised programme brought together 35 investigators and prosecutors from across the Western Balkans to strengthen cross-border cooperation in the fight against serious and organised crime.Designed to foster a collaborative learning environment, the training combined interactive workshops, plenary discussions, and role-playing simulations to address both the operational and legal aspects of JITs.Key topics included understanding the concept and benefit of JITs, the support mechanisms available through Eurojust, and the distinct roles of actors involved in a JIT. Under the\u2026"
-        }
-      ],
-      "published": "Fri, 04 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        4,
-        12,
-        0,
-        0,
-        4,
-        185,
-        0
-      ],
-      "id": "207e9ee0-118e-4565-834b-069764477bce",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
