@@ -1,6 +1,156 @@
 {
-  "timestamp": "2025-11-27 12:26:18",
+  "timestamp": "2025-11-27 18:17:39",
   "entries": [
+    {
+      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
+      "field_list_image_1": "target over map",
+      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
+        }
+      ],
+      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        27,
+        12,
+        0,
+        0,
+        3,
+        331,
+        0
+      ],
+      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "International drug network dismantled: 24 arrests and EUR 3 million seized",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "International drug network dismantled: 24 arrests and EUR 3 million seized"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/international-drug-network-dismantled-24-arrests-and-eur-3-million-seized"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/international-drug-network-dismantled-24-arrests-and-eur-3-million-seized",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-it-al-drug-trafficking-case4.png",
+      "field_list_image_1": "hands in handcuffs",
+      "summary": "A five-year investigation involving decrypted messages, phone interceptions and controlled deliveries has resulted in the arrest of 24 members of an international drug trafficking network. The group, which is based in Albania and Italy, is suspected of having trafficked over 1 300 kg of cocaine directly from South America through northern European ports to Italy. Italian, French, Albanian and Swiss authorities worked together with Eurojust and Europol during the investigations and the coordinated actions.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A five-year investigation involving decrypted messages, phone interceptions and controlled deliveries has resulted in the arrest of 24 members of an international drug trafficking network. The group, which is based in Albania and Italy, is suspected of having trafficked over 1 300 kg of cocaine directly from South America through northern European ports to Italy. Italian, French, Albanian and Swiss authorities worked together with Eurojust and Europol during the investigations and the coordinated actions."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal network, primarily operating out of Albania with branches in Italy, imported cocaine directly from South America to major European ports via commercial shipping routes. Once in Europe, the drugs were transported to Italy concealed in trucks. Large quantities of drugs were stored in six warehouses across Italy, after which warehouse managers distributed the drugs further and collected the cash proceeds. To reach the top layers of the criminal network, money mules were used to transport the cash to Albania. It is suspected that these money mules were bus drivers on the Italy-\u2026"
+        }
+      ],
+      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        27,
+        12,
+        0,
+        0,
+        3,
+        331,
+        0
+      ],
+      "id": "018241f2-268a-4f0d-8dcc-8bd7dab9b897",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Western Balkan prosecutors and law enforcement tackle environmental crime during Paris study visit",
       "title_detail": {
@@ -297,96 +447,6 @@
       ]
     },
     {
-      "title": "Smuggling network moving nearly 900 migrants dismantled",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Smuggling network moving nearly 900 migrants dismantled"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
-      "field_list_image_1": "Truck on the road",
-      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
-        }
-      ],
-      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        14,
-        12,
-        0,
-        0,
-        4,
-        318,
-        0
-      ],
-      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Search",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Large methamphetamine network dismantled",
       "title_detail": {
         "type": "text/plain",
@@ -477,51 +537,51 @@
       ]
     },
     {
-      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title": "Smuggling network moving nearly 900 migrants dismantled",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+        "value": "Smuggling network moving nearly 900 migrants dismantled"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
+      "field_list_image_1": "Truck on the road",
+      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
         }
       ],
-      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
         11,
-        13,
+        14,
         12,
         0,
         0,
-        3,
-        317,
+        4,
+        318,
         0
       ],
-      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
       "guidislink": false,
       "tags": [
         {
@@ -535,8 +595,33 @@
           "label": null
         },
         {
-          "term": "Joint investigation teams",
+          "term": "European Investigation Order",
           "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -637,6 +722,71 @@
       ]
     },
     {
+      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust delegation visits Cairo to bolster judicial cooperation with Egypt",
       "title_detail": {
         "type": "text/plain",
@@ -687,71 +837,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Criminals producing devices that unlock cars arrested in international operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals producing devices that unlock cars arrested in international operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
-      "field_list_image_1": "car key",
-      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
-        }
-      ],
-      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        11,
-        12,
-        0,
-        0,
-        1,
-        315,
-        0
-      ],
-      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Robbery",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -827,6 +912,71 @@
         {
           "term": "IMPNA",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Criminals producing devices that unlock cars arrested in international operation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals producing devices that unlock cars arrested in international operation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
+      "field_list_image_1": "car key",
+      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
+        }
+      ],
+      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        11,
+        12,
+        0,
+        0,
+        1,
+        315,
+        0
+      ],
+      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1350,6 +1500,96 @@
       "guidislink": false
     },
     {
+      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
+      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
+        }
+      ],
+      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        21,
+        12,
+        0,
+        0,
+        1,
+        294,
+        0
+      ],
+      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Sport-related crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
       "title_detail": {
         "type": "text/plain",
@@ -1480,96 +1720,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
-      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
-        }
-      ],
-      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        21,
-        12,
-        0,
-        0,
-        1,
-        294,
-        0
-      ],
-      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Sport-related crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1960,6 +2110,66 @@
       ]
     },
     {
+      "title": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/consultative-forum-2025.jpg",
+      "field_list_image_1": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
+      "summary": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on the 19th Consultative Forum, Eurojust President Mr Michael Schmid emphasised: The Consultative Forum is a crucial meeting for us. It allows the highest representatives of national judicial authorities to come together, discuss different crime threats and give guidance on our work. Eurojust couldn\u2019t be more pleased to have hosted the Prosecutors General from the EU Member States as well as representatives from Europol and the European Public Prosecutor\u2019s Office. It was an honour, as well, to have received Mr Ruslan Kravchenko, Prosecutor General of Ukraine, to review work on our\u2026"
+        }
+      ],
+      "published": "Fri, 03 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        3,
+        12,
+        0,
+        0,
+        4,
+        276,
+        0
+      ],
+      "id": "85753efb-8966-4dce-957a-0e228c3c6add",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "International human trafficking ring rolled up in Albania and Colombia",
       "title_detail": {
         "type": "text/plain",
@@ -2035,64 +2245,52 @@
       ]
     },
     {
-      "title": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
+      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum"
+        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eu-prosecutors-discuss-organised-crime-and-war-ukraine-19th-consultative-forum",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/consultative-forum-2025.jpg",
-      "field_list_image_1": "EU Prosecutors General discuss organised crime and judicial efforts regarding the war in Ukraine at 19th Consultative Forum",
-      "summary": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
+      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
+      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 19th annual Consultative Forum of Prosecutors General of the EU Member States has been largely dedicated this year to the continued fight against organised crime. This included a discussion on the so-called \u2018Crime as a Service\u2019 method, or putting up criminal activities for tender. A second major topic was the state of play on the ongoing judicial efforts regarding the war in Ukraine.The forum, which took place yesterday and today, was hosted by Eurojust and enabled the exchange of a wide range of information and best practices. It was chaired by the Deputy Prosecutor General of Poland and the Danish Director of Public Prosecutions, representing the two countries holding the EU Presidency this year."
+        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on the 19th Consultative Forum, Eurojust President Mr Michael Schmid emphasised: The Consultative Forum is a crucial meeting for us. It allows the highest representatives of national judicial authorities to come together, discuss different crime threats and give guidance on our work. Eurojust couldn\u2019t be more pleased to have hosted the Prosecutors General from the EU Member States as well as representatives from Europol and the European Public Prosecutor\u2019s Office. It was an honour, as well, to have received Mr Ruslan Kravchenko, Prosecutor General of Ukraine, to review work on our\u2026"
+          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
         }
       ],
-      "published": "Fri, 03 Oct 2025 14:00:00 +0200",
+      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         10,
-        3,
+        2,
         12,
         0,
         0,
-        4,
-        276,
+        3,
+        275,
         0
       ],
-      "id": "85753efb-8966-4dce-957a-0e228c3c6add",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
+      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
+      "guidislink": false
     },
     {
       "title": "Prosecutors and Eurojust prepare for upcoming Special Tribunal for the Crime of Aggression against Ukraine",
@@ -2160,54 +2358,6 @@
       ]
     },
     {
-      "title": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust Vice-President attends 17th Meeting of GCC Public Prosecutors in Kuwait"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-vice-president-attends-17th-meeting-gcc-public-prosecutors-kuwait",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/kuwait1.png",
-      "field_list_image_1": "Eurojust Vice-President attends 17th Meeting of GGC Public Prosecutors in Kuwait",
-      "summary": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 2 October, Eurojust Vice-President Jos\u00e9 de la Mata attended the opening session of the 17th meeting of Public Prosecutors, hosted by the Gulf Cooperation Council (GCC) in Kuwait. His attendance underscores Eurojust's commitment to strengthen international cooperation against global crime, particularly with its GCC partners. On the sidelines of the event, Eurojust held bilateral meetings with the Attorney Generals of the GCC states."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The GCC, comprising of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE), is a vital partner in the fight against transnational organised crime. In May 2025, Eurojust hosted a two-day meeting with GCC representatives to further enhance cooperation and promote international justice.The Agency has made it a strategic priority to strengthen its ties with regional networks as well as international organisations and unions, such as the GCC. These organisations play an increasingly important role in facilitating international judicial cooperation. By partnering with\u2026"
-        }
-      ],
-      "published": "Thu, 02 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        2,
-        12,
-        0,
-        0,
-        3,
-        275,
-        0
-      ],
-      "id": "9274c021-b78d-4c39-9073-b46b0357a0b7",
-      "guidislink": false
-    },
-    {
       "title": "Eurojust brings key stakeholders together for exchange on EU e-Evidence Package",
       "title_detail": {
         "type": "text/plain",
@@ -2263,66 +2413,6 @@
         {
           "term": "Sirius",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
-      "field_list_image_1": "Group picture with all participants",
-      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
-        }
-      ],
-      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        30,
-        12,
-        0,
-        0,
-        1,
-        273,
-        0
-      ],
-      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2387,6 +2477,66 @@
         },
         {
           "term": "Council of Europe",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint EJOCN-EL PACCTO 2.0 event supports European and Latin American prosecutors in intensifying cooperation to disrupt drug trafficking routes through ports"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-ejocn-el-paccto-20-event-supports-european-and-latin-american-prosecutors-intensifying",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20250929-ejocn-el-paccto-meeting.jpg",
+      "field_list_image_1": "Group picture with all participants",
+      "summary": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Organised Crime Network (EJOCN) and EL PACCTO 2.0 held a bi-regional meeting of prosecutors on drug trafficking investigations in ports at Eurojust headquarters in The Hague on 29-30 September 2025. The event, which was attended by prosecutors from EU and Latin American countries, aimed to share expertise and develop mutually supportive strategies to tackle drug trafficking via ports by organised criminal groups."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EU's seaports continue to be the main gateway for illicit drugs, with over 1,800 tonnes intercepted between 2019 and 2024. Although enhanced security measures have led to a decline in seizures at major ports, criminal organisations are evolving their tactics, employing new concealment methods and rerouting shipments to alternative ports and routes. As a result, it is essential to enhance cooperation and information sharing among law enforcement agencies and judicial authorities to keep track with the highly adaptable criminal groups.To this end, the current focus of the EJOCN, based at\u2026"
+        }
+      ],
+      "published": "Tue, 30 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        30,
+        12,
+        0,
+        0,
+        1,
+        273,
+        0
+      ],
+      "id": "ab412c4f-4924-448a-87c2-b6ab71b90d83",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJOCN",
           "scheme": "Partner",
           "label": null
         }
@@ -2713,66 +2863,6 @@
       ]
     },
     {
-      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
-      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
-      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
-        }
-      ],
-      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        22,
-        12,
-        0,
-        0,
-        0,
-        265,
-        0
-      ],
-      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases",
       "title_detail": {
         "type": "text/plain",
@@ -2833,6 +2923,66 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Mr Filippo Spiezia takes up new mandate as National Member for Italy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia takes up new mandate as National Member for Italy"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/mr-filippo-spiezia-takes-new-mandate-national-member-italy",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-filippo-spiezia-national-member-for-italy-web-2.jpg",
+      "field_list_image_1": "Mr Filippo Spiezia National Member for Italy",
+      "summary": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Filippo Spiezia (62) returns to Eurojust as National Member for Italy, after a two-year mandate as Head Public Prosecutor of Florence. Mr Spiezia is a well-experienced Italian magistrate with extensive expertise as an anti-mafia and counter-terrorism prosecutor and a legal specialist in cross-border judicial cooperation. Between 2016 and 2023, he was also the National Member for Italy at Eurojust. During this period, he was also Vice-President of the Agency from 2016 until 2020."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on his new mandate at Eurojust, Mr Spiezia said: \u2018I am honoured to return to Eurojust as the Italian member after two enriching years of experience as the Chief Prosecutor at the Florence Public Prosecutor\u2019s Office. I look forward to continuing our collaborative efforts in strengthening judicial cooperation across Europe. As we face new challenges ahead, such as the digitalisation of justice and the fight against global crime, I am eager to work closely with my esteemed colleagues at Eurojust and the Italian Desk to ensure justice is served efficiently and effectively.\u2019Eurojust is\u2026"
+        }
+      ],
+      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        22,
+        12,
+        0,
+        0,
+        0,
+        265,
+        0
+      ],
+      "id": "efd6d2d3-2500-4f8f-a28d-d5e58e0a1c3f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3498,81 +3648,6 @@
       ]
     },
     {
-      "title": "Alleged perpetrator of sending thousands of threatening emails to schools in Czech Republic, Slovakia and Latvia apprehended",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Alleged perpetrator of sending thousands of threatening emails to schools in Czech Republic, Slovakia and Latvia apprehended"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/perpetrator-sending-thousands-threatening-emails-schools-czech-republic-slovakia-and-latvia"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/perpetrator-sending-thousands-threatening-emails-schools-czech-republic-slovakia-and-latvia",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/apprehension-suspect.png",
-      "field_list_image_1": "Apphrension alleged perpatrator",
-      "summary": "Eurojust has assisted the authorities in the Czech Republic, Slovakia and Latvia with the apprehension of the alleged perpetrator who was responsible for sending thousands of emails in September last year threatening schools with explosions. The mass threats, which were also sent to other educational institutions and leisure centres, caused major public concern and led to the suspension of classes at the beginning of the school year.Eurojust supported the national authorities involved by setting up a joint investigation team (JIT) dedicated to the case, as well as providing additional cross-border judicial support.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has assisted the authorities in the Czech Republic, Slovakia and Latvia with the apprehension of the alleged perpetrator who was responsible for sending thousands of emails in September last year threatening schools with explosions. The mass threats, which were also sent to other educational institutions and leisure centres, caused major public concern and led to the suspension of classes at the beginning of the school year.Eurojust supported the national authorities involved by setting up a joint investigation team (JIT) dedicated to the case, as well as providing additional cross-border judicial support."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The alleged perpetrator also used the social network Telegram to spread his threats. He was apprehended in the Ukrainian city of Dnipro last week but was released pending potential further steps to be taken by the authorities.\u00a9 Dnipropetrovsk Regional Prosecutor\u2019s OfficeGiven the mass scale of the threats at the same time across three countries, the police authorities involved coordinated their investigations, assisted by the setting up of the JIT. The joint investigative efforts, using the cybercrime expertise of the police, led to the identification of an alleged perpetrator, operating from\u2026"
-        }
-      ],
-      "published": "Mon, 21 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        21,
-        12,
-        0,
-        0,
-        0,
-        202,
-        0
-      ],
-      "id": "efaa1999-cd00-4994-8494-b46e85d3469b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Slovakia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Operation targeting human trafficking and money laundering: 13  arrests in Romania and Netherlands",
       "title_detail": {
         "type": "text/plain",
@@ -3638,66 +3713,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and League of Arab States strengthen ties in fight against transnational crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and League of Arab States strengthen ties in fight against transnational crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-league-arab-states-strengthen-ties-fight-against-transnational-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-league-arab-states-strengthen-ties-fight-against-transnational-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-las-current-affairs-2.png",
-      "field_list_image_1": "Group picture",
-      "summary": "In a bid to strengthen their partnership against organised crime, the General Secretariat of the League of Arab States hosted, with the support of the EU-funded CTJUST project, a high-level workshop in Cairo, Egypt, on 16-17 July 2025. The two-day meeting convened experts from Eurojust, the Arab League, and Arab League Member States to explore strategies for reinforcing cooperation between the two regions.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In a bid to strengthen their partnership against organised crime, the General Secretariat of the League of Arab States hosted, with the support of the EU-funded CTJUST project, a high-level workshop in Cairo, Egypt, on 16-17 July 2025. The two-day meeting convened experts from Eurojust, the Arab League, and Arab League Member States to explore strategies for reinforcing cooperation between the two regions."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop's agenda featured in-depth discussions on the role of Eurojust, cooperation with non-EU countries, and the nuances of judicial cooperation between the Arab League and EU Member States. This exchange of expertise and ideas aimed to enhance collaboration in the fight against transnational crime.By strengthening judicial cooperation, the EU and the Arab region can more effectively address the complex challenges posed by transnational crime, ultimately contributing to regional security, economic stability, and good governance."
-        }
-      ],
-      "published": "Thu, 17 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        17,
-        12,
-        0,
-        0,
-        3,
-        198,
-        0
-      ],
-      "id": "538dc732-4bb0-4579-875b-23093c1ef4dd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
