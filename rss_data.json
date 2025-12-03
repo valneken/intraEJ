@@ -1,6 +1,146 @@
 {
-  "timestamp": "2025-12-03 12:27:17",
+  "timestamp": "2025-12-03 18:20:20",
   "entries": [
+    {
+      "title": "Criminal group responsible for theft of agricultural devices rolled up",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminal group responsible for theft of agricultural devices rolled up"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminal-group-responsible-theft-agricultural-devices-rolled"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminal-group-responsible-theft-agricultural-devices-rolled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/argicultural-devices-theft.png",
+      "field_list_image_1": "Picture of agricultural device",
+      "summary": "French and Lithuanian authorities worked together with Eurojust and Europol to dismantle a criminal group that stole agricultural GPS equipment and exported it abroad, specifically to Lithuania and the United States. During actions in Lithuania, five suspects were arrested, four of whom are expected to be surrendered to France. The group is suspected of stealing more than 150 devices, causing damage of up to EUR 2.5 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French and Lithuanian authorities worked together with Eurojust and Europol to dismantle a criminal group that stole agricultural GPS equipment and exported it abroad, specifically to Lithuania and the United States. During actions in Lithuania, five suspects were arrested, four of whom are expected to be surrendered to France. The group is suspected of stealing more than 150 devices, causing damage of up to EUR 2.5 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations into the thefts started when authorities noticed a rise in the number of stolen agricultural GPS devices in the Occitanie region of France. The valuable devices are installed on equipment such as tractors. By tracking the teams of thieves behind the thefts and the export routes used for the equipment, investigators uncovered a mobile criminal network originating from Lithuania.To start working with investigators from Lithuania, close cooperation was set up through Eurojust. Prosecutors working on the investigation came together with the Agency in The Hague to plan an action day\u2026"
+        }
+      ],
+      "published": "Wed, 03 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        3,
+        12,
+        0,
+        0,
+        2,
+        337,
+        0
+      ],
+      "id": "caac8d30-272f-43eb-bb37-f45ab6025ebe",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "International investigation into insider trading related to IT company",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "International investigation into insider trading related to IT company"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/international-investigation-insider-trading-related-it-company"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/international-investigation-insider-trading-related-it-company",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/manipulating-trading.png",
+      "field_list_image_1": "Artistic image",
+      "summary": "Searches took place in Switzerland, Germany and the United Kingdom as part of an investigation into insider trading involving five suspects. The suspects allegedly benefited from confidential, price-sensitive information relating to a listed international IT company based in Switzerland. Authorities are not investigating the company itself.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Searches took place in Switzerland, Germany and the United Kingdom as part of an investigation into insider trading involving five suspects. The suspects allegedly benefited from confidential, price-sensitive information relating to a listed international IT company based in Switzerland. Authorities are not investigating the company itself."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The five individuals, who allegedly held senior positions at the time, are suspected of selling large volumes of their company\u2019s shares based on confidential information, potentially avoiding financial losses of up to EUR 2.6 million. They sold large quantities of their shares before the company published two pre-market press releases that would negatively impact the company\u2019s share price.As the suspects and their offices were located in Switzerland, Germany and the United Kingdom, the authorities needed to collaborate closely to exchange information and organise follow-up actions. Through\u2026"
+        }
+      ],
+      "published": "Wed, 03 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        3,
+        12,
+        0,
+        0,
+        2,
+        337,
+        0
+      ],
+      "id": "16e8bc60-f0de-4544-8ef0-62368966fae8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Cryptocurrency mixing service used to launder money taken down",
       "title_detail": {
@@ -917,6 +1057,71 @@
       ]
     },
     {
+      "title": "Criminals producing devices that unlock cars arrested in international operation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Criminals producing devices that unlock cars arrested in international operation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
+      "field_list_image_1": "car key",
+      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
+        }
+      ],
+      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        11,
+        12,
+        0,
+        0,
+        1,
+        315,
+        0
+      ],
+      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Robbery",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Final Swedish judgment of 12 years imprisonment in first-ever case against genocide through transfer of children",
       "title_detail": {
         "type": "text/plain",
@@ -992,66 +1197,61 @@
       ]
     },
     {
-      "title": "Criminals producing devices that unlock cars arrested in international operation",
+      "title": "Special training in Albania equips investigators, prosecutors and judges to trace and prosecute crypto crimes",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals producing devices that unlock cars arrested in international operation"
+        "value": "Special training in Albania equips investigators, prosecutors and judges to trace and prosecute crypto crimes"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
+          "href": "https://www.eurojust.europa.eu/news/special-training-albania-equips-investigators-prosecutors-and-judges-trace-and-prosecute-crypto-crimes"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
-      "field_list_image_1": "car key",
-      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
+      "link": "https://www.eurojust.europa.eu/news/special-training-albania-equips-investigators-prosecutors-and-judges-trace-and-prosecute-crypto-crimes",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-training-tirana-web-1.jpeg",
+      "field_list_image_1": "WBCJ project training",
+      "summary": "The Western Balkans Criminal Justice project (WBCJ), in cooperation with the European Judicial Cybercrime Network (EJCN), organised a specialised training on investigating and prosecuting crimes involving crypto-assets this week in Tirana.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
+        "value": "The Western Balkans Criminal Justice project (WBCJ), in cooperation with the European Judicial Cybercrime Network (EJCN), organised a specialised training on investigating and prosecuting crimes involving crypto-assets this week in Tirana."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
+          "value": "The two-day training aimed to strengthen the capacities of investigators and prosecutors from Albania\u2019s Special Structure against Corruption and Organised Crime (SPAK) and judges from the Special Courts of First Instance and Appeal for Corruption and Organised Crime in addressing the growing challenges posed by the criminal use of crypto-assets.The training featured presentations from two of Europe\u2019s leading experts in the field of cybercrime and crypto-asset investigations. Their extensive hands-on experience and in-depth knowledge provided participants with valuable insights into practical\u2026"
         }
       ],
-      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
+      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
         11,
-        11,
+        6,
         12,
         0,
         0,
-        1,
-        315,
+        3,
+        310,
         0
       ],
-      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
+      "id": "38affede-eed8-4d6a-b923-24451638be78",
       "guidislink": false,
       "tags": [
         {
-          "term": "Robbery",
-          "scheme": "Crime type",
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         },
         {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1117,66 +1317,6 @@
         {
           "term": "JITs Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Special training in Albania equips investigators, prosecutors and judges to trace and prosecute crypto crimes",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Special training in Albania equips investigators, prosecutors and judges to trace and prosecute crypto crimes"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/special-training-albania-equips-investigators-prosecutors-and-judges-trace-and-prosecute-crypto-crimes"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/special-training-albania-equips-investigators-prosecutors-and-judges-trace-and-prosecute-crypto-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-project-training-tirana-web-1.jpeg",
-      "field_list_image_1": "WBCJ project training",
-      "summary": "The Western Balkans Criminal Justice project (WBCJ), in cooperation with the European Judicial Cybercrime Network (EJCN), organised a specialised training on investigating and prosecuting crimes involving crypto-assets this week in Tirana.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice project (WBCJ), in cooperation with the European Judicial Cybercrime Network (EJCN), organised a specialised training on investigating and prosecuting crimes involving crypto-assets this week in Tirana."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day training aimed to strengthen the capacities of investigators and prosecutors from Albania\u2019s Special Structure against Corruption and Organised Crime (SPAK) and judges from the Special Courts of First Instance and Appeal for Corruption and Organised Crime in addressing the growing challenges posed by the criminal use of crypto-assets.The training featured presentations from two of Europe\u2019s leading experts in the field of cybercrime and crypto-asset investigations. Their extensive hands-on experience and in-depth knowledge provided participants with valuable insights into practical\u2026"
-        }
-      ],
-      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        6,
-        12,
-        0,
-        0,
-        3,
-        310,
-        0
-      ],
-      "id": "38affede-eed8-4d6a-b923-24451638be78",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1575,96 +1715,6 @@
       "guidislink": false
     },
     {
-      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
-      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
-      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
-        }
-      ],
-      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        21,
-        12,
-        0,
-        0,
-        1,
-        294,
-        0
-      ],
-      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Sport-related crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Over 1 000 years\u2019 imprisonment for mafia members following largest ever action against Italian organised crime",
       "title_detail": {
         "type": "text/plain",
@@ -1795,6 +1845,96 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Match fixing in tennis stopped with Eurojust\u2019s support"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/match-fixing-tennis-stopped-eurojusts-support",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web.png",
+      "field_list_image_1": "Match fixing in tennis stopped with Eurojust\u2019s support",
+      "summary": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French, Bulgarian, Spanish, and Romanian authorities have halted a criminal group that set up an intricate match-fixing system for tennis matches. The group ensured large profits for their clients by arranging the winners of the matches between 2018 and 2024. During an action day, authorities arrested 15 suspects in France, Bulgaria, Romania and Spain and conducted searches to collect evidence."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Suspicions of match fixing arose when higher-ranked players were defeated and also missed strategically important points during matches. Cross-checking other matches and players, as well as reviewing alerts from international sports betting companies, revealed a link between the matches. As the majority of the bets were placed on the same players losing a set or match, suspicions of match fixing continued to grow.As investigations continued, authorities discovered that some bettors had only created accounts for the targeted bets. They also discovered that bets were placed simultaneously\u2026"
+        }
+      ],
+      "published": "Tue, 21 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        21,
+        12,
+        0,
+        0,
+        1,
+        294,
+        0
+      ],
+      "id": "4ac18951-4627-4d6f-bf12-fa2f69eb280e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Sport-related crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2035,66 +2175,6 @@
       ]
     },
     {
-      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
-      "field_list_image_1": "Prosecutors General of the Balkan States",
-      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
-        }
-      ],
-      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        7,
-        12,
-        0,
-        0,
-        1,
-        280,
-        0
-      ],
-      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated action to arrest gang members stealing over one hundred luxury cars across Europe",
       "title_detail": {
         "type": "text/plain",
@@ -2180,6 +2260,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
+      "field_list_image_1": "Prosecutors General of the Balkan States",
+      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+        }
+      ],
+      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        7,
+        12,
+        0,
+        0,
+        1,
+        280,
+        0
+      ],
+      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3552,161 +3692,6 @@
         },
         {
           "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust assistance",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action against ATM fraud in Romania and UK stopped by joint investigation team with Eurojust assistance"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-assistance"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-against-atm-fraud-romania-and-uk-stopped-joint-investigation-team-eurojust-assistance",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-ro-uk-case-atm.png",
-      "field_list_image_1": "POS terminal",
-      "summary": "Authorities in Romania and the United Kingdom have taken concerted action to block criminals who illegally withdrew cash from automated teller machines (ATMs) on a large scale. By using specialised computer programs and devices, the Romanian criminal network managed to steal an estimated EUR 580 000. The criminal group was also involved in other types of payment and card fraud.During an operation in Romania, two suspects were identified and brought in for questioning. In the UK, prosecutions have already been initiated against eight members of the group, following an action day in December 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities in Romania and the United Kingdom have taken concerted action to block criminals who illegally withdrew cash from automated teller machines (ATMs) on a large scale. By using specialised computer programs and devices, the Romanian criminal network managed to steal an estimated EUR 580 000. The criminal group was also involved in other types of payment and card fraud.During an operation in Romania, two suspects were identified and brought in for questioning. In the UK, prosecutions have already been initiated against eight members of the group, following an action day in December 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u00a9 DIICOT Poli\u021bia Rom\u00e2n\u0103Eurojust supported ajoint investigation team of the Romanian and British authorities, which investigated the case. The Agency also assisted with the preparation of the action day in Romania. Europol provided data analysis support, in addition to sending an analyst to Romania and organising meetings to prepare for the operations on the ground.The criminal network was formed last year in the Romanian city of Bac\u0103u, mainly consisting of family members and friends. They adopted a derogatory term aimed at the police as their so-called trademark, which they used on\u2026"
-        }
-      ],
-      "published": "Thu, 24 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        24,
-        12,
-        0,
-        0,
-        3,
-        205,
-        0
-      ],
-      "id": "0dc5c2e8-24a8-4671-84d7-7b3e64809d4f",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "New operation to uncover fake paintings supported by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "New operation to uncover fake paintings supported by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/new-operation-uncover-fake-paintings-supported-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/new-operation-uncover-fake-paintings-supported-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/fake-art.jpg",
-      "field_list_image_1": "Fake art",
-      "summary": "Following a successful major operation in November 2024 to uncover fake paintings, Eurojust has supported the Italian authorities with a new action to retrieve over one hundred false artworks worldwide. In this recent operation, 104 forged paintings of Picasso, Edvard Munch and Paul Klee were seized and brought to Italy. Eurojust assisted with the execution of European Investigation Orders to Germany and Spain, in order to retrieve the fake artworks and prevent them from being sold in auctions.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Following a successful major operation in November 2024 to uncover fake paintings, Eurojust has supported the Italian authorities with a new action to retrieve over one hundred false artworks worldwide. In this recent operation, 104 forged paintings of Picasso, Edvard Munch and Paul Klee were seized and brought to Italy. Eurojust assisted with the execution of European Investigation Orders to Germany and Spain, in order to retrieve the fake artworks and prevent them from being sold in auctions."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In 2022, the Italian Carabinieri\u2019s specialised Command for the Protection of Cultural Heritage started investigations into a specific group of forgers, who counterfeited works of the three painters. The Italian-based culprits used a special graphic design program to print images of the originals on matrices. These were then printed on paper with falsified watermarks and copied signatures of the painters.To give the fakes a semblance of authenticity, the paper for the prints underwent artificial ageing treatments through coffee or tea baths. Accompanied by forged certificates of free\u2026"
-        }
-      ],
-      "published": "Wed, 23 Jul 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        7,
-        23,
-        12,
-        0,
-        0,
-        2,
-        204,
-        0
-      ],
-      "id": "d8496ad2-11a5-46f1-a654-63266d7b8e17",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Counterfeiting",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
           "scheme": "Member State",
           "label": null
         },
