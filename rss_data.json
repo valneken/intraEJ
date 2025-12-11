@@ -1,76 +1,6 @@
 {
-  "timestamp": "2025-12-11 12:28:33",
+  "timestamp": "2025-12-11 18:18:18",
   "entries": [
-    {
-      "title": "Joint investigation team at Eurojust brings juvenile murder suspects to court",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint investigation team at Eurojust brings juvenile murder suspects to court"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-eurojust-brings-juvenile-murder-suspects-court"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-eurojust-brings-juvenile-murder-suspects-court",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-it-sl-murder-case.png",
-      "field_list_image_1": "hands in handcuffs",
-      "summary": "A three-year, complex cross-border investigation into the murder of a 26-year-old man has been concluded by a joint investigation team (JIT) of Italian and Slovenian authorities coordinated by Eurojust. Two Italian suspects, who were minors at the time of the murder, are facing criminal proceedings after DNA analysis in both countries confirmed a match between the biological traces and the two individuals.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A three-year, complex cross-border investigation into the murder of a 26-year-old man has been concluded by a joint investigation team (JIT) of Italian and Slovenian authorities coordinated by Eurojust. Two Italian suspects, who were minors at the time of the murder, are facing criminal proceedings after DNA analysis in both countries confirmed a match between the biological traces and the two individuals."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 11 January 2022, a passer-by discovered a lifeless body in a border area between Gorizia, Italy and Nova Gorica, Slovenia. The passer-by alerted Italian emergency services, and as the body was found a few metres beyond the Slovenian border, Slovenian authorities were immediately involved. Initial investigations revealed that the death had occurred the previous evening and was caused by multiple stab wounds. In the meantime, Italian and Slovenian authorities started focusing their investigation on two Italian juvenile suspects with no prior criminal records.As authorities initiated a\u2026"
-        }
-      ],
-      "published": "Thu, 11 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        11,
-        12,
-        0,
-        0,
-        3,
-        345,
-        0
-      ],
-      "id": "eb825e58-03e8-4108-9c09-206c6bb4ce65",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Slovenia",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
     {
       "title": "Cincuenta jurisdicciones, un objetivo: Eurojust re\u00fane a fiscales de todo el mundo para luchar contra la delincuencia organizada",
       "title_detail": {
@@ -762,6 +692,61 @@
       ]
     },
     {
+      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
+      "field_list_image_1": "target over map",
+      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
+        }
+      ],
+      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        27,
+        12,
+        0,
+        0,
+        3,
+        331,
+        0
+      ],
+      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "International drug network dismantled: 24 arrests and EUR 3 million seized",
       "title_detail": {
         "type": "text/plain",
@@ -852,61 +837,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
-      "field_list_image_1": "target over map",
-      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
-        }
-      ],
-      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        27,
-        12,
-        0,
-        0,
-        3,
-        331,
-        0
-      ],
-      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2720,66 +2650,6 @@
       ]
     },
     {
-      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
-      "field_list_image_1": "Prosecutors General of the Balkan States",
-      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
-        }
-      ],
-      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        7,
-        12,
-        0,
-        0,
-        1,
-        280,
-        0
-      ],
-      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Coordinated action to arrest gang members stealing over one hundred luxury cars across Europe",
       "title_detail": {
         "type": "text/plain",
@@ -2865,6 +2735,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
+      "field_list_image_1": "Prosecutors General of the Balkan States",
+      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+        }
+      ],
+      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        7,
+        12,
+        0,
+        0,
+        1,
+        280,
+        0
+      ],
+      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3743,6 +3673,71 @@
         {
           "term": "Italy",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkans Criminal Justice project and EUIPO join forces against IP crime at Alicante meetings",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkans Criminal Justice project and EUIPO join forces against IP crime at Alicante meetings"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-and-euipo-join-forces-against-ip-crime-alicante"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkans-criminal-justice-project-and-euipo-join-forces-against-ip-crime-alicante",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ip-crime-wbcj-project.jpeg",
+      "field_list_image_1": "IP Crime WBCJ Project meeting",
+      "summary": "On 10 September 2025, the Western Balkans Criminal Justice (WBCJ) project organised a workshop for prosecutors and investigators from the Western Balkans, Moldova and Ukraine on investigating and prosecuting intellectual property (IP) crime across borders. The event took place in Alicante, Spain and was organised in partnership with the EU4IP project, implemented by the European Union Intellectual Property Office (EUIPO).",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 10 September 2025, the Western Balkans Criminal Justice (WBCJ) project organised a workshop for prosecutors and investigators from the Western Balkans, Moldova and Ukraine on investigating and prosecuting intellectual property (IP) crime across borders. The event took place in Alicante, Spain and was organised in partnership with the EU4IP project, implemented by the European Union Intellectual Property Office (EUIPO)."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop was followed by the 12th European Intellectual Property Prosecutors Network (EIPPN) Workshop organised by the European Observatory on Infringements of Intellectual Property Rights on 11 and 12 September, with the support of the WBCJ project.Bringing together prosecutors, investigators, and IP crime experts from the Western Balkans, Moldova, Ukraine and the EU, both events provided a platform to share good practices and strengthen judicial cooperation in the fight against IP crime and its links to organised criminal networks.During the WBCJ-led event on 10 September, participants\u2026"
+        }
+      ],
+      "published": "Fri, 12 Sep 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        9,
+        12,
+        12,
+        0,
+        0,
+        4,
+        255,
+        0
+      ],
+      "id": "013e5518-ce7e-4493-bbb9-7d84602a3e2f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Intellectual property crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "IPC Project",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
