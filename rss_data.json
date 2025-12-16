@@ -1,6 +1,96 @@
 {
-  "timestamp": "2025-12-16 12:28:10",
+  "timestamp": "2025-12-16 18:20:28",
   "entries": [
+    {
+      "title": "Fraudulent call centres in Ukraine rolled up",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Fraudulent call centres in Ukraine rolled up"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-ukraine-fraud-case.png",
+      "field_list_image_1": "police in action",
+      "summary": "Authorities from the Czech Republic, Latvia, Lithuania and Ukraine with the support of Eurojust took action against a criminal network operating call centres in Dnipro, Ivano-Frankivsk and Kyiv, Ukraine that scammed victims across Europe. The criminal group established a professional organisation with employees who received a percentage of the proceeds for each completed scam. The estimated damage to more than 400 known victims is over EUR10million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities from the Czech Republic, Latvia, Lithuania and Ukraine with the support of Eurojust took action against a criminal network operating call centres in Dnipro, Ivano-Frankivsk and Kyiv, Ukraine that scammed victims across Europe. The criminal group established a professional organisation with employees who received a percentage of the proceeds for each completed scam. The estimated damage to more than 400 known victims is over EUR10million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The fraudsters used various scams, such as posing as police officers to withdraw money using their victims\u2019 cards and details, or pretending that their victims\u2019 bank accounts had been hacked. They convinced their victims to transfer large sums of money from their \u2018compromised\u2019 bank accounts to \u2018safe\u2019 bank accounts controlled by the network. They also lured victims into downloading remote access software and entering their banking details, enabling the criminal group to access and control the victims\u2019 bank accounts.The criminal network recruited their employees from the Czech Republic,\u2026"
+        }
+      ],
+      "published": "Tue, 16 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        16,
+        12,
+        0,
+        0,
+        1,
+        350,
+        0
+      ],
+      "id": "c1e3da15-bb89-4bd8-9721-29c40ee4962e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Latvia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Second edition of WBCJ Winter Academy prepares next generation of Western Balkans prosecutors and judges",
       "title_detail": {
@@ -1052,66 +1142,6 @@
       ]
     },
     {
-      "title": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/lady-justice.jpg",
-      "field_list_image_1": "Lady justice",
-      "summary": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Key discussions at the meeting centred on how open source information (OSI), satellite imagery, and 3D modelling tools are transforming the documentation and investigation of large-scale atrocities. In conflict zones where access is often restricted, digital platforms and social media can serve as vital sources of evidence. During the meeting, case studies were presented to illustrate how visualisation technologies could enhance judicial understanding of complex events. However, participants also acknowledged significant hurdles, from verifying the authenticity and reliability of digital data\u2026"
-        }
-      ],
-      "published": "Thu, 20 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        20,
-        12,
-        0,
-        0,
-        3,
-        324,
-        0
-      ],
-      "id": "72395873-3b8d-44b6-a953-6c71bd320d74",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Criminal group dismantled who stole over 7 000 artefacts",
       "title_detail": {
         "type": "text/plain",
@@ -1222,6 +1252,66 @@
       ]
     },
     {
+      "title": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/lady-justice.jpg",
+      "field_list_image_1": "Lady justice",
+      "summary": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Key discussions at the meeting centred on how open source information (OSI), satellite imagery, and 3D modelling tools are transforming the documentation and investigation of large-scale atrocities. In conflict zones where access is often restricted, digital platforms and social media can serve as vital sources of evidence. During the meeting, case studies were presented to illustrate how visualisation technologies could enhance judicial understanding of complex events. However, participants also acknowledged significant hurdles, from verifying the authenticity and reliability of digital data\u2026"
+        }
+      ],
+      "published": "Thu, 20 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        20,
+        12,
+        0,
+        0,
+        3,
+        324,
+        0
+      ],
+      "id": "72395873-3b8d-44b6-a953-6c71bd320d74",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Authorities detain 19 suspects during major human trafficking operation",
       "title_detail": {
         "type": "text/plain",
@@ -1282,96 +1372,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Smuggling network moving nearly 900 migrants dismantled",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Smuggling network moving nearly 900 migrants dismantled"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
-      "field_list_image_1": "Truck on the road",
-      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
-        }
-      ],
-      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        14,
-        12,
-        0,
-        0,
-        4,
-        318,
-        0
-      ],
-      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Search",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1467,6 +1467,161 @@
       ]
     },
     {
+      "title": "Smuggling network moving nearly 900 migrants dismantled",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Smuggling network moving nearly 900 migrants dismantled"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
+      "field_list_image_1": "Truck on the road",
+      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
+        }
+      ],
+      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        14,
+        12,
+        0,
+        0,
+        4,
+        318,
+        0
+      ],
+      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Authorities continue to protect citizens from cybercriminals during major malware operation",
       "title_detail": {
         "type": "text/plain",
@@ -1557,71 +1712,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
-        }
-      ],
-      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        13,
-        12,
-        0,
-        0,
-        3,
-        317,
-        0
-      ],
-      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -2650,66 +2740,6 @@
       ]
     },
     {
-      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
-      "field_list_image_1": "Money Laundering Focus Group",
-      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
-        }
-      ],
-      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        16,
-        12,
-        0,
-        0,
-        3,
-        289,
-        0
-      ],
-      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Asset recovery",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal online gambling ring with sales of nearly EUR 1 billion busted",
       "title_detail": {
         "type": "text/plain",
@@ -2795,6 +2825,66 @@
         {
           "term": "Malta",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
+      "field_list_image_1": "Money Laundering Focus Group",
+      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
+        }
+      ],
+      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        16,
+        12,
+        0,
+        0,
+        3,
+        289,
+        0
+      ],
+      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Asset recovery",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -3698,71 +3788,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EuroMed Justice meeting in Crete paves way for stronger cooperation in migrant smuggling cases"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/euromed-justice-meeting-crete-paves-way-stronger-cooperation-migrant-smuggling-cases"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/euromed-justice-meeting-crete-paves-way-stronger-cooperation-migrant-smuggling-cases",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/tafms-grouppic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "Organised by the EuroMed Justice project together with the Eurojust Focus Group for Prosecutors on Migrant Smuggling, an operational meeting was held on 16-17 September in Crete, Greece, under the framework of the Technical Assistance Facility (TAF). The meeting aimed to enhance judicial cooperation between selected EU Member States and South Partner Countries (SPCs) in the fight against migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Organised by the EuroMed Justice project together with the Eurojust Focus Group for Prosecutors on Migrant Smuggling, an operational meeting was held on 16-17 September in Crete, Greece, under the framework of the Technical Assistance Facility (TAF). The meeting aimed to enhance judicial cooperation between selected EU Member States and South Partner Countries (SPCs) in the fight against migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Combating migrant smuggling is a key priority for the European Union and for SPCs in response to the rising number of incidents in the Mediterranean and other regions. The intricate and often international nature of these cases, which can involve multiple organised crime groups transporting individuals by land, air, or sea, underscores the need for close cooperation and collaboration to disrupt and dismantle these networks.This meeting brought together 16 participants from Europe and SPCs, including Algeria, Egypt, Israel, Lebanon, Morocco, and Palestine1. It featured a roundtable discussion\u2026"
-        }
-      ],
-      "published": "Mon, 22 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        22,
-        12,
-        0,
-        0,
-        0,
-        265,
-        0
-      ],
-      "id": "ba9c9d99-2510-41cb-a689-ea1e2d926cb6",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
