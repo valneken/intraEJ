@@ -1,6 +1,76 @@
 {
-  "timestamp": "2025-12-17 06:21:12",
+  "timestamp": "2025-12-17 12:27:53",
   "entries": [
+    {
+      "title": "Eurojust supports seizure of mafia assets worth EUR 40 million",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports seizure of mafia assets worth EUR 40 million"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-seizure-mafia-assets-worth-eur-40-million"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-seizure-mafia-assets-worth-eur-40-million",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-mafia-seizures-case.png",
+      "field_list_image_1": "house model and money",
+      "summary": "Italian and Romanian authorities have seized assets worth more than EUR40million from an individual suspected of being affiliated with mafia families. Eurojust ensured that the freezing happened simultaneously in both countries.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Italian and Romanian authorities have seized assets worth more than EUR40million from an individual suspected of being affiliated with mafia families. Eurojust ensured that the freezing happened simultaneously in both countries."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations into the Italian suspect, a former crown witness, exposed his ties to the Santapaola-Ercolano family and the Cappello Bonaccorsi clan. He was allegedly involved in laundering his own and mafia assets through assets purchased in his own name and in the names of his relatives. Betting and online gaming licences and shops in the provinces of Catania and Syracuse, Italy, as well as cryptocurrency, were used to launder significant amounts of illegal profits.Some of the assets, including real estate and cars, were purchased in Romania. As a result, Italian and Romanian\u2026"
+        }
+      ],
+      "published": "Wed, 17 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        17,
+        12,
+        0,
+        0,
+        2,
+        351,
+        0
+      ],
+      "id": "d61f3965-a89d-4c31-a903-662808e43a49",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Fraudulent call centres in Ukraine rolled up",
       "title_detail": {
@@ -3688,106 +3758,6 @@
         {
           "term": "Italy",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bitcoin-fraudster.png",
-      "field_list_image_1": "Artistic impression of fraudster in front of laptop",
-      "summary": "At the request of the Spanish and Portuguese authorities, Eurojust has coordinated a major operation across Europe to halt an elaborate investment fraud with cryptocurrencies. During an action day, five suspects were arrested, including the alleged main perpetrator behind the scam. Via an online investment platform, he defrauded over a hundred victims in Germany, France, Italy and Spain, among others, of at least EUR 100 million.During the joint action day, five places were searched in both Spain and Portugal, as well as in Italy, Romania and Bulgaria, where bank accounts and other financial assets were also frozen. The alleged main perpetrator is suspected of large-scale fraud and money laundering.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "At the request of the Spanish and Portuguese authorities, Eurojust has coordinated a major operation across Europe to halt an elaborate investment fraud with cryptocurrencies. During an action day, five suspects were arrested, including the alleged main perpetrator behind the scam. Via an online investment platform, he defrauded over a hundred victims in Germany, France, Italy and Spain, among others, of at least EUR 100 million.During the joint action day, five places were searched in both Spain and Portugal, as well as in Italy, Romania and Bulgaria, where bank accounts and other financial assets were also frozen. The alleged main perpetrator is suspected of large-scale fraud and money laundering."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The fraud had been running for several years, with the main suspect offering high returns on investments in various cryptocurrencies via professionally designed online platforms. Large parts of these investments were diverted mainly to bank accounts in Lithuania to launder the proceeds. Once victims tried to recover their investments, they were asked to pay additional fees, after which the website that was used for the fraud disappeared. Subsequently, the investors lost most or, in some cases, all of their money.Eurojust supported the setting up of a joint investigation team (JIT) between the\u2026"
-        }
-      ],
-      "published": "Tue, 23 Sep 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        9,
-        23,
-        12,
-        0,
-        0,
-        1,
-        266,
-        0
-      ],
-      "id": "1bead2b8-9f78-412b-a10e-84c76afef573",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Coordination meeting",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
