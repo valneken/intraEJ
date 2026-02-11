@@ -1,6 +1,86 @@
 {
-  "timestamp": "2026-02-11 06:21:44",
+  "timestamp": "2026-02-11 12:12:29",
   "entries": [
+    {
+      "title": "24 members of international drug trafficking group arrested",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "24 members of international drug trafficking group arrested"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/24-members-international-drug-trafficking-group-arrested"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/24-members-international-drug-trafficking-group-arrested",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/drug-trafficking-case.png",
+      "field_list_image_1": "Arrests",
+      "summary": "An organised crime group suspected of trafficking drugs to Iceland from across Europe and South America has been dismantled by Lithuanian, Spanish and Icelandic authorities, in cooperation with Eurojust and Europol. It is estimated that the group made over EUR 4 million in profits from their illicit activities. A coordinated operation led to the arrest of 24 of its members across five countries.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An organised crime group suspected of trafficking drugs to Iceland from across Europe and South America has been dismantled by Lithuanian, Spanish and Icelandic authorities, in cooperation with Eurojust and Europol. It is estimated that the group made over EUR 4 million in profits from their illicit activities. A coordinated operation led to the arrest of 24 of its members across five countries."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The group, based in Lithuania and Spain, is suspected of trafficking cocaine, MDMA, methamphetamine and ketamine from South America into Iceland and Lithuania. Once the drugs arrived in Iceland from Spain, the criminal group would distribute them further. They were able to move over 39 kilogrammes of cocaine, 5 100 MDMA tablets and 1 kilogramme of ketamine and methamphetamine. The illicit revenue coming from the drug trafficking was allegedly laundered through real estate and other properties in Lithuania.The network relied primarily on drug mules, usually people in vulnerable\u2026"
+        }
+      ],
+      "published": "Tue, 10 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        10,
+        12,
+        0,
+        0,
+        1,
+        41,
+        0
+      ],
+      "id": "7c0c59e5-8fa0-45a7-bde9-1ba207c5743a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Iceland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Action against EUR 306 million money laundering network",
       "title_detail": {
@@ -957,6 +1037,91 @@
       ]
     },
     {
+      "title": "Fifty jurisdictions, one goal: Eurojust unites prosecutors from around the world to fight organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Fifty jurisdictions, one goal: Eurojust unites prosecutors from around the world to fight organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fifty-jurisdictions-one-goal-eurojust-unites-prosecutors-around-world-fight-organised-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fifty-jurisdictions-one-goal-eurojust-unites-prosecutors-around-world-fight-organised-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251203-lac-wb-mena-session-01.jpg",
+      "field_list_image_1": "Fifty jurisdictions, one goal",
+      "summary": "Organised crime groups are operating on a global scale and evolving at an unprecedented pace, exploiting new technologies and geopolitical instability. These once-local groups are spanning continents and currencies, well beyond EU borders. To bring down globalised criminal networks effectively, Eurojust is scaling up its cooperation with judicial authorities outside the European Union.High-level representatives, including a minister and prosecutor generals from 50 jurisdictions representing Latin America, the Western Balkans, North Africa, the Middle East and the European Union convened to design strategic and operational actions to fight the threat of criminal groups. The event included the endorsement of a joint declaration and the signing of new Working Arrangements with the Dominican Republic, Paraguay and Uruguay enabling long-term structural cooperation with Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Organised crime groups are operating on a global scale and evolving at an unprecedented pace, exploiting new technologies and geopolitical instability. These once-local groups are spanning continents and currencies, well beyond EU borders. To bring down globalised criminal networks effectively, Eurojust is scaling up its cooperation with judicial authorities outside the European Union.High-level representatives, including a minister and prosecutor generals from 50 jurisdictions representing Latin America, the Western Balkans, North Africa, the Middle East and the European Union convened to design strategic and operational actions to fight the threat of criminal groups. The event included the endorsement of a joint declaration and the signing of new Working Arrangements with the Dominican Republic, Paraguay and Uruguay enabling long-term structural cooperation with Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Representatives from Albania, Algeria, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, Ecuador, Egypt, Israel, Lebanon, Libya, Montenegro, Morocco, North Macedonia, Panama, Palestine\u00b9, Paraguay, Peru, Serbia and Uruguay were present at the event along with the National Members representing EU Member States and Liaison Prosecutors stationed at Eurojust.Eurojust President Michael Schmid commented, According to law enforcement analysis, 76% of the most threatening criminal networks operate globally.\u00b2 To meet this challenge, Eurojust acts as a central gateway for\u2026"
+        }
+      ],
+      "published": "Mon, 08 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        8,
+        12,
+        0,
+        0,
+        0,
+        342,
+        0
+      ],
+      "id": "12c440f5-4518-4730-9525-fd7fb81dd608",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Montenegro",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "North Macedonia",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "\u062e\u0645\u0633\u0648\u0646 \u0648\u0644\u0627\u064a\u0629 \u0642\u0636\u0627\u0626\u064a\u0629 \u0648\u0647\u062f\u0641\u064c \u0648\u0627\u062d\u062f: Eurojust \u062a\u0648\u062d\u0651\u062f \u0627\u0644\u0645\u062f\u0639\u064a\u0646 \u0627\u0644\u0639\u0627\u0645\u064a\u0646 \u0645\u0646 \u062c\u0645\u064a\u0639 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
       "title_detail": {
         "type": "text/plain",
@@ -1127,91 +1292,6 @@
       ]
     },
     {
-      "title": "Fifty jurisdictions, one goal: Eurojust unites prosecutors from around the world to fight organised crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Fifty jurisdictions, one goal: Eurojust unites prosecutors from around the world to fight organised crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/fifty-jurisdictions-one-goal-eurojust-unites-prosecutors-around-world-fight-organised-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/fifty-jurisdictions-one-goal-eurojust-unites-prosecutors-around-world-fight-organised-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251203-lac-wb-mena-session-01.jpg",
-      "field_list_image_1": "Fifty jurisdictions, one goal",
-      "summary": "Organised crime groups are operating on a global scale and evolving at an unprecedented pace, exploiting new technologies and geopolitical instability. These once-local groups are spanning continents and currencies, well beyond EU borders. To bring down globalised criminal networks effectively, Eurojust is scaling up its cooperation with judicial authorities outside the European Union.High-level representatives, including a minister and prosecutor generals from 50 jurisdictions representing Latin America, the Western Balkans, North Africa, the Middle East and the European Union convened to design strategic and operational actions to fight the threat of criminal groups. The event included the endorsement of a joint declaration and the signing of new Working Arrangements with the Dominican Republic, Paraguay and Uruguay enabling long-term structural cooperation with Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Organised crime groups are operating on a global scale and evolving at an unprecedented pace, exploiting new technologies and geopolitical instability. These once-local groups are spanning continents and currencies, well beyond EU borders. To bring down globalised criminal networks effectively, Eurojust is scaling up its cooperation with judicial authorities outside the European Union.High-level representatives, including a minister and prosecutor generals from 50 jurisdictions representing Latin America, the Western Balkans, North Africa, the Middle East and the European Union convened to design strategic and operational actions to fight the threat of criminal groups. The event included the endorsement of a joint declaration and the signing of new Working Arrangements with the Dominican Republic, Paraguay and Uruguay enabling long-term structural cooperation with Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Representatives from Albania, Algeria, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, Ecuador, Egypt, Israel, Lebanon, Libya, Montenegro, Morocco, North Macedonia, Panama, Palestine\u00b9, Paraguay, Peru, Serbia and Uruguay were present at the event along with the National Members representing EU Member States and Liaison Prosecutors stationed at Eurojust.Eurojust President Michael Schmid commented, According to law enforcement analysis, 76% of the most threatening criminal networks operate globally.\u00b2 To meet this challenge, Eurojust acts as a central gateway for\u2026"
-        }
-      ],
-      "published": "Mon, 08 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        8,
-        12,
-        0,
-        0,
-        0,
-        342,
-        0
-      ],
-      "id": "12c440f5-4518-4730-9525-fd7fb81dd608",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "Albania",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Montenegro",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "North Macedonia",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Serbia",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Prison sentences of up to 15 years for migrant smugglers",
       "title_detail": {
         "type": "text/plain",
@@ -1312,66 +1392,6 @@
       ]
     },
     {
-      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
-      "field_list_image_1": "participants meeting",
-      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
-        }
-      ],
-      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        5,
-        12,
-        0,
-        0,
-        4,
-        339,
-        0
-      ],
-      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
       "title_detail": {
         "type": "text/plain",
@@ -1437,6 +1457,66 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
+      "field_list_image_1": "participants meeting",
+      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
+        }
+      ],
+      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        5,
+        12,
+        0,
+        0,
+        4,
+        339,
+        0
+      ],
+      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2622,71 +2702,6 @@
       ]
     },
     {
-      "title": "Criminals producing devices that unlock cars arrested in international operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals producing devices that unlock cars arrested in international operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
-      "field_list_image_1": "car key",
-      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
-        }
-      ],
-      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        11,
-        12,
-        0,
-        0,
-        1,
-        315,
-        0
-      ],
-      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Robbery",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Final Swedish judgment of 12 years imprisonment in first-ever case against genocide through transfer of children",
       "title_detail": {
         "type": "text/plain",
@@ -2762,66 +2777,66 @@
       ]
     },
     {
-      "title": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network",
+      "title": "Criminals producing devices that unlock cars arrested in international operation",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network"
+        "value": "Criminals producing devices that unlock cars arrested in international operation"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits"
+          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251106-jitsmeeting-president-speaking.png",
-      "field_list_image_1": "Eurojust President speaking at JITs meeting",
-      "summary": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF.",
+      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
+      "field_list_image_1": "car key",
+      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF."
+        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In his opening remarks, Eurojust President Michael Schmid highlighted the importance of these themes, stating: Both topics go to the very heart of what Eurojust stands for\u2014facilitating cooperation across borders, connecting practitioners, and ensuring that justice can keep pace with increasingly complex and global criminal phenomena.The meeting began with an update on the JITs Collaboration Platform, one of the key deliverables of Eurojust\u2019s Digital Criminal Justice Programme. This secure IT platform, developed by eu-LISA, will serve as a cornerstone for modern, fast, and traceable judicial\u2026"
+          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
         }
       ],
-      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
+      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
         11,
-        6,
+        11,
         12,
         0,
         0,
-        3,
-        310,
+        1,
+        315,
         0
       ],
-      "id": "755a5e35-9d87-4b25-b8f9-917bb55d1076",
+      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
       "guidislink": false,
       "tags": [
         {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
+          "term": "Robbery",
+          "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
+          "term": "France",
+          "scheme": "Member State",
           "label": null
         },
         {
-          "term": "JITs Network",
-          "scheme": "Partner",
+          "term": "Italy",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2882,6 +2897,71 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251106-jitsmeeting-president-speaking.png",
+      "field_list_image_1": "Eurojust President speaking at JITs meeting",
+      "summary": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In his opening remarks, Eurojust President Michael Schmid highlighted the importance of these themes, stating: Both topics go to the very heart of what Eurojust stands for\u2014facilitating cooperation across borders, connecting practitioners, and ensuring that justice can keep pace with increasingly complex and global criminal phenomena.The meeting began with an update on the JITs Collaboration Platform, one of the key deliverables of Eurojust\u2019s Digital Criminal Justice Programme. This secure IT platform, developed by eu-LISA, will serve as a cornerstone for modern, fast, and traceable judicial\u2026"
+        }
+      ],
+      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        6,
+        12,
+        0,
+        0,
+        3,
+        310,
+        0
+      ],
+      "id": "755a5e35-9d87-4b25-b8f9-917bb55d1076",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Digital Criminal Justice",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3087,6 +3167,66 @@
       ]
     },
     {
+      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
+      "field_list_image_1": "lady justice",
+      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
+        }
+      ],
+      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
+      "published_parsed": [
+        2025,
+        10,
+        24,
+        12,
+        0,
+        0,
+        4,
+        297,
+        0
+      ],
+      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Slovak\u2013Hungarian operation dismantles major drug trafficking network with support of Eurojust coordination centre: 22 arrests",
       "title_detail": {
         "type": "text/plain",
@@ -3167,66 +3307,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "6th EMJNet meeting advances judicial cooperation in drug trafficking cases"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/6th-emjnet-meeting-advances-judicial-cooperation-drug-trafficking-cases",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euromed-justice-gen.png",
-      "field_list_image_1": "lady justice",
-      "summary": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The sixth EuroMed Justice Network (EMJNet) meeting concluded its one day and half session on 22 October 2025, with a clear focus on fortifying judicial cooperation to tackle drug trafficking more effectively. The meeting, which took place in Palermo, Italy, brought together 32 criminal justice practitioners from 6 South Partner Countries (SPCs), and 10 European Union Member States participating in the EuroMed Justice project and Eurojust to share operational challenges and best practices, as well as to foster closer cooperation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Participants identified operational best practices for tackling drug trafficking, drawing from studies of actual cases and practical experiences. They further produced recommendations that will be presented at the upcoming 22nd CrimEx meeting in December.EMJNet leafletThe gathering yielded valuable insights into enhancing the use of the EMJNet Directory for information sharing and the importance of awareness-raising initiatives at national level. The Directory allows direct contacts between competent authorities of the participating countries including those responsible for providing legal\u2026"
-        }
-      ],
-      "published": "Fri, 24 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        24,
-        12,
-        0,
-        0,
-        4,
-        297,
-        0
-      ],
-      "id": "7fd3bbb0-ff90-4173-9ee4-e02a943a8d2e",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3590,66 +3670,6 @@
       ]
     },
     {
-      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
-      "field_list_image_1": "Money Laundering Focus Group",
-      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
-        }
-      ],
-      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
-      "published_parsed": [
-        2025,
-        10,
-        16,
-        12,
-        0,
-        0,
-        3,
-        289,
-        0
-      ],
-      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Asset recovery",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal online gambling ring with sales of nearly EUR 1 billion busted",
       "title_detail": {
         "type": "text/plain",
@@ -3740,61 +3760,61 @@
       ]
     },
     {
-      "title": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States",
+      "title": "Eurojust meeting tackles emerging trends on money laundering and asset recovery",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust contributes to regional efforts to combat cross border crime at 4th Forum of Prosecutors General of the Balkan States"
+        "value": "Eurojust meeting tackles emerging trends on money laundering and asset recovery"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-contributes-regional-efforts-combat-cross-border-crime-4th-forum-prosecutors-general",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prosecutors-general-of-the-balkan-states.png",
-      "field_list_image_1": "Prosecutors General of the Balkan States",
-      "summary": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-meeting-tackles-emerging-trends-money-laundering-and-asset-recovery",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-focus-group.jpg",
+      "field_list_image_1": "Money Laundering Focus Group",
+      "summary": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Top prosecutors from the Balkan region gathered in Sofia, Bulgaria, for the 4th Forum of Prosecutors General of the Balkan States, a key event in the regional effort to tackle organised crime. Eurojust played a key role in the high-level gathering, with President Michael Schmid delivering an opening address that underscored the importance of cross-border judicial cooperation in preventing and tackling complex crimes."
+        "value": "This week, from 15-16 October, Eurojust hosted the first annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event brought together key stakeholders to address the latest developments and challenges, with a particular focus on demonstrating and coordinating the multi-agency efforts in this field."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust\u2019s participation in the forum reflects the Agency\u2019s commitment to supporting international cooperation and collaboration among prosecutors, and its expertise in facilitating cooperation among its member states was shared with the attendees.Combating organised crime in the Western Balkans is a key objective for Eurojust, which has established strong partnerships with regional authorities to achieve this goal through its Western Balkans Criminal Justice Project. This project has helped to build trust and cooperation among law enforcement agencies in the region and has supported several\u2026"
+          "value": "The meeting began with opening remarks that underscored the critical role of international cooperation in combating financial crimes. Participants delved into several pressing issues, including the rise of crypto-assets in money laundering schemes and the complexities of tracing funds across multiple jurisdictions. The use of professional laundering services, often disguised as legitimate businesses, was also a major point of discussion. This \u2018crime-as-a-service\u2019 method poses significant challenges due to the sophisticated methods employed by the organised crime networks and the cross-border\u2026"
         }
       ],
-      "published": "Tue, 07 Oct 2025 14:00:00 +0200",
+      "published": "Thu, 16 Oct 2025 14:00:00 +0200",
       "published_parsed": [
         2025,
         10,
-        7,
+        16,
         12,
         0,
         0,
-        1,
-        280,
+        3,
+        289,
         0
       ],
-      "id": "18c7d2bc-54eb-4c1f-9af8-a7babbec29d2",
+      "id": "98d85882-37f8-4638-be99-5c1a87258b70",
       "guidislink": false,
       "tags": [
         {
-          "term": "Bulgaria",
-          "scheme": "Member State",
+          "term": "Money laundering",
+          "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
+          "term": "Asset recovery",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
