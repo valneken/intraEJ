@@ -1,6 +1,106 @@
 {
-  "timestamp": "2026-03-12 12:06:51",
+  "timestamp": "2026-03-12 18:14:03",
   "entries": [
+    {
+      "title": "Servers used for cybercrime around the world taken down",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Servers used for cybercrime around the world taken down"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/generic-image.png",
+      "field_list_image_1": "generic image",
+      "summary": "A website allegedly offering IP proxy services for cybercriminals in 102 countries has been targeted by authorities from eight countries. After identifying numerous victims of the malware used to gain access to IP addresses for the proxy service, authorities from France, Austria, the Netherlands and the United States started working together with coordination by Eurojust and Europol to take action against the service. The same people administering the proxy service are also suspected of hosting a payment platform for the proxy service.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A website allegedly offering IP proxy services for cybercriminals in 102 countries has been targeted by authorities from eight countries. After identifying numerous victims of the malware used to gain access to IP addresses for the proxy service, authorities from France, Austria, the Netherlands and the United States started working together with coordination by Eurojust and Europol to take action against the service. The same people administering the proxy service are also suspected of hosting a payment platform for the proxy service."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The website offered a paid IP proxy service, allowing its customers to hide their real IP addresses by giving them access to existing IP addresses around the world. Access to the affected IP addresses was made possible by infecting modems worldwide, belonging to individuals or organisations, with malware. After infection, the modems\u2019 owners would not be aware that their IP addresses were being used for illegitimate activities. The service has compromised 369 000 routers and other devices across 163 countries and had a customer base of approximately 124 000 users.To gain access to the proxy\u2026"
+        }
+      ],
+      "published": "Thu, 12 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        12,
+        12,
+        0,
+        0,
+        3,
+        71,
+        0
+      ],
+      "id": "2a27e31a-aad1-4e19-ae63-4fa02f5cd286",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Bulgaria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Hungary",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Judicial cooperation key to arresting leaders of online fraud group",
       "title_detail": {
@@ -1052,71 +1152,6 @@
       ]
     },
     {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -1202,6 +1237,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2052,66 +2152,6 @@
       ]
     },
     {
-      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
-      "field_list_image_1": "participants meeting",
-      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
-        }
-      ],
-      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        5,
-        12,
-        0,
-        0,
-        4,
-        339,
-        0
-      ],
-      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
       "title_detail": {
         "type": "text/plain",
@@ -2177,6 +2217,66 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
+      "field_list_image_1": "participants meeting",
+      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
+        }
+      ],
+      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        5,
+        12,
+        0,
+        0,
+        4,
+        339,
+        0
+      ],
+      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3067,96 +3167,6 @@
       ]
     },
     {
-      "title": "Smuggling network moving nearly 900 migrants dismantled",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Smuggling network moving nearly 900 migrants dismantled"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
-      "field_list_image_1": "Truck on the road",
-      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
-        }
-      ],
-      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        14,
-        12,
-        0,
-        0,
-        4,
-        318,
-        0
-      ],
-      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Search",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Large methamphetamine network dismantled",
       "title_detail": {
         "type": "text/plain",
@@ -3247,51 +3257,51 @@
       ]
     },
     {
-      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title": "Smuggling network moving nearly 900 migrants dismantled",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+        "value": "Smuggling network moving nearly 900 migrants dismantled"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+          "href": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "link": "https://www.eurojust.europa.eu/news/smuggling-network-moving-nearly-900-migrants-dismantled",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/truck-web2.png",
+      "field_list_image_1": "Truck on the road",
+      "summary": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+        "value": "German and French authorities worked closely together with Eurojust and Europol to arrest five members of an international migrant smuggling network. They are suspected of smuggling close to 900 migrants into Europe. Investigations into the group revealed that they collected at least EUR 4.1 million in fees and smuggled some of their victims under life-threatening situations."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+          "value": "It is suspected that between June 2021 and October 2023, around 880 people were smuggled from Turkey to Europe via Serbia to Austria, and then Germany and France. To transport their victims, at least 23 drivers were recruited, who are being investigated separately. Investigations into the network also raised suspicions that the group maybe connected to a smuggling incident in Germany that resulted in a death on 13 July 2023.French and German judicial authorities came together with Eurojust to discuss the findings of their investigations and to plan synchronised actions to stop the network in\u2026"
         }
       ],
-      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published": "Fri, 14 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
         11,
-        13,
+        14,
         12,
         0,
         0,
-        3,
-        317,
+        4,
+        318,
         0
       ],
-      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "id": "7f29f31c-3f67-49d3-808f-af02f117814c",
       "guidislink": false,
       "tags": [
         {
@@ -3305,8 +3315,33 @@
           "label": null
         },
         {
-          "term": "Joint investigation teams",
+          "term": "European Investigation Order",
           "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3402,6 +3437,71 @@
         {
           "term": "USA",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling underscores need for stronger cross-border coordination"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-underscores-need-stronger-cross-border-coordination",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/news-web-migrantsmuggling.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling continues to be a persistent and lucrative criminal enterprise across Europe. Criminal networks exploit gaps in jurisdictions and legal frameworks to maintain their agile operations. This week, judicial and law enforcement experts gathered at Eurojust to examine the latest trends and discuss strategies to combat this evolving threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The annual gathering emphasised the importance of international cooperation to dismantle migrant smuggling operations. It also served as the plenary meeting of the \u2018Focus Group for Prosecutors on Migrant Smuggling, which marked its 5th anniversary this year. This informal network of judicial practitioners has played a pivotal role in fostering cross-border coordination in migrant smuggling cases.Ms Daniela Buruiana, Eurojust National Member for Romania and Chair of the Anti-trafficking Team highlighted its achievements, \u201cSince its creation five years ago, this network has strengthened\u2026"
+        }
+      ],
+      "published": "Thu, 13 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        13,
+        12,
+        0,
+        0,
+        3,
+        317,
+        0
+      ],
+      "id": "c1a60387-bb18-4b08-b393-62c57c32e752",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -3657,71 +3757,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251106-jitsmeeting-president-speaking.png",
-      "field_list_image_1": "Eurojust President speaking at JITs meeting",
-      "summary": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In his opening remarks, Eurojust President Michael Schmid highlighted the importance of these themes, stating: Both topics go to the very heart of what Eurojust stands for\u2014facilitating cooperation across borders, connecting practitioners, and ensuring that justice can keep pace with increasingly complex and global criminal phenomena.The meeting began with an update on the JITs Collaboration Platform, one of the key deliverables of Eurojust\u2019s Digital Criminal Justice Programme. This secure IT platform, developed by eu-LISA, will serve as a cornerstone for modern, fast, and traceable judicial\u2026"
-        }
-      ],
-      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        6,
-        12,
-        0,
-        0,
-        3,
-        310,
-        0
-      ],
-      "id": "755a5e35-9d87-4b25-b8f9-917bb55d1076",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
