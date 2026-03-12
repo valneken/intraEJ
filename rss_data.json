@@ -1,91 +1,71 @@
 {
-  "timestamp": "2026-03-11 18:14:57",
+  "timestamp": "2026-03-12 00:11:35",
   "entries": [
     {
-      "title": "Seized phones in small Swedish town expose major international criminal network",
+      "title": "Judicial cooperation key to arresting leaders of online fraud group",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seized phones in small Swedish town expose major international criminal network"
+        "value": "Judicial cooperation key to arresting leaders of online fraud group"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
+          "href": "https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
-      "field_list_image_1": "smartphone and drugs",
-      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
+      "link": "https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/phishing-emails.png",
+      "field_list_image_1": "Phishing emails",
+      "summary": "A criminal group suspected of running an online fraud scheme in Germany has been dismantled following judicial cooperation coordinated by Eurojust. The group is suspected of having defrauded victims of around EUR 1 million. As the alleged leader of the group was based in France, judicial cooperation was essential to stop the criminal group\u2019s activities.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
+        "value": "A criminal group suspected of running an online fraud scheme in Germany has been dismantled following judicial cooperation coordinated by Eurojust. The group is suspected of having defrauded victims of around EUR 1 million. As the alleged leader of the group was based in France, judicial cooperation was essential to stop the criminal group\u2019s activities."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
+          "value": "During an action day on 10 March, German and French authorities worked together to arrest three suspects. After an arrest warrant was issued, the main suspect, who was located in France, was brought before a judge and is now in custody, pending the forthcoming decision of the Chamber of Instruction, which will decide on his surrender to the German authorities. As a result of searches that took place in both countries during the action day, assets including cryptocurrencies and jewellery were seized. A European Investigation Order that was coordinated through Eurojust enabled searches in\u2026"
         }
       ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published": "Wed, 11 Mar 2026 13:00:00 +0100",
       "published_parsed": [
         2026,
         3,
-        6,
+        11,
         12,
         0,
         0,
-        4,
-        65,
+        2,
+        70,
         0
       ],
-      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
+      "id": "0ac454d5-570b-4296-b1f0-a4aef7ad219b",
       "guidislink": false,
       "tags": [
         {
-          "term": "Drug trafficking",
+          "term": "Cybercrime",
           "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "Money laundering",
+          "term": "Fraud",
           "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Spain",
+          "term": "France",
           "scheme": "Member State",
           "label": null
         },
         {
-          "term": "Sweden",
+          "term": "Germany",
           "scheme": "Member State",
           "label": null
         }
@@ -177,6 +157,96 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Seized phones in small Swedish town expose major international criminal network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Seized phones in small Swedish town expose major international criminal network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
+      "field_list_image_1": "smartphone and drugs",
+      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3532,71 +3602,6 @@
       ]
     },
     {
-      "title": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251106-jitsmeeting-president-speaking.png",
-      "field_list_image_1": "Eurojust President speaking at JITs meeting",
-      "summary": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In his opening remarks, Eurojust President Michael Schmid highlighted the importance of these themes, stating: Both topics go to the very heart of what Eurojust stands for\u2014facilitating cooperation across borders, connecting practitioners, and ensuring that justice can keep pace with increasingly complex and global criminal phenomena.The meeting began with an update on the JITs Collaboration Platform, one of the key deliverables of Eurojust\u2019s Digital Criminal Justice Programme. This secure IT platform, developed by eu-LISA, will serve as a cornerstone for modern, fast, and traceable judicial\u2026"
-        }
-      ],
-      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        6,
-        12,
-        0,
-        0,
-        3,
-        310,
-        0
-      ],
-      "id": "755a5e35-9d87-4b25-b8f9-917bb55d1076",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Digital Criminal Justice",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "JITs Network",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Special training in Albania equips investigators, prosecutors and judges to trace and prosecute crypto crimes",
       "title_detail": {
         "type": "text/plain",
@@ -3657,121 +3662,66 @@
       ]
     },
     {
-      "title": "Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests",
+      "title": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests"
+        "value": "Digital workspace for JITs & coordination with customs authorities key themes of 21st Annual Meeting of the JITs Network"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18"
+          "href": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/credit-card-phone-in-hand.png",
-      "field_list_image_1": "Credit card and phone in hand",
-      "summary": "A large-scale and global operation against massive credit card fraud, coordinated this week by Eurojust, has led to the arrest of 18 suspects. The alleged perpetrators are suspected of setting up an intricate scheme of fake online subscriptions to dating, pornography and streaming services, among others, which were paid for by credit card. Among those arrested are five executive officials from four German payment service providers.The fraud was organised around three networks, which defrauded several million credit card users with 19 million accounts in 193 countries. The estimated value of the fraud is at least EUR 300 million. The total value of attempted fraud against card users amounts to over EUR 750 million. The arrested persons are German, Lithuanian, Dutch, Austrian, Danish, American and Canadian nationals.",
+      "link": "https://www.eurojust.europa.eu/news/digital-workspace-jits-coordination-customs-authorities-key-themes-21st-annual-meeting-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20251106-jitsmeeting-president-speaking.png",
+      "field_list_image_1": "Eurojust President speaking at JITs meeting",
+      "summary": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A large-scale and global operation against massive credit card fraud, coordinated this week by Eurojust, has led to the arrest of 18 suspects. The alleged perpetrators are suspected of setting up an intricate scheme of fake online subscriptions to dating, pornography and streaming services, among others, which were paid for by credit card. Among those arrested are five executive officials from four German payment service providers.The fraud was organised around three networks, which defrauded several million credit card users with 19 million accounts in 193 countries. The estimated value of the fraud is at least EUR 300 million. The total value of attempted fraud against card users amounts to over EUR 750 million. The arrested persons are German, Lithuanian, Dutch, Austrian, Danish, American and Canadian nationals."
+        "value": "The 21st Annual Meeting of the Network of National Experts on Joint Investigation Teams (JITs) took place at Eurojust\u2019s headquarters from 5-6 November 2025. This year's event focused on two key themes: the forthcoming JITs Collaboration Platform and the role of customs authorities in cross-border investigations, Organised by the JITs Network Secretariat in collaboration with Eurojust and Europol, more than 80 participants attended the event, including 32 JIT National Experts alongside representatives from the European Commission, eu-LISA, ICC-OTP and OLAF."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Between 2016 and 2021, the suspects were allegedly involved in stealing credit card data, setting up fake accounts, authorising and concealing payments, and money laundering. The perpetrators deliberately kept monthly credit card payments to their accounts below the maximum of EUR 50 to avoid arousing suspicion among victims about high transfer amounts.The payments had obscure descriptions, making it difficult for victims to trace them. Also, the transfers were made to websites, which were developed in such a way that they could not be indexed via search engines and were only accessible via\u2026"
+          "value": "In his opening remarks, Eurojust President Michael Schmid highlighted the importance of these themes, stating: Both topics go to the very heart of what Eurojust stands for\u2014facilitating cooperation across borders, connecting practitioners, and ensuring that justice can keep pace with increasingly complex and global criminal phenomena.The meeting began with an update on the JITs Collaboration Platform, one of the key deliverables of Eurojust\u2019s Digital Criminal Justice Programme. This secure IT platform, developed by eu-LISA, will serve as a cornerstone for modern, fast, and traceable judicial\u2026"
         }
       ],
-      "published": "Wed, 05 Nov 2025 13:00:00 +0100",
+      "published": "Thu, 06 Nov 2025 13:00:00 +0100",
       "published_parsed": [
         2025,
         11,
-        5,
+        6,
         12,
         0,
         0,
-        2,
-        309,
+        3,
+        310,
         0
       ],
-      "id": "9518c7c1-a791-4f64-833c-fba8532fc25c",
+      "id": "755a5e35-9d87-4b25-b8f9-917bb55d1076",
       "guidislink": false,
       "tags": [
         {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
+          "term": "Digital Criminal Justice",
           "scheme": "Judicial cooperation",
           "label": null
         },
         {
-          "term": "Mutual legal assistance",
+          "term": "Joint investigation teams",
           "scheme": "Judicial cooperation",
           "label": null
         },
         {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Luxembourg",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
+          "term": "JITs Network",
           "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
