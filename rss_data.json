@@ -1,6 +1,54 @@
 {
-  "timestamp": "2026-03-19 18:14:26",
+  "timestamp": "2026-03-20 00:14:34",
   "entries": [
+    {
+      "title": "Eurojust marks 20th Consultative Forum: Europe\u2019s top prosecutors shape the future of judicial cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust marks 20th Consultative Forum: Europe\u2019s top prosecutors shape the future of judicial cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-marks-20th-consultative-forum-europes-top-prosecutors-shape-future-judicial"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-marks-20th-consultative-forum-europes-top-prosecutors-shape-future-judicial",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cons-forum.jpg",
+      "field_list_image_1": "20th Consultative Forum",
+      "summary": "Prosecutors General and Directors of Public Prosecutions of the EU Member States gathered at Eurojust\u2019s headquarters in The Hague for the 20th annual Consultative Forum. Bringing together the EU\u2019s most senior prosecution authorities, the Forum serves as a key platform for addressing shared challenges in an increasingly complex and globalised criminal landscape, including organised crime networks and emerging hybrid threats. This 20th edition of the Forum places a strong focus on the future: how Europe\u2019s prosecutors and Eurojust can evolve together to stay ahead of crime.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Prosecutors General and Directors of Public Prosecutions of the EU Member States gathered at Eurojust\u2019s headquarters in The Hague for the 20th annual Consultative Forum. Bringing together the EU\u2019s most senior prosecution authorities, the Forum serves as a key platform for addressing shared challenges in an increasingly complex and globalised criminal landscape, including organised crime networks and emerging hybrid threats. This 20th edition of the Forum places a strong focus on the future: how Europe\u2019s prosecutors and Eurojust can evolve together to stay ahead of crime."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "At the centre of discussions is the development of Eurojust\u2019s Vision 2035, an ambitious initiative that will define the agency\u2019s strategic direction for the next decade. National prosecution services are playing a central role in shaping this vision, ensuring that Eurojust continues to respond to operational needs on the ground while remaining a trusted hub for judicial cooperation.Participants are also contributing to a crucial debate on the future legal framework of Eurojust. Following the first evaluation of the Eurojust regulation, the European Commission is preparing an impact assessment\u2026"
+        }
+      ],
+      "published": "Thu, 19 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        19,
+        12,
+        0,
+        0,
+        3,
+        78,
+        0
+      ],
+      "id": "18304cb2-2268-4e75-8426-068368637ba5",
+      "guidislink": false
+    },
     {
       "title": "Criminal network trafficking steroids through postal service uncovered",
       "title_detail": {
@@ -1237,71 +1285,6 @@
       ]
     },
     {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -1387,6 +1370,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3642,71 +3690,6 @@
         {
           "term": "Third countries",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Criminals producing devices that unlock cars arrested in international operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminals producing devices that unlock cars arrested in international operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminals-producing-devices-unlock-cars-arrested-international-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/electronic-carkey.png",
-      "field_list_image_1": "car key",
-      "summary": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Five suspects were arrested during an international operation targeting a network of car thieves. The group manufactured reprogrammed speakers and other technical devices that made it possible to unlock cars with decoded keys, bypassing the security systems. The operation, coordinated by Eurojust, was carried out by French and Italian investigators."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The main suspect, who had been building these devices since 2022, sold them worldwide through encrypted messaging services. The devices were sold to known car thieves for prices ranging from EUR 3 000 to EUR 50 000. Thieves were able to use the devices on different well-known car brands, including luxury cars.French authorities launched an investigation after noticing an increase in the theft of specific vehicles. They quickly discovered that reprogrammed speakers had been used in the thefts. As investigations continued, it emerged that the criminals were also producing other types of\u2026"
-        }
-      ],
-      "published": "Tue, 11 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        11,
-        12,
-        0,
-        0,
-        1,
-        315,
-        0
-      ],
-      "id": "b1a9b738-30a9-4dc9-9d10-db002e853c11",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Robbery",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
           "label": null
         }
       ]
