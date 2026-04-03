@@ -1,6 +1,96 @@
 {
-  "timestamp": "2026-04-03 12:09:56",
+  "timestamp": "2026-04-03 18:09:34",
   "entries": [
+    {
+      "title": "Authorities target criminal network smuggling migrants from Vietnam",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities target criminal network smuggling migrants from Vietnam"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/authorities-target-criminal-network-smuggling-migrants-vietnam"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/authorities-target-criminal-network-smuggling-migrants-vietnam",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-trucks-on-road.jpg",
+      "field_list_image_1": "trucks on road",
+      "summary": "A transnational criminal network that allegedly smuggled over 1 000 migrants from Vietnam into the United Kingdom has been taken down by Belgian, French and UK authorities, with the support of Eurojust and Europol. During an action day in the early morning of 30 March, 16 suspects were arrested in France and 3 in the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A transnational criminal network that allegedly smuggled over 1 000 migrants from Vietnam into the United Kingdom has been taken down by Belgian, French and UK authorities, with the support of Eurojust and Europol. During an action day in the early morning of 30 March, 16 suspects were arrested in France and 3 in the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During the investigation, authorities discovered that the criminal network generated illicit profits of more than EUR 1.6 million through its migrant smuggling operation. Migrants were transported in lorries travelling from ports in northern France to the United Kingdom. In some cases, small boats were used to cross the English Channel. Migrants were asked to pay up to EUR50000 to reach their destination.The criminal network organised more than 200 transports from France to the United Kingdom, smuggling over 1000 migrants and generating an estimated turnover of\u2026"
+        }
+      ],
+      "published": "Fri, 03 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        3,
+        12,
+        0,
+        0,
+        4,
+        93,
+        0
+      ],
+      "id": "27cd1158-5c4c-4a09-9679-257cc700a235",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Seizure",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Precious historic art recovered by Dutch and Romanian authorities",
       "title_detail": {
@@ -1795,71 +1885,6 @@
       ]
     },
     {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -1945,6 +1970,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3300,61 +3390,6 @@
       ]
     },
     {
-      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
-      "field_list_image_1": "target over map",
-      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
-        }
-      ],
-      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        27,
-        12,
-        0,
-        0,
-        3,
-        331,
-        0
-      ],
-      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "International drug network dismantled: 24 arrests and EUR 3 million seized",
       "title_detail": {
         "type": "text/plain",
@@ -3445,6 +3480,61 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
+      "field_list_image_1": "target over map",
+      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
+        }
+      ],
+      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        27,
+        12,
+        0,
+        0,
+        3,
+        331,
+        0
+      ],
+      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -3740,71 +3830,6 @@
         {
           "term": "Albania",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Authorities detain 19 suspects during major human trafficking operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities detain 19 suspects during major human trafficking operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/authorities-detain-19-suspects-during-major-human-trafficking-operation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/authorities-detain-19-suspects-during-major-human-trafficking-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/romanian-italian-trafficking-case.jpg",
-      "field_list_image_1": "Gun and logos",
-      "summary": "A criminal group responsible for trafficking and pimping over 30 Romanian women to Italy has been detained following an international operation on 18 November. Consisting of over 30 members, the group is suspected of having gained over EUR 1.7 million from exploiting its victims for prostitution on the streets of Italy. The investigations by the Italian and Romanian authorities were coordinated through a joint investigation team at Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A criminal group responsible for trafficking and pimping over 30 Romanian women to Italy has been detained following an international operation on 18 November. Consisting of over 30 members, the group is suspected of having gained over EUR 1.7 million from exploiting its victims for prostitution on the streets of Italy. The investigations by the Italian and Romanian authorities were coordinated through a joint investigation team at Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Today, authorities in Romania and Italy conducted synchronised actions against a human trafficking network. The operation led to detention of 19 suspects and two people who were put under judicial control. Authorities searched 25 places yielding in the seizure of firearms, cash and luxury vehicles. Eurojust coordinated the international investigation by setting up a joint investigation team and organising several meetings at the Agency\u2019s premises in The Hague where information was shared and the action day was planned.The criminal group suspected of human trafficking was set up in a pyramid-\u2026"
-        }
-      ],
-      "published": "Wed, 19 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        19,
-        12,
-        0,
-        0,
-        2,
-        323,
-        0
-      ],
-      "id": "1889620e-5b54-46ba-b100-702c80053e92",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
