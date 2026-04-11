@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-04-11 12:06:58",
+  "timestamp": "2026-04-11 18:07:28",
   "entries": [
+    {
+      "title": "Main suspect in Swedish bank scam extradited from United States",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Main suspect in Swedish bank scam extradited from United States"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/plane-landing.png",
+      "field_list_image_1": "Plane landing or taking off",
+      "summary": "Eurojust has coordinated the extradition of the alleged main perpetrator of a large-scale fraud scheme from the United States. The suspect has been detained in the United States since the end of 2024. He is suspected of defrauding victims up to EUR 6 million. Judicial cooperation was key to ensure the suspect is now on Swedish soil and will be further questioned by Swedish prosecutors.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has coordinated the extradition of the alleged main perpetrator of a large-scale fraud scheme from the United States. The suspect has been detained in the United States since the end of 2024. He is suspected of defrauding victims up to EUR 6 million. Judicial cooperation was key to ensure the suspect is now on Swedish soil and will be further questioned by Swedish prosecutors."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Constant cooperation between Swedish and US authorities through coordination by Eurojust, made it possible for the authorities to share valuable information needed during the investigation and plan for an action day in November 2024 where the main perpetrator and two of his accomplices were arrested in the United States and Sweden. After the action day, cooperation continued to get the main suspect extradited. The extradition matter in the United States was handled by the U.S. Department of Justice\u2019s Office of International Affairs and the U.S. Attorney\u2019s Office for the Central District of\u2026"
+        }
+      ],
+      "published": "Sat, 11 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        11,
+        12,
+        0,
+        0,
+        5,
+        101,
+        0
+      ],
+      "id": "70602ea8-20ca-4707-a01e-7eff696e9efd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "The authorities of Albania and the Attorney General\u2019s Office of Colombia set up two joint investigation teams to tackle trafficking human rights",
       "title_detail": {
@@ -975,96 +1040,6 @@
       ]
     },
     {
-      "title": "Seized phones in small Swedish town expose major international criminal network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seized phones in small Swedish town expose major international criminal network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
-      "field_list_image_1": "smartphone and drugs",
-      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
       "title_detail": {
         "type": "text/plain",
@@ -1150,6 +1125,96 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Seized phones in small Swedish town expose major international criminal network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Seized phones in small Swedish town expose major international criminal network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
+      "field_list_image_1": "smartphone and drugs",
+      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3055,66 +3120,6 @@
       ]
     },
     {
-      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
-      "field_list_image_1": "participants meeting",
-      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
-        }
-      ],
-      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        5,
-        12,
-        0,
-        0,
-        4,
-        339,
-        0
-      ],
-      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
       "title_detail": {
         "type": "text/plain",
@@ -3180,6 +3185,66 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
+      "field_list_image_1": "participants meeting",
+      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
+        }
+      ],
+      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        5,
+        12,
+        0,
+        0,
+        4,
+        339,
+        0
+      ],
+      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3730,66 +3795,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Genocide Prosecution Network 38th annual meeting explores new technologies for advancing accountability in international crimes"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/genocide-prosecution-network-38th-annual-meeting-explores-new-technologies",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/lady-justice.jpg",
-      "field_list_image_1": "Lady justice",
-      "summary": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The 38th meeting of the European Network for investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) took place from 19 to 20 November 2025. Hosted at Eurojust and under the chairmanship of the Danish Presidency of the Council of the EU, the two-day meeting included about 150 participants, including representatives from national investigative and prosecutorial authorities, international accountability mechanisms, and civil society. The central focus of the meeting was how new technologies are reshaping justice for core international crimes, offering transformative potential for investigations and prosecutions, but also legal and ethical challenges."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Key discussions at the meeting centred on how open source information (OSI), satellite imagery, and 3D modelling tools are transforming the documentation and investigation of large-scale atrocities. In conflict zones where access is often restricted, digital platforms and social media can serve as vital sources of evidence. During the meeting, case studies were presented to illustrate how visualisation technologies could enhance judicial understanding of complex events. However, participants also acknowledged significant hurdles, from verifying the authenticity and reliability of digital data\u2026"
-        }
-      ],
-      "published": "Thu, 20 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        20,
-        12,
-        0,
-        0,
-        3,
-        324,
-        0
-      ],
-      "id": "72395873-3b8d-44b6-a953-6c71bd320d74",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
