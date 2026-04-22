@@ -1,6 +1,66 @@
 {
-  "timestamp": "2026-04-21 18:19:44",
+  "timestamp": "2026-04-22 00:18:31",
   "entries": [
+    {
+      "title": "Inter-regional workshop on admissibility of encrypted evidence brings together prosecutors and law enforcement at Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Inter-regional workshop on admissibility of encrypted evidence brings together prosecutors and law enforcement at Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/inter-regional-workshop-admissibility-encrypted-evidence-brings-together-prosecutors-and-law"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/inter-regional-workshop-admissibility-encrypted-evidence-brings-together-prosecutors-and-law",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wb-group.jpg",
+      "field_list_image_1": "Group picture",
+      "summary": "The inter-regional workshop Handling admissibility of evidence obtained from encrypted networks: operational experience, prosecutorial strategies and evolving jurisprudence in the EU, Western Balkans and countries of the Eastern Partnership was organised by Eurojust through its Western Balkans Criminal Justice (WBCJ) Project, jointly with the WB PACT II and TOPCOP projects at CEPOL in partnership with Europol.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The inter-regional workshop Handling admissibility of evidence obtained from encrypted networks: operational experience, prosecutorial strategies and evolving jurisprudence in the EU, Western Balkans and countries of the Eastern Partnership was organised by Eurojust through its Western Balkans Criminal Justice (WBCJ) Project, jointly with the WB PACT II and TOPCOP projects at CEPOL in partnership with Europol."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The event brought together prosecutors and law enforcement representatives from Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia, as well as Armenia, Azerbaijan, Moldova and Ukraine, alongside representatives from EU Member States, Eurojust National Members and experts from Eurojust and Europol.The first day focused on plenary sessions and case presentations. Europol provided an overview of its Operational Taskforce LIMIT and its role in facilitating analytical and operational cooperation to extract encrypted data and support investigations. Eurojust and the\u2026"
+        }
+      ],
+      "published": "Tue, 21 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        21,
+        12,
+        0,
+        0,
+        1,
+        111,
+        0
+      ],
+      "id": "83672f84-1508-4c8c-b6a9-bf6567d695f1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Strengthening the fight against organised drug trafficking: EJOCN\u2019s 3rd Plenary Meeting",
       "title_detail": {
@@ -437,6 +497,86 @@
       ]
     },
     {
+      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
+      "field_list_image_1": "drugs on table and scale",
+      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
+        }
+      ],
+      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        27,
+        12,
+        0,
+        0,
+        4,
+        86,
+        0
+      ],
+      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Financial crime investigation culminates in arrests and frozen assets of high value",
       "title_detail": {
         "type": "text/plain",
@@ -526,86 +666,6 @@
         },
         {
           "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
-      "field_list_image_1": "drugs on table and scale",
-      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
-        }
-      ],
-      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        27,
-        12,
-        0,
-        0,
-        4,
-        86,
-        0
-      ],
-      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -1100,96 +1160,6 @@
       ]
     },
     {
-      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
-      "field_list_image_1": "parcels",
-      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Seized phones in small Swedish town expose major international criminal network",
       "title_detail": {
         "type": "text/plain",
@@ -1275,6 +1245,96 @@
         {
           "term": "Sweden",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
+      "field_list_image_1": "parcels",
+      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -2080,71 +2140,6 @@
       ]
     },
     {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -2230,6 +2225,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2385,6 +2445,66 @@
       ]
     },
     {
+      "title": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image-casework-highlights.png",
+      "field_list_image_1": "lady justice",
+      "summary": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Some highlights of our 2025 casework:Criminal network trafficking drugs throughout Europe since 2019 dismantledEurojust supported Slovak, Hungarian, German and Spanish authorities to arrest 22 members of a criminal network suspected of importing drugs from outside the European Union into Europe. The well-organised hierarchical structure of the network made it possible for the group to traffic drugs worth EUR 175 million. Eurojust coordinated the action day from their premise in The Hague and assisted the execution of European Arrest Warrants and European Investigation Orders. During the\u2026"
+        }
+      ],
+      "published": "Tue, 23 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        23,
+        12,
+        0,
+        0,
+        1,
+        357,
+        0
+      ],
+      "id": "4ff791e0-8132-422c-a670-51a1f77efd0b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Criminal investigation",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "ICPA receives EUR 5 million to continue investigations into crime of aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -2450,66 +2570,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image-casework-highlights.png",
-      "field_list_image_1": "lady justice",
-      "summary": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Some highlights of our 2025 casework:Criminal network trafficking drugs throughout Europe since 2019 dismantledEurojust supported Slovak, Hungarian, German and Spanish authorities to arrest 22 members of a criminal network suspected of importing drugs from outside the European Union into Europe. The well-organised hierarchical structure of the network made it possible for the group to traffic drugs worth EUR 175 million. Eurojust coordinated the action day from their premise in The Hague and assisted the execution of European Arrest Warrants and European Investigation Orders. During the\u2026"
-        }
-      ],
-      "published": "Tue, 23 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        23,
-        12,
-        0,
-        0,
-        1,
-        357,
-        0
-      ],
-      "id": "4ff791e0-8132-422c-a670-51a1f77efd0b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Criminal investigation",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -3585,6 +3645,61 @@
       ]
     },
     {
+      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
+      "field_list_image_1": "target over map",
+      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
+        }
+      ],
+      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        11,
+        27,
+        12,
+        0,
+        0,
+        3,
+        331,
+        0
+      ],
+      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "International drug network dismantled: 24 arrests and EUR 3 million seized",
       "title_detail": {
         "type": "text/plain",
@@ -3675,121 +3790,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust annual meeting on counter-terrorism addresses emerging trends",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust annual meeting on counter-terrorism addresses emerging trends"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-counter-terrorism-addresses-emerging-trends",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-eurojust-annual-meeting-on-counter-terrorism.jpg",
-      "field_list_image_1": "target over map",
-      "summary": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Judicial practitioners from 33 countries gathered at Eurojust for its annual meeting on counter-terrorism. The event brought together specialised prosecutors and other experts from EU Member States and third countries, as well as representatives from EU institutions, to address the ever-evolving terrorist threat."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The meeting was opened by Mr Michael Schmid, Eurojust President, who emphasised the increasing need for cooperation between counter-terrorism practitioners, underlining that the threat of terrorism in Europe remains very much alive. Mr Baudoin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team, reaffirmed Eurojust\u2019s commitment to continuing to assist Member States with terrorism-related investigations and prosecutions in the best possible manner. Insights into the main priorities for countering terrorism at EU level, including updates on the upcoming EU\u2026"
-        }
-      ],
-      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        27,
-        12,
-        0,
-        0,
-        3,
-        331,
-        0
-      ],
-      "id": "3f7969fb-686a-4f29-8db0-6cb209516202",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan prosecutors and law enforcement tackle environmental crime during Paris study visit",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan prosecutors and law enforcement tackle environmental crime during Paris study visit"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-prosecutors-and-law-enforcement-tackle-environmental-crime-during-paris-study"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-prosecutors-and-law-enforcement-tackle-environmental-crime-during-paris-study",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/environmental-crime-meeting.jpg",
-      "field_list_image_1": "Western Balkan prosecutors and law enforcement tackle environmental crime during Paris study visit",
-      "summary": "The Western Balkans Criminal Justice Project (WBCJ) organised a study visit on environmental crime in Paris, France, on 24\u201325 November 2025, following the successful regional conference held in Ohrid in June 2025.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project (WBCJ) organised a study visit on environmental crime in Paris, France, on 24\u201325 November 2025, following the successful regional conference held in Ohrid in June 2025."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Prosecutors and law enforcement representatives from across the Western Balkans participated in the two-day programme to exchange expertise and gain practical insights into the French system for investigating and prosecuting environmental crime. The agenda featured exchanges with the French National Gendarmerie\u2019s Environment and Health Command (CESAN) on its organisational structure and operational capabilities, case studies on trafficking-related investigations, and discussions on illicit financial flows associated with environmental offences. Western Balkans prosecutors also joined an\u2026"
-        }
-      ],
-      "published": "Tue, 25 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        25,
-        12,
-        0,
-        0,
-        1,
-        329,
-        0
-      ],
-      "id": "0428cfcd-e4d9-48f3-8685-39a511da33f4",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Environmental crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
