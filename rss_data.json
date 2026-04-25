@@ -1,6 +1,54 @@
 {
-  "timestamp": "2026-04-24 18:12:37",
+  "timestamp": "2026-04-25 00:19:56",
   "entries": [
+    {
+      "title": "Eurojust handles close to 14 000 cases in 2025: Annual Report now live!",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust handles close to 14 000 cases in 2025: Annual Report now live!"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-handles-close-14-000-cases-2025-annual-report-now-live"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-handles-close-14-000-cases-2025-annual-report-now-live",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ar25-cover-landscape.jpg",
+      "field_list_image_1": "Annual Report cover",
+      "summary": "Discover Online ReportAs an integral part of the EU\u2019s security and criminal justice architecture, Eurojust continues to increase its operational output, coordinating a record number of cases in 2025. The Eurojust Annual Report 2025 showcases the operational achievements of the agency including its growing number of casework, expanding global partnerships and expertise as the eminent EU hub for judicial cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Discover Online ReportAs an integral part of the EU\u2019s security and criminal justice architecture, Eurojust continues to increase its operational output, coordinating a record number of cases in 2025. The Eurojust Annual Report 2025 showcases the operational achievements of the agency including its growing number of casework, expanding global partnerships and expertise as the eminent EU hub for judicial cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Operational OutcomesIn 2025, Eurojust delivered a significant operational impact in the fight against cross-border crime. The Agency supported 13 946 criminal investigations, including 5 582 newly registered cases, and facilitated a record 412 joint investigation teams\u2014nearly half of which also benefited from Eurojust funding totalling over EUR 2 million.Eurojust\u2019s efforts contributed to the arrest or surrender of more than 4 443 suspects and the seizure or freezing of criminal assets valued at approximately EUR 1.2 billion. In addition, the Agency supported operations leading to the\u2026"
+        }
+      ],
+      "published": "Fri, 24 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        24,
+        12,
+        0,
+        0,
+        4,
+        114,
+        0
+      ],
+      "id": "31af0fa5-01fa-4f76-b724-9680edc80f66",
+      "guidislink": false
+    },
     {
       "title": "Genocide Prosecution Network 39th meeting explores unlawful attacks against journalists in the context of armed conflict",
       "title_detail": {
@@ -3690,101 +3738,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "International drug network dismantled: 24 arrests and EUR 3 million seized",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "International drug network dismantled: 24 arrests and EUR 3 million seized"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/international-drug-network-dismantled-24-arrests-and-eur-3-million-seized"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/international-drug-network-dismantled-24-arrests-and-eur-3-million-seized",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-it-al-drug-trafficking-case4.png",
-      "field_list_image_1": "hands in handcuffs",
-      "summary": "A five-year investigation involving decrypted messages, phone interceptions and controlled deliveries has resulted in the arrest of 24 members of an international drug trafficking network. The group, which is based in Albania and Italy, is suspected of having trafficked over 1 300 kg of cocaine directly from South America through northern European ports to Italy. Italian, French, Albanian and Swiss authorities worked together with Eurojust and Europol during the investigations and the coordinated actions.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A five-year investigation involving decrypted messages, phone interceptions and controlled deliveries has resulted in the arrest of 24 members of an international drug trafficking network. The group, which is based in Albania and Italy, is suspected of having trafficked over 1 300 kg of cocaine directly from South America through northern European ports to Italy. Italian, French, Albanian and Swiss authorities worked together with Eurojust and Europol during the investigations and the coordinated actions."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal network, primarily operating out of Albania with branches in Italy, imported cocaine directly from South America to major European ports via commercial shipping routes. Once in Europe, the drugs were transported to Italy concealed in trucks. Large quantities of drugs were stored in six warehouses across Italy, after which warehouse managers distributed the drugs further and collected the cash proceeds. To reach the top layers of the criminal network, money mules were used to transport the cash to Albania. It is suspected that these money mules were bus drivers on the Italy-\u2026"
-        }
-      ],
-      "published": "Thu, 27 Nov 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        11,
-        27,
-        12,
-        0,
-        0,
-        3,
-        331,
-        0
-      ],
-      "id": "018241f2-268a-4f0d-8dcc-8bd7dab9b897",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Albania",
-          "scheme": "Third states",
           "label": null
         },
         {
