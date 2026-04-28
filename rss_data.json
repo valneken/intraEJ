@@ -1,6 +1,76 @@
 {
-  "timestamp": "2026-04-28 12:31:44",
+  "timestamp": "2026-04-28 18:29:23",
   "entries": [
+    {
+      "title": "Eurojust facilitates Romanian-led cross-border action against alleged corruption in public procurement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust facilitates Romanian-led cross-border action against alleged corruption in public procurement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-facilitates-romanian-led-cross-border-action-against-alleged-corruption-public"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-facilitates-romanian-led-cross-border-action-against-alleged-corruption-public",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/romanian-french-money-laundring.png",
+      "field_list_image_1": "enveloppe with Euro bank notes",
+      "summary": "Over 60 coordinated searches have taken place in Romania and France in the context of ongoing investigations into alleged corruption and money laundering linked to the procurement of public infrastructure in Bistri\u021ba-N\u0103s\u0103ud and S\u0103laj Counties.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Over 60 coordinated searches have taken place in Romania and France in the context of ongoing investigations into alleged corruption and money laundering linked to the procurement of public infrastructure in Bistri\u021ba-N\u0103s\u0103ud and S\u0103laj Counties."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "On 22 April, Romanian judicial and law enforcement authorities conducted 69 searches at locations including the headquarters of two public institutions, private residences and the offices of several companies. In parallel, a European Investigation Order issued by the Romanian authorities was executed in France, resulting in the search of a residence connected to the case.Eurojust facilitated the investigation by organising a coordination meeting between the French and Romanian authorities, enabling real-time communication and cooperation among the national authorities to ensure that\u2026"
+        }
+      ],
+      "published": "Tue, 28 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        28,
+        12,
+        0,
+        0,
+        1,
+        118,
+        0
+      ],
+      "id": "cbc822f6-bac0-4cf0-88a3-b506296c81eb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Coordination meeting",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust handles close to 14 000 cases in 2025: Annual Report now live!",
       "title_detail": {
@@ -1263,96 +1333,6 @@
       ]
     },
     {
-      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
-      "field_list_image_1": "parcels",
-      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Seized phones in small Swedish town expose major international criminal network",
       "title_detail": {
         "type": "text/plain",
@@ -1438,6 +1418,96 @@
         {
           "term": "Sweden",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
+      "field_list_image_1": "parcels",
+      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3243,6 +3313,76 @@
       ]
     },
     {
+      "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emj-logo-list-0.png",
+      "field_list_image_1": "EMJ logo",
+      "summary": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The 22nd CrimEx meetingprovided an update on the activities of the EMJ project. Theoutcomes from the 6th EMJNet meeting focusing on drug trafficking were shared for the CrimEx representatives\u2019 consideration and discussion, with the aim to identify consolidated input to be transmitted to the EuroMed PG Forum during its next meeting planned for summer 2026. CrimEx representatives were also invited to have strategic exchanges on challenges and best practices related to trafficking in human beings/migrant smuggling and asset recovery.Additionally, recently organised TAF activities were\u2026"
+        }
+      ],
+      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        5,
+        12,
+        0,
+        0,
+        4,
+        339,
+        0
+      ],
+      "id": "73355811-c499-4329-a796-6f410f67b1a5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Prison sentences of up to 15 years for migrant smugglers",
       "title_detail": {
         "type": "text/plain",
@@ -3338,76 +3478,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emj-logo-list-0.png",
-      "field_list_image_1": "EMJ logo",
-      "summary": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The 22nd CrimEx meetingprovided an update on the activities of the EMJ project. Theoutcomes from the 6th EMJNet meeting focusing on drug trafficking were shared for the CrimEx representatives\u2019 consideration and discussion, with the aim to identify consolidated input to be transmitted to the EuroMed PG Forum during its next meeting planned for summer 2026. CrimEx representatives were also invited to have strategic exchanges on challenges and best practices related to trafficking in human beings/migrant smuggling and asset recovery.Additionally, recently organised TAF activities were\u2026"
-        }
-      ],
-      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        5,
-        12,
-        0,
-        0,
-        4,
-        339,
-        0
-      ],
-      "id": "73355811-c499-4329-a796-6f410f67b1a5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3667,81 +3737,6 @@
         },
         {
           "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Cryptocurrency mixing service used to launder money taken down",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cryptocurrency mixing service used to launder money taken down"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/cryptomixing.png",
-      "field_list_image_1": "banner image",
-      "summary": "Authorities from Germany and Switzerland, together with Eurojust and Europol, took down a cryptocurrency mixing service suspected of being used by criminals to launder proceeds from various criminal activities, such as drug trafficking, weapons trafficking, online fraud and other cybercrimes. During an action week, more than EUR 25 million in cryptocurrency was seized and three servers were taken down.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities from Germany and Switzerland, together with Eurojust and Europol, took down a cryptocurrency mixing service suspected of being used by criminals to launder proceeds from various criminal activities, such as drug trafficking, weapons trafficking, online fraud and other cybercrimes. During an action week, more than EUR 25 million in cryptocurrency was seized and three servers were taken down."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The crypto mixing service, available via the regular web and the dark web, facilitated the laundering of cryptocurrencies by pooling deposited funds from users for a long and randomised period and then redistributing them to destination addresses, again at random times. This process makes it difficult to trace the specific coins and conceal their origin. After criminals receive their cleaned-up cryptocurrency, they can exchange it for other cryptocurrencies or cash, or they can deposit the value into bank accounts.As important domains were located in Germany and servers of the crypto mixing\u2026"
-        }
-      ],
-      "published": "Mon, 01 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        1,
-        12,
-        0,
-        0,
-        0,
-        335,
-        0
-      ],
-      "id": "b67707f4-4e52-48bb-8635-695f667e6e65",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
