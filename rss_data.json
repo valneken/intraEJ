@@ -1,6 +1,161 @@
 {
-  "timestamp": "2026-04-29 18:27:33",
+  "timestamp": "2026-04-30 00:25:45",
   "entries": [
+    {
+      "title": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-and-pr.jpg",
+      "field_list_image_1": "office room with computers",
+      "summary": "A joint investigation by the Austrian and Albanian authorities, supported by Eurojust and Europol, has stopped a sophisticated criminal network running a large-scale online fraud operation. The investigation led to the arrest of 10 individuals, the search of several premises, and the seizure of close to EUR 900 000 and various items.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint investigation by the Austrian and Albanian authorities, supported by Eurojust and Europol, has stopped a sophisticated criminal network running a large-scale online fraud operation. The investigation led to the arrest of 10 individuals, the search of several premises, and the seizure of close to EUR 900 000 and various items."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In an investigation that spanned over two years, authorities successfully dismantled the cybercrime group, which was allegedly operating several call centres in Tirana, Albania. The criminal group is believed to have caused significant financial damage totalling over EUR 50 million.Inside a scam call centreThe online call centres run by the criminal network demonstrated a high level of organisation and professionalism, with a clear division of roles and hierarchical management, resembling legitimate business structures.The individuals involved worked in groups of six to eight operators,\u2026"
+        }
+      ],
+      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        29,
+        12,
+        0,
+        0,
+        2,
+        119,
+        0
+      ],
+      "id": "9e6629bd-40cf-414f-9a5d-20a6fb16eb6b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Nine arrests connected to ATM bombings across Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Nine arrests connected to ATM bombings across Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
+      "field_list_image_1": "ATM",
+      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
+        }
+      ],
+      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        29,
+        12,
+        0,
+        0,
+        2,
+        119,
+        0
+      ],
+      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust facilitates Romanian-led cross-border action against alleged corruption in public procurement",
       "title_detail": {
@@ -1333,96 +1488,6 @@
       ]
     },
     {
-      "title": "Seized phones in small Swedish town expose major international criminal network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seized phones in small Swedish town expose major international criminal network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
-      "field_list_image_1": "smartphone and drugs",
-      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
       "title_detail": {
         "type": "text/plain",
@@ -1508,6 +1573,96 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Seized phones in small Swedish town expose major international criminal network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Seized phones in small Swedish town expose major international criminal network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
+      "field_list_image_1": "smartphone and drugs",
+      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2313,71 +2468,6 @@
       ]
     },
     {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -2463,6 +2553,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2618,6 +2773,66 @@
       ]
     },
     {
+      "title": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image-casework-highlights.png",
+      "field_list_image_1": "lady justice",
+      "summary": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Some highlights of our 2025 casework:Criminal network trafficking drugs throughout Europe since 2019 dismantledEurojust supported Slovak, Hungarian, German and Spanish authorities to arrest 22 members of a criminal network suspected of importing drugs from outside the European Union into Europe. The well-organised hierarchical structure of the network made it possible for the group to traffic drugs worth EUR 175 million. Eurojust coordinated the action day from their premise in The Hague and assisted the execution of European Arrest Warrants and European Investigation Orders. During the\u2026"
+        }
+      ],
+      "published": "Tue, 23 Dec 2025 13:00:00 +0100",
+      "published_parsed": [
+        2025,
+        12,
+        23,
+        12,
+        0,
+        0,
+        1,
+        357,
+        0
+      ],
+      "id": "4ff791e0-8132-422c-a670-51a1f77efd0b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Criminal investigation",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "ICPA receives EUR 5 million to continue investigations into crime of aggression against Ukraine",
       "title_detail": {
         "type": "text/plain",
@@ -2683,66 +2898,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust\u2019s cross-border investigations in 2025 continued to fight organised crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-image-casework-highlights.png",
-      "field_list_image_1": "lady justice",
-      "summary": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "In 2025, the EU\u2019s judicial cooperation hub worked together with national authorities from all over the globe to solve complex cross-border investigation and take action against organised criminal networks harming our societies every day. From drug trafficking networks, to large-scale credit card fraud and art trafficking, Eurojust was at the heart of combatting serious organised crime in 2025."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Some highlights of our 2025 casework:Criminal network trafficking drugs throughout Europe since 2019 dismantledEurojust supported Slovak, Hungarian, German and Spanish authorities to arrest 22 members of a criminal network suspected of importing drugs from outside the European Union into Europe. The well-organised hierarchical structure of the network made it possible for the group to traffic drugs worth EUR 175 million. Eurojust coordinated the action day from their premise in The Hague and assisted the execution of European Arrest Warrants and European Investigation Orders. During the\u2026"
-        }
-      ],
-      "published": "Tue, 23 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        23,
-        12,
-        0,
-        0,
-        1,
-        357,
-        0
-      ],
-      "id": "4ff791e0-8132-422c-a670-51a1f77efd0b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Criminal investigation",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -3598,146 +3753,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Criminal group responsible for theft of agricultural devices rolled up",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Criminal group responsible for theft of agricultural devices rolled up"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/criminal-group-responsible-theft-agricultural-devices-rolled"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/criminal-group-responsible-theft-agricultural-devices-rolled",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/argicultural-devices-theft.png",
-      "field_list_image_1": "Picture of agricultural device",
-      "summary": "French and Lithuanian authorities worked together with Eurojust and Europol to dismantle a criminal group that stole agricultural GPS equipment and exported it abroad, specifically to Lithuania and the United States. During actions in Lithuania, five suspects were arrested, four of whom are expected to be surrendered to France. The group is suspected of stealing more than 150 devices, causing damage of up to EUR 2.5 million.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "French and Lithuanian authorities worked together with Eurojust and Europol to dismantle a criminal group that stole agricultural GPS equipment and exported it abroad, specifically to Lithuania and the United States. During actions in Lithuania, five suspects were arrested, four of whom are expected to be surrendered to France. The group is suspected of stealing more than 150 devices, causing damage of up to EUR 2.5 million."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations into the thefts started when authorities noticed a rise in the number of stolen agricultural GPS devices in the Occitanie region of France. The valuable devices are installed on equipment such as tractors. By tracking the teams of thieves behind the thefts and the export routes used for the equipment, investigators uncovered a mobile criminal network originating from Lithuania.To start working with investigators from Lithuania, close cooperation was set up through Eurojust. Prosecutors working on the investigation came together with the Agency in The Hague to plan an action day\u2026"
-        }
-      ],
-      "published": "Wed, 03 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        3,
-        12,
-        0,
-        0,
-        2,
-        337,
-        0
-      ],
-      "id": "caac8d30-272f-43eb-bb37-f45ab6025ebe",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Robbery",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "International investigation into insider trading related to IT company",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "International investigation into insider trading related to IT company"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/international-investigation-insider-trading-related-it-company"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/international-investigation-insider-trading-related-it-company",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/manipulating-trading.png",
-      "field_list_image_1": "Artistic image",
-      "summary": "Searches took place in Switzerland, Germany and the United Kingdom as part of an investigation into insider trading involving five suspects. The suspects allegedly benefited from confidential, price-sensitive information relating to a listed international IT company based in Switzerland. Authorities are not investigating the company itself.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Searches took place in Switzerland, Germany and the United Kingdom as part of an investigation into insider trading involving five suspects. The suspects allegedly benefited from confidential, price-sensitive information relating to a listed international IT company based in Switzerland. Authorities are not investigating the company itself."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The five individuals, who allegedly held senior positions at the time, are suspected of selling large volumes of their company\u2019s shares based on confidential information, potentially avoiding financial losses of up to EUR 2.6 million. They sold large quantities of their shares before the company published two pre-market press releases that would negatively impact the company\u2019s share price.As the suspects and their offices were located in Switzerland, Germany and the United Kingdom, the authorities needed to collaborate closely to exchange information and organise follow-up actions. Through\u2026"
-        }
-      ],
-      "published": "Wed, 03 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        3,
-        12,
-        0,
-        0,
-        2,
-        337,
-        0
-      ],
-      "id": "16e8bc60-f0de-4544-8ef0-62368966fae8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
