@@ -1,6 +1,76 @@
 {
-  "timestamp": "2026-05-08 06:33:23",
+  "timestamp": "2026-05-08 12:25:12",
   "entries": [
+    {
+      "title": "Actions against human trafficking network gaining EUR 1.5 million from sexual exploitation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions against human trafficking network gaining EUR 1.5 million from sexual exploitation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/actions-against-human-trafficking-network-gaining-eur-15-million-sexual-exploitation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/actions-against-human-trafficking-network-gaining-eur-15-million-sexual-exploitation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/women-exploitation.jpg",
+      "field_list_image_1": "women exploitation - artwork",
+      "summary": "During an international action day, Austrian and Romanian authorities worked together to dismantle a human trafficking network that sexually exploited young Romanian women in a club in Austria. Detention has been ordered for four suspects and multiple residences in Austria and Romania have been searched. The investigation was facilitated through a joint investigation team set up at Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "During an international action day, Austrian and Romanian authorities worked together to dismantle a human trafficking network that sexually exploited young Romanian women in a club in Austria. Detention has been ordered for four suspects and multiple residences in Austria and Romania have been searched. The investigation was facilitated through a joint investigation team set up at Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In January 2023, three of the suspects who are related started their criminal activities and set up a sophisticated criminal group with clearly defined roles. The leader coordinated its members, who were responsible for the recruitment, transportation, transfer and housing of their victims, as well as coercing them into and facilitating prostitution.The group was able to lure over 20 victims into sexual exploitation. The vulnerable young women, some suffering from mental health conditions were deceived through fake romantic relationships. After they were lured into the relationship, the women\u2026"
+        }
+      ],
+      "published": "Fri, 08 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        8,
+        12,
+        0,
+        0,
+        4,
+        128,
+        0
+      ],
+      "id": "e6bbca9f-d1ba-4eec-881c-3a24aa3b0329",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Austria",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "EUR 55 million seized in public funds misappropriation investigation",
       "title_detail": {
@@ -1553,96 +1623,6 @@
       ]
     },
     {
-      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
-      "field_list_image_1": "parcels",
-      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Seized phones in small Swedish town expose major international criminal network",
       "title_detail": {
         "type": "text/plain",
@@ -1728,6 +1708,96 @@
         {
           "term": "Sweden",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-disrupts-group-using-self-igniting-parcels-terrorist-attacks",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-self-igniting-parcels-case.png",
+      "field_list_image_1": "parcels",
+      "summary": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint investigation team of German, Lithuanian, Dutch, Polish and UK authorities, set up under the coordination of Eurojust has been crucial in exposing the operation behind several attacks carried out across Europe involving self-igniting parcels. Authorities joined forces when several parcels ignited in Germany, Poland and the United Kingdom, causing damages for the postal services transporting the packages. The cooperative efforts led to the identification of 22 suspects in Lithuania and Poland who are suspected of having been working on behalf of themilitary-intelligence service of the Russian Federation. Two cases have now been sent to courts in Lithuania and Poland, with trials expected to happen later in the year."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In July 2024, four parcels were sent from Lithuania to addresses in the United Kingdom and Poland. One of the parcels, that was sent through a sorting centre in Germany, caught fire at Leipzig airport, shortly before it was loaded onto an aircraft. Another parcel caught fire while in a warehouse in the UK. In Poland, one package caught fire in a truck. The second parcel was seized by authorities while it was still intact, enabling the analysis of the device and its damage potential. The investigation also identified two \u2018test packages\u2019 that had been sent to the United States and Canada, as\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "302ffbb8-11fe-41c2-aae0-46f29290d79c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Poland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
           "label": null
         }
       ]
@@ -3533,76 +3603,6 @@
       ]
     },
     {
-      "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emj-logo-list-0.png",
-      "field_list_image_1": "EMJ logo",
-      "summary": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The 22nd CrimEx meetingprovided an update on the activities of the EMJ project. Theoutcomes from the 6th EMJNet meeting focusing on drug trafficking were shared for the CrimEx representatives\u2019 consideration and discussion, with the aim to identify consolidated input to be transmitted to the EuroMed PG Forum during its next meeting planned for summer 2026. CrimEx representatives were also invited to have strategic exchanges on challenges and best practices related to trafficking in human beings/migrant smuggling and asset recovery.Additionally, recently organised TAF activities were\u2026"
-        }
-      ],
-      "published": "Fri, 05 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        5,
-        12,
-        0,
-        0,
-        4,
-        339,
-        0
-      ],
-      "id": "73355811-c499-4329-a796-6f410f67b1a5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Prison sentences of up to 15 years for migrant smugglers",
       "title_detail": {
         "type": "text/plain",
@@ -3703,36 +3703,36 @@
       ]
     },
     {
-      "title": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting",
+      "title": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
+        "value": "Eurojust hosts the 22nd CrimEx meeting of the EuroMed Justice project"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-19th-meeting-group-stairs.png",
-      "field_list_image_1": "participants meeting",
-      "summary": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention.",
+      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-22nd-crimex-meeting-euromed-justice-project",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emj-logo-list-0.png",
+      "field_list_image_1": "EMJ logo",
+      "summary": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention."
+        "value": "On 3\u20134 December 2025, Eurojust hosted the 22nd CrimEx meeting in The Hague as part of the 6th phase of the EuroMed Justice (EMJ) Project. The event brought together criminal justice representatives from seven South Partner Countries (SPCs) and seven European Union Member States. Participants focused on technical and strategic aspects of international judicial cooperation, exchanging insights on challenges and best practices in combating trafficking in human beings and migrant smuggling."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The EJCN's meeting took place against a backdrop of increasing concern about the potential impact of cyberattacks on critical infrastructure, and the need for a coordinated response to mitigate these threats. Participants explored ways to enhance cooperation and coordination in the fight against disinformation and hybrid warfare, and to promote the use of innovative technologies, such as artificial intelligence, to support the work of judicial authorities.A key aim of the meeting was to facilitate the sharing of knowledge and best practices among participants, and to identify areas for\u2026"
+          "value": "The 22nd CrimEx meetingprovided an update on the activities of the EMJ project. Theoutcomes from the 6th EMJNet meeting focusing on drug trafficking were shared for the CrimEx representatives\u2019 consideration and discussion, with the aim to identify consolidated input to be transmitted to the EuroMed PG Forum during its next meeting planned for summer 2026. CrimEx representatives were also invited to have strategic exchanges on challenges and best practices related to trafficking in human beings/migrant smuggling and asset recovery.Additionally, recently organised TAF activities were\u2026"
         }
       ],
       "published": "Fri, 05 Dec 2025 13:00:00 +0100",
@@ -3747,17 +3747,27 @@
         339,
         0
       ],
-      "id": "93218720-2607-43c0-9b8b-9a7657e5e149",
+      "id": "73355811-c499-4329-a796-6f410f67b1a5",
       "guidislink": false,
       "tags": [
         {
-          "term": "Cybercrime",
+          "term": "Migrant smuggling",
           "scheme": "Crime type",
           "label": null
         },
         {
-          "term": "EJCN",
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Third countries",
           "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
           "label": null
         }
       ]
