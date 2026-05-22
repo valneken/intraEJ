@@ -1,6 +1,66 @@
 {
-  "timestamp": "2026-05-22 07:08:44",
+  "timestamp": "2026-05-22 12:44:29",
   "entries": [
+    {
+      "title": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/highlighting-important-work-national-authorities-11th-eu-day-against-impunity"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/highlighting-important-work-national-authorities-11th-eu-day-against-impunity",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/euday-2026-ej-infocus.jpg",
+      "field_list_image_1": "EU DAI",
+      "summary": "On 23 May, the European Union marks the 11th EU Day Against Impunity for genocide, crimes against humanity and war crimes. At a time of growing armed conflict around the world \u2013 particularly in regions close to the European Union \u2013 and mounting threats to the international criminal justice system, this day serves as a reminder of the commitment needed to fight impunity for the most serious international crimes.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 23 May, the European Union marks the 11th EU Day Against Impunity for genocide, crimes against humanity and war crimes. At a time of growing armed conflict around the world \u2013 particularly in regions close to the European Union \u2013 and mounting threats to the international criminal justice system, this day serves as a reminder of the commitment needed to fight impunity for the most serious international crimes."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Accountability for core international crimes is a global effort. Across Europe and beyond, national authorities, international institutions and civil society organisations are working together to strengthen international criminal justice worldwide. EU Member States make a particularly significant contribution to justice for victims through the exercise of extra-territorial jurisdiction, including universal jurisdiction. In 2025, over 30 new cases were opened, adding to the ongoing investigative and prosecutorial efforts in 20 countries concerning crimes committed in over 30 countries*.Since\u2026"
+        }
+      ],
+      "published": "Fri, 22 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        22,
+        12,
+        0,
+        0,
+        4,
+        142,
+        0
+      ],
+      "id": "4b8beccb-c06c-4ab6-b10a-0043c0cb0e9c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust coordinated investigation shuts down criminal VPN network",
       "title_detail": {
@@ -227,6 +287,76 @@
       ]
     },
     {
+      "title": "Eurojust supports arrest of man suspected of intentional homicide of his partner",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports arrest of man suspected of intentional homicide of his partner"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-man-suspected-intentional-homicide-his-partner"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-man-suspected-intentional-homicide-his-partner",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sw-es-press-release-19-05-2026.jpg",
+      "field_list_image_1": "Police tape",
+      "summary": "The reason for a woman\u2019s disappearance from Switzerland is suspected to be intentional homicide by her partner. Swiss and Spanish authorities were able to arrest the suspect during a joint action day that took place in both countries. Throughout the investigation, authorities worked together with Eurojust to locate the suspect, collect evidence and find the remains of the victim.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The reason for a woman\u2019s disappearance from Switzerland is suspected to be intentional homicide by her partner. Swiss and Spanish authorities were able to arrest the suspect during a joint action day that took place in both countries. Throughout the investigation, authorities worked together with Eurojust to locate the suspect, collect evidence and find the remains of the victim."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The victim was last seen in Switzerland after attending a medical appointment. In early 2026, the victim\u2019s family suspected that she was missing after a period without contact. An investigation was then launched in Switzerland.Since the suspect had moved to a remote area in Spain, Swiss authorities needed support from their Spanish counterparts to continue the investigation. Through coordination by Eurojust, several Mutual Legal Assistance requests were executed and a joint action day was planned to take place in Spain and Switzerland.According to the results of the investigation, the death\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "9ba9997a-c352-49bc-ba65-8ff95bd2035b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Crimes against life, limb and personal freedom",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
       "title_detail": {
         "type": "text/plain",
@@ -337,76 +467,6 @@
         {
           "term": "EuroMed Justice",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports arrest of man suspected of intentional homicide of his partner",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports arrest of man suspected of intentional homicide of his partner"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-man-suspected-intentional-homicide-his-partner"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-man-suspected-intentional-homicide-his-partner",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sw-es-press-release-19-05-2026.jpg",
-      "field_list_image_1": "Police tape",
-      "summary": "The reason for a woman\u2019s disappearance from Switzerland is suspected to be intentional homicide by her partner. Swiss and Spanish authorities were able to arrest the suspect during a joint action day that took place in both countries. Throughout the investigation, authorities worked together with Eurojust to locate the suspect, collect evidence and find the remains of the victim.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The reason for a woman\u2019s disappearance from Switzerland is suspected to be intentional homicide by her partner. Swiss and Spanish authorities were able to arrest the suspect during a joint action day that took place in both countries. Throughout the investigation, authorities worked together with Eurojust to locate the suspect, collect evidence and find the remains of the victim."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The victim was last seen in Switzerland after attending a medical appointment. In early 2026, the victim\u2019s family suspected that she was missing after a period without contact. An investigation was then launched in Switzerland.Since the suspect had moved to a remote area in Spain, Swiss authorities needed support from their Spanish counterparts to continue the investigation. Through coordination by Eurojust, several Mutual Legal Assistance requests were executed and a joint action day was planned to take place in Spain and Switzerland.According to the results of the investigation, the death\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "9ba9997a-c352-49bc-ba65-8ff95bd2035b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Crimes against life, limb and personal freedom",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
           "label": null
         }
       ]
@@ -762,6 +822,81 @@
       ]
     },
     {
+      "title": "Nine arrests connected to ATM bombings across Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Nine arrests connected to ATM bombings across Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
+      "field_list_image_1": "ATM",
+      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
+        }
+      ],
+      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        29,
+        12,
+        0,
+        0,
+        2,
+        119,
+        0
+      ],
+      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered",
       "title_detail": {
         "type": "text/plain",
@@ -836,81 +971,6 @@
         },
         {
           "term": "Albania",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Nine arrests connected to ATM bombings across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Nine arrests connected to ATM bombings across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
-      "field_list_image_1": "ATM",
-      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
-        }
-      ],
-      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        29,
-        12,
-        0,
-        0,
-        2,
-        119,
-        0
-      ],
-      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -1585,6 +1645,86 @@
       ]
     },
     {
+      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
+      "field_list_image_1": "drugs on table and scale",
+      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
+        }
+      ],
+      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        27,
+        12,
+        0,
+        0,
+        4,
+        86,
+        0
+      ],
+      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Financial crime investigation culminates in arrests and frozen assets of high value",
       "title_detail": {
         "type": "text/plain",
@@ -1674,86 +1814,6 @@
         },
         {
           "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
-      "field_list_image_1": "drugs on table and scale",
-      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
-        }
-      ],
-      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        27,
-        12,
-        0,
-        0,
-        4,
-        86,
-        0
-      ],
-      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -3228,6 +3288,71 @@
       ]
     },
     {
+      "title": "Arrests made for attempted sabotage against navy ships",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests made for attempted sabotage against navy ships"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
+      "field_list_image_1": "prikkeldraad",
+      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
+        }
+      ],
+      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        2,
+        3,
+        12,
+        0,
+        0,
+        1,
+        34,
+        0
+      ],
+      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Successful operation against illegal streaming services with millions of users worldwide",
       "title_detail": {
         "type": "text/plain",
@@ -3313,71 +3438,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Arrests made for attempted sabotage against navy ships",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests made for attempted sabotage against navy ships"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-made-attempted-sabotage-against-navy-ships",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/prikkeldraad.png",
-      "field_list_image_1": "prikkeldraad",
-      "summary": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between German, Greek and Romanian authorities under coordination by Eurojust, has led to the arrest of two individuals who are suspected of attempted sabotage against German defence equipment. The arrest of the Romanian and Greek suspects took place in Germany and Greece today."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two suspects, who work at the Port of Hamburg, are suspected to have attempted acts of sabotage in 2025. This includes dumping more than 20 kilogrammes of abrasive gravel into the engine block of German navy ships, puncturing the fresh water supply lines, removing fuel tank caps and the deactivation of electronic safety switches.If gone undetected, the acts would have caused major damage to the ships and delayed their departure, endangering the operations of the German Navy.Thanks to the coordination from Eurojust, the German, Greek and Romanian authorities worked together in preparation\u2026"
-        }
-      ],
-      "published": "Tue, 03 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        3,
-        12,
-        0,
-        0,
-        1,
-        34,
-        0
-      ],
-      "id": "04d94b0e-7807-46ce-a039-ce32e7977bdb",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3658,76 +3718,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust supports seizure of mafia assets worth EUR 40 million",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust supports seizure of mafia assets worth EUR 40 million"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-seizure-mafia-assets-worth-eur-40-million"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-seizure-mafia-assets-worth-eur-40-million",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-mafia-seizures-case.png",
-      "field_list_image_1": "house model and money",
-      "summary": "Italian and Romanian authorities have seized assets worth more than EUR40million from an individual suspected of being affiliated with mafia families. Eurojust ensured that the freezing happened simultaneously in both countries.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Italian and Romanian authorities have seized assets worth more than EUR40million from an individual suspected of being affiliated with mafia families. Eurojust ensured that the freezing happened simultaneously in both countries."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Investigations into the Italian suspect, a former crown witness, exposed his ties to the Santapaola-Ercolano family and the Cappello Bonaccorsi clan. He was allegedly involved in laundering his own and mafia assets through assets purchased in his own name and in the names of his relatives. Betting and online gaming licences and shops in the provinces of Catania and Syracuse, Italy, as well as cryptocurrency, were used to launder significant amounts of illegal profits.Some of the assets, including real estate and cars, were purchased in Romania. As a result, Italian and Romanian\u2026"
-        }
-      ],
-      "published": "Wed, 17 Dec 2025 13:00:00 +0100",
-      "published_parsed": [
-        2025,
-        12,
-        17,
-        12,
-        0,
-        0,
-        2,
-        351,
-        0
-      ],
-      "id": "d61f3965-a89d-4c31-a903-662808e43a49",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Seizure",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
