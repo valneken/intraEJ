@@ -1,6 +1,81 @@
 {
-  "timestamp": "2026-05-28 13:07:35",
+  "timestamp": "2026-05-28 18:49:20",
   "entries": [
+    {
+      "title": "Dismantling a poly-criminal group: 23 suspects detained",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Dismantling a poly-criminal group: 23 suspects detained"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/dismantling-poly-criminal-group-23-suspects-detained"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/dismantling-poly-criminal-group-23-suspects-detained",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/it-hr-case-may2026.jpg",
+      "field_list_image_1": "prison cell",
+      "summary": "An organised crime group active in the Salerno area in Italy has been taken down following actions by Italian and Croatian authorities, with coordination by Eurojust. Investigations into the group revealed the wide range of criminal activities from which they had been profiting, including drug trafficking, arms trafficking and migrant smuggling. The leader of the group was able to lead their activities from a prison facility. During actions taken in Italy and Croatia, 23 suspects were detained, including a Croatian arms dealer involved in the criminal activities.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An organised crime group active in the Salerno area in Italy has been taken down following actions by Italian and Croatian authorities, with coordination by Eurojust. Investigations into the group revealed the wide range of criminal activities from which they had been profiting, including drug trafficking, arms trafficking and migrant smuggling. The leader of the group was able to lead their activities from a prison facility. During actions taken in Italy and Croatia, 23 suspects were detained, including a Croatian arms dealer involved in the criminal activities."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Investigations revealed the dangerous poly-criminal nature of the criminal group. The organisation\u2019s main activity was drug trafficking in the Sarno and Scafati area. They are suspected to have trafficked hundreds of kilos of cocaine. To control their territory, members of the group are suspected of acquiring various weapons, alongside engaging in extortion and commissioning violent acts for intimidation purposes. To gain even more illegal profits, the group also became active in facilitating illegal immigration by creating fake employment contracts. Over 1 000 applications for work permits\u2026"
+        }
+      ],
+      "published": "Thu, 28 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        28,
+        12,
+        0,
+        0,
+        3,
+        148,
+        0
+      ],
+      "id": "21f0fb32-61d2-4b71-8222-f3d30299fc43",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Trafficking in firearms",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Croatia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust supports Joint Italy\u2013Albania operation dismantling  organised crime network behind murder, drug trafficking and money laundering",
       "title_detail": {
@@ -3713,86 +3788,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Terrorist group responsible for arson attacks across Europe taken to court",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Terrorist group responsible for arson attacks across Europe taken to court"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/terrorist-group-responsible-arson-attacks-across-europe-taken-court"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/terrorist-group-responsible-arson-attacks-across-europe-taken-court",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arsonist-starting-fire-infocus.jpg",
-      "field_list_image_1": "arsonist",
-      "summary": "A terrorist group suspected of carrying out several arson attacks in the European Union on behalf of a foreign intelligence service is to be taken to court. The group attempted to set fire to commercial, transport and factory facilities in the Czech Republic, Lithuania, Poland and Romania. A joint investigation team set up at Eurojust and initiated by Romania identified the alleged perpetrators and brought them to court. Following trials in Romania and the Czech Republic, two individuals have been convicted. In Lithuania, the trial of six suspects is expected to start later this year.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A terrorist group suspected of carrying out several arson attacks in the European Union on behalf of a foreign intelligence service is to be taken to court. The group attempted to set fire to commercial, transport and factory facilities in the Czech Republic, Lithuania, Poland and Romania. A joint investigation team set up at Eurojust and initiated by Romania identified the alleged perpetrators and brought them to court. Following trials in Romania and the Czech Republic, two individuals have been convicted. In Lithuania, the trial of six suspects is expected to start later this year."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Authorities from the Czech Republic, Lithuania, Poland and Romania found links between attempted and actual arson attacks in their respective countries. In Romania, a suspect was arrested in July 2024 after he was caught taking photos of possible locations to set on fire. In the Czech Republic, investigations revealed that a suspect had set fire to buses in Prague by spraying oil and pouring petrol over them before setting fire to the substances. He also scouted other locations for follow-up attacks. In Lithuania, the suspects targeted a factory producing materials for the Armed Forces of\u2026"
-        }
-      ],
-      "published": "Tue, 27 Jan 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        1,
-        27,
-        12,
-        0,
-        0,
-        1,
-        27,
-        0
-      ],
-      "id": "f899fb06-710a-46d8-85d9-97ee802ba6c1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Ne bis in idem",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
