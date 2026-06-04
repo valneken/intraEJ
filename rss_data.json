@@ -1,6 +1,54 @@
 {
-  "timestamp": "2026-06-04 07:33:37",
+  "timestamp": "2026-06-04 12:58:02",
   "entries": [
+    {
+      "title": "Expert meeting on Judicial response to threats caused by drones",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Expert meeting on Judicial response to threats caused by drones"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/expert-meeting-judicial-response-threats-caused-drones"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/expert-meeting-judicial-response-threats-caused-drones",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/drones.jpg",
+      "field_list_image_1": "drones",
+      "summary": "In response to the growing threat posed by malicious use of drones across Europe, Eurojust organised a two-day expert meeting on 2 and 3 June 2026 to discuss the judicial response to the phenomenon.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "In response to the growing threat posed by malicious use of drones across Europe, Eurojust organised a two-day expert meeting on 2 and 3 June 2026 to discuss the judicial response to the phenomenon."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The event provided a platform for the judicial authorities of EU Member States and partner third countries to exchange operational experience and best practices on dealing, at judicial level, with incidents and threats caused by drones. A specific session was also dedicated to enhancing interagency and international collaboration in this area to ensure a comprehensive, coordinated and targeted approach bringing together all relevant stakeholders."
+        }
+      ],
+      "published": "Wed, 03 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        3,
+        12,
+        0,
+        0,
+        2,
+        154,
+        0
+      ],
+      "id": "1d72fe1b-be03-49b2-9768-09064bd3ecb4",
+      "guidislink": false
+    },
     {
       "title": "Crackdown on criminal groups selling stolen gold and jewellery",
       "title_detail": {
@@ -67,66 +115,6 @@
         {
           "term": "France",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
-        }
-      ],
-      "published": "Fri, 29 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        29,
-        12,
-        0,
-        0,
-        4,
-        149,
-        0
-      ],
-      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -212,6 +200,66 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
+        }
+      ],
+      "published": "Fri, 29 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        29,
+        12,
+        0,
+        0,
+        4,
+        149,
+        0
+      ],
+      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -387,76 +435,6 @@
       ]
     },
     {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -562,6 +540,76 @@
         {
           "term": "OLAF",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1387,6 +1435,81 @@
       ]
     },
     {
+      "title": "Nine arrests connected to ATM bombings across Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Nine arrests connected to ATM bombings across Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
+      "field_list_image_1": "ATM",
+      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
+        }
+      ],
+      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        29,
+        12,
+        0,
+        0,
+        2,
+        119,
+        0
+      ],
+      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered",
       "title_detail": {
         "type": "text/plain",
@@ -1461,81 +1584,6 @@
         },
         {
           "term": "Albania",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Nine arrests connected to ATM bombings across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Nine arrests connected to ATM bombings across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
-      "field_list_image_1": "ATM",
-      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
-        }
-      ],
-      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        29,
-        12,
-        0,
-        0,
-        2,
-        119,
-        0
-      ],
-      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -2210,6 +2258,86 @@
       ]
     },
     {
+      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
+      "field_list_image_1": "drugs on table and scale",
+      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
+        }
+      ],
+      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        27,
+        12,
+        0,
+        0,
+        4,
+        86,
+        0
+      ],
+      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Financial crime investigation culminates in arrests and frozen assets of high value",
       "title_detail": {
         "type": "text/plain",
@@ -2299,86 +2427,6 @@
         },
         {
           "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
-      "field_list_image_1": "drugs on table and scale",
-      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
-        }
-      ],
-      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        27,
-        12,
-        0,
-        0,
-        4,
-        86,
-        0
-      ],
-      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
           "scheme": "Third states",
           "label": null
         }
@@ -2873,96 +2921,6 @@
       ]
     },
     {
-      "title": "Seized phones in small Swedish town expose major international criminal network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Seized phones in small Swedish town expose major international criminal network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
-      "field_list_image_1": "smartphone and drugs",
-      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
-        }
-      ],
-      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        6,
-        12,
-        0,
-        0,
-        4,
-        65,
-        0
-      ],
-      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Freezing",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Joint investigation team disrupts group using self-igniting parcels for terrorist attacks",
       "title_detail": {
         "type": "text/plain",
@@ -3048,6 +3006,96 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Seized phones in small Swedish town expose major international criminal network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Seized phones in small Swedish town expose major international criminal network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/seized-phones-small-swedish-town-expose-major-international-criminal-network",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-operation-candy.png",
+      "field_list_image_1": "smartphone and drugs",
+      "summary": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Actions taken by authorities around the globe and coordinated by Eurojust and Europol led to the arrests of 15 suspects and the dismantling of a sophisticated drug trafficking operation. The actions started after Swedish authorities seized two phones in a small town. After analysing the data they contained, an international criminal network suspected trafficking large amounts of drugs was discovered and authorities from four countries worked together to take serious action against the large network, which was active around the world."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The local investigation quickly escalated after forensic analysis revealed that the phones seized had international contacts and were used to coordinate operations far beyond Sweden.The data analysed showed that it was not just one criminal group responsible for a drug trafficking and money laundering operation, but a network of several criminal groups connected through a web of companies. The members of the network in Thailand ran a large-scale online drug distribution business targeting customers in the Nordics. In Sweden, members were managing domestic drug distribution and\u2026"
+        }
+      ],
+      "published": "Fri, 06 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        6,
+        12,
+        0,
+        0,
+        4,
+        65,
+        0
+      ],
+      "id": "3bef62ba-2596-4e11-bd04-1d13313191ee",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "European Arrest Warrant",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "European Investigation Order",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Freezing",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Sweden",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3723,71 +3771,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "1st meeting of the Regional Network for investigation and prosecution of genocide, crimes against humanity and war crimes in Western Africa",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "1st meeting of the Regional Network for investigation and prosecution of genocide, crimes against humanity and war crimes in Western Africa"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/1st-meeting-regional-network-investigation-and-prosecution-genocide-crimes-against-humanity"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/1st-meeting-regional-network-investigation-and-prosecution-genocide-crimes-against-humanity",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/dakar-picture.jpg",
-      "field_list_image_1": "Dakar meeting",
-      "summary": "The first meeting of the Regional Network for the investigation and prosecution of genocide, crimes against humanity and war crimes in Western Africa took place on 4\u20135 February in Dakar, Senegal. The event brought together representatives of judicial and law enforcement authorities from the region, alongside international stakeholders and civil society organisations, to advance cooperation related to core international crimes.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The first meeting of the Regional Network for the investigation and prosecution of genocide, crimes against humanity and war crimes in Western Africa took place on 4\u20135 February in Dakar, Senegal. The event brought together representatives of judicial and law enforcement authorities from the region, alongside international stakeholders and civil society organisations, to advance cooperation related to core international crimes."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The establishment of the Regional Network builds on the participation of a delegation from The Gambia, Guinea and Senegal in the most recent meeting of the European Network for the investigation and prosecution of genocide, crimes against humanity and war crimes (Genocide Prosecution Network) in November 2025. The visit, facilitated by the National Authorities against Impunity Project, also provided an opportunity for exchanges with key international and national partners and highlighted a shared interest in reinforcing regional judicial cooperation and facilitating information exchange in\u2026"
-        }
-      ],
-      "published": "Fri, 06 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        6,
-        12,
-        0,
-        0,
-        4,
-        37,
-        0
-      ],
-      "id": "507b1226-9b1e-4dfb-9ddd-602dd555d5c8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "IMPNA",
-          "scheme": "Projects",
           "label": null
         }
       ]
