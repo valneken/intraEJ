@@ -1,6 +1,66 @@
 {
-  "timestamp": "2026-06-04 12:58:02",
+  "timestamp": "2026-06-04 18:43:03",
   "entries": [
+    {
+      "title": "New National Member for Romania: Ms Emilia Ioana Lionte",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New National Member for Romania: Ms Emilia Ioana Lionte"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-national-member-romania-ms-emilia-ioana-lionte"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-national-member-romania-ms-emilia-ioana-lionte",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emilia-ioana-lionte.jpg",
+      "field_list_image_1": "Emilia  Ioana  Lionte",
+      "summary": "Prosecutor Ms Emilia Ioana Lionte has been appointed as the new National Member for Romania at Eurojust \u2013 the European Union Agency for Criminal Justice Cooperation.Ms Lionte began her work at the Agency in May 2026 and will be instrumental in enabling cooperation between Romanian authorities and their international partners on cross-border investigations.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Prosecutor Ms Emilia Ioana Lionte has been appointed as the new National Member for Romania at Eurojust \u2013 the European Union Agency for Criminal Justice Cooperation.Ms Lionte began her work at the Agency in May 2026 and will be instrumental in enabling cooperation between Romanian authorities and their international partners on cross-border investigations."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her new mandate at Eurojust, Ms Lionte said:I am honoured to have been appointed as National Member for Romania. I'm confident that I can actively contribute to enhancing judicial cooperation and facilitating the handling of complex cases. Eurojust plays a distinctive role in bringing an international perspective to connected national cases. This very important institution connects practitioners across diverse legal systems and facilitates dialogue aimed at combating the most serious forms of criminality.Ms Lionte has extensive experience as a prosecutor both at national\u2026"
+        }
+      ],
+      "published": "Thu, 04 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        4,
+        12,
+        0,
+        0,
+        3,
+        155,
+        0
+      ],
+      "id": "d9f493cf-331c-494d-b1f1-7638ca3b85e0",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Expert meeting on Judicial response to threats caused by drones",
       "title_detail": {
@@ -435,6 +495,76 @@
       ]
     },
     {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -545,76 +675,6 @@
       ]
     },
     {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity",
       "title_detail": {
         "type": "text/plain",
@@ -670,6 +730,66 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
+      "field_list_image_1": "Symposium on victims\u2019 rights",
+      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Victims\u2019 rights",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Support for victims",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -775,66 +895,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
-      "field_list_image_1": "Symposium on victims\u2019 rights",
-      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Victims\u2019 rights",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Support for victims",
-          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -1435,81 +1495,6 @@
       ]
     },
     {
-      "title": "Nine arrests connected to ATM bombings across Europe",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Nine arrests connected to ATM bombings across Europe"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
-      "field_list_image_1": "ATM",
-      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
-        }
-      ],
-      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        29,
-        12,
-        0,
-        0,
-        2,
-        119,
-        0
-      ],
-      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered",
       "title_detail": {
         "type": "text/plain",
@@ -1584,6 +1569,81 @@
         },
         {
           "term": "Albania",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Nine arrests connected to ATM bombings across Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Nine arrests connected to ATM bombings across Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-atm-bombings-case.jpg",
+      "field_list_image_1": "ATM",
+      "summary": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A Dutch criminal group, suspected of carrying out ATM bombings in Germany and Switzerland has been dismantled following a coordinated investigation between several countries, supported by Eurojust and Europol. The suspects are allegedly responsible for approximately 10 attacks."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Authorities carried out coordinated action days on 14, 15 and 22 April. Fifteen locations were searched in where cash, cocaine and vehicles were seized, along with materials that can be used to carry out the explosive attacks. Nine suspects were arrested. Six suspects were brought to court on 24 April, where it was decided to extend their pre-trial detention. Earlier actions had already led to the arrest of two members of the criminal group in the Netherlands.The arrests are the culmination of a joint investigation team (JIT) set up at Eurojust between Dutch, German and Swiss authorities.\u2026"
+        }
+      ],
+      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        4,
+        29,
+        12,
+        0,
+        0,
+        2,
+        119,
+        0
+      ],
+      "id": "6ab7bb25-90db-4769-b195-6bda93b63943",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
           "scheme": "Third states",
           "label": null
         }
@@ -3686,91 +3746,6 @@
         {
           "term": "Iceland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Action against EUR 306 million money laundering network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Action against EUR 306 million money laundering network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/action-against-eur-306-million-money-laundering-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/action-against-eur-306-million-money-laundering-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-fr-ro-money-laundering.png",
-      "field_list_image_1": "money on a table",
-      "summary": "Following investigations into a criminal group suspected of laundering at least EUR 306 million of illicit profits from drug trafficking and other crimes, 13 people have been arrested in France and Romania. Investigations coordinated through a joint investigation team at Eurojust revealed that the group had been operating in France and Romania between 2018 and 2024.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Following investigations into a criminal group suspected of laundering at least EUR 306 million of illicit profits from drug trafficking and other crimes, 13 people have been arrested in France and Romania. Investigations coordinated through a joint investigation team at Eurojust revealed that the group had been operating in France and Romania between 2018 and 2024."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Consisting of dozens of members operating from Romania and France, the criminal group is suspected of having laundered illicit profits from crimes such as drug trafficking. They set up a sophisticated international operation involving multiple legal entities in France, which they took over and used to channel large sums of money into their own bank accounts. The group also created a financial circuit involving the issuance of false invoices for services between legal entities, thereby reducing those companies\u2019 taxable income.In Romania, the group invested part of its illicit profits in\u2026"
-        }
-      ],
-      "published": "Mon, 09 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        9,
-        12,
-        0,
-        0,
-        0,
-        40,
-        0
-      ],
-      "id": "be9af091-3dbb-4269-a0fe-1825da2c44ea",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
