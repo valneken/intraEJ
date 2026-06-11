@@ -1,6 +1,81 @@
 {
-  "timestamp": "2026-06-10 18:48:48",
+  "timestamp": "2026-06-11 00:37:10",
   "entries": [
+    {
+      "title": "Millions of French drug trafficking profits laundered through Belgium: authorities take action",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Millions of French drug trafficking profits laundered through Belgium: authorities take action"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/millions-french-drug-trafficking-profits-laundered-through-belgium-authorities-take-action"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/millions-french-drug-trafficking-profits-laundered-through-belgium-authorities-take-action",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-drugs-pr.jpg",
+      "field_list_image_1": "Money and drugs",
+      "summary": "Cooperation between Belgian and French authorities, set up through Eurojust, has led to the detention of eight people and the seizure of over EUR 8 million. The detained people are suspected of laundering several million euros through a business in Brussels.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Cooperation between Belgian and French authorities, set up through Eurojust, has led to the detention of eight people and the seizure of over EUR 8 million. The detained people are suspected of laundering several million euros through a business in Brussels."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A joint investigation team set up at Eurojust enabled the Belgian and French authorities to reveal the money laundering scheme taking place in both countries. Illicit proceeds from drug trafficking activities in France were allegedly transferred to Belgium by money collectors. The money would then be laundered in Brussels through a business.During two action days starting in France on 5 June and continuing in Belgium the next day, authorities worked together to take action against the money launderers. When two of the money collectors arrived in France they were arrested and over EUR 260 000\u2026"
+        }
+      ],
+      "published": "Wed, 10 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        10,
+        12,
+        0,
+        0,
+        2,
+        161,
+        0
+      ],
+      "id": "cd91e257-1b95-44f8-bf0a-423693905138",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "New National Member for Romania: Ms Emilia Ioana Lionte",
       "title_detail": {
@@ -735,66 +810,6 @@
       ]
     },
     {
-      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
-      "field_list_image_1": "Symposium on victims\u2019 rights",
-      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Victims\u2019 rights",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Support for victims",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust coordinated investigation shuts down criminal VPN network",
       "title_detail": {
         "type": "text/plain",
@@ -895,6 +910,66 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
+      "field_list_image_1": "Symposium on victims\u2019 rights",
+      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Victims\u2019 rights",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Support for victims",
+          "scheme": "Judicial cooperation",
           "label": null
         }
       ]
@@ -3666,86 +3741,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "24 members of international drug trafficking group arrested",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "24 members of international drug trafficking group arrested"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/24-members-international-drug-trafficking-group-arrested"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/24-members-international-drug-trafficking-group-arrested",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/drug-trafficking-case.png",
-      "field_list_image_1": "Arrests",
-      "summary": "An organised crime group suspected of trafficking drugs to Iceland from across Europe and South America has been dismantled by Lithuanian, Spanish and Icelandic authorities, in cooperation with Eurojust and Europol. It is estimated that the group made over EUR 4 million in profits from their illicit activities. A coordinated operation led to the arrest of 24 of its members across five countries.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An organised crime group suspected of trafficking drugs to Iceland from across Europe and South America has been dismantled by Lithuanian, Spanish and Icelandic authorities, in cooperation with Eurojust and Europol. It is estimated that the group made over EUR 4 million in profits from their illicit activities. A coordinated operation led to the arrest of 24 of its members across five countries."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The group, based in Lithuania and Spain, is suspected of trafficking cocaine, MDMA, methamphetamine and ketamine from South America into Iceland and Lithuania. Once the drugs arrived in Iceland from Spain, the criminal group would distribute them further. They were able to move over 39 kilogrammes of cocaine, 5 100 MDMA tablets and 1 kilogramme of ketamine and methamphetamine. The illicit revenue coming from the drug trafficking was allegedly laundered through real estate and other properties in Lithuania.The network relied primarily on drug mules, usually people in vulnerable\u2026"
-        }
-      ],
-      "published": "Tue, 10 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        10,
-        12,
-        0,
-        0,
-        1,
-        41,
-        0
-      ],
-      "id": "7c0c59e5-8fa0-45a7-bde9-1ba207c5743a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Iceland",
-          "scheme": "Third states",
           "label": null
         }
       ]
