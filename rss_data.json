@@ -1,6 +1,96 @@
 {
-  "timestamp": "2026-06-24 12:40:21",
+  "timestamp": "2026-06-24 18:33:29",
   "entries": [
+    {
+      "title": "Operation Endgame continues: international coalition takes malware offline",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Operation Endgame continues: international coalition takes malware offline"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/operation-endgame-continues-international-coalition-takes-malware-offline"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/operation-endgame-continues-international-coalition-takes-malware-offline",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/operation-endgame-pr.jpg",
+      "field_list_image_1": "Endgame badge",
+      "summary": "Another chapter in Operation Endgame ended with the successful takedown of malware that was offered as a service to other criminals for further criminal activity. Eurojust, together with judicial authorities and law enforcement from Germany, Belgium, Denmark, France, the Netherlands, the United Kingdom, the United States, Canada and Europol, planned and executed actions to take down the technical infrastructure underpinning the malware.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Another chapter in Operation Endgame ended with the successful takedown of malware that was offered as a service to other criminals for further criminal activity. Eurojust, together with judicial authorities and law enforcement from Germany, Belgium, Denmark, France, the Netherlands, the United Kingdom, the United States, Canada and Europol, planned and executed actions to take down the technical infrastructure underpinning the malware."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "During an international action week taking place between 15 and 19 June, authorities succeeded in disrupting the infrastructure of various malware services. In total 326 servers and 142 domains were neutralised and 27 million compromised data sets were recovered.Three malware variants with different functionalities were targeted and neutralised:SocGholish: allows unauthorised parties to gain access to computer systems by distributing fake browser updates via compromised websites. This access is then exploited for other crimes, such as installing ransomware for digital extortion.StealC:\u2026"
+        }
+      ],
+      "published": "Wed, 24 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        24,
+        12,
+        0,
+        0,
+        2,
+        175,
+        0
+      ],
+      "id": "546378f2-2f04-4ae8-8deb-12895320d355",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Denmark",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust President opens EU Crime Fighting Week",
       "title_detail": {
@@ -57,54 +147,6 @@
       ]
     },
     {
-      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
-      "field_list_image_1": "AR cover",
-      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
-        }
-      ],
-      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        18,
-        12,
-        0,
-        0,
-        3,
-        169,
-        0
-      ],
-      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
-      "guidislink": false
-    },
-    {
       "title": "Specialised prosecutors meet at Eurojust to strengthen the fight against human trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -158,6 +200,54 @@
           "label": null
         }
       ]
+    },
+    {
+      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
+      "field_list_image_1": "AR cover",
+      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
+        }
+      ],
+      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        18,
+        12,
+        0,
+        0,
+        3,
+        169,
+        0
+      ],
+      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
+      "guidislink": false
     },
     {
       "title": "Drug trafficking network dismantled by international coalition",
@@ -3654,61 +3744,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EJN launches Fiches Belges for Bosnia and Herzegovina and Kosovo* with support of the WBCJ project",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJN launches Fiches Belges for Bosnia and Herzegovina and Kosovo* with support of the WBCJ project"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejn-launches-fiches-belges-bosnia-and-herzegovina-and-kosovo-support-wbcj-project"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejn-launches-fiches-belges-bosnia-and-herzegovina-and-kosovo-support-wbcj-project",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wbcj-logo.png",
-      "field_list_image_1": "WBCJ logo",
-      "summary": "The European Judicial Network (EJN) has launched the EJN Fiches Belges for Bosnia and Herzegovina and Kosovo*, which are now available on the EJN website. These are the final two fiches covering the Western Balkans, now fully accessible online thanks to the support of the Western Balkans Criminal Justice (WBCJ) Project, thereby completing the Network\u2019s coverage of the region.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Network (EJN) has launched the EJN Fiches Belges for Bosnia and Herzegovina and Kosovo*, which are now available on the EJN website. These are the final two fiches covering the Western Balkans, now fully accessible online thanks to the support of the Western Balkans Criminal Justice (WBCJ) Project, thereby completing the Network\u2019s coverage of the region."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The tool outlines the applicability of investigative measures that may be requested through Mutual Legal Assistance (MLA), as well as any additional national procedural requirements for the execution of such requests. The newly published fiches provide comprehensive and practical information on the legal systems and criminal procedures of Bosnia and Herzegovina and Kosovo*.The integration of information on the legal systems of the Western Balkans into the EJN website is a key priority for EJN, aimed at facilitating more effective and streamlined judicial cooperation with EU Member States.The\u2026"
-        }
-      ],
-      "published": "Wed, 25 Feb 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        2,
-        25,
-        12,
-        0,
-        0,
-        2,
-        56,
-        0
-      ],
-      "id": "bcb0f0a1-6ce8-47fd-b92e-12109916cfa1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
