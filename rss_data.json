@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03 12:35:25",
+  "timestamp": "2026-07-03 18:25:46",
   "entries": [
     {
       "title": "Eurojust-supported joint investigation leads to Ireland's first convictions for labour trafficking",
@@ -77,6 +77,61 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and The Netherlands sign amended seat agreement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and The Netherlands sign amended seat agreement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
+      "field_list_image_1": "Signing of seat agreement",
+      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
+        }
+      ],
+      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        7,
+        3,
+        12,
+        0,
+        0,
+        4,
+        184,
+        0
+      ],
+      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -303,66 +358,6 @@
       "guidislink": false
     },
     {
-      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
-      "field_list_image_1": "training session",
-      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
-        }
-      ],
-      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        26,
-        12,
-        0,
-        0,
-        4,
-        177,
-        0
-      ],
-      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Parcel post drug traffickers arrested during international operation",
       "title_detail": {
         "type": "text/plain",
@@ -443,6 +438,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
+      "field_list_image_1": "training session",
+      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
+        }
+      ],
+      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        26,
+        12,
+        0,
+        0,
+        4,
+        177,
+        0
+      ],
+      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -1944,6 +1999,61 @@
       ]
     },
     {
+      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
+      "field_list_image_1": "Group picture",
+      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "863decf6-3edb-4d16-b32c-18341d093000",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
       "title_detail": {
         "type": "text/plain",
@@ -2069,61 +2179,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
-      "field_list_image_1": "Group picture",
-      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "863decf6-3edb-4d16-b32c-18341d093000",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3302,86 +3357,6 @@
       ]
     },
     {
-      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
-      "field_list_image_1": "drugs on table and scale",
-      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
-        }
-      ],
-      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        27,
-        12,
-        0,
-        0,
-        4,
-        86,
-        0
-      ],
-      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Financial crime investigation culminates in arrests and frozen assets of high value",
       "title_detail": {
         "type": "text/plain",
@@ -3477,6 +3452,86 @@
       ]
     },
     {
+      "title": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Arrests take down violent criminal network trafficking hundreds of kilograms of cocaine into Scotland"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/arrests-take-down-violent-criminal-network-trafficking-hundreds-kilograms-cocaine-scotland",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-scotland-drugs-case.png",
+      "field_list_image_1": "drugs on table and scale",
+      "summary": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A joint action day coordinated from Eurojust\u2019s headquarters has led to the arrest of 13 suspects from a Scottish organised crime group. The group is suspected of running a prolific criminal network involved in the transport of large quantities of drugs, including hundreds of kilograms of cocaine, into Scotland. Thanks to close cooperation by UK and Spanish authorities, coordinated by Eurojust, five suspects were arrested in Spain and a further eight in the United Kingdom."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The organised criminal network, believed to be operating in both Scotland and Spain, is known to use violence to protect its interests. It is also suspected of international drug trafficking, maintaining control over parts of the United Kingdom with senior figures operating from Spain and the United Arab Emirates. From the profits of the drug trafficking, an international money laundering network was established involving several million euros feeding back into their criminal enterprise.Judicial cooperation between the national authorities began in May 2024 at Eurojust, with the support\u2026"
+        }
+      ],
+      "published": "Fri, 27 Mar 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        3,
+        27,
+        12,
+        0,
+        0,
+        4,
+        86,
+        0
+      ],
+      "id": "650d99e0-b6c3-4a81-a3b2-47c720013edd",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "International operation hits supply chain of migrant smugglers",
       "title_detail": {
         "type": "text/plain",
@@ -3551,111 +3606,6 @@
         },
         {
           "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Joint investigation team continues work with added focus on illegal transfer of Ukrainian children",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Joint investigation team continues work with added focus on illegal transfer of Ukrainian children"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/joint-investigation-team-continues-work-added-focus-illegal-transfer-ukrainian-children"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/joint-investigation-team-continues-work-added-focus-illegal-transfer-ukrainian-children",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-ua-jits-signature.jpg",
-      "field_list_image_1": "round table meeting",
-      "summary": "The joint investigation team (JIT) established at Eurojust to investigate core international crimes committed in Ukraine has had its mandate extended by two years. Authorities from Estonia, Latvia, Lithuania, Poland, Romania, Slovakia and Ukraine, together with partners Eurojust, Europol and the Office of the Prosecutor of the International Criminal Court (ICC-OTP), will now place additional focus on the illegal transfer of Ukrainian children and their deportation to Russia and Belarus. These collaborative efforts have been key to national investigations and have already led to a trial in Ukraine and the identification of suspects in Lithuania.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The joint investigation team (JIT) established at Eurojust to investigate core international crimes committed in Ukraine has had its mandate extended by two years. Authorities from Estonia, Latvia, Lithuania, Poland, Romania, Slovakia and Ukraine, together with partners Eurojust, Europol and the Office of the Prosecutor of the International Criminal Court (ICC-OTP), will now place additional focus on the illegal transfer of Ukrainian children and their deportation to Russia and Belarus. These collaborative efforts have been key to national investigations and have already led to a trial in Ukraine and the identification of suspects in Lithuania."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The JIT was set up in 2022 shortly after Russia\u2019s full-scale invasion and now consists of Estonian, Latvian, Lithuanian, Polish, Romanian, Slovakian and Ukrainian authorities, with the participation of Eurojust, Europol and the ICC-OTP. Since the start of the JIT, various core international crimes have been investigated, including the crime of genocide and crimes committed at detention sites. Thanks to the JIT\u2019s flexible framework, authorities have been able to respond quickly to emerging crimes, coming together to exchange information and share best practices.Judicial cooperation through the\u2026"
-        }
-      ],
-      "published": "Fri, 20 Mar 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        3,
-        20,
-        12,
-        0,
-        0,
-        4,
-        79,
-        0
-      ],
-      "id": "1fbcf6af-bbfc-47fe-95f2-870aedc819f5",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Crimes against children",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Ukraine conflict",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Slovakia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
           "scheme": "Third states",
           "label": null
         }
