@@ -1,6 +1,76 @@
 {
-  "timestamp": "2026-07-09 18:34:02",
+  "timestamp": "2026-07-10 00:29:00",
   "entries": [
+    {
+      "title": "Eurojust supports increased cooperation on Sky ECC investigations among France and Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports increased cooperation on Sky ECC investigations among France and Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-increased-cooperation-sky-ecc-investigations-among-france-and-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-increased-cooperation-sky-ecc-investigations-among-france-and-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/paris-flying-bride.png",
+      "field_list_image_1": "Meeting photo",
+      "summary": "Eurojust, through itsWestern Balkans Criminal Justice Project and in cooperation with Europol, has launched Operation Flying Bride, a new initiative that will coordinate cross-border investigations linked to Sky ECC evidence in the Western Balkans.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust, through itsWestern Balkans Criminal Justice Project and in cooperation with Europol, has launched Operation Flying Bride, a new initiative that will coordinate cross-border investigations linked to Sky ECC evidence in the Western Balkans."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A major operation to decrypt Sky ECC in March 2021 by Belgian, French and Dutch authorities, coordinated by Eurojust and Europol, unlocked hundreds of million of messages exchanged between criminals. Since then, judicial authorities and law enforcement have started hundreds of investigations around the world using Sky ECC evidence and were able to successfully take action against some of the world\u2019s most dangerous criminal networks. The French National Desk at Eurojust have supported the execution of many judicial requests for Sky ECC data. To coordinate the judicial requests from the Western\u2026"
+        }
+      ],
+      "published": "Thu, 09 Jul 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        7,
+        9,
+        12,
+        0,
+        0,
+        3,
+        190,
+        0
+      ],
+      "id": "77841964-915e-467b-b1a1-d6ddaa7ad784",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust-supported investigation leads to the arrest of an individual suspected of attempting to establish extremist terrorist organisation",
       "title_detail": {
@@ -1449,6 +1519,66 @@
       ]
     },
     {
+      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
+        }
+      ],
+      "published": "Fri, 29 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        29,
+        12,
+        0,
+        0,
+        4,
+        149,
+        0
+      ],
+      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Scam call centre shut down thanks to Eurojust-supported investigation",
       "title_detail": {
         "type": "text/plain",
@@ -1529,66 +1659,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
-        }
-      ],
-      "published": "Fri, 29 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        29,
-        12,
-        0,
-        0,
-        4,
-        149,
-        0
-      ],
-      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2064,6 +2134,66 @@
       ]
     },
     {
+      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
+      "field_list_image_1": "ENPE workshop",
+      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust coordinated investigation shuts down criminal VPN network",
       "title_detail": {
         "type": "text/plain",
@@ -2164,126 +2294,6 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
-      "field_list_image_1": "ENPE workshop",
-      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
-      "field_list_image_1": "meeting photo",
-      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2408,6 +2418,66 @@
       "tags": [
         {
           "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
+      "field_list_image_1": "meeting photo",
+      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
           "scheme": "Projects",
           "label": null
         }
@@ -3497,91 +3567,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Global actions hit cocaine traffickers in Brazil",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Global actions hit cocaine traffickers in Brazil"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/global-actions-hit-cocaine-traffickers-brazil"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/global-actions-hit-cocaine-traffickers-brazil",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-drugs-fr-pt-br-case.png",
-      "field_list_image_1": "cargo ship",
-      "summary": "The first ever joint investigation team (JIT) between French and Brazilian authorities, supported and funded by Eurojust, has dealt a significant blow to an international drug trafficking network. Following the discovery of 124 kg of cocaine on a cargo ship arriving at a port in France from Brazil, authorities from both countries worked together through a JIT to arrest key members of the network.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The first ever joint investigation team (JIT) between French and Brazilian authorities, supported and funded by Eurojust, has dealt a significant blow to an international drug trafficking network. Following the discovery of 124 kg of cocaine on a cargo ship arriving at a port in France from Brazil, authorities from both countries worked together through a JIT to arrest key members of the network."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cooperation through the Eurojust-funded JIT led to the identification of the international criminal network behind the shipment of cocaine. The JIT framework enabled the authorities to exchange information and evidence in real time and carry out joint operations.On 10 March, the authorities took action against the criminal network operating in the port of Santos in Brazil. Two suspects were arrested and eight searches were carried out in Santos and Valinhos, resulting in the seizure of vehicles, weapons and watches. One of the suspects has been heard as a witness. Eurojust also\u2026"
-        }
-      ],
-      "published": "Tue, 31 Mar 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        3,
-        31,
-        12,
-        0,
-        0,
-        1,
-        90,
-        0
-      ],
-      "id": "44ba20e9-7d08-4199-977a-ee8d934720ae",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "JIT funding",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
           "label": null
         }
       ]
