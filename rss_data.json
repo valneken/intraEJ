@@ -1,6 +1,61 @@
 {
-  "timestamp": "2026-07-29 06:51:25",
+  "timestamp": "2026-07-29 12:38:02",
   "entries": [
+    {
+      "title": "New Liaison Prosecutor for Moldova: Alexandru Cladco",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New Liaison Prosecutor for Moldova: Alexandru Cladco"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-liaison-prosecutor-moldova-alexandru-cladco"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-liaison-prosecutor-moldova-alexandru-cladco",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mr-alexandru-cladco-if.png",
+      "field_list_image_1": "Mr Alexandru Cladco",
+      "summary": "Mr Alexandru Cladco has been appointed as the new Liaison Prosecutor for the Republic of Moldova at Eurojust, the European Union Agency for Criminal Justice Cooperation. He has been seconded to Eurojust from the General Prosecutor\u2019s Office of the Republic of Moldova for a five-year term, in accordance with the 2025 legal provisions on the status of liaison prosecutors at Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Mr Alexandru Cladco has been appointed as the new Liaison Prosecutor for the Republic of Moldova at Eurojust, the European Union Agency for Criminal Justice Cooperation. He has been seconded to Eurojust from the General Prosecutor\u2019s Office of the Republic of Moldova for a five-year term, in accordance with the 2025 legal provisions on the status of liaison prosecutors at Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Having joined the Agency in July 2026, Mr Cladco will help foster effective cooperation between the Moldovan authorities and their international counterparts, contributing to the successful coordination of cross-border criminal investigations.Commenting on his new joining at Eurojust, Mr Cladco said: \u2018Assuming the role of Liaison Prosecutor at Eurojust represents a great opportunity and an honour for me as a career prosecutor to play an active role in facilitating cooperation and mutual legal assistance in criminal matters between the Republic of Moldova and EU Member States and non-EU\u2026"
+        }
+      ],
+      "published": "Tue, 28 Jul 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        7,
+        28,
+        12,
+        0,
+        0,
+        1,
+        209,
+        0
+      ],
+      "id": "8ef82e35-97cf-433e-91c8-1e48532b332c",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Moldova",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Arrests and searches in light of human trafficking investigation",
       "title_detail": {
@@ -2549,6 +2604,66 @@
       ]
     },
     {
+      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
+      "field_list_image_1": "meeting photo",
+      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust supports arrest of man suspected of intentional homicide of his partner",
       "title_detail": {
         "type": "text/plain",
@@ -2614,66 +2729,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
-      "field_list_image_1": "meeting photo",
-      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3472,71 +3527,6 @@
         {
           "term": "EJOCN",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Main suspect in Swedish bank scam extradited from United States",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Main suspect in Swedish bank scam extradited from United States"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/plane-landing.png",
-      "field_list_image_1": "Plane landing or taking off",
-      "summary": "Eurojust has coordinated the extradition of the alleged main perpetrator of a large-scale fraud scheme from the United States. The suspect has been detained in the United States since the end of 2024. He is suspected of defrauding victims up to EUR 6 million. Judicial cooperation was key to ensure the suspect is now on Swedish soil and will be further questioned by Swedish prosecutors.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust has coordinated the extradition of the alleged main perpetrator of a large-scale fraud scheme from the United States. The suspect has been detained in the United States since the end of 2024. He is suspected of defrauding victims up to EUR 6 million. Judicial cooperation was key to ensure the suspect is now on Swedish soil and will be further questioned by Swedish prosecutors."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Constant cooperation between Swedish and US authorities through coordination by Eurojust, made it possible for the authorities to share valuable information needed during the investigation and plan for an action day in November 2024 where the main perpetrator and two of his accomplices were arrested in the United States and Sweden. After the action day, cooperation continued to get the main suspect extradited. The extradition matter in the United States was handled by the U.S. Department of Justice\u2019s Office of International Affairs and the U.S. Attorney\u2019s Office for the Central District of\u2026"
-        }
-      ],
-      "published": "Sat, 11 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        11,
-        12,
-        0,
-        0,
-        5,
-        101,
-        0
-      ],
-      "id": "70602ea8-20ca-4707-a01e-7eff696e9efd",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
