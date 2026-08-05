@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05 08:20:32",
+  "timestamp": "2026-08-05 13:45:29",
   "entries": [
     {
       "title": "Luk\u00e1\u0161 Star\u00fd new National Member for the Czech Republic",
@@ -127,8 +127,8 @@
         }
       ],
       "link": "https://www.eurojust.europa.eu/news/arrests-and-searches-light-human-trafficking-investigation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/hands-press-release.jpg",
-      "field_list_image_1": "Hands",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/hands-press-release1.jpg",
+      "field_list_image_1": "Hands on glass",
       "summary": "Authorities took action in the Netherlands and Romania on 14 July in the context of a human trafficking investigation. Both countries work together in a joint investigation team coordinated by Eurojust.",
       "summary_detail": {
         "type": "text/html",
@@ -156,7 +156,7 @@
         197,
         0
       ],
-      "id": "dc5c742a-2304-444d-bd5d-d150dce3cf80",
+      "id": "b66fb0e0-fc92-4deb-8508-cd4f6b5bd01a",
       "guidislink": false,
       "tags": [
         {
@@ -167,6 +167,16 @@
         {
           "term": "Joint investigation teams",
           "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
           "label": null
         },
         {
