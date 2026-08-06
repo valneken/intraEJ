@@ -1,6 +1,86 @@
 {
-  "timestamp": "2026-08-06 08:17:32",
+  "timestamp": "2026-08-06 13:43:35",
   "entries": [
+    {
+      "title": "Eurojust supports arrest of high-value target suspected of smuggling 625 people into Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust supports arrest of high-value target suspected of smuggling 625 people into Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-high-value-target-suspected-smuggling-625-people-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supports-arrest-high-value-target-suspected-smuggling-625-people-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-migrant-europol-de-es.jpg",
+      "field_list_image_1": "Police near a car",
+      "summary": "A high-value target suspected of smuggling over 600 migrants through the Balkan route was arrested following cooperation between German and Serbian authorities under the coordination of Eurojust and Europol.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "A high-value target suspected of smuggling over 600 migrants through the Balkan route was arrested following cooperation between German and Serbian authorities under the coordination of Eurojust and Europol."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The suspect was arrested in Belgrade on 5 August. It is believed that he worked with other suspects to smuggle people into Germany and other Western European countries along the Balkan route. The group brought Syrian nationals into the European Union from Serbia via Hungary or from Bosnia and Herzegovina via Croatia. They were then transported in cars, vans or trucks through Slovakia, the Czech Republic, Poland or Austria to Germany and other countries.The smuggling network charged between EUR2000 and EUR10000 per person. The suspect arrested on 5 August played a\u2026"
+        }
+      ],
+      "published": "Thu, 06 Aug 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        8,
+        6,
+        12,
+        0,
+        0,
+        3,
+        218,
+        0
+      ],
+      "id": "f11f770f-b328-4dc5-8e15-958241c6b612",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Serbia",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Luk\u00e1\u0161 Star\u00fd new National Member for the Czech Republic",
       "title_detail": {
@@ -1318,54 +1398,6 @@
       ]
     },
     {
-      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
-      "field_list_image_1": "AR cover",
-      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
-        }
-      ],
-      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        18,
-        12,
-        0,
-        0,
-        3,
-        169,
-        0
-      ],
-      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
-      "guidislink": false
-    },
-    {
       "title": "Specialised prosecutors meet at Eurojust to strengthen the fight against human trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -1419,6 +1451,54 @@
           "label": null
         }
       ]
+    },
+    {
+      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
+      "field_list_image_1": "AR cover",
+      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
+        }
+      ],
+      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        18,
+        12,
+        0,
+        0,
+        3,
+        169,
+        0
+      ],
+      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
+      "guidislink": false
     },
     {
       "title": "Drug trafficking network dismantled by international coalition",
@@ -1834,66 +1914,6 @@
       ]
     },
     {
-      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
-        }
-      ],
-      "published": "Fri, 29 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        29,
-        12,
-        0,
-        0,
-        4,
-        149,
-        0
-      ],
-      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Scam call centre shut down thanks to Eurojust-supported investigation",
       "title_detail": {
         "type": "text/plain",
@@ -1974,6 +1994,66 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
+        }
+      ],
+      "published": "Fri, 29 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        29,
+        12,
+        0,
+        0,
+        4,
+        149,
+        0
+      ],
+      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2149,76 +2229,6 @@
       ]
     },
     {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2329,6 +2339,76 @@
       ]
     },
     {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity",
       "title_detail": {
         "type": "text/plain",
@@ -2384,6 +2464,66 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
+      "field_list_image_1": "ENPE workshop",
+      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2554,66 +2694,6 @@
       ]
     },
     {
-      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
-      "field_list_image_1": "ENPE workshop",
-      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports arrest of man suspected of intentional homicide of his partner",
       "title_detail": {
         "type": "text/plain",
@@ -2684,6 +2764,61 @@
       ]
     },
     {
+      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
+      "field_list_image_1": "Group picture",
+      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "863decf6-3edb-4d16-b32c-18341d093000",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
       "title_detail": {
         "type": "text/plain",
@@ -2738,61 +2873,6 @@
         },
         {
           "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
-      "field_list_image_1": "Group picture",
-      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "863decf6-3edb-4d16-b32c-18341d093000",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
           "scheme": "Projects",
           "label": null
         }
@@ -3472,66 +3552,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Inter-regional workshop on admissibility of encrypted evidence brings together prosecutors and law enforcement at Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Inter-regional workshop on admissibility of encrypted evidence brings together prosecutors and law enforcement at Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/inter-regional-workshop-admissibility-encrypted-evidence-brings-together-prosecutors-and-law"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/inter-regional-workshop-admissibility-encrypted-evidence-brings-together-prosecutors-and-law",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/wb-group.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "The inter-regional workshop Handling admissibility of evidence obtained from encrypted networks: operational experience, prosecutorial strategies and evolving jurisprudence in the EU, Western Balkans and countries of the Eastern Partnership was organised by Eurojust through its Western Balkans Criminal Justice (WBCJ) Project, jointly with the WB PACT II and TOPCOP projects at CEPOL in partnership with Europol.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The inter-regional workshop Handling admissibility of evidence obtained from encrypted networks: operational experience, prosecutorial strategies and evolving jurisprudence in the EU, Western Balkans and countries of the Eastern Partnership was organised by Eurojust through its Western Balkans Criminal Justice (WBCJ) Project, jointly with the WB PACT II and TOPCOP projects at CEPOL in partnership with Europol."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The event brought together prosecutors and law enforcement representatives from Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia, as well as Armenia, Azerbaijan, Moldova and Ukraine, alongside representatives from EU Member States, Eurojust National Members and experts from Eurojust and Europol.The first day focused on plenary sessions and case presentations. Europol provided an overview of its Operational Taskforce LIMIT and its role in facilitating analytical and operational cooperation to extract encrypted data and support investigations. Eurojust and the\u2026"
-        }
-      ],
-      "published": "Tue, 21 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        21,
-        12,
-        0,
-        0,
-        1,
-        111,
-        0
-      ],
-      "id": "83672f84-1508-4c8c-b6a9-bf6567d695f1",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
