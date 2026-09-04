@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-09-04 10:13:33",
+  "timestamp": "2026-09-04 15:29:17",
   "entries": [
+    {
+      "title": "Money laundering scheme involving EUR 4.5 million exposed",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Money laundering scheme involving EUR 4.5 million exposed"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/money-laundering-scheme-involving-eur-45-million-exposed"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/money-laundering-scheme-involving-eur-45-million-exposed",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bnanknotes.jpg",
+      "field_list_image_1": "Banknotes",
+      "summary": "The Italian and German authorities, in collaboration with Eurojust, have uncovered a money laundering scheme involving the diversion and misuse of grants and funding intended for a sports association for personal gain. During actions on 3 September, assets worth EUR 7 million were seized as a preventive measure.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Italian and German authorities, in collaboration with Eurojust, have uncovered a money laundering scheme involving the diversion and misuse of grants and funding intended for a sports association for personal gain. During actions on 3 September, assets worth EUR 7 million were seized as a preventive measure."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Italian authorities are investigating three individuals involved in the money laundering, one of whom was the former legal representative of the sports association. The investigation revealed that between 2018 and 2024, this representative laundered money received from grants and funding from universities, public organisations and national sports bodies.A second fake sports association was used to misappropriate the funds. Through bank transfers and cash withdrawals, funds were diverted from the legitimate sports association. During the final months of the suspect\u2019s tenure as legal\u2026"
+        }
+      ],
+      "published": "Fri, 04 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        4,
+        12,
+        0,
+        0,
+        4,
+        247,
+        0
+      ],
+      "id": "46ea93c0-719d-4a86-baff-d7d4a02a303b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Italy",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust cooperation with Iraq supports landmark terrorism conviction in Slovenia",
       "title_detail": {
@@ -2189,6 +2254,66 @@
       ]
     },
     {
+      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
+        }
+      ],
+      "published": "Fri, 29 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        29,
+        12,
+        0,
+        0,
+        4,
+        149,
+        0
+      ],
+      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Scam call centre shut down thanks to Eurojust-supported investigation",
       "title_detail": {
         "type": "text/plain",
@@ -2269,66 +2394,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
-        }
-      ],
-      "published": "Fri, 29 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        29,
-        12,
-        0,
-        0,
-        4,
-        149,
-        0
-      ],
-      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -2504,6 +2569,76 @@
       ]
     },
     {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2609,76 +2744,6 @@
         {
           "term": "OLAF",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -2804,66 +2869,6 @@
       ]
     },
     {
-      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
-      "field_list_image_1": "Symposium on victims\u2019 rights",
-      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Victims\u2019 rights",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "Support for victims",
-          "scheme": "Judicial cooperation",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust coordinated investigation shuts down criminal VPN network",
       "title_detail": {
         "type": "text/plain",
@@ -2969,6 +2974,66 @@
       ]
     },
     {
+      "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Symposium on victims\u2019 rights: procedural rights of cross-border victims"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/symposium-victims-rights-procedural-rights-cross-border-victims",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/symposium-on-victims-rights.jpg",
+      "field_list_image_1": "Symposium on victims\u2019 rights",
+      "summary": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 19-20 May, practitioners from fifteen EU Member States and six third countries gathered to discuss the procedural rights of cross-border victims and the practical challenges that arise when victims are located in a different jurisdiction from the one where the investigation or trial is taking place."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Opening remarks were delivered by Eurojust Vice-President Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117, Hilde Vandevoorde, National Member for Belgium at Eurojust and Chair of the Eurojust Working Group on Victims\u2019 Rights, and Tommaso Chiamparino, European Commission Coordinator for Victims\u2019 Rights.Through case illustrations and practical examples, participants explored how rights such as the right to information and the right to participate in criminal proceedings can be effectively exercised in cross-border cases. Discussions covered a wide range of practical issues, including the payment of expenses for\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "bd0256db-7c5a-44de-ac64-fd0905713759",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Victims\u2019 rights",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Support for victims",
+          "scheme": "Judicial cooperation",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
       "title_detail": {
         "type": "text/plain",
@@ -3018,6 +3083,66 @@
       "tags": [
         {
           "term": "EuroMed Justice",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
+      "field_list_image_1": "meeting photo",
+      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
           "scheme": "Projects",
           "label": null
         }
@@ -3089,66 +3214,6 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
-      "field_list_image_1": "meeting photo",
-      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3499,86 +3564,6 @@
         {
           "term": "Netherlands",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Fraud call centres targeting EU citizens shut down with Eurojust\u2019s support \u2013 over EUR 50 million in damages uncovered"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/infocus-and-pr.jpg",
-      "field_list_image_1": "office room with computers",
-      "summary": "A joint investigation by the Austrian and Albanian authorities, supported by Eurojust and Europol, has stopped a sophisticated criminal network running a large-scale online fraud operation. The investigation led to the arrest of 10 individuals, the search of several premises, and the seizure of close to EUR 900 000 and various items.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint investigation by the Austrian and Albanian authorities, supported by Eurojust and Europol, has stopped a sophisticated criminal network running a large-scale online fraud operation. The investigation led to the arrest of 10 individuals, the search of several premises, and the seizure of close to EUR 900 000 and various items."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In an investigation that spanned over two years, authorities successfully dismantled the cybercrime group, which was allegedly operating several call centres in Tirana, Albania. The criminal group is believed to have caused significant financial damage totalling over EUR 50 million.Inside a scam call centreThe online call centres run by the criminal network demonstrated a high level of organisation and professionalism, with a clear division of roles and hierarchical management, resembling legitimate business structures.The individuals involved worked in groups of six to eight operators,\u2026"
-        }
-      ],
-      "published": "Wed, 29 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        29,
-        12,
-        0,
-        0,
-        2,
-        119,
-        0
-      ],
-      "id": "9e6629bd-40cf-414f-9a5d-20a6fb16eb6b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Austria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Albania",
-          "scheme": "Third states",
           "label": null
         }
       ]
