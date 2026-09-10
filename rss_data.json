@@ -1,6 +1,66 @@
 {
-  "timestamp": "2026-09-10 10:18:08",
+  "timestamp": "2026-09-10 15:33:57",
   "entries": [
+    {
+      "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-eippn-workshop.png",
+      "field_list_image_1": "Group picture participants",
+      "summary": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Building on the first edition organised in 2025, the European Union Intellectual Property Office (EUIPO), in cooperation with Eurojust through the Western Balkans Criminal Justice (WBCJ) Project, held its second joint inter-regional meeting on investigating and prosecuting intellectual property crime in Alicante, Spain. Eurojust was represented by the National Member for Germany, Jan MacLean, as Contact Point for the WBCJ Project.The meeting brought together prosecutors and practitioners from Albania, Armenia, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, Serbia,\u2026"
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Money laundering scheme involving EUR 4.5 million exposed",
       "title_detail": {
@@ -1393,66 +1453,6 @@
       "guidislink": false
     },
     {
-      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
-      "field_list_image_1": "training session",
-      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
-        }
-      ],
-      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        26,
-        12,
-        0,
-        0,
-        4,
-        177,
-        0
-      ],
-      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Parcel post drug traffickers arrested during international operation",
       "title_detail": {
         "type": "text/plain",
@@ -1533,6 +1533,66 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
+      "field_list_image_1": "training session",
+      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
+        }
+      ],
+      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        26,
+        12,
+        0,
+        0,
+        4,
+        177,
+        0
+      ],
+      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2569,76 +2629,6 @@
       ]
     },
     {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -2749,6 +2739,76 @@
       ]
     },
     {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity",
       "title_detail": {
         "type": "text/plain",
@@ -2804,66 +2864,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
-      "field_list_image_1": "ENPE workshop",
-      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2969,6 +2969,66 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
+      "field_list_image_1": "ENPE workshop",
+      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3089,66 +3149,6 @@
       ]
     },
     {
-      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
-      "field_list_image_1": "meeting photo",
-      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust supports arrest of man suspected of intentional homicide of his partner",
       "title_detail": {
         "type": "text/plain",
@@ -3214,6 +3214,66 @@
         {
           "term": "Switzerland",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/western-balkan-chief-prosecutors-meet-sarajevo-third-consultative-forum-launch-practical-guide-jits",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/jit-experts-handbook-sarajevo.jpg",
+      "field_list_image_1": "meeting photo",
+      "summary": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Western Balkan Chief Prosecutors to meet in Sarajevo for Third Consultative Forum and launch the new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan Practitioners"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The third Regional Western Balkan Consultative Forum, organised by the Western Balkans Criminal Justice Project in cooperation with the Prosecutor\u2019s Office of Bosnia and Herzegovina, took place in Sarajevo on 19 May 2026. Building on previous editions, the Forum brought together General and Special Chief Prosecutors from across the six Western Balkan countries to strengthen regional dialogue and cooperation.The Forum once again provided a platform for direct exchanges among partners, reinforcing shared priorities and trust across the region. Discussions focused on enhancing cooperation in\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "66745b2f-0ad1-4f61-aef0-2eaab713861a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3499,71 +3559,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EUR 55 million seized in public funds misappropriation investigation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EUR 55 million seized in public funds misappropriation investigation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eur-55-million-seized-public-funds-misappropriation-investigation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eur-55-million-seized-public-funds-misappropriation-investigation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/solar-panels.png",
-      "field_list_image_1": "Solar panels",
-      "summary": "A company based in the province of Milan is suspected of misappropriating public funds linked to a solar power plant in the province of Caserta. As part of the ongoing Italian investigation, Eurojust coordinated the cooperation with Dutch authorities that led to the seizure of assets worth EUR 55 million.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A company based in the province of Milan is suspected of misappropriating public funds linked to a solar power plant in the province of Caserta. As part of the ongoing Italian investigation, Eurojust coordinated the cooperation with Dutch authorities that led to the seizure of assets worth EUR 55 million."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The investigation is looking into the company, its representative and the parent company in the Netherlands. Allegedly, they benefited from public funds to which they were not entitled, linked to a solar power plant built in Caserta. The suspects produced false documents to make it appear that three large-scale solar power plants had been completed before the deadline set by sector regulations. By claiming to deliver the plants early, the suspects obtained benefits from public funds.Eurojust facilitated cooperation between the Dutch and Italian authorities in the investigation. This revealed\u2026"
-        }
-      ],
-      "published": "Thu, 30 Apr 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        4,
-        30,
-        12,
-        0,
-        0,
-        3,
-        120,
-        0
-      ],
-      "id": "9c44e3fe-7d33-4f82-8939-b37b07daa004",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
           "label": null
         }
       ]
