@@ -1,6 +1,86 @@
 {
-  "timestamp": "2026-09-18 10:17:37",
+  "timestamp": "2026-09-18 15:30:25",
   "entries": [
+    {
+      "title": "New Eurojust report examines implications of landmark ECtHR judgment: Ukraine and the Netherlands v. Russia",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "New Eurojust report examines implications of landmark ECtHR judgment: Ukraine and the Netherlands v. Russia"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/new-eurojust-report-examines-implications-landmark-ecthr-judgment-ukraine-and-netherlands-vs-russia"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/new-eurojust-report-examines-implications-landmark-ecthr-judgment-ukraine-and-netherlands-vs-russia",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/mh17-resized.jpg",
+      "field_list_image_1": "part of plane",
+      "summary": "Eurojust has published a new report presenting key findings of the landmark judgment of the European Court of Human Rights (ECtHR) in the inter-State case of Ukraine and the Netherlands v. Russia. The report examines four aspects of the judgment of particular relevance to judicial practitioners and Eurojust\u2019s work, including the Court\u2019s approach to evidence and its findings concerning the investigation into the downing of Malaysia Airlines flight MH17.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust has published a new report presenting key findings of the landmark judgment of the European Court of Human Rights (ECtHR) in the inter-State case of Ukraine and the Netherlands v. Russia. The report examines four aspects of the judgment of particular relevance to judicial practitioners and Eurojust\u2019s work, including the Court\u2019s approach to evidence and its findings concerning the investigation into the downing of Malaysia Airlines flight MH17."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Delivered by the Grand Chamber of the ECtHR on 9 July 2025, the nearly 500-page judgment addresses Russia\u2019s responsibility for widespread human rights violations connected to the conflict in eastern Ukraine since 2014 and its military operations in Ukraine since 24 February 2022.The judgment has significant implications beyond the case itself. The Court found more than 20 violations of the European Convention on Human Rights, with all findings of violations adopted unanimously. Its conclusions are expected to influence the Court\u2019s future case law and may also provide important points of\u2026"
+        }
+      ],
+      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        18,
+        12,
+        0,
+        0,
+        4,
+        261,
+        0
+      ],
+      "id": "d5a613c0-ff17-4499-b891-435149b5fb50",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Evidence",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Support for victims",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Migrant smugglers sentenced in the United Kingdom following international investigation",
       "title_detail": {
@@ -97,66 +177,6 @@
       ]
     },
     {
-      "title": "Serbian Prosecutor General visits Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Serbian Prosecutor General visits Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
-      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
-      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
-        }
-      ],
-      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        10,
-        12,
-        0,
-        0,
-        3,
-        253,
-        0
-      ],
-      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
       "title_detail": {
         "type": "text/plain",
@@ -202,6 +222,66 @@
         0
       ],
       "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Serbian Prosecutor General visits Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Serbian Prosecutor General visits Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
+      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
+      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
       "guidislink": false,
       "tags": [
         {
@@ -1512,6 +1592,54 @@
       ]
     },
     {
+      "title": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/iraq-wa-2.jpg",
+      "field_list_image_1": "signing agreement",
+      "summary": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u0644\u0627 \u062a\u0642\u062a\u0635\u0631 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0627 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u0628\u0631\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0645\u0639 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0628\u0644 \u064a\u0645\u062b\u0644 \u0623\u064a\u0636\u0627\u064b \u062e\u0637\u0648\u0629 \u0645\u0647\u0645\u0629 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0631\u064a \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0628\u0634\u0623\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062a\u064a \u0627\u0631\u062a\u0643\u0628\u0647\u0627 \u062a\u0646\u0638\u064a\u0645 \u062f\u0627\u0639\u0634 \u0648\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u064a\u0646 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628. \u0648\u0645\u0646 \u0634\u0623\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0647\u0630\u0647 \u0623\u0646 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0648\u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u062f\u0644\u0629 \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.\u0648\u0642\u0627\u0644 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a: \"\u0641\u064a \u0633\u0639\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0639\u0646 \u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0623\u062b\u0628\u062a\u062a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0623\u0646\u0647 \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062f\u0648\u0644\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d\u2026"
+        }
+      ],
+      "published": "Tue, 30 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        30,
+        12,
+        0,
+        0,
+        1,
+        181,
+        0
+      ],
+      "id": "06faa8a0-a8f4-40c5-b330-e1dcda06adfd",
+      "guidislink": false
+    },
+    {
       "title": "Eurojust and Iraq sign Working Arrangement to combat terrorism and serious organised crime",
       "title_detail": {
         "type": "text/plain",
@@ -1560,52 +1688,64 @@
       "guidislink": false
     },
     {
-      "title": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
+      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629"
+        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt"
+          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/iraq-wa-2.jpg",
-      "field_list_image_1": "signing agreement",
-      "summary": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642.",
+      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
+      "field_list_image_1": "training session",
+      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642."
+        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0644\u0627 \u062a\u0642\u062a\u0635\u0631 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0627 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u0628\u0631\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0645\u0639 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0628\u0644 \u064a\u0645\u062b\u0644 \u0623\u064a\u0636\u0627\u064b \u062e\u0637\u0648\u0629 \u0645\u0647\u0645\u0629 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0631\u064a \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0628\u0634\u0623\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062a\u064a \u0627\u0631\u062a\u0643\u0628\u0647\u0627 \u062a\u0646\u0638\u064a\u0645 \u062f\u0627\u0639\u0634 \u0648\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u064a\u0646 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628. \u0648\u0645\u0646 \u0634\u0623\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0647\u0630\u0647 \u0623\u0646 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0648\u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u062f\u0644\u0629 \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.\u0648\u0642\u0627\u0644 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a: \"\u0641\u064a \u0633\u0639\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0639\u0646 \u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0623\u062b\u0628\u062a\u062a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0623\u0646\u0647 \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062f\u0648\u0644\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d\u2026"
+          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
         }
       ],
-      "published": "Tue, 30 Jun 2026 14:00:00 +0200",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
       "published_parsed": [
         2026,
         6,
-        30,
+        26,
         12,
         0,
         0,
-        1,
-        181,
+        4,
+        177,
         0
       ],
-      "id": "06faa8a0-a8f4-40c5-b330-e1dcda06adfd",
-      "guidislink": false
+      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
     },
     {
       "title": "Parcel post drug traffickers arrested during international operation",
@@ -1688,66 +1828,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ training strengthens JIT cooperation between the Western Balkans and Latin America"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-training-strengthens-jit-cooperation-between-western-balkans-and-latin-america",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-wbcj-trining-2.jpg",
-      "field_list_image_1": "training session",
-      "summary": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The Western Balkans Criminal Justice Project, in cooperation with the JITs Network Secretariat at Eurojust and the EL PACCTO 2.0 project, organised the third edition of its flagship training on joint investigation teams (JITs) from 24 to 26 June 2026 in Lisbon, Portugal."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Building on the2024 and2025 editions, this year\u2019s training focused on cooperation between the Western Balkans and Latin America. Alongside representatives from the WB6 \u2013 Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia \u2013 practitioners from 13 Latin American countries took part: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, El Salvador, Honduras, Mexico, Panama, Paraguay and Uruguay.The training marked a further step instrengthening operational cooperation between the two regions, building on the joint efforts\u2026"
-        }
-      ],
-      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        26,
-        12,
-        0,
-        0,
-        4,
-        177,
-        0
-      ],
-      "id": "9e854d17-78c7-44dc-b76a-a796a50098b3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2469,6 +2549,66 @@
       ]
     },
     {
+      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
+      "field_list_image_1": "group picture",
+      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
+        }
+      ],
+      "published": "Fri, 29 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        29,
+        12,
+        0,
+        0,
+        4,
+        149,
+        0
+      ],
+      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Scam call centre shut down thanks to Eurojust-supported investigation",
       "title_detail": {
         "type": "text/plain",
@@ -2549,66 +2689,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EJCN celebrates 10 years of judicial cooperation in the fight against cybercrime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ejcn-celebrates-10-years-judicial-cooperation-fight-against-cybercrime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcn-10years-group-pic.jpg",
-      "field_list_image_1": "group picture",
-      "summary": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The European Judicial Cybercrime Network (EJCN) celebrated its 10th anniversary during its 20th Plenary Meeting, bringing together EJCN members, institutional partners, observer states and key stakeholders from across Europe."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A central part of the plenary was a high-level panel discussion dedicated to the work and evolution of the network over the past decade. Former EJCN Coordinators, representatives from the European Commission (DG JUST and DG HOME), and members of Eurojust\u2019s Cybercrime Working Group discussed the network\u2019s achievements, challenges and future priorities in the fight against cybercrime. For the first time, the EJCN welcomed Interpol, EL PAcCTO and CiberRed.As usual, the second day of the meeting focused on the activities of EJCN members and observer states. Dedicated subgroup sessions provided\u2026"
-        }
-      ],
-      "published": "Fri, 29 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        29,
-        12,
-        0,
-        0,
-        4,
-        149,
-        0
-      ],
-      "id": "a105ba8f-be81-4e82-b813-e2e4d2681ad7",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "EJCN",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3024,6 +3104,66 @@
       ]
     },
     {
+      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
+      "field_list_image_1": "ENPE workshop",
+      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
+        }
+      ],
+      "published": "Thu, 21 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        21,
+        12,
+        0,
+        0,
+        3,
+        141,
+        0
+      ],
+      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust coordinated investigation shuts down criminal VPN network",
       "title_detail": {
         "type": "text/plain",
@@ -3129,66 +3269,6 @@
       ]
     },
     {
-      "title": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ Project and ENPE workshop strengthens cross-regional cooperation against environmental crime in Zagreb"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-project-and-enpe-workshop-strengthens-cross-regional-cooperation-against-environmental",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enpe-workshop-1.jpeg",
-      "field_list_image_1": "ENPE workshop",
-      "summary": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 20\u201321 May 2026, the Western Balkans Criminal Justice (WBCJ) Project, implemented by Eurojust, in cooperation with the European Network of Prosecutors for the Environment (ENPE), organised the second regional workshop on environmental crime in Zagreb, following the successful first edition held in Ohrid in 2025. The event focused on strengthening the fight against environmental crime through enhanced cross-regional judicial cooperation among the Western Balkans, Eastern Partnership countries, and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Environmental crime remains an evolving and often overlooked threat, with criminal networks often adapting faster than judicial and law enforcement responses. Its broad and transnational nature requires strong cooperation among competent authorities, supported by technical expertise and the effective use of judicial cooperation tools.The workshop brought together prosecutors from Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Finland, France, Ireland, Kosovo*, Moldova, Montenegro, North Macedonia, Romania, Serbia, Ukraine, and other jurisdictions, alongside experts from Eurojust\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "4c73cb48-84be-435e-9dab-755ec7594a20",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Symposium on victims\u2019 rights: procedural rights of cross-border victims",
       "title_detail": {
         "type": "text/plain",
@@ -3249,61 +3329,6 @@
       ]
     },
     {
-      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
-      "field_list_image_1": "Group picture",
-      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
-        }
-      ],
-      "published": "Tue, 19 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        19,
-        12,
-        0,
-        0,
-        1,
-        139,
-        0
-      ],
-      "id": "863decf6-3edb-4d16-b32c-18341d093000",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Western Balkan Chief Prosecutors meet in Sarajevo for Third Consultative Forum and launch new Practical Guide on Joint Investigation Teams (JITs) for Western Balkan practitioners",
       "title_detail": {
         "type": "text/plain",
@@ -3358,6 +3383,61 @@
         },
         {
           "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "23rd CrimEx meeting focuses on conflict of jurisdictions topics and Joint Investigations Teams"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/23rd-crimex-meeting-focuses-conflict-jurisdictions-topics-and-joint-investigations-teams",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-picture-23rd-crimex-meeting.jpeg",
+      "field_list_image_1": "Group picture",
+      "summary": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 05-06 May 2026, the EuroMed Justice (EMJ) project organised the 23rd CrimEx meeting in Stockholm, Sweden. The meeting brought together criminal justice representatives from six South Partner Countries (SPCs) and eleven European Union Member States. Participants addressed technical and strategic aspects of international judicial cooperation, focusing on the topics of conflict of jurisdictions and Joint Investigations Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The outcomes and suggested recommendations from the 7th EMJNet meeting focusing on the topic of conflict of jurisdictions and Joint Investigations Teams were shared for the CrimEx representatives\u2019 consideration and discussion. The CrimEx members exchanged on the challenges and best practices related to these topics and prepared consolidated recommendations for endorsement to the Prosecutor Generals Forum, planned for end of June. Participants took note of the project results in 2025 and planned activities in 2026 and further discussed the preparations and the agenda for the PG Forum.In\u2026"
+        }
+      ],
+      "published": "Tue, 19 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        19,
+        12,
+        0,
+        0,
+        1,
+        139,
+        0
+      ],
+      "id": "863decf6-3edb-4d16-b32c-18341d093000",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EuroMed Justice",
           "scheme": "Projects",
           "label": null
         }
@@ -3428,141 +3508,6 @@
         },
         {
           "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Takedown of criminal group selling fake medicines and supplements to mislead seriously ill victims",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Takedown of criminal group selling fake medicines and supplements to mislead seriously ill victims"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pills.png",
-      "field_list_image_1": "Pills",
-      "summary": "Authorities from 15 countries worked together on 12 May to takedown a dangerous criminal group responsible for defrauding victims across Europe and beyond with fake supplements and medicines. The group allegedly claimed to sell legitimate medicines that cured serious illnesses. Their illegal activities generated EUR 240 million in illicit transactions. A coordinated action day resulted in the collection of important evidence, the detention of some of the main members of the group and the seizure of large supplies of supplements. Eurojust and Europol supported the investigations from the outset, ensuring efficient and effective cooperation between the 15 countries.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Authorities from 15 countries worked together on 12 May to takedown a dangerous criminal group responsible for defrauding victims across Europe and beyond with fake supplements and medicines. The group allegedly claimed to sell legitimate medicines that cured serious illnesses. Their illegal activities generated EUR 240 million in illicit transactions. A coordinated action day resulted in the collection of important evidence, the detention of some of the main members of the group and the seizure of large supplies of supplements. Eurojust and Europol supported the investigations from the outset, ensuring efficient and effective cooperation between the 15 countries."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "From 2019, the group worked operated in a professional, hierarchical way. They set up companies through which they marketed supplements that were not authorised for sale. The criminal group sold over 400 differently named supplements. A network of virtual sellers built hundreds of websites and social media pages, often using the names and images of famous people and fake doctors to mislead victims from across the European Union and beyond. The criminal group trained their affiliates to create fake social media accounts, make them appear legitimate and avoid detection by social media companies\u2026"
-        }
-      ],
-      "published": "Thu, 14 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        14,
-        12,
-        0,
-        0,
-        3,
-        134,
-        0
-      ],
-      "id": "95214a6e-d812-463d-b6a8-c53c48f72c83",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Czech Republic",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Estonia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Hungary",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Latvia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Slovakia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Slovenia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Moldova",
           "scheme": "Third states",
           "label": null
         }
