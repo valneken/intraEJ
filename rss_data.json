@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29 03:27:31",
+  "timestamp": "2026-09-29 11:51:23",
   "entries": [
     {
       "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
@@ -51,6 +51,66 @@
       "tags": [
         {
           "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/executive-vice-president-virkkunen-emphasises-importance-eurojust-eu-security-chain"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/executive-vice-president-virkkunen-emphasises-importance-eurojust-eu-security-chain",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/executive-vice-president-virkkunen-visit-1.png",
+      "field_list_image_1": "Executive Vice-President Virkkunen visit",
+      "summary": "During a visit to Eurojust headquarters in The Hague, Executive Vice-President for Tech Sovereignty, Security and Democracy Henna Virkkunen discussed the future of the EU Agency for judicial cooperation. The meeting with Eurojust President Michael Schmid and Administrative Director Vincent Jamin also highlighted the Agency\u2019s valuable contribution to the new e-evidence legislative package.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "During a visit to Eurojust headquarters in The Hague, Executive Vice-President for Tech Sovereignty, Security and Democracy Henna Virkkunen discussed the future of the EU Agency for judicial cooperation. The meeting with Eurojust President Michael Schmid and Administrative Director Vincent Jamin also highlighted the Agency\u2019s valuable contribution to the new e-evidence legislative package."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A new Eurojust Regulation, proposed by the European Commission in June, would give the Agency a stronger mandate, ensuring that national authorities can continue to rely on its support and expertise in complex cross-border investigations. On the Proposal for a Regulation, the Executive Vice-President highlighted that a stronger Eurojust is essential to ensuring that law enforcement action is effectively followed up through the justice system.\u201dDuring today\u2019s meeting, Eurojust President Michael Schmid and Administrative Director Vincent Jamin presented the many ways in which the Agency supports\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "9e5fee25-32be-4e57-8113-89af86f2c706",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Powers of Eurojust",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "European Commission",
           "scheme": "Partner",
           "label": null
         }
@@ -467,66 +527,6 @@
       ]
     },
     {
-      "title": "Serbian Prosecutor General visits Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Serbian Prosecutor General visits Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
-      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
-      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
-        }
-      ],
-      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        10,
-        12,
-        0,
-        0,
-        3,
-        253,
-        0
-      ],
-      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
       "title_detail": {
         "type": "text/plain",
@@ -572,6 +572,66 @@
         0
       ],
       "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Serbian Prosecutor General visits Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Serbian Prosecutor General visits Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
+      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
+      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
       "guidislink": false,
       "tags": [
         {
@@ -1622,61 +1682,6 @@
       ]
     },
     {
-      "title": "Eurojust and The Netherlands sign amended seat agreement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and The Netherlands sign amended seat agreement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
-      "field_list_image_1": "Signing of seat agreement",
-      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
-        }
-      ],
-      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        3,
-        12,
-        0,
-        0,
-        4,
-        184,
-        0
-      ],
-      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust-supported joint investigation leads to Ireland's first convictions for labour trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -1752,6 +1757,61 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and The Netherlands sign amended seat agreement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and The Netherlands sign amended seat agreement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
+      "field_list_image_1": "Signing of seat agreement",
+      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
+        }
+      ],
+      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        7,
+        3,
+        12,
+        0,
+        0,
+        4,
+        184,
+        0
+      ],
+      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
           "label": null
         }
       ]
@@ -1882,54 +1942,6 @@
       ]
     },
     {
-      "title": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/iraq-wa-2.jpg",
-      "field_list_image_1": "signing agreement",
-      "summary": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0644\u0627 \u062a\u0642\u062a\u0635\u0631 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0627 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u0628\u0631\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0645\u0639 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0628\u0644 \u064a\u0645\u062b\u0644 \u0623\u064a\u0636\u0627\u064b \u062e\u0637\u0648\u0629 \u0645\u0647\u0645\u0629 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0631\u064a \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0628\u0634\u0623\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062a\u064a \u0627\u0631\u062a\u0643\u0628\u0647\u0627 \u062a\u0646\u0638\u064a\u0645 \u062f\u0627\u0639\u0634 \u0648\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u064a\u0646 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628. \u0648\u0645\u0646 \u0634\u0623\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0647\u0630\u0647 \u0623\u0646 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0648\u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u062f\u0644\u0629 \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.\u0648\u0642\u0627\u0644 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a: \"\u0641\u064a \u0633\u0639\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0639\u0646 \u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0623\u062b\u0628\u062a\u062a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0623\u0646\u0647 \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062f\u0648\u0644\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d\u2026"
-        }
-      ],
-      "published": "Tue, 30 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        30,
-        12,
-        0,
-        0,
-        1,
-        181,
-        0
-      ],
-      "id": "06faa8a0-a8f4-40c5-b330-e1dcda06adfd",
-      "guidislink": false
-    },
-    {
       "title": "Eurojust and Iraq sign Working Arrangement to combat terrorism and serious organised crime",
       "title_detail": {
         "type": "text/plain",
@@ -1960,6 +1972,54 @@
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
           "value": "Beyond making the thirteenth such working arrangement for Eurojust, outside the European Union, the agreement represents an important step forward in supporting EU Member States investigating crimes committed by ISIL/Da\u2019esh and cases involving foreign terrorist fighters. The Working Arrangement will strengthen judicial cooperation and facilitate access to information and evidence relevant to terrorism and core international crimes investigations.Eurojust President, Michael Schmid said: In the pursuit of accountability for terrorism and other core international crimes, experience has shown\u2026"
+        }
+      ],
+      "published": "Tue, 30 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        30,
+        12,
+        0,
+        0,
+        1,
+        181,
+        0
+      ],
+      "id": "06faa8a0-a8f4-40c5-b330-e1dcda06adfd",
+      "guidislink": false
+    },
+    {
+      "title": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/iraq-wa-2.jpg",
+      "field_list_image_1": "signing agreement",
+      "summary": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "\u0644\u0627 \u062a\u0642\u062a\u0635\u0631 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0627 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u0628\u0631\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0645\u0639 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0628\u0644 \u064a\u0645\u062b\u0644 \u0623\u064a\u0636\u0627\u064b \u062e\u0637\u0648\u0629 \u0645\u0647\u0645\u0629 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0631\u064a \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0628\u0634\u0623\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062a\u064a \u0627\u0631\u062a\u0643\u0628\u0647\u0627 \u062a\u0646\u0638\u064a\u0645 \u062f\u0627\u0639\u0634 \u0648\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u064a\u0646 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628. \u0648\u0645\u0646 \u0634\u0623\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0647\u0630\u0647 \u0623\u0646 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0648\u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u062f\u0644\u0629 \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.\u0648\u0642\u0627\u0644 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a: \"\u0641\u064a \u0633\u0639\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0639\u0646 \u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0623\u062b\u0628\u062a\u062a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0623\u0646\u0647 \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062f\u0648\u0644\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d\u2026"
         }
       ],
       "published": "Tue, 30 Jun 2026 14:00:00 +0200",
@@ -2323,6 +2383,54 @@
       ]
     },
     {
+      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
+      "field_list_image_1": "AR cover",
+      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
+        }
+      ],
+      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        18,
+        12,
+        0,
+        0,
+        3,
+        169,
+        0
+      ],
+      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
+      "guidislink": false
+    },
+    {
       "title": "Specialised prosecutors meet at Eurojust to strengthen the fight against human trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -2376,54 +2484,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
-      "field_list_image_1": "AR cover",
-      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
-        }
-      ],
-      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        18,
-        12,
-        0,
-        0,
-        3,
-        169,
-        0
-      ],
-      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
-      "guidislink": false
     },
     {
       "title": "Drug trafficking network dismantled by international coalition",
@@ -3154,6 +3214,76 @@
       ]
     },
     {
+      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
+      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
+      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
+        }
+      ],
+      "published": "Tue, 26 May 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        5,
+        26,
+        12,
+        0,
+        0,
+        1,
+        146,
+        0
+      ],
+      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "College",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Presidency",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Vice-President",
+          "scheme": "Eurojust Structure and Admin",
+          "label": null
+        },
+        {
+          "term": "Lithuania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Illegal waste trading stopped through coordination by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -3264,76 +3394,6 @@
       ]
     },
     {
-      "title": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 re-elected as Vice-President of Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/margarita-sniutyte-daugeliene-re-elected-vice-president-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/portrait-vp-margarita-sniutyte-daugeliene-0.jpg",
-      "field_list_image_1": "Portrait_VP_ Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117",
-      "summary": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "National Member for Lithuania Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been re-elected as Vice-President of Eurojust on 26 May. As of 28 June, she will take up a mandate of four years, continuing to work together closely with President Michael Schmid and Vice-President Jos\u00e9 de la Mata. Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 has been National Member for Lithuania since 2019."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her election as Vice-President by her fellow National Members, Margarita \u0160niutyt\u0117-Daug\u0117lien\u0117 said: 'Being re-elected as Vice-President of Eurojust by my colleagues is both a great honour and a significant responsibility. I am grateful for the trust placed in me and look forward to continuing our shared work over the next four years, at a pivotal moment for the Agency following the revision of the Eurojust Regulation, which further strengthens Eurojust\u2019s role in delivering justice across borders.Together, we will continue supporting Member States in tackling increasingly complex\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "8d7bf67b-37ab-4ce4-a6f6-e62fe2d69bd3",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Presidency",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Vice-President",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Lithuania",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Highlighting the important work of national authorities for the 11th EU Day Against Impunity",
       "title_detail": {
         "type": "text/plain",
@@ -3389,111 +3449,6 @@
         {
           "term": "Genocide Prosecution Network",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust coordinated investigation shuts down criminal VPN network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust coordinated investigation shuts down criminal VPN network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-coordinated-investigation-shuts-down-criminal-vpn-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-coordinated-investigation-shuts-down-criminal-vpn-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/vpn-conection-laptop.jpg",
-      "field_list_image_1": "VPN connection",
-      "summary": "A joint investigation by the French and Dutch authorities, supported by Eurojust and Europol, has shut down a large-scale criminal virtual private network (VPN) service. The criminal service, known as First VPN, targeted cybercriminals by offering their services and promising a secure environment to carry out illegal activities such as hacking and ransomware attacks. Thanks to a joint action coordinated at Eurojust on the 19 and 20 May, authorities were able to dismantle critical infrastructure including 33 servers and conduct a search and interview of a suspect in Ukraine.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A joint investigation by the French and Dutch authorities, supported by Eurojust and Europol, has shut down a large-scale criminal virtual private network (VPN) service. The criminal service, known as First VPN, targeted cybercriminals by offering their services and promising a secure environment to carry out illegal activities such as hacking and ransomware attacks. Thanks to a joint action coordinated at Eurojust on the 19 and 20 May, authorities were able to dismantle critical infrastructure including 33 servers and conduct a search and interview of a suspect in Ukraine."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A VPN is commonly used to create a secure connection between a user\u2019s device and the internet, protecting their network traffic and device location.The criminal service First VPN allegedly targeted criminals, offering services to conceal their identities and enable cybercrime. Their grasp was far-reaching: according to Europol, the VPN service featured in almost every major cybercrime investigation supported by the Agency.First VPN\u2019s website promoted itself by emphasising anonymity, promising its users that it would not cooperate with any judicial authority, that it would not\u2026"
-        }
-      ],
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        21,
-        12,
-        0,
-        0,
-        3,
-        141,
-        0
-      ],
-      "id": "d3b4b783-cd48-4123-82e7-c7310d005482",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Mutual legal assistance",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Luxembourg",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Switzerland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Ukraine",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
           "label": null
         }
       ]
