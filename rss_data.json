@@ -1,6 +1,111 @@
 {
-  "timestamp": "2026-10-01 12:07:02",
+  "timestamp": "2026-10-01 22:09:56",
   "entries": [
+    {
+      "title": "Teenagers suspected of leading ransomware group arrested during international operation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Teenagers suspected of leading ransomware group arrested during international operation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/teenagers-suspected-leading-ransomware-group-arrested-during-international-operation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/teenagers-suspected-leading-ransomware-group-arrested-during-international-operation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/killswitch.png",
+      "field_list_image_1": "killswitch",
+      "summary": "An international group of authorities from nine countries, coordinated by Eurojust and Europol, has successfully shut down a ransomware group responsible for almost 1 000 attacks worldwide. During the investigation, a 16-year-old was identified as the group\u2019s main operator. The group, known as KillSec, stole sensitive data and threatened to publish the files unless a ransom was paid.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "An international group of authorities from nine countries, coordinated by Eurojust and Europol, has successfully shut down a ransomware group responsible for almost 1 000 attacks worldwide. During the investigation, a 16-year-old was identified as the group\u2019s main operator. The group, known as KillSec, stole sensitive data and threatened to publish the files unless a ransom was paid."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "KillSec has been around since 2024. By exploiting poorly secured access points, particularly those linked to cloud storage, the group was able to gain access to organisations\u2019 systems. Once inside, the KillSec group stole data and copied it to their own infrastructure. They then threatened to make the stolen data public unless the victims paid a ransom. If the victims did not pay, the stolen files were made available for free download. To prove that they possessed the stolen data, victims would get sent samples. In some cases, the group received substantial ransom payments.Authorities have\u2026"
+        }
+      ],
+      "published": "Thu, 01 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        1,
+        12,
+        0,
+        0,
+        3,
+        274,
+        0
+      ],
+      "id": "c4f3108a-07ab-4a1d-b396-0d4e440485c1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Finland",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Greece",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Spain",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "USA",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust-supported investigation leads to searches of suspected members of extremist organisation producing and disseminating hatred-inciting music",
       "title_detail": {
@@ -77,61 +182,6 @@
       ]
     },
     {
-      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
-      "field_list_image_1": "signing of working arrangement with UAE",
-      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
-        }
-      ],
-      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        28,
-        12,
-        0,
-        0,
-        0,
-        271,
-        0
-      ],
-      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
       "title_detail": {
         "type": "text/plain",
@@ -186,6 +236,61 @@
         },
         {
           "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
+      "field_list_image_1": "signing of working arrangement with UAE",
+      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -327,8 +432,8 @@
         }
       ],
       "link": "https://www.eurojust.europa.eu/news/helen-graves-appointed-liaison-prosecutor-united-kingdom",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/helen-graves-new-from-2026.png",
-      "field_list_image_1": "Ms Helen Graves",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/helen-graves-listview.png",
+      "field_list_image_1": "Helen Graves",
       "summary": "A new Liaison Prosecutor for the United Kingdom has started at Eurojust, continuing to facilitate cooperation between UK and EU authorities. Helen Graves, a solicitor since 2007 and recently working as a Specialist Prosecutor in the field of Serious Economic Organised Crime, started her tenure in August 2026.",
       "summary_detail": {
         "type": "text/html",
@@ -2458,6 +2563,54 @@
       ]
     },
     {
+      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
+      "field_list_image_1": "AR cover",
+      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
+        }
+      ],
+      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        6,
+        18,
+        12,
+        0,
+        0,
+        3,
+        169,
+        0
+      ],
+      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
+      "guidislink": false
+    },
+    {
       "title": "Specialised prosecutors meet at Eurojust to strengthen the fight against human trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -2511,54 +2664,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Discover the Eurojust Annual Report 2025 through four new visual publications",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Discover the Eurojust Annual Report 2025 through four new visual publications"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/discover-eurojust-annual-report-2025-through-four-new-visual-publications",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pubs-news-web.jpg",
-      "field_list_image_1": "AR cover",
-      "summary": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "For the first time, Eurojust is complementing its Annual Report with four concise, visual publications that explore key achievements, developments and trends from 2025. The publications include:"
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust Regulation EvaluatedA key milestone of the past year was the evaluation of the Eurojust Regulation, assessing the Agency\u2019s performance and development between 2019 and 2024. This publication highlights the main findings of the European Commission\u2019s evaluation and features an infographic of milestones in the past five years that have shaped the work of Eurojust.Read HereEurojust Home to Global Justice \u2013 Cooperation Outside the EU\u2019s BordersAs crime becomes increasingly global, effective judicial cooperation beyond the EU is more important than ever. This publication explores\u2026"
-        }
-      ],
-      "published": "Thu, 18 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        18,
-        12,
-        0,
-        0,
-        3,
-        169,
-        0
-      ],
-      "id": "49eb52dd-a9d8-4ec8-8401-58a11822a9c0",
-      "guidislink": false
     },
     {
       "title": "Drug trafficking network dismantled by international coalition",
@@ -3354,116 +3459,6 @@
         {
           "term": "Lithuania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Illegal waste trading stopped through coordination by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Illegal waste trading stopped through coordination by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/illegal-waste-trading-stopped-through-coordination-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/illegal-waste-trading-stopped-through-coordination-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-illegal-waste-case.jpg",
-      "field_list_image_1": "garbage bulldozer",
-      "summary": "Actions have been taken against three Italian companies suspected of illegal waste trading. The companies allegedly processed and sold toxic materials, falsely advertising them as environmentally friendly charcoal for producing briquettes or fertilisers. The Italian authorities worked with their counterparts from Austria, Croatia and Germany to detain 12 suspects and seize one of the production plants. Eurojust, Europol and OLAF supported the investigation throughout.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Actions have been taken against three Italian companies suspected of illegal waste trading. The companies allegedly processed and sold toxic materials, falsely advertising them as environmentally friendly charcoal for producing briquettes or fertilisers. The Italian authorities worked with their counterparts from Austria, Croatia and Germany to detain 12 suspects and seize one of the production plants. Eurojust, Europol and OLAF supported the investigation throughout."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The criminal group, which operated in Italy, Austria, Germany, Croatia, Serbia and Switzerland, had set up an illegal system in which they transformed ash containing highly toxic materials into supposedly environmentally friendly charcoal for use in barbecue briquettes, fertilisers and concrete additives. The group also traded in CO2 quotas and set up a web of companies across Europe. Through these activities, the group gained an illicit profit of hundreds of thousands of euros.To legitimise their illegal activities, the group allegedly had close ties to senior officials in the local\u2026"
-        }
-      ],
-      "published": "Tue, 26 May 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        5,
-        26,
-        12,
-        0,
-        0,
-        1,
-        146,
-        0
-      ],
-      "id": "c05ad447-0d6e-4c81-8c24-482a8715d3ea",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Environmental crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint action day",
-          "scheme": "Eurojust Tools",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Exchange of information",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Austria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Croatia",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "OLAF",
-          "scheme": "Partner",
           "label": null
         }
       ]
