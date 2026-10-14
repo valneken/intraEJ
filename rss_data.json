@@ -1,6 +1,91 @@
 {
-  "timestamp": "2026-10-14 10:53:57",
+  "timestamp": "2026-10-14 16:12:45",
   "entries": [
+    {
+      "title": "Joint Investigation Takes Down Company Suspected of Bribery and  EUR 1 million Fraud Supplied to NATO Vessels",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Joint Investigation Takes Down Company Suspected of Bribery and  EUR 1 million Fraud Supplied to NATO Vessels"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/joint-investigation-takes-down-company-suspected-bribery-and-eur-1-million-fraud-supplied-nato-vessels"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/joint-investigation-takes-down-company-suspected-bribery-and-eur-1-million-fraud-supplied-nato-vessels",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-nato-corruption-case.jpg",
+      "field_list_image_1": "envelope handing",
+      "summary": "With the active coordination of Eurojust, and collaboration with the NATO Support and Procurement Agency (NSPA), authorities carried out simultaneous arrests in Norway and searches in Romania and Germany connected to a large-scale fraud investigation against a company supplying services to NATO military vessels.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the active coordination of Eurojust, and collaboration with the NATO Support and Procurement Agency (NSPA), authorities carried out simultaneous arrests in Norway and searches in Romania and Germany connected to a large-scale fraud investigation against a company supplying services to NATO military vessels."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "In April 2025, Eurojust began providing judicial support to a cross-border investigation into alleged fraudulent invoices submitted to the NATO Support and Procurement Agency (NSPA). The NSPA is the North Atlantic Treaty Organisation\u2019s (NATO) main services provider, handling among other things, logistical support and the procurement of military equipment and services.The investigation revolved around a company and its subcontractors that were allegedly submitting fraudulent invoices as discovered by the NSPA, relating to husbandry services (essential shore-based support provided to\u2026"
+        }
+      ],
+      "published": "Wed, 14 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        14,
+        12,
+        0,
+        0,
+        2,
+        287,
+        0
+      ],
+      "id": "83f01a8f-8c8f-4522-9bc7-0387899218e6",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Corruption",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Norway",
+          "scheme": "Third states",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust",
       "title_detail": {
@@ -3375,66 +3460,6 @@
         },
         {
           "term": "France",
-          "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "New National Member for Romania: Ms Emilia Ioana Lionte",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "New National Member for Romania: Ms Emilia Ioana Lionte"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/new-national-member-romania-ms-emilia-ioana-lionte"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/new-national-member-romania-ms-emilia-ioana-lionte",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emilia-ioana-lionte.jpg",
-      "field_list_image_1": "Emilia  Ioana  Lionte",
-      "summary": "Prosecutor Ms Emilia Ioana Lionte has been appointed as the new National Member for Romania at Eurojust \u2013 the European Union Agency for Criminal Justice Cooperation.Ms Lionte began her work at the Agency in May 2026 and will be instrumental in enabling cooperation between Romanian authorities and their international partners on cross-border investigations.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Prosecutor Ms Emilia Ioana Lionte has been appointed as the new National Member for Romania at Eurojust \u2013 the European Union Agency for Criminal Justice Cooperation.Ms Lionte began her work at the Agency in May 2026 and will be instrumental in enabling cooperation between Romanian authorities and their international partners on cross-border investigations."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Commenting on her new mandate at Eurojust, Ms Lionte said:I am honoured to have been appointed as National Member for Romania. I'm confident that I can actively contribute to enhancing judicial cooperation and facilitating the handling of complex cases. Eurojust plays a distinctive role in bringing an international perspective to connected national cases. This very important institution connects practitioners across diverse legal systems and facilitates dialogue aimed at combating the most serious forms of criminality.Ms Lionte has extensive experience as a prosecutor both at national\u2026"
-        }
-      ],
-      "published": "Thu, 04 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        4,
-        12,
-        0,
-        0,
-        3,
-        155,
-        0
-      ],
-      "id": "d9f493cf-331c-494d-b1f1-7638ca3b85e0",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "College",
-          "scheme": "Eurojust Structure and Admin",
-          "label": null
-        },
-        {
-          "term": "Romania",
           "scheme": "Member State",
           "label": null
         }
