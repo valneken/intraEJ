@@ -1,6 +1,66 @@
 {
-  "timestamp": "2026-10-15 10:36:02",
+  "timestamp": "2026-10-15 16:00:32",
   "entries": [
+    {
+      "title": "Judicial practitioners draw on operational experience to strengthen collaboration at EJCON plenary",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Judicial practitioners draw on operational experience to strengthen collaboration at EJCON plenary"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/judicial-practitioners-draw-operational-experience-strengthen-collaboration-ejcon-plenary"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/judicial-practitioners-draw-operational-experience-strengthen-collaboration-ejcon-plenary",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ejcon-meeting.png",
+      "field_list_image_1": "Speakers at the EJCON meeting",
+      "summary": "The European Judicial Network on Organised Crime(EJOCN) held its fourth Plenary Meeting on 14-15 October under the auspices of the Irish Presidency of the Council. Network members gathered to discuss recent developments and strengthen professional cooperation in addressing organised crime and drug trafficking.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The European Judicial Network on Organised Crime(EJOCN) held its fourth Plenary Meeting on 14-15 October under the auspices of the Irish Presidency of the Council. Network members gathered to discuss recent developments and strengthen professional cooperation in addressing organised crime and drug trafficking."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "A central thematic session focused on the \u2018Ndrangheta, with a keynote presentation examining the group\u2019s structure, methods of operation and criminal business model. The meeting also examined how organised criminal groups infiltrate and exploit legitimate businesses, which is an important feature of organised criminal activity. It provides opportunities to conceal criminal proceeds, facilitate illicit activities, and establish influence within the legitimate economy and local society. The session explored the challenges this presents to prosecutors and provided insights into how to address\u2026"
+        }
+      ],
+      "published": "Thu, 15 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        15,
+        12,
+        0,
+        0,
+        3,
+        288,
+        0
+      ],
+      "id": "54e90296-4c84-4dc9-91f3-10d378d4457b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Joint Investigation Takes Down Company Suspected of Bribery and  EUR 1 million Fraud Supplied to NATO Vessels",
       "title_detail": {
@@ -87,81 +147,6 @@
       ]
     },
     {
-      "title": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/ocg-brought-justice-complex-murder-and-kidnapping-case-supported-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/ocg-brought-justice-complex-murder-and-kidnapping-case-supported-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arrested.jpg",
-      "field_list_image_1": "handcuffed individual",
-      "summary": "An organised criminal group has been sentenced to a combined total of more than 100 years imprisonment in the United Kingdom for their roles in the kidnapping and killing of a Polish national in a case involving extensive cross-border cooperation. Eurojust supported the investigation through a joint investigation team between the UK and Polish authorities.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "An organised criminal group has been sentenced to a combined total of more than 100 years imprisonment in the United Kingdom for their roles in the kidnapping and killing of a Polish national in a case involving extensive cross-border cooperation. Eurojust supported the investigation through a joint investigation team between the UK and Polish authorities."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "In March 2019, the criminal group believing that the victim was responsible for the loss of a large illegal cigarette shipment, abducted the victim from his home in the UK. To carry out the kidnapping, the perpetrators posed as Interpol officers executing a European Arrest Warrant, enabling them to gain control of the victim before taking him to a separate location.He was then subjected to a sustained violent assault before being abandoned. The victim was able to reach a property nearby and get medical treatment, but died from his injuries two months later.After the assault, two of the\u2026"
-        }
-      ],
-      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        12,
-        12,
-        0,
-        0,
-        0,
-        285,
-        0
-      ],
-      "id": "ec51e576-79cc-4620-8261-86f7d7ef6f2b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Justice Done",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "United Kingdom",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans",
       "title_detail": {
         "type": "text/plain",
@@ -227,55 +212,55 @@
       ]
     },
     {
-      "title": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel",
+      "title": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel"
+        "value": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/thirteen-convicted-migrant-smuggling-operation-led-31-deaths-english-channel"
+          "href": "https://www.eurojust.europa.eu/news/ocg-brought-justice-complex-murder-and-kidnapping-case-supported-eurojust"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/thirteen-convicted-migrant-smuggling-operation-led-31-deaths-english-channel",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/beach-life-jacket.jpg",
-      "field_list_image_1": "beach",
-      "summary": "Thirteen members of a migrant smuggling network have been convicted in France for their involvement in a deadly attempt to cross the English Channel in November 2021, which led to the deaths of 31 people. Prison sentences of up to 10 years were imposed. Eurojust supported the investigation by setting up a joint investigation team (JIT) between the French and UK authorities and hosting several coordination meetings at the Agency.",
+      "link": "https://www.eurojust.europa.eu/news/ocg-brought-justice-complex-murder-and-kidnapping-case-supported-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/arrested.jpg",
+      "field_list_image_1": "handcuffed individual",
+      "summary": "An organised criminal group has been sentenced to a combined total of more than 100 years imprisonment in the United Kingdom for their roles in the kidnapping and killing of a Polish national in a case involving extensive cross-border cooperation. Eurojust supported the investigation through a joint investigation team between the UK and Polish authorities.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Thirteen members of a migrant smuggling network have been convicted in France for their involvement in a deadly attempt to cross the English Channel in November 2021, which led to the deaths of 31 people. Prison sentences of up to 10 years were imposed. Eurojust supported the investigation by setting up a joint investigation team (JIT) between the French and UK authorities and hosting several coordination meetings at the Agency."
+        "value": "An organised criminal group has been sentenced to a combined total of more than 100 years imprisonment in the United Kingdom for their roles in the kidnapping and killing of a Polish national in a case involving extensive cross-border cooperation. Eurojust supported the investigation through a joint investigation team between the UK and Polish authorities."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Thirty-three migrants were on board the overcrowded small boat when it sank in the English Channel during the night of 23 to 24 November 2021 while attempting to reach the United Kingdom. Twenty-seven people were confirmed to have drowned, while four others remain missing. Only two people survived.The investigation uncovered two structured migrant smuggling networks which worked together to organise the crossing. The smugglers were involved at different stages of the operation, including procuring and launching the boat, recruiting migrants, transporting them to the departure point and\u2026"
+          "value": "In March 2019, the criminal group believing that the victim was responsible for the loss of a large illegal cigarette shipment, abducted the victim from his home in the UK. To carry out the kidnapping, the perpetrators posed as Interpol officers executing a European Arrest Warrant, enabling them to gain control of the victim before taking him to a separate location.He was then subjected to a sustained violent assault before being abandoned. The victim was able to reach a property nearby and get medical treatment, but died from his injuries two months later.After the assault, two of the\u2026"
         }
       ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
       "published_parsed": [
         2026,
         10,
-        9,
+        12,
         12,
         0,
         0,
-        4,
-        282,
+        0,
+        285,
         0
       ],
-      "id": "1f159d89-c880-411f-a19b-65ec4b704090",
+      "id": "ec51e576-79cc-4620-8261-86f7d7ef6f2b",
       "guidislink": false,
       "tags": [
         {
-          "term": "Migrant smuggling",
+          "term": "Organised crime",
           "scheme": "Crime type",
           "label": null
         },
@@ -290,7 +275,7 @@
           "label": null
         },
         {
-          "term": "France",
+          "term": "Poland",
           "scheme": "Member State",
           "label": null
         },
@@ -422,6 +407,146 @@
       ]
     },
     {
+      "title": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/thirteen-convicted-migrant-smuggling-operation-led-31-deaths-english-channel"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/thirteen-convicted-migrant-smuggling-operation-led-31-deaths-english-channel",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/beach-life-jacket.jpg",
+      "field_list_image_1": "beach",
+      "summary": "Thirteen members of a migrant smuggling network have been convicted in France for their involvement in a deadly attempt to cross the English Channel in November 2021, which led to the deaths of 31 people. Prison sentences of up to 10 years were imposed. Eurojust supported the investigation by setting up a joint investigation team (JIT) between the French and UK authorities and hosting several coordination meetings at the Agency.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Thirteen members of a migrant smuggling network have been convicted in France for their involvement in a deadly attempt to cross the English Channel in November 2021, which led to the deaths of 31 people. Prison sentences of up to 10 years were imposed. Eurojust supported the investigation by setting up a joint investigation team (JIT) between the French and UK authorities and hosting several coordination meetings at the Agency."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Thirty-three migrants were on board the overcrowded small boat when it sank in the English Channel during the night of 23 to 24 November 2021 while attempting to reach the United Kingdom. Twenty-seven people were confirmed to have drowned, while four others remain missing. Only two people survived.The investigation uncovered two structured migrant smuggling networks which worked together to organise the crossing. The smugglers were involved at different stages of the operation, including procuring and launching the boat, recruiting migrants, transporting them to the departure point and\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "1f159d89-c880-411f-a19b-65ec4b704090",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Justice Done",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "United Kingdom",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
+      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
+        }
+      ],
+      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        2,
+        12,
+        0,
+        0,
+        4,
+        275,
+        0
+      ],
+      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "IMPNA",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Drug traffickers using commercial flights halted by international coalition",
       "title_detail": {
         "type": "text/plain",
@@ -497,71 +622,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
-      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
-        }
-      ],
-      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        2,
-        12,
-        0,
-        0,
-        4,
-        275,
-        0
-      ],
-      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "IMPNA",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -747,61 +807,6 @@
       ]
     },
     {
-      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
-      "field_list_image_1": "signing of working arrangement with UAE",
-      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
-        }
-      ],
-      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        28,
-        12,
-        0,
-        0,
-        0,
-        271,
-        0
-      ],
-      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
       "title_detail": {
         "type": "text/plain",
@@ -856,6 +861,61 @@
         },
         {
           "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
+      "field_list_image_1": "signing of working arrangement with UAE",
+      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -1272,66 +1332,6 @@
       ]
     },
     {
-      "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-eippn-workshop.png",
-      "field_list_image_1": "Group picture participants",
-      "summary": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Building on the first edition organised in 2025, the European Union Intellectual Property Office (EUIPO), in cooperation with Eurojust through the Western Balkans Criminal Justice (WBCJ) Project, held its second joint inter-regional meeting on investigating and prosecuting intellectual property crime in Alicante, Spain. Eurojust was represented by the National Member for Germany, Jan MacLean, as Contact Point for the WBCJ Project.The meeting brought together prosecutors and practitioners from Albania, Armenia, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, Serbia,\u2026"
-        }
-      ],
-      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        10,
-        12,
-        0,
-        0,
-        3,
-        253,
-        0
-      ],
-      "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Serbian Prosecutor General visits Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -1377,6 +1377,66 @@
         0
       ],
       "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-eippn-workshop.png",
+      "field_list_image_1": "Group picture participants",
+      "summary": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Building on the first edition organised in 2025, the European Union Intellectual Property Office (EUIPO), in cooperation with Eurojust through the Western Balkans Criminal Justice (WBCJ) Project, held its second joint inter-regional meeting on investigating and prosecuting intellectual property crime in Alicante, Spain. Eurojust was represented by the National Member for Germany, Jan MacLean, as Contact Point for the WBCJ Project.The meeting brought together prosecutors and practitioners from Albania, Armenia, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, Serbia,\u2026"
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
       "guidislink": false,
       "tags": [
         {
@@ -2427,6 +2487,61 @@
       ]
     },
     {
+      "title": "Eurojust and The Netherlands sign amended seat agreement",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and The Netherlands sign amended seat agreement"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
+      "field_list_image_1": "Signing of seat agreement",
+      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
+        }
+      ],
+      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        7,
+        3,
+        12,
+        0,
+        0,
+        4,
+        184,
+        0
+      ],
+      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Eurojust-supported joint investigation leads to Ireland's first convictions for labour trafficking",
       "title_detail": {
         "type": "text/plain",
@@ -2502,61 +2617,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and The Netherlands sign amended seat agreement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and The Netherlands sign amended seat agreement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
-      "field_list_image_1": "Signing of seat agreement",
-      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
-        }
-      ],
-      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        3,
-        12,
-        0,
-        0,
-        4,
-        184,
-        0
-      ],
-      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
           "label": null
         }
       ]
@@ -3386,81 +3446,6 @@
         {
           "term": "USA",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Millions of French drug trafficking profits laundered through Belgium: authorities take action",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Millions of French drug trafficking profits laundered through Belgium: authorities take action"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/millions-french-drug-trafficking-profits-laundered-through-belgium-authorities-take-action"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/millions-french-drug-trafficking-profits-laundered-through-belgium-authorities-take-action",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-drugs-pr.jpg",
-      "field_list_image_1": "Money and drugs",
-      "summary": "Cooperation between Belgian and French authorities, set up through Eurojust, has led to the detention of eight people and the seizure of over EUR 8 million. The detained people are suspected of laundering several million euros through a business in Brussels.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cooperation between Belgian and French authorities, set up through Eurojust, has led to the detention of eight people and the seizure of over EUR 8 million. The detained people are suspected of laundering several million euros through a business in Brussels."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A joint investigation team set up at Eurojust enabled the Belgian and French authorities to reveal the money laundering scheme taking place in both countries. Illicit proceeds from drug trafficking activities in France were allegedly transferred to Belgium by money collectors. The money would then be laundered in Brussels through a business.During two action days starting in France on 5 June and continuing in Belgium the next day, authorities worked together to take action against the money launderers. When two of the money collectors arrived in France they were arrested and over EUR 260 000\u2026"
-        }
-      ],
-      "published": "Wed, 10 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        10,
-        12,
-        0,
-        0,
-        2,
-        161,
-        0
-      ],
-      "id": "cd91e257-1b95-44f8-bf0a-423693905138",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
           "label": null
         }
       ]
