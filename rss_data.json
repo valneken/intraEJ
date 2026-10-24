@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-10-24 02:39:10",
+  "timestamp": "2026-10-24 10:01:15",
   "entries": [
+    {
+      "title": "HR/VP Kaja Kallas visits Eurojust to discuss accountability efforts for Ukraine",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "HR/VP Kaja Kallas visits Eurojust to discuss accountability efforts for Ukraine"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/hrvp-kaja-kallas-visits-eurojust-discuss-accountability-efforts-ukraine"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/hrvp-kaja-kallas-visits-eurojust-discuss-accountability-efforts-ukraine",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/high-representative-vice-president-of-the-european-commission-kaja-kallas-f.png",
+      "field_list_image_1": "HR/VP Kaja Kallas visits Eurojust to discuss accountability efforts for Ukraine",
+      "summary": "Eurojust's efforts to ensure accountability for core international crimes in Ukraine took centre stage during today\u2019s visit by High Representative/Vice-President of the European Commission Kaja Kallas. She met with Eurojust President Michael Schmid, members of the joint investigation team (JIT) and the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA).",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust's efforts to ensure accountability for core international crimes in Ukraine took centre stage during today\u2019s visit by High Representative/Vice-President of the European Commission Kaja Kallas. She met with Eurojust President Michael Schmid, members of the joint investigation team (JIT) and the International Centre for the Prosecution of the Crime of Aggression against Ukraine (ICPA)."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Since Russia\u2019s full-scale invasion of Ukraine in 2022, Eurojust has played a central role in supporting the international accountability efforts. Just three weeks after the invasion, Eurojust helped establish a joint investigation team (JIT), laying the groundwork for further cross-border judicial cooperation. These efforts have since expanded with the establishment of the ICPA, a unique judicial hub where prosecutors and investigators from different countries work together to support investigations into the crime of aggression, and the Core International Crimes Evidence Database (CICED) to\u2026"
+        }
+      ],
+      "published": "Fri, 23 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        23,
+        12,
+        0,
+        0,
+        4,
+        296,
+        0
+      ],
+      "id": "7a89fcd8-a9c3-4735-88fd-017ea337dc36",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine conflict",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Judicial practitioners draw on operational experience to strengthen collaboration at EJOCN plenary",
       "title_detail": {
@@ -147,71 +212,6 @@
       ]
     },
     {
-      "title": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/budva-main.png",
-      "field_list_image_1": "westen balkans meeting on sirius",
-      "summary": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop focused on the legal and operational challenges involved in accessing electronic evidence in cross-border criminal investigations. The discussions addressed the different stages of obtaining data, from identifying relevant information and preserving data to requesting its disclosure through appropriate cooperation channels.Building on the experience and resources developed by the SIRIUS Project, the workshop combined expert presentations, including from Rakuten, Japan, practical discussions and case-based exercises. Sessions covered different modalities for obtaining electronic\u2026"
-        }
-      ],
-      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        12,
-        12,
-        0,
-        0,
-        0,
-        285,
-        0
-      ],
-      "id": "fe903c3a-ee51-4508-a548-e3cab6820f73",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -282,6 +282,71 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/budva-main.png",
+      "field_list_image_1": "westen balkans meeting on sirius",
+      "summary": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The workshop focused on the legal and operational challenges involved in accessing electronic evidence in cross-border criminal investigations. The discussions addressed the different stages of obtaining data, from identifying relevant information and preserving data to requesting its disclosure through appropriate cooperation channels.Building on the experience and resources developed by the SIRIUS Project, the workshop combined expert presentations, including from Rakuten, Japan, practical discussions and case-based exercises. Sessions covered different modalities for obtaining electronic\u2026"
+        }
+      ],
+      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        12,
+        12,
+        0,
+        0,
+        0,
+        285,
+        0
+      ],
+      "id": "fe903c3a-ee51-4508-a548-e3cab6820f73",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -807,6 +872,61 @@
       ]
     },
     {
+      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
+      "field_list_image_1": "signing of working arrangement with UAE",
+      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
       "title_detail": {
         "type": "text/plain",
@@ -861,61 +981,6 @@
         },
         {
           "term": "European Commission",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
-      "field_list_image_1": "signing of working arrangement with UAE",
-      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
-        }
-      ],
-      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        28,
-        12,
-        0,
-        0,
-        0,
-        271,
-        0
-      ],
-      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -1332,66 +1397,6 @@
       ]
     },
     {
-      "title": "Serbian Prosecutor General visits Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Serbian Prosecutor General visits Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
-      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
-      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
-        }
-      ],
-      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        10,
-        12,
-        0,
-        0,
-        3,
-        253,
-        0
-      ],
-      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
       "title_detail": {
         "type": "text/plain",
@@ -1437,6 +1442,66 @@
         0
       ],
       "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Serbian Prosecutor General visits Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Serbian Prosecutor General visits Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/serbian-prosecutor-general-visits-eurojust",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/serbian-prosecutor-general-visits-eurojust.png",
+      "field_list_image_1": "Serbian Prosecutor General visits Eurojust",
+      "summary": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust President Michael Schmid welcomed Zagorka Dolovac, Prosecutor General of the Republic of Serbia, for a visit supported by the WBCJ Project. The visit included meetings with several Eurojust National Desks and highlighted Serbia\u2019s growing cooperation with Eurojust, including 82 new cases between September 2025 and August 2026 and participation in nine Joint Investigation Teams."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The visit was also an opportunity to reaffirm the support of Eurojust and the WBCJ Project for cross-border cases involving Serbian authorities, including several ongoing JITs with EU Member States and other countries in the region."
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
       "guidislink": false,
       "tags": [
         {
@@ -3351,101 +3416,6 @@
         {
           "term": "France",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Cryptocurrency money laundering site shut down thanks to coordinated investigation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Cryptocurrency money laundering site shut down thanks to coordinated investigation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/cryptocurrency-money-laundering-site-shut-down-thanks-coordinated-investigation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/cryptocurrency-money-laundering-site-shut-down-thanks-coordinated-investigation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-spalsh-crypoto-case.jpg",
-      "field_list_image_1": "splash page",
-      "summary": "A global parallel investigation, supported by Eurojust and Europol, has shut down a website suspected of laundering more than EUR 336 million in criminal cryptocurrency between 2022 and 2025.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A global parallel investigation, supported by Eurojust and Europol, has shut down a website suspected of laundering more than EUR 336 million in criminal cryptocurrency between 2022 and 2025."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The service, known as \u2018AudiA6\u2019, was used by cybercriminals involved in ransomware attacks to cash out stolen digital assets and conceal the movement of illicit funds from authorities. The criminal group behind the website are also allegedly running a separate cybercrime forum known as \u2018Dark2Web\u2019, which acts as a marketplace used to advertise illicit services and connect cybercriminal actors worldwide.Cybercriminals as customers of the service, would transfer stolen cryptocurrency to wallets controlled by the criminal group and, within around an hour, receive \u201ccleaned\u201d funds back through\u2026"
-        }
-      ],
-      "published": "Thu, 11 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        11,
-        12,
-        0,
-        0,
-        3,
-        162,
-        0
-      ],
-      "id": "e021177a-d25f-4dd5-8793-493c51e1340d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Cybercrime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Fraud",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Poland",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Georgia",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "Iceland",
-          "scheme": "Third states",
-          "label": null
-        },
-        {
-          "term": "USA",
-          "scheme": "Third states",
           "label": null
         }
       ]
