@@ -1,6 +1,76 @@
 {
-  "timestamp": "2026-10-30 03:42:38",
+  "timestamp": "2026-10-30 11:54:00",
   "entries": [
+    {
+      "title": "Searches in light of procurement of faulty body armours for Ukrainian armed forces",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Searches in light of procurement of faulty body armours for Ukrainian armed forces"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/searches-light-procurement-faulty-body-armours-ukrainian-armed-forces"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/searches-light-procurement-faulty-body-armours-ukrainian-armed-forces",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/france-ukraine-pr.jpg",
+      "field_list_image_1": "Shoulder of soldier in uniform",
+      "summary": "French and Ukrainian authorities worked together under coordination by Eurojust to conduct searches in light of an investigation into the procurement of substandard body armour for the Armed Forces of Ukraine. The procurement caused losses of more than EUR 53 million.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French and Ukrainian authorities worked together under coordination by Eurojust to conduct searches in light of an investigation into the procurement of substandard body armour for the Armed Forces of Ukraine. The procurement caused losses of more than EUR 53 million."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Ukrainian state purchased 67 000 body armour vests and made a 100% advance payment to the supplier. After the material was delivered, an independent examination determined the vests were of poor quality and did not offer the declared level of protection.It is suspected that a former official of the Ministry of Defence who lead the department developing material support was involved in the scheme. In March 2022, he allegedly facilitated the conclusion of the contract with the supplier and received financial remuneration from the supplier for his services. It is suspected that these illicit\u2026"
+        }
+      ],
+      "published": "Thu, 29 Oct 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        10,
+        29,
+        12,
+        0,
+        0,
+        3,
+        302,
+        0
+      ],
+      "id": "9aee02f2-7328-42f4-b352-9ed928bc5ce4",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Corruption",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "HR/VP Kaja Kallas visits Eurojust to discuss accountability efforts for Ukraine",
       "title_detail": {
@@ -412,66 +482,6 @@
       ]
     },
     {
-      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
-      "field_list_image_1": "Speakers at event",
-      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        9,
-        12,
-        0,
-        0,
-        4,
-        282,
-        0
-      ],
-      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel",
       "title_detail": {
         "type": "text/plain",
@@ -542,6 +552,66 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
+      "field_list_image_1": "Speakers at event",
+      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -872,61 +942,6 @@
       ]
     },
     {
-      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
-      "field_list_image_1": "signing of working arrangement with UAE",
-      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
-        }
-      ],
-      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        28,
-        12,
-        0,
-        0,
-        0,
-        271,
-        0
-      ],
-      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
       "title_detail": {
         "type": "text/plain",
@@ -981,6 +996,61 @@
         },
         {
           "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
+      "field_list_image_1": "signing of working arrangement with UAE",
+      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -1167,6 +1237,61 @@
       ]
     },
     {
+      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
+      "field_list_image_1": "large group picture",
+      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
+        }
+      ],
+      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        18,
+        12,
+        0,
+        0,
+        4,
+        261,
+        0
+      ],
+      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EUIPO",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "New Eurojust report examines implications of landmark ECtHR judgment: Ukraine and the Netherlands v. Russia",
       "title_detail": {
         "type": "text/plain",
@@ -1242,61 +1367,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
-      "field_list_image_1": "large group picture",
-      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
-        }
-      ],
-      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        18,
-        12,
-        0,
-        0,
-        4,
-        261,
-        0
-      ],
-      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EUIPO",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1397,66 +1467,6 @@
       ]
     },
     {
-      "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-eippn-workshop.png",
-      "field_list_image_1": "Group picture participants",
-      "summary": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Building on the first edition organised in 2025, the European Union Intellectual Property Office (EUIPO), in cooperation with Eurojust through the Western Balkans Criminal Justice (WBCJ) Project, held its second joint inter-regional meeting on investigating and prosecuting intellectual property crime in Alicante, Spain. Eurojust was represented by the National Member for Germany, Jan MacLean, as Contact Point for the WBCJ Project.The meeting brought together prosecutors and practitioners from Albania, Armenia, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, Serbia,\u2026"
-        }
-      ],
-      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        10,
-        12,
-        0,
-        0,
-        3,
-        253,
-        0
-      ],
-      "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Serbian Prosecutor General visits Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -1502,6 +1512,66 @@
         0
       ],
       "id": "26e28fd0-2f5f-4cba-b5f6-5cc9145721a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO continue cooperation with WB and EaP regions against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-continue-cooperation-wb-and-eap-regions-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/group-photo-eippn-workshop.png",
+      "field_list_image_1": "Group picture participants",
+      "summary": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Held with the support of the WBCJ and EU4IP projects, the meeting strengthened cooperation with practitioners from the Western Balkans, the Eastern Partnership region and EU Member States."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Building on the first edition organised in 2025, the European Union Intellectual Property Office (EUIPO), in cooperation with Eurojust through the Western Balkans Criminal Justice (WBCJ) Project, held its second joint inter-regional meeting on investigating and prosecuting intellectual property crime in Alicante, Spain. Eurojust was represented by the National Member for Germany, Jan MacLean, as Contact Point for the WBCJ Project.The meeting brought together prosecutors and practitioners from Albania, Armenia, Bosnia and Herzegovina, Kosovo*, Moldova, Montenegro, North Macedonia, Serbia,\u2026"
+        }
+      ],
+      "published": "Thu, 10 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        10,
+        12,
+        0,
+        0,
+        3,
+        253,
+        0
+      ],
+      "id": "28d2227a-db6a-40a6-9ac9-e1c66dfca720",
       "guidislink": false,
       "tags": [
         {
@@ -3351,71 +3421,6 @@
         {
           "term": "Trafficking in human beings",
           "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Drug trafficking network dismantled by international coalition",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Drug trafficking network dismantled by international coalition"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/drug-trafficking-network-dismantled-international-coalition"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/drug-trafficking-network-dismantled-international-coalition",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr-2026-06-12.jpg",
-      "field_list_image_1": "stock image",
-      "summary": "Belgian and French investigators have worked together to identify and dismantle an international drug trafficking network. The network is suspected of having trafficked large quantities of drugs across several European countries. A joint operation led to the detention of 11 suspects.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Belgian and French investigators have worked together to identify and dismantle an international drug trafficking network. The network is suspected of having trafficked large quantities of drugs across several European countries. A joint operation led to the detention of 11 suspects."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "After connecting ongoing investigations in Belgium and France through a joint investigation team at Eurojust, a well-organised transnational criminal network was revealed, with some of its key members residing in Brussels. To run their drug trafficking operation, they prepared vehicles equipped with hidden compartments. Drugs were trafficked to Spain and Italy through France.Through coordination from Eurojust, authorities came together several times at the Agency in The Hague to connect the dots, plan a joint operation to detain members of the group and collect important evidence.An action\u2026"
-        }
-      ],
-      "published": "Mon, 15 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        15,
-        12,
-        0,
-        0,
-        0,
-        166,
-        0
-      ],
-      "id": "3a78ea0b-ad66-4aef-97e3-a32f1a3aec12",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Belgium",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
           "label": null
         }
       ]
