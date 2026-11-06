@@ -1,6 +1,161 @@
 {
-  "timestamp": "2026-11-06 13:29:18",
+  "timestamp": "2026-11-06 22:33:29",
   "entries": [
+    {
+      "title": "Eurojust-supported investigation shuts down cross-border human trafficking ring",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust-supported investigation shuts down cross-border human trafficking ring"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ro-de-thb-pr-6.11.26.jpg",
+      "field_list_image_1": "Hand",
+      "summary": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The network, allegedly active since 2024 and organised around family ties, is suspected of recruiting women from disadvantaged backgrounds in Romania and transporting them to Germany, where they were forced into prostitution. Two suspects allegedly used the \u2018loverboy\u2019 method, pretending to develop romantic relationships with the women to persuade them to travel abroad. Members of the network allegedly rented properties where the victims were sexually exploited, arranged their transport and advertised their sexual services online. They then took the money earned by the victims. To avoid\u2026"
+        }
+      ],
+      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        6,
+        12,
+        0,
+        0,
+        4,
+        310,
+        0
+      ],
+      "id": "d43c1ff7-3a4c-4a26-b2a4-ca9b6cd4a36d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Investigation into large-scale theft of freight shipments containing consumer goods",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Investigation into large-scale theft of freight shipments containing consumer goods"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/investigation-large-scale-theft-freight-shipments-containing-consumer-goods"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/investigation-large-scale-theft-freight-shipments-containing-consumer-goods",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-be-ro-freight-fraud-case.png",
+      "field_list_image_1": "Police in action",
+      "summary": "Authorities have executed 65 search warrants as part of an investigation into a criminal group suspected of generating significant funds by hijacking shipments and consequently stealing the shipped items. During an action day, authorities apprehended 11 suspects in Romania and arrested 5 suspects in Belgium.By posing as a legitimate transport company, the group stole the contents of approximately 70 freight shipments, causing major losses for the affected companies. A joint investigation set up at Eurojust between Belgian and Romanian authorities is investigating the suspected fraud.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Authorities have executed 65 search warrants as part of an investigation into a criminal group suspected of generating significant funds by hijacking shipments and consequently stealing the shipped items. During an action day, authorities apprehended 11 suspects in Romania and arrested 5 suspects in Belgium.By posing as a legitimate transport company, the group stole the contents of approximately 70 freight shipments, causing major losses for the affected companies. A joint investigation set up at Eurojust between Belgian and Romanian authorities is investigating the suspected fraud."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Evidence suggests that the group managed or controlled several companies contracted to transport goods within Romania and abroad. Once they received the goods they were meant to transport, they stole the entire shipment.The group is suspected of using several methods to steal the shipments. One of these methods involved transferring the shipment from the original vehicle to another. After switching the cargo, the driver would report that it had been stolen en route. Another method involved swapping trailers and licence plates, whereby the cargo was switched to another, similar-looking\u2026"
+        }
+      ],
+      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        6,
+        12,
+        0,
+        0,
+        4,
+        310,
+        0
+      ],
+      "id": "a1d70dac-d79e-44bf-9154-9606578f9ab1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Organised crime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Joint action day",
+          "scheme": "Eurojust Tools",
+          "label": null
+        },
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Search",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Belgium",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "JIT experts join forces at Eurojust to combat online investment fraud",
       "title_detail": {
@@ -685,66 +840,6 @@
       ]
     },
     {
-      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
-      "field_list_image_1": "Focus group",
-      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        9,
-        12,
-        0,
-        0,
-        4,
-        282,
-        0
-      ],
-      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
       "title_detail": {
         "type": "text/plain",
@@ -800,6 +895,66 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
+      "field_list_image_1": "Focus group",
+      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -1205,61 +1360,6 @@
       ]
     },
     {
-      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
-      "field_list_image_1": "signing of working arrangement with UAE",
-      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
-        }
-      ],
-      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        28,
-        12,
-        0,
-        0,
-        0,
-        271,
-        0
-      ],
-      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Executive Vice-President Virkkunen emphasises importance of Eurojust in the EU security chain",
       "title_detail": {
         "type": "text/plain",
@@ -1314,6 +1414,61 @@
         },
         {
           "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and United Arab Emirates sign Working Arrangement to strengthen cooperation against serious crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-united-arab-emirates-sign-working-arrangement-strengthen-cooperation-against",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/working-arrangement-uae.jpg",
+      "field_list_image_1": "signing of working arrangement with UAE",
+      "summary": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Minister of Justice of the United Arab Emirates (UAE), His Excellency Abdullah Sultan bin Awad Al Nuaimi and Eurojust President, Michael Schmid have signed a Working Arrangement to strengthen cooperation in the fight against serious cross-border crime.The Working Arrangement provides a framework for closer strategic cooperation and information exchange between Eurojust and the competent authorities of the UAE. It was signed in the margins of the United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The Working Arrangement is the 14th of its kind that Eurojust has signed with a country outside the European Union, further expanding the Agency's global network of judicial cooperation partners.As serious and organised crime increasingly extends beyond national borders, closer cooperation with judicial authorities outside the European Union is essential. The UAE is a partner of high operational relevance in the fight against organised crime. Eurojust\u2019s Strategy on Cooperation with International Partners 2024\u20132027, specifically identifies the Gulf as a region where cooperation should be\u2026"
+        }
+      ],
+      "published": "Mon, 28 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        28,
+        12,
+        0,
+        0,
+        0,
+        271,
+        0
+      ],
+      "id": "bb4d4433-1dd2-43dd-80a2-abe4f20fe2a8",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
           "scheme": "Partner",
           "label": null
         }
@@ -3296,146 +3451,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Parcel post drug traffickers arrested during international operation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Parcel post drug traffickers arrested during international operation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/parcel-post-drug-traffickers-arrested-during-international-operation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/parcel-post-drug-traffickers-arrested-during-international-operation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-parcel-drug-traffiking-case.jpg",
-      "field_list_image_1": "marijuana plants and cigarets",
-      "summary": "A criminal group has been taken down following an international operation by French and Spanish authorities, together with Eurojust and Europol. The group is suspected of smuggling large quantities of cannabis from Spain to France using parcel delivery services.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "A criminal group has been taken down following an international operation by French and Spanish authorities, together with Eurojust and Europol. The group is suspected of smuggling large quantities of cannabis from Spain to France using parcel delivery services."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "During an action week between 15 and 19 June, 10 suspects were arrested and 24 searches were executed. The searches led to the seizure of over EUR 278 000 in cash and EUR 111 000 on bank accounts, cannabis and other drugs, fire arms, phones and cars.The coordinated operation is the result of cooperation under the coordination by Eurojust. Investigators came together several times at the Agency\u2019s headquarters in The Hague to exchange information and plan the action week. Eurojust also ensured the execution of European Arrest Warrant and European Investigation Orders, key to the success\u2026"
-        }
-      ],
-      "published": "Fri, 26 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        26,
-        12,
-        0,
-        0,
-        4,
-        177,
-        0
-      ],
-      "id": "002ad9e2-b9eb-4634-8da2-e30c35587974",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "European Arrest Warrant",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "European Investigation Order",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Spain",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Vincent Jamin\u2019s mandate as Administrative Director extended",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Vincent Jamin\u2019s mandate as Administrative Director extended"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/vincent-jamins-mandate-administrative-director-extended"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/vincent-jamins-mandate-administrative-director-extended",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/vincent-jamin-ad-eurojust.jpg",
-      "field_list_image_1": "Vincent Jamin",
-      "summary": "Vincent JaminThe College of Eurojust has decided to extend Vincent Jamin\u2019s mandate as Administrative Director for 4 years. Vincent Jamin has been leading Eurojust\u2019s administration and implementation of key organisational developments since 1 October 2023 when his first term started.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Vincent JaminThe College of Eurojust has decided to extend Vincent Jamin\u2019s mandate as Administrative Director for 4 years. Vincent Jamin has been leading Eurojust\u2019s administration and implementation of key organisational developments since 1 October 2023 when his first term started."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Vincent Jamincommented on his extension:\u2018I feel privileged to continue in my role as Administrative Director at a moment when discussions on the revision of Eurojust mandate are starting in Brussels. This represents a unique opportunity to review and enhance our operational support to national authorities. I look forward to working with Eurojust College, post-holders and staff on this important change in the years to come\u2019.Vincent Jamin is a French prosecutor by profession. He brings with him 25 years of experience in the area of criminal justice, ranging from assignments in\u2026"
-        }
-      ],
-      "published": "Thu, 25 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        25,
-        12,
-        0,
-        0,
-        3,
-        176,
-        0
-      ],
-      "id": "f9cc9ffa-5e22-4684-811d-dc5d5533566b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Administrative Director",
-          "scheme": "Eurojust Structure and Admin",
           "label": null
         }
       ]
