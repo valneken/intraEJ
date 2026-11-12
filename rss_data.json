@@ -1,6 +1,156 @@
 {
-  "timestamp": "2026-11-12 14:21:11",
+  "timestamp": "2026-11-12 23:00:03",
   "entries": [
+    {
+      "title": "Eurojust annual meeting on migrant smuggling takes stock of evolving trends and future cooperation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust annual meeting on migrant smuggling takes stock of evolving trends and future cooperation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-takes-stock-evolving-trends-and-future-cooperation"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-annual-meeting-migrant-smuggling-takes-stock-evolving-trends-and-future-cooperation",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-annual-meeting-on-migrant-smuggling-2026.png",
+      "field_list_image_1": "Group picture",
+      "summary": "Migrant smuggling networks are increasingly operating from outside the EU, moving money through informal channels and making use of social media and digital platforms for advertisement and recruitment. Prosecutors met at Eurojust this week to discuss how to adapt their response and strengthen international cooperation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Migrant smuggling networks are increasingly operating from outside the EU, moving money through informal channels and making use of social media and digital platforms for advertisement and recruitment. Prosecutors met at Eurojust this week to discuss how to adapt their response and strengthen international cooperation."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day meeting, held on 11-12 November, brought judicial practitioners from across Europe together with representatives of the European Commission, Europol, the UN Office on Drugs and Crime (UNODC) and the Council of Europe. The meeting also served as a plenary of Eurojust\u2019s Focus Group for Prosecutors on Migrant Smuggling.Ms Heli Vesaaja, Eurojust National Member for Finland and Chair of the Anti-trafficking Team said, \u201cSmuggling networks are quick to adapt to changing circumstance. Prosecutors must do the same. Meetings such as this one allow prosecutors to share what trends they are\u2026"
+        }
+      ],
+      "published": "Thu, 12 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        12,
+        12,
+        0,
+        0,
+        3,
+        316,
+        0
+      ],
+      "id": "33899d2c-4820-450a-9fc8-0a88b4922639",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Migrant smuggling",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Council of Europe",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "European Commission",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "UNODC",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust-supported investigation shuts down network supplying large quantities of cocaine into Europe",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust-supported investigation shuts down network supplying large quantities of cocaine into Europe"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-network-supplying-large-quantities-cocaine-europe"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-network-supplying-large-quantities-cocaine-europe",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sachet-with-cocaine.jpg",
+      "field_list_image_1": "Drugs",
+      "summary": "With the support of Europol and Eurojust, Swiss, Czech and German authorities have shut down a large drug trafficking network, suspected of illegal transporting large shipments of cocaine from Latin America into Europe. Eurojust supported a joint investigation team that enabled authorities to simultaneously arrest and conduct searches and seizures across five countries in a coordinated series of action days.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the support of Europol and Eurojust, Swiss, Czech and German authorities have shut down a large drug trafficking network, suspected of illegal transporting large shipments of cocaine from Latin America into Europe. Eurojust supported a joint investigation team that enabled authorities to simultaneously arrest and conduct searches and seizures across five countries in a coordinated series of action days."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The criminal group was highly organised and is suspected of establishing a series of registered companies in Switzerland and the Netherlands to facilitate the cocaine shipments. The established companies masquerading as legitimate trading and import businesses are alleged to have hidden large quantities of cocaine among legitimate goods being imported into Europe.By creating a network of companies across Europe, authorities also believe the suspects were able to launder the profits of their criminal activities.Cocaine seizures totalling several tonnes at European ports since 2019 are believed\u2026"
+        }
+      ],
+      "published": "Thu, 12 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        12,
+        12,
+        0,
+        0,
+        3,
+        316,
+        0
+      ],
+      "id": "b3c25235-8a97-4d8f-baa9-f66df96bcd04",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Drug trafficking",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Switzerland",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust and the Council of Europe bring together judges and prosecutors to address technology-facilitated gender-based violence",
       "title_detail": {
@@ -367,6 +517,66 @@
       ]
     },
     {
+      "title": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/accountability-core-international-crimes-agenda-during-visit-un-high-commissioner-human-rights"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/accountability-core-international-crimes-agenda-during-visit-un-high-commissioner-human-rights",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/accountability-for-core-international-crimes-on-the-agenda-during-visit-of-un-high-commissioner.png",
+      "field_list_image_1": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust",
+      "summary": "Ensuring that those responsible for the gravest crimes are held to account was at the heart of today\u2019s visit of UN High Commissioner for Human Rights Volker T\u00fcrk to Eurojust. He met with Eurojust President Michael Schmid and the Head of the Genocide Prosecution Network Secretariat Matevz Pezdirc.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Ensuring that those responsible for the gravest crimes are held to account was at the heart of today\u2019s visit of UN High Commissioner for Human Rights Volker T\u00fcrk to Eurojust. He met with Eurojust President Michael Schmid and the Head of the Genocide Prosecution Network Secretariat Matevz Pezdirc."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The High Commissioner was briefed on Eurojust\u2019s role in supporting national judicial authorities across the EU and beyond in tackling serious cross-border crime. This includes the investigation and prosecution of core international crimes, particularly in the context of the war in Ukraine. Through its Core International Crimes Evidence Database (CICED), Eurojust helps national authorities preserve, analyse and share evidence across jurisdictions, identify links between investigations and build stronger cases.Also on the agenda was the existing cooperation between the UN Office of the High\u2026"
+        }
+      ],
+      "published": "Tue, 03 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        3,
+        12,
+        0,
+        0,
+        1,
+        307,
+        0
+      ],
+      "id": "1040ba1c-384e-4eaa-b893-b1955b42496a",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Core international crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "International investment fraud scheme dismantled: seven arrests",
       "title_detail": {
         "type": "text/plain",
@@ -457,66 +667,6 @@
         {
           "term": "North Macedonia",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/accountability-core-international-crimes-agenda-during-visit-un-high-commissioner-human-rights"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/accountability-core-international-crimes-agenda-during-visit-un-high-commissioner-human-rights",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/accountability-for-core-international-crimes-on-the-agenda-during-visit-of-un-high-commissioner.png",
-      "field_list_image_1": "Accountability for core international crimes on the agenda during visit of UN High Commissioner for Human Rights to Eurojust",
-      "summary": "Ensuring that those responsible for the gravest crimes are held to account was at the heart of today\u2019s visit of UN High Commissioner for Human Rights Volker T\u00fcrk to Eurojust. He met with Eurojust President Michael Schmid and the Head of the Genocide Prosecution Network Secretariat Matevz Pezdirc.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Ensuring that those responsible for the gravest crimes are held to account was at the heart of today\u2019s visit of UN High Commissioner for Human Rights Volker T\u00fcrk to Eurojust. He met with Eurojust President Michael Schmid and the Head of the Genocide Prosecution Network Secretariat Matevz Pezdirc."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The High Commissioner was briefed on Eurojust\u2019s role in supporting national judicial authorities across the EU and beyond in tackling serious cross-border crime. This includes the investigation and prosecution of core international crimes, particularly in the context of the war in Ukraine. Through its Core International Crimes Evidence Database (CICED), Eurojust helps national authorities preserve, analyse and share evidence across jurisdictions, identify links between investigations and build stronger cases.Also on the agenda was the existing cooperation between the UN Office of the High\u2026"
-        }
-      ],
-      "published": "Tue, 03 Nov 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        11,
-        3,
-        12,
-        0,
-        0,
-        1,
-        307,
-        0
-      ],
-      "id": "1040ba1c-384e-4eaa-b893-b1955b42496a",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Core international crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -850,71 +1000,6 @@
       ]
     },
     {
-      "title": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/budva-main.png",
-      "field_list_image_1": "westen balkans meeting on sirius",
-      "summary": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The workshop focused on the legal and operational challenges involved in accessing electronic evidence in cross-border criminal investigations. The discussions addressed the different stages of obtaining data, from identifying relevant information and preserving data to requesting its disclosure through appropriate cooperation channels.Building on the experience and resources developed by the SIRIUS Project, the workshop combined expert presentations, including from Rakuten, Japan, practical discussions and case-based exercises. Sessions covered different modalities for obtaining electronic\u2026"
-        }
-      ],
-      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        12,
-        12,
-        0,
-        0,
-        0,
-        285,
-        0
-      ],
-      "id": "fe903c3a-ee51-4508-a548-e3cab6820f73",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Sirius",
-          "scheme": "Projects",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "OCG brought to justice in complex murder and kidnapping case supported by Eurojust",
       "title_detail": {
         "type": "text/plain",
@@ -990,116 +1075,61 @@
       ]
     },
     {
-      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
+      "title": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
+        "value": "WBCJ and SIRIUS projects hold joint workshop on access to electronic evidence in the Western Balkans"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
+          "href": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
-      "field_list_image_1": "Focus group",
-      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
+      "link": "https://www.eurojust.europa.eu/news/wbcj-and-sirius-projects-hold-joint-workshop-access-electronic-evidence-western-balkans",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/budva-main.png",
+      "field_list_image_1": "westen balkans meeting on sirius",
+      "summary": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
+        "value": "On 8-9 October 2026, the Western Balkans Criminal Justice (WBCJ) Project and the SIRIUS Project, both implemented by Eurojust, organised a workshop in Montenegro on cross-border access to electronic evidence held by service providers, bringing together prosecutors and competent authorities from the six Western Balkan partners."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
+          "value": "The workshop focused on the legal and operational challenges involved in accessing electronic evidence in cross-border criminal investigations. The discussions addressed the different stages of obtaining data, from identifying relevant information and preserving data to requesting its disclosure through appropriate cooperation channels.Building on the experience and resources developed by the SIRIUS Project, the workshop combined expert presentations, including from Rakuten, Japan, practical discussions and case-based exercises. Sessions covered different modalities for obtaining electronic\u2026"
         }
       ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published": "Mon, 12 Oct 2026 14:00:00 +0200",
       "published_parsed": [
         2026,
         10,
-        9,
+        12,
         12,
         0,
         0,
-        4,
-        282,
+        0,
+        285,
         0
       ],
-      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
-      "field_list_image_1": "Speakers at event",
-      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        9,
-        12,
-        0,
-        0,
-        4,
-        282,
-        0
-      ],
-      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
+      "id": "fe903c3a-ee51-4508-a548-e3cab6820f73",
       "guidislink": false,
       "tags": [
         {
           "term": "Third countries",
           "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Sirius",
+          "scheme": "Projects",
           "label": null
         },
         {
@@ -1185,66 +1215,121 @@
       ]
     },
     {
-      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
       "title_detail": {
         "type": "text/plain",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
+        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
       },
       "links": [
         {
           "rel": "alternate",
           "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
+          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
         }
       ],
-      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
-      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
+      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
+      "field_list_image_1": "Speakers at event",
+      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
       "summary_detail": {
         "type": "text/html",
         "language": "en",
         "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
+        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
       },
       "content": [
         {
           "type": "application/xhtml+xml",
           "language": "en",
           "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
+          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
         }
       ],
-      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
       "published_parsed": [
         2026,
         10,
-        2,
+        9,
         12,
         0,
         0,
         4,
-        275,
+        282,
         0
       ],
-      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
+      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
       "guidislink": false,
       "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
         {
           "term": "Third countries",
           "scheme": "Partner",
           "label": null
         },
         {
-          "term": "IMPNA",
+          "term": "WB CRIM JUST",
           "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
+      "field_list_image_1": "Focus group",
+      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -1325,6 +1410,71 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
+      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
+        }
+      ],
+      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        2,
+        12,
+        0,
+        0,
+        4,
+        275,
+        0
+      ],
+      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "IMPNA",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3323,179 +3473,6 @@
           "label": null
         }
       ]
-    },
-    {
-      "title": "Eurojust hosts cross-Mediterranean partners to strengthen judicial cooperation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust hosts cross-Mediterranean partners to strengthen judicial cooperation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-hosts-cross-mediterranean-partners-strengthen-judicial-cooperation"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-hosts-cross-mediterranean-partners-strengthen-judicial-cooperation",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/emj-pg-forum-group-pic.jpg",
-      "field_list_image_1": "Group picture",
-      "summary": "The seventh EuroMed Prosecutors General Forum offered a platform to strengthen cooperation between South Partner Countries, European Union Member States and Eurojust. The event brought together Prosecutor Generals and equivalent positions from the EU (Bulgaria, Cyprus, France, Greece, Italy, Malta, Portugal, Romania, Sweden and The Netherlands) and MENA region (Algeria, Egypt, Israel, Lebanon, Libya, Morocco, Palestine1). This year\u2019s edition presented an update on ongoing actions by the EuroMed Justice project, endorsed recommendations for judicial cooperation in the fight against organised crime and offered the opportunity for bilateral discussion on high-level cases in the margins of the event.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The seventh EuroMed Prosecutors General Forum offered a platform to strengthen cooperation between South Partner Countries, European Union Member States and Eurojust. The event brought together Prosecutor Generals and equivalent positions from the EU (Bulgaria, Cyprus, France, Greece, Italy, Malta, Portugal, Romania, Sweden and The Netherlands) and MENA region (Algeria, Egypt, Israel, Lebanon, Libya, Morocco, Palestine1). This year\u2019s edition presented an update on ongoing actions by the EuroMed Justice project, endorsed recommendations for judicial cooperation in the fight against organised crime and offered the opportunity for bilateral discussion on high-level cases in the margins of the event."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Eurojust President Michael Schmid: \u2018Fighting serious and organised crime is more than ever before a collective effort, so it is important for Eurojust and for Prosecutors General from across the Middle East and North Africa so stay close. The number of operational meetings between our sides stood at 57 in 2025 and we expect it to grow further, but there is important potential left to tap. Over the past two days for instance, we looked at how we can join forces in Joint Investigation Teams, so that information and evidence could be exchanged more smoothly.\u2019Throughout the two-day event,\u2026"
-        }
-      ],
-      "published": "Thu, 02 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        2,
-        12,
-        0,
-        0,
-        3,
-        183,
-        0
-      ],
-      "id": "8ca037ab-9c3a-4683-a09a-82ebe48ac46b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Migrant smuggling",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Bulgaria",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Cyprus",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Greece",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Malta",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Portugal",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Sweden",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "EuroMed Justice",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0648\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0648\u0642\u0639\u0627\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/ar/news/ywrwjst-walraq-ywqan-atfaqyt-ml-lmkafht-alarhab-waljrymt-almnzmt",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/iraq-wa-2.jpg",
-      "field_list_image_1": "signing agreement",
-      "summary": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "\u0648\u0642\u0651\u0639 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0648\u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0642\u0627\u0636\u064a \u0639\u0644\u064a \u062d\u0633\u064a\u0646 \u062c\u0641\u0627\u062a\u060c \u0645\u0645\u062b\u0644\u0627\u064b \u0639\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0636\u0627\u0621 \u0627\u0644\u0623\u0639\u0644\u0649 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0627\u0644\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u064a\u0648\u0631\u0648\u062c\u0633\u062a \u0641\u064a \u0644\u0627\u0647\u0627\u064a\u060c \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u0625\u0631\u0633\u0627\u0621 \u062a\u0639\u0627\u0648\u0646 \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u0645\u062f \u0641\u064a \u0645\u062c\u0627\u0644 \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0633\u062a\u0648\u0641\u0631 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0625\u0637\u0627\u0631\u0627\u064b \u0644\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "\u0644\u0627 \u062a\u0642\u062a\u0635\u0631 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0627 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u0628\u0631\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0639\u0645\u0644 \u0645\u0639 \u064a\u0648\u0631\u0648\u062c\u0633\u062a\u060c \u0628\u0644 \u064a\u0645\u062b\u0644 \u0623\u064a\u0636\u0627\u064b \u062e\u0637\u0648\u0629 \u0645\u0647\u0645\u0629 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0631\u064a \u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0628\u0634\u0623\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062a\u064a \u0627\u0631\u062a\u0643\u0628\u0647\u0627 \u062a\u0646\u0638\u064a\u0645 \u062f\u0627\u0639\u0634 \u0648\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u064a\u0646 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628. \u0648\u0645\u0646 \u0634\u0623\u0646 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0647\u0630\u0647 \u0623\u0646 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0642\u0636\u0627\u0626\u064a \u0648\u062a\u0633\u0647\u0651\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u062f\u0644\u0629 \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u062d\u0642\u064a\u0642\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629.\u0648\u0642\u0627\u0644 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u064a\u0643\u0644 \u0634\u0645\u064a\u062f\u060c \u0631\u0626\u064a\u0633 \u064a\u0648\u0631\u0648\u062c\u0633\u062a: \"\u0641\u064a \u0633\u0639\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0639\u0646 \u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0625\u0631\u0647\u0627\u0628 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0623\u062b\u0628\u062a\u062a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0623\u0646\u0647 \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062f\u0648\u0644\u0629 \u0623\u0646 \u062a\u0646\u062c\u062d\u2026"
-        }
-      ],
-      "published": "Tue, 30 Jun 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        6,
-        30,
-        12,
-        0,
-        0,
-        1,
-        181,
-        0
-      ],
-      "id": "06faa8a0-a8f4-40c5-b330-e1dcda06adfd",
-      "guidislink": false
     }
   ]
 }
