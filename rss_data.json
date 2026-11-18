@@ -1,6 +1,141 @@
 {
-  "timestamp": "2026-11-18 14:50:58",
+  "timestamp": "2026-11-18 23:43:27",
   "entries": [
+    {
+      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust\u2019s annual counter-terrorism meeting",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Practitioners exchange expertise on the response to evolving threats at Eurojust\u2019s annual counter-terrorism meeting"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/shutterstock-2436082839.png",
+      "field_list_image_1": "shutterstock image",
+      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Among the key topics this year was the new dynamics of terrorism and how to respond to evolving threats. Participants also discussed the challenges surrounding the legal qualification of complex and blurred cases. They also examined the links between terrorism and the Incel movement, as well as the emerging threat posed by nihilistic violent extremist networks.The meeting was opened by Mr Michael Schmid, President of Eurojust, and Mr Baudouin Thouvenot, National Member for France and Chair of the Eurojust Counter-Terrorism Team. Representatives of the Office of the EU Counter-Terrorism\u2026"
+        }
+      ],
+      "published": "Wed, 18 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        18,
+        12,
+        0,
+        0,
+        2,
+        322,
+        0
+      ],
+      "id": "a70e192f-189a-423e-9cf6-95e298f5602f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Terrorism",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Counter-terrorism register",
+          "scheme": "Eurojust Tools",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Breakthrough in case of mass bomb threats against schools in the Czech Republic, Slovakia and Latvia \u2013 suspect detained",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Breakthrough in case of mass bomb threats against schools in the Czech Republic, Slovakia and Latvia \u2013 suspect detained"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/breakthrough-case-mass-bomb-threats-against-schools-czech-republic-slovakia-and-latvia-suspect"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/breakthrough-case-mass-bomb-threats-against-schools-czech-republic-slovakia-and-latvia-suspect",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/hooded-figure-holding-phone-on-black-background-2026-09-24-15-04-02-utc-web.jpg",
+      "field_list_image_1": "Hooded person",
+      "summary": "With the active coordination of Eurojust, authorities from Czech Republic, Ukraine, Slovakia and Latvia have had a breakthrough in their investigation. A joint investigation team was set up between the countries to investigate a case of mass threats sent to schools, shopping malls, and other institutions.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the active coordination of Eurojust, authorities from Czech Republic, Ukraine, Slovakia and Latvia have had a breakthrough in their investigation. A joint investigation team was set up between the countries to investigate a case of mass threats sent to schools, shopping malls, and other institutions."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The joint investigation team made up of the authorities from the Czech Republic, Ukraine, Slovakia and Latvia, working with the assistance of Eurojust had identified a suspect in July 2025 in Dnipro, Ukraine. It is alleged that the suspect had been sending bomb threats to thousands of schools and other institutions in several European countries using multiple email addresses and the social network Telegram since at least 2024.\n                                                        However, the suspect fled to Belarus before law enforcement authorities could question them. At the beginning of\u2026"
+        }
+      ],
+      "published": "Wed, 18 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        18,
+        12,
+        0,
+        0,
+        2,
+        322,
+        0
+      ],
+      "id": "429352c0-e0fa-41b8-a314-293edbf4e4e4",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Joint investigation teams",
+          "scheme": "Judicial cooperation",
+          "label": null
+        },
+        {
+          "term": "Czech Republic",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Latvia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Slovakia",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Ukraine",
+          "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Judgement in case of high value targets attempting armed robbery of a cash vault",
       "title_detail": {
@@ -382,76 +517,6 @@
       ]
     },
     {
-      "title": "Eurojust-supported investigation shuts down cross-border human trafficking ring",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust-supported investigation shuts down cross-border human trafficking ring"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ro-de-thb-pr-6.11.26.jpg",
-      "field_list_image_1": "Hand",
-      "summary": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The network, allegedly active since 2024 and organised around family ties, is suspected of recruiting women from disadvantaged backgrounds in Romania and transporting them to Germany, where they were forced into prostitution. Two suspects allegedly used the \u2018loverboy\u2019 method, pretending to develop romantic relationships with the women to persuade them to travel abroad. Members of the network allegedly rented properties where the victims were sexually exploited, arranged their transport and advertised their sexual services online. They then took the money earned by the victims. To avoid\u2026"
-        }
-      ],
-      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        11,
-        6,
-        12,
-        0,
-        0,
-        4,
-        310,
-        0
-      ],
-      "id": "d43c1ff7-3a4c-4a26-b2a4-ca9b6cd4a36d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Investigation into large-scale theft of freight shipments containing consumer goods",
       "title_detail": {
         "type": "text/plain",
@@ -532,6 +597,76 @@
         {
           "term": "Romania",
           "scheme": "Member State",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust-supported investigation shuts down cross-border human trafficking ring",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust-supported investigation shuts down cross-border human trafficking ring"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ro-de-thb-pr-6.11.26.jpg",
+      "field_list_image_1": "Hand",
+      "summary": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The network, allegedly active since 2024 and organised around family ties, is suspected of recruiting women from disadvantaged backgrounds in Romania and transporting them to Germany, where they were forced into prostitution. Two suspects allegedly used the \u2018loverboy\u2019 method, pretending to develop romantic relationships with the women to persuade them to travel abroad. Members of the network allegedly rented properties where the victims were sexually exploited, arranged their transport and advertised their sexual services online. They then took the money earned by the victims. To avoid\u2026"
+        }
+      ],
+      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        6,
+        12,
+        0,
+        0,
+        4,
+        310,
+        0
+      ],
+      "id": "d43c1ff7-3a4c-4a26-b2a4-ca9b6cd4a36d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1220,126 +1355,6 @@
       ]
     },
     {
-      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
-      "field_list_image_1": "Focus group",
-      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        9,
-        12,
-        0,
-        0,
-        4,
-        282,
-        0
-      ],
-      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Economic crimes",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
-      "field_list_image_1": "Speakers at event",
-      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
-        }
-      ],
-      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        9,
-        12,
-        0,
-        0,
-        4,
-        282,
-        0
-      ],
-      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Thirteen convicted for migrant smuggling operation that led to 31 deaths in English Channel",
       "title_detail": {
         "type": "text/plain",
@@ -1410,6 +1425,126 @@
         {
           "term": "United Kingdom",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Practitioners from the Western Balkans, Moldova and Ukraine join training on financial investigations and asset recovery"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/practitioners-western-balkans-moldova-and-ukraine-join-training",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/enm.png",
+      "field_list_image_1": "Speakers at event",
+      "summary": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 5\u20139 October 2026, the Western Balkans Criminal Justice (WBCJ) Project at Eurojust, in cooperation with the TOPCOP and EU4FAST projects, supported the participation of prosecutors and judges from the Western Balkans in a training on financial investigations and asset recovery held at the French School of the Magistrate in Paris."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The training, co-led by a French magistrate and an investigative journalist specialising in financial crime, brought together practitioners from the Western Balkans, Moldova and Ukraine to strengthen their practical knowledge of financial investigations, asset tracing and recovery, and international judicial cooperation in cases involving organised crime, corruption and other serious criminal offences.Through expert presentations, case studies, practical exercises and exchanges among practitioners, participants explored a wide range of topics, including financial intelligence and its judicial\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "9a0387a3-bd9a-4556-9ae1-ebc9a3bc143d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust focus group aims to strengthen cooperation with non-EU partners to trace and recover criminal assets"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-focus-group-aims-strengthen-cooperation-non-eu-partners-trace-and-recover-criminal",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/money-laundering-meeting-group.png",
+      "field_list_image_1": "Focus group",
+      "summary": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "From 8-9 October, Eurojust brought together 36 experts and practitioners from 34 jurisdictions for the second annual meeting of the Agency\u2019s Judicial Focus Group on Money Laundering and Asset Recovery. The event aimed to address one of the key challenges in international financial crime: making cross-border cooperation faster and more effective."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Economic crime increasingly has a cross-border dimension, with criminals moving assets between countries to evade freezing and confiscation. Tracing and recovering those assets is a strategic priority of the European Union\u2019s fight against organised crime, and a major focus of Eurojust\u2019s casework.Over two days, participants examined the practical challenges that can delay or prevent cross-border judicial cooperation between EU and non-EU countries. Examples include differences in legal systems, evidential requirements, dual-criminality rules and procedural safeguards. Particular attention was\u2026"
+        }
+      ],
+      "published": "Fri, 09 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        9,
+        12,
+        0,
+        0,
+        4,
+        282,
+        0
+      ],
+      "id": "349cb88f-db6b-4391-b9fa-b92725a4741b",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Economic crimes",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Money laundering",
+          "scheme": "Crime type",
           "label": null
         }
       ]
@@ -2035,61 +2170,6 @@
       ]
     },
     {
-      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
-      "field_list_image_1": "large group picture",
-      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
-        }
-      ],
-      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        18,
-        12,
-        0,
-        0,
-        4,
-        261,
-        0
-      ],
-      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EUIPO",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "New Eurojust report examines implications of landmark ECtHR judgment: Ukraine and the Netherlands v. Russia",
       "title_detail": {
         "type": "text/plain",
@@ -2165,6 +2245,61 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
+      "field_list_image_1": "large group picture",
+      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
+        }
+      ],
+      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        18,
+        12,
+        0,
+        0,
+        4,
+        261,
+        0
+      ],
+      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EUIPO",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3330,146 +3465,6 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "EUR 1 million seized during ongoing investigation into money laundering network",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "EUR 1 million seized during ongoing investigation into money laundering network"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eur-1-million-seized-during-ongoing-investigation-money-laundering-network"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eur-1-million-seized-during-ongoing-investigation-money-laundering-network",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/web-gold-bars-case.jpg",
-      "field_list_image_1": "gold bars",
-      "summary": "French and Italian authorities have continued to work together on an investigation into a money laundering network that uses gold bars to launder drug trafficking profits. Following an initial operation in which EUR 30 million was seized, criminal assets worth EUR 1 million were seized under the coordination of Eurojust and Europol, together with Kosovar authorities.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "French and Italian authorities have continued to work together on an investigation into a money laundering network that uses gold bars to launder drug trafficking profits. Following an initial operation in which EUR 30 million was seized, criminal assets worth EUR 1 million were seized under the coordination of Eurojust and Europol, together with Kosovar authorities."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The international criminal network had set up a sophisticated money laundering scheme whereby the illicit proceeds generated from drug trafficking in France were collected at a residence in Italy and converted into gold bars and gold sheets. This made it possible to hide the illicit origin of the proceeds and transport them easily to other countries, in particular Kosovo*, T\u00fcrkiye and Morocco. During the 10-month investigation, authorities found that at least EUR18million had been laundered.A couple is currently under investigation in Italy for orchestrating the money\u2026"
-        }
-      ],
-      "published": "Mon, 06 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        6,
-        12,
-        0,
-        0,
-        0,
-        187,
-        0
-      ],
-      "id": "692d7ff7-6089-4d3e-b5bd-6c84d5695347",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Money laundering",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "France",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Italy",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Kosovo",
-          "scheme": "Third states",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust and The Netherlands sign amended seat agreement",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and The Netherlands sign amended seat agreement"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-netherlands-sign-amended-seat-agreement",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/sign-amended-seat-agreement-sitting.jpg",
-      "field_list_image_1": "Signing of seat agreement",
-      "summary": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and the Dutch government have signed an amendment to the Agency\u2019s seat agreement, further strengthening the framework for international judicial cooperation from Eurojust\u2019s headquarters in The Hague. The amendment supports Eurojust\u2019s growing cooperation with countries outside the European Union, including through liaison prosecutors seconded to the Agency. These prosecutors work side by side with their EU counterparts at Eurojust, helping national authorities coordinate swiftly and effectively in serious cross-border crime cases."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Cooperation with third countries is becoming increasingly important to Eurojust\u2019s work. Around 10% of the Agency\u2019s cases already involve a country outside the European Union, underlining the fact that keeping Europe safe increasingly requires judicial cooperation beyond EU borders. Eurojust expects to welcome more liaison prosecutors in the coming years, further reinforcing The Hague as a hub for international criminal justice cooperation.The amended Seat Agreement was signed by Eurojust President Michael Schmid and Secretary-General of the Dutch Ministry of Foreign Affairs Christiaan\u2026"
-        }
-      ],
-      "published": "Fri, 03 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        3,
-        12,
-        0,
-        0,
-        4,
-        184,
-        0
-      ],
-      "id": "68c69372-2c76-4187-b54c-b1c58f4f4aea",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Netherlands",
-          "scheme": "Member State",
           "label": null
         }
       ]
