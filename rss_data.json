@@ -1,6 +1,76 @@
 {
-  "timestamp": "2026-11-24 03:38:43",
+  "timestamp": "2026-11-24 16:44:46",
   "entries": [
+    {
+      "title": "Eurojust-supported joint investigation team investigates illegal timber trafficking",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust-supported joint investigation team investigates illegal timber trafficking"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-joint-investigation-team-investigates-illegal-timber-trafficking"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-joint-investigation-team-investigates-illegal-timber-trafficking",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/timber-pr-web.jpg",
+      "field_list_image_1": "timber",
+      "summary": "French and Dutch authorities have launched an investigation into a complex network of companies and individuals suspected of committing fraud by illegally importing timber from Africa in circumvention of EU regulations. Working through a joint investigation team supported by Eurojust and Europol, authorities searched premises in both countries during two coordinated action days.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "French and Dutch authorities have launched an investigation into a complex network of companies and individuals suspected of committing fraud by illegally importing timber from Africa in circumvention of EU regulations. Working through a joint investigation team supported by Eurojust and Europol, authorities searched premises in both countries during two coordinated action days."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The companies searched during the action days are suspected of creating circumstances that allowed tropical wood from the Central African Republic to be imported into the European Union without meeting the legal requirements set out in the EU Timber Regulation.Given the international nature of the investigation, Dutch and French authorities set up a joint investigation team at Eurojust. The joint investigation team revealed an intricate web of companies allegedly complicit in the fraudulent activities. To search the premises of said companies, two joint action days took place in October and\u2026"
+        }
+      ],
+      "published": "Tue, 24 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        24,
+        12,
+        0,
+        0,
+        1,
+        328,
+        0
+      ],
+      "id": "d289e9a7-a307-4cc8-8208-44c9a141d348",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Fraud",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "France",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Netherlands",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Eurojust gathers experts to exchange knowledge and strengthen cooperation on battlefield evidence",
       "title_detail": {
@@ -582,6 +652,76 @@
       ]
     },
     {
+      "title": "Eurojust-supported investigation shuts down cross-border human trafficking ring",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust-supported investigation shuts down cross-border human trafficking ring"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ro-de-thb-pr-6.11.26.jpg",
+      "field_list_image_1": "Hand",
+      "summary": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The network, allegedly active since 2024 and organised around family ties, is suspected of recruiting women from disadvantaged backgrounds in Romania and transporting them to Germany, where they were forced into prostitution. Two suspects allegedly used the \u2018loverboy\u2019 method, pretending to develop romantic relationships with the women to persuade them to travel abroad. Members of the network allegedly rented properties where the victims were sexually exploited, arranged their transport and advertised their sexual services online. They then took the money earned by the victims. To avoid\u2026"
+        }
+      ],
+      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        6,
+        12,
+        0,
+        0,
+        4,
+        310,
+        0
+      ],
+      "id": "d43c1ff7-3a4c-4a26-b2a4-ca9b6cd4a36d",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Trafficking in human beings",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "Germany",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Romania",
+          "scheme": "Member State",
+          "label": null
+        },
+        {
+          "term": "Europol",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Investigation into large-scale theft of freight shipments containing consumer goods",
       "title_detail": {
         "type": "text/plain",
@@ -662,76 +802,6 @@
         {
           "term": "Romania",
           "scheme": "Member State",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust-supported investigation shuts down cross-border human trafficking ring",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust-supported investigation shuts down cross-border human trafficking ring"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-shuts-down-cross-border-human-trafficking-ring",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/ro-de-thb-pr-6.11.26.jpg",
-      "field_list_image_1": "Hand",
-      "summary": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "With the support of Eurojust, Romanian and German authorities have taken action against a criminal network suspected of trafficking women for sexual exploitation in Germany. Seven suspects were apprehended during an action day on 22 October 2026, with 20 properties searched across both countries. Further arrests were conducted at a later date in follow up to the initial action day. Eurojust supported a joint investigation team that enabled the authorities to gather evidence of the cross-border criminal activity."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The network, allegedly active since 2024 and organised around family ties, is suspected of recruiting women from disadvantaged backgrounds in Romania and transporting them to Germany, where they were forced into prostitution. Two suspects allegedly used the \u2018loverboy\u2019 method, pretending to develop romantic relationships with the women to persuade them to travel abroad. Members of the network allegedly rented properties where the victims were sexually exploited, arranged their transport and advertised their sexual services online. They then took the money earned by the victims. To avoid\u2026"
-        }
-      ],
-      "published": "Fri, 06 Nov 2026 13:00:00 +0100",
-      "published_parsed": [
-        2026,
-        11,
-        6,
-        12,
-        0,
-        0,
-        4,
-        310,
-        0
-      ],
-      "id": "d43c1ff7-3a4c-4a26-b2a4-ca9b6cd4a36d",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Trafficking in human beings",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Europol",
-          "scheme": "Partner",
           "label": null
         }
       ]
@@ -1615,71 +1685,6 @@
       ]
     },
     {
-      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
-      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
-        }
-      ],
-      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        2,
-        12,
-        0,
-        0,
-        4,
-        275,
-        0
-      ],
-      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "IMPNA",
-          "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "Drug traffickers using commercial flights halted by international coalition",
       "title_detail": {
         "type": "text/plain",
@@ -1755,6 +1760,71 @@
         {
           "term": "Europol",
           "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
+      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
+        }
+      ],
+      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        2,
+        12,
+        0,
+        0,
+        4,
+        275,
+        0
+      ],
+      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "IMPNA",
+          "scheme": "Projects",
           "label": null
         }
       ]
@@ -2235,61 +2305,6 @@
       ]
     },
     {
-      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
-      "field_list_image_1": "large group picture",
-      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
-        }
-      ],
-      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        9,
-        18,
-        12,
-        0,
-        0,
-        4,
-        261,
-        0
-      ],
-      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "EUIPO",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
       "title": "New Eurojust report examines implications of landmark ECtHR judgment: Ukraine and the Netherlands v. Russia",
       "title_detail": {
         "type": "text/plain",
@@ -2365,6 +2380,61 @@
         {
           "term": "Ukraine",
           "scheme": "Third states",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Eurojust and EUIPO: partners in strengthening the fight against intellectual property crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/eurojust-and-euipo-partners-strengthening-fight-against-intellectual-property-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/eurojust-and-euipo-partners-in-strengthening-the-fight-against-intellectual-property-crime.jpg",
+      "field_list_image_1": "large group picture",
+      "summary": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Around 60 prosecutors from EU Member States and neighbouring countries gathered in Alicante on 10 and 11 September for the 13th annual workshop of the European Intellectual Property Prosecutors Network (EIPPN), organised by the European Union Intellectual Property Office (EUIPO) in cooperation with Eurojust."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The two-day workshop provided prosecutors working on intellectual property (IP) crime cases with an opportunity to exchange practical experience, discuss recent legislative and jurisprudential developments, and strengthen international judicial cooperation.The workshop was preceded on 9 September by a dedicated inter-regional meeting for prosecutors and practitioners from the Western Balkans, Armenia, Moldova and Ukraine.Eurojust was represented by its Assistant to the National Member for the Netherlands, Ms Petra Gruppelaar, who presented a selection of Eurojust cases involving IP crime and\u2026"
+        }
+      ],
+      "published": "Fri, 18 Sep 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        9,
+        18,
+        12,
+        0,
+        0,
+        4,
+        261,
+        0
+      ],
+      "id": "6df50ffc-9dd8-45e2-843a-d15d7116f997",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "EUIPO",
+          "scheme": "Partner",
           "label": null
         }
       ]
@@ -3385,76 +3455,6 @@
         {
           "term": "WB CRIM JUST",
           "scheme": "Projects",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Eurojust-supported investigation leads to the arrest of an individual suspected of attempting to establish extremist terrorist organisation",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Eurojust-supported investigation leads to the arrest of an individual suspected of attempting to establish extremist terrorist organisation"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-leads-arrest-individual-suspected-attempting-establish"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/eurojust-supported-investigation-leads-arrest-individual-suspected-attempting-establish",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/pr08072026.jpg",
-      "field_list_image_1": "computer screen and keyboard",
-      "summary": "German authorities, following close cooperation with Romanian authorities and supported by Eurojust, have arrested a suspect accused of attempting to establish a foreign right-wing extremist terrorist organisation.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "German authorities, following close cooperation with Romanian authorities and supported by Eurojust, have arrested a suspect accused of attempting to establish a foreign right-wing extremist terrorist organisation."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "A Romanian and Moldovan national was arrested in Baden-W\u00fcrttemberg, Germany, on 30 June 2026 on suspicion of attempting to establish a foreign right-wing extremist terrorist organisation. According to the investigation, the suspect allegedly sought to establish a terrorist group as early as 2023 with the aim of carrying out a \"war of terror\" in Romania and overthrowing the Romanian state.The suspect is alleged to have operated two encrypted messaging channels from Germany to recruit primarily young Romanian followers. Through these channels, the individual allegedly incited members to commit\u2026"
-        }
-      ],
-      "published": "Wed, 08 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        8,
-        12,
-        0,
-        0,
-        2,
-        189,
-        0
-      ],
-      "id": "8d9f927e-e3dd-4d9c-84dc-ca81b28e79af",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Foreign terrorist fighters",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Terrorism",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Germany",
-          "scheme": "Member State",
-          "label": null
-        },
-        {
-          "term": "Romania",
-          "scheme": "Member State",
           "label": null
         }
       ]
