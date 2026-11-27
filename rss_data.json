@@ -1,6 +1,126 @@
 {
-  "timestamp": "2026-11-27 01:19:38",
+  "timestamp": "2026-11-27 15:52:42",
   "entries": [
+    {
+      "title": "Third edition of WBCJ Winter Academy on judicial cooperation tackles environmental crime",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Third edition of WBCJ Winter Academy on judicial cooperation tackles environmental crime"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/third-edition-wbcj-winter-academy-judicial-cooperation-tackles-environmental-crime"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/third-edition-wbcj-winter-academy-judicial-cooperation-tackles-environmental-crime",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/third-edition-of-wbcj-winter-academy-on-judicial-cooperation-tackles-environmental-crime.jpg",
+      "field_list_image_1": "Third edition of WBCJ Winter Academy on judicial cooperation tackles environmental crime",
+      "summary": "The Western Balkans Criminal Justice Project (WBCJ), held the third edition of the Winter Academy on Judicial Cooperation in the Fight Against Organised Crime from 24 to 27 November 2026 in Athens. The meeting was supported by the JITs Network Secretariat at Eurojust. The annual training programme brought together entry-level prosecutors and judges from the Albania, Bosnia and Herzegovina, Montenegro, Kosovo*, North Macedonia and Serbia to strengthen their knowledge of judicial cooperation in cross-border criminal cases.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The Western Balkans Criminal Justice Project (WBCJ), held the third edition of the Winter Academy on Judicial Cooperation in the Fight Against Organised Crime from 24 to 27 November 2026 in Athens. The meeting was supported by the JITs Network Secretariat at Eurojust. The annual training programme brought together entry-level prosecutors and judges from the Albania, Bosnia and Herzegovina, Montenegro, Kosovo*, North Macedonia and Serbia to strengthen their knowledge of judicial cooperation in cross-border criminal cases."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "Following previous editions that focused on cybercrime, online fraud and e-evidence (2024), and money laundering and asset recovery (2025), this year's Academy addressed environmental crime and the challenges it poses to national authorities and international judicial cooperation.Over four days, participants explored how judicial cooperation tools and instruments, such as Joint investigation teams (JITs), can be used to tackle environmental crime and related forms of serious and organised crime, with sessions covering illegal waste trafficking, illegal logging, wildlife trafficking and the\u2026"
+        }
+      ],
+      "published": "Fri, 27 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        27,
+        12,
+        0,
+        0,
+        4,
+        331,
+        0
+      ],
+      "id": "7db39a6e-9121-464e-8903-f4ecc05a1791",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "JITs Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "WB CRIM JUST",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
+      "title": "European Judicial Cybercrime Network holds 21st plenary meeting on digital evidence in a changing landscape",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "European Judicial Cybercrime Network holds 21st plenary meeting on digital evidence in a changing landscape"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-holds-21st-plenary-meeting-digital-evidence-changing"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-holds-21st-plenary-meeting-digital-evidence-changing",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/20261126-ejcn.jpg",
+      "field_list_image_1": "European Judicial Cybercrime Network holds 21st plenary meeting on digital evidence in a changing landscape",
+      "summary": "Electronic evidence is central to virtually every cybercrime investigation, and the rules for obtaining it are changing. Against this backdrop, the European Judicial Cybercrime Network (EJCN) held its 21st Plenary Meeting on 26-27 November at Eurojust\u2019s headquarters. The two-day event focused on how judicial practitioners are adapting to new rules for obtaining e-evidence across borders.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Electronic evidence is central to virtually every cybercrime investigation, and the rules for obtaining it are changing. Against this backdrop, the European Judicial Cybercrime Network (EJCN) held its 21st Plenary Meeting on 26-27 November at Eurojust\u2019s headquarters. The two-day event focused on how judicial practitioners are adapting to new rules for obtaining e-evidence across borders."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The practical use of the new European Production Order Certificate (EPOC) and European Preservation Order Certificate (EPOC-PR) under the e-Evidence framework was examined in detail. Practitioners assessed how Member States are to apply the new instruments and shared first practical experiences. They also looked at how service providers approach data disclosure requests and at how Eurojust can support practitioners.These legal changes are unfolding alongside a broader set of challenges for judicial practitioners. Prosecutors and judges across the EU are confronting online fraud, attacks on\u2026"
+        }
+      ],
+      "published": "Fri, 27 Nov 2026 13:00:00 +0100",
+      "published_parsed": [
+        2026,
+        11,
+        27,
+        12,
+        0,
+        0,
+        4,
+        331,
+        0
+      ],
+      "id": "71abcd3a-fbbb-4581-85d4-99ebfe046151",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Cybercrime",
+          "scheme": "Crime type",
+          "label": null
+        },
+        {
+          "term": "EJOCN",
+          "scheme": "Partner",
+          "label": null
+        }
+      ]
+    },
     {
       "title": "Unlawful attacks on humanitarian and medical workers examined at the 40th meeting of the Genocide Prosecution Network",
       "title_detail": {
@@ -1740,6 +1860,71 @@
       ]
     },
     {
+      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
+        }
+      ],
+      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
+      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
+      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
+      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
+      },
+      "content": [
+        {
+          "type": "application/xhtml+xml",
+          "language": "en",
+          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
+          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
+        }
+      ],
+      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
+      "published_parsed": [
+        2026,
+        10,
+        2,
+        12,
+        0,
+        0,
+        4,
+        275,
+        0
+      ],
+      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "Genocide Prosecution Network",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "Third countries",
+          "scheme": "Partner",
+          "label": null
+        },
+        {
+          "term": "IMPNA",
+          "scheme": "Projects",
+          "label": null
+        }
+      ]
+    },
+    {
       "title": "Drug traffickers using commercial flights halted by international coalition",
       "title_detail": {
         "type": "text/plain",
@@ -1815,71 +2000,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/bringing-african-stakeholders-together-advance-accountability-core-international-crimes",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/bringing-african-stakeholders-together-to-advance-accountability-for-core-international-crimes-through-financial-investigations.png",
-      "field_list_image_1": "Bringing African stakeholders together to advance accountability for core international crimes through financial investigations",
-      "summary": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "The National Authorities Against Impunity project of the Genocide Prosecution Network and Eurojust, in collaboration with the Wayamo Foundation, organised a two-day symposium on \u201cfinancial investigations as a tool to advance accountability for core international crimes\u201d in Mauritius on 29 and 30 September."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "The symposium was a direct follow-up to a high-level study visit by prosecutors from Kenya, Uganda, Mauritius and South Africa to The Hague in April 2026. Representatives from Botswana and Zambia also participated, further enriching the exchange of experiences and expertise.The meeting brought together practitioners from the International Criminal Court, civil society organisations The Sentry and REDRESS, and the Swedish, Dutch and British war crimes units. Participants concluded that financial investigations can generate both lead information and evidence for the investigation and\u2026"
-        }
-      ],
-      "published": "Fri, 02 Oct 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        10,
-        2,
-        12,
-        0,
-        0,
-        4,
-        275,
-        0
-      ],
-      "id": "54dd6c00-3228-4d2e-856c-b33259ad1f48",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Genocide Prosecution Network",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "IMPNA",
-          "scheme": "Projects",
           "label": null
         }
       ]
@@ -3310,136 +3430,6 @@
         {
           "term": "Europol",
           "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Interregional Training on Joint Investigation Teams for EU and Latin American prosecutors",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Interregional Training on Joint Investigation Teams for EU and Latin American prosecutors"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/interregional-training-joint-investigation-teams-eu-and-latin-american-prosecutors"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/interregional-training-joint-investigation-teams-eu-and-latin-american-prosecutors",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/training-on-jits-eu-latin-american-prosecutors.jpeg",
-      "field_list_image_1": "group picture",
-      "summary": "",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": ""
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "On 2-3 July 2026, the EJOCN in cooperation with the JITs Network Secretariat and with the support ofEL PACCTO 2.0, organised an interregional training on Joint Investigation Teams (JITs), held at Eurojust. The training was addressed to specialised organised crime prosecutors from the EU and Latin America to provide capacity building on the use of JITs with a focus on their practical implementation in complex organised crime and drug trafficking investigations between these two regions. The training placed particular emphasis on the interregional dimension of cooperation and the judicial\u2026"
-        }
-      ],
-      "published": "Mon, 13 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        13,
-        12,
-        0,
-        0,
-        0,
-        194,
-        0
-      ],
-      "id": "0f30a041-7293-4e94-9c14-9c514e6e1410",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Drug trafficking",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Organised crime",
-          "scheme": "Crime type",
-          "label": null
-        },
-        {
-          "term": "Joint investigation teams",
-          "scheme": "Judicial cooperation",
-          "label": null
-        },
-        {
-          "term": "EJOCN",
-          "scheme": "Partner",
-          "label": null
-        }
-      ]
-    },
-    {
-      "title": "Western Balkans and EU prosecutors strengthen cooperation against migrant smuggling in Vienna",
-      "title_detail": {
-        "type": "text/plain",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Western Balkans and EU prosecutors strengthen cooperation against migrant smuggling in Vienna"
-      },
-      "links": [
-        {
-          "rel": "alternate",
-          "type": "text/html",
-          "href": "https://www.eurojust.europa.eu/news/western-balkans-and-eu-prosecutors-strengthen-cooperation-against-migrant-smuggling-vienna"
-        }
-      ],
-      "link": "https://www.eurojust.europa.eu/news/western-balkans-and-eu-prosecutors-strengthen-cooperation-against-migrant-smuggling-vienna",
-      "field_list_image": "https://www.eurojust.europa.eu/sites/default/files/assets/images/western-balkans-and-eu-prosecutors-strengthen-cooperation-against-migrant-smuggling-in-vienna-2.jpeg",
-      "field_list_image_1": "Participants to meeting",
-      "summary": "Prosecutors from the Western Balkans and EU Member States met in Vienna, Austria, on 7-8 July 2026 for the third meeting of the Western Balkans Subgroup of the Focus Group on Migrant Smuggling. The meeting brought together practitioners to strengthen judicial cooperation in the fight against migrant smuggling and related forms of organised crime.",
-      "summary_detail": {
-        "type": "text/html",
-        "language": "en",
-        "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-        "value": "Prosecutors from the Western Balkans and EU Member States met in Vienna, Austria, on 7-8 July 2026 for the third meeting of the Western Balkans Subgroup of the Focus Group on Migrant Smuggling. The meeting brought together practitioners to strengthen judicial cooperation in the fight against migrant smuggling and related forms of organised crime."
-      },
-      "content": [
-        {
-          "type": "application/xhtml+xml",
-          "language": "en",
-          "base": "https://www.eurojust.europa.eu/rss/press-releases.xml",
-          "value": "Hosted by the Austrian Ministry of Justice and chaired by the Chair of Eurojust\u2019s Focus Group on Migrant Smuggling, the meeting was organised by the Western Balkan Criminal Justice project at Eurojust, with contributions from the EU4FAST project.Participants exchanged views on recent developments and practical challenges, including judicial cooperation issues, evolving criminal trends and innovative investigative approaches. Discussions focused on the prosecution of cross-border smuggling networks, cooperation through EMPACT, the use of drones for evidence gathering and the growing use of\u2026"
-        }
-      ],
-      "published": "Fri, 10 Jul 2026 14:00:00 +0200",
-      "published_parsed": [
-        2026,
-        7,
-        10,
-        12,
-        0,
-        0,
-        4,
-        191,
-        0
-      ],
-      "id": "03790d94-a50e-48f3-a149-564c2ec6f3de",
-      "guidislink": false,
-      "tags": [
-        {
-          "term": "Third countries",
-          "scheme": "Partner",
-          "label": null
-        },
-        {
-          "term": "WB CRIM JUST",
-          "scheme": "Projects",
           "label": null
         }
       ]
